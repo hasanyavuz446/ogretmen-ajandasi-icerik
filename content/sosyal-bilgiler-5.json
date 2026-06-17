@@ -1,0 +1,457 @@
+{
+  "grade": 5,
+  "subject": "Sosyal Bilgiler",
+  "themes": [
+    {
+      "name": "BİRLİKTE YAŞAMAK",
+      "konu": "Gruplar ve Roller",
+      "start": "2025-09-08",
+      "end": "2025-09-14",
+      "outcomes": [
+        {
+          "code": "SB.5.1.1",
+          "text": "Dâhil olduğu gruplar ve bu gruplardaki rolleri arasındaki ilişkileri çözümleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "BİRLİKTE YAŞAMAK",
+      "konu": "Kültürel Özelliklere Saygı ve Birlikte Yaşama Kültürü",
+      "start": "2025-09-15",
+      "end": "2025-09-21",
+      "outcomes": [
+        {
+          "code": "SB.5.1.2",
+          "text": "Kültürel özelliklere saygı duymanın birlikte yaşamaya etkisini yorumlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "BİRLİKTE YAŞAMAK",
+      "konu": "Kültürel Özelliklere Saygı ve Birlikte Yaşama Kültürü",
+      "start": "2025-09-22",
+      "end": "2025-09-28",
+      "outcomes": [
+        {
+          "code": "SB.5.1.2",
+          "text": "Kültürel özelliklere saygı duymanın birlikte yaşamaya etkisini yorumlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "BİRLİKTE YAŞAMAK",
+      "konu": "Yardımlaşma ve Dayanışma Faaliyetlerinin Toplumsal Birliğe Etkisi",
+      "start": "2025-09-29",
+      "end": "2025-10-05",
+      "outcomes": [
+        {
+          "code": "SB.5.1.3",
+          "text": "Toplumsal birliği sürdürmeye yönelik yardımlaşma ve dayanışma faaliyetlerine katkı sağlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "BİRLİKTE YAŞAMAK",
+      "konu": "Yardımlaşma ve Dayanışma Faaliyetlerinin Toplumsal Birliğe Etkisi",
+      "start": "2025-10-06",
+      "end": "2025-10-12",
+      "outcomes": [
+        {
+          "code": "SB.5.1.3",
+          "text": "Toplumsal birliği sürdürmeye yönelik yardımlaşma ve dayanışma faaliyetlerine katkı sağlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "BİRLİKTE YAŞAMAK             EVİMİZ DÜNYA",
+      "konu": "Yardımlaşma ve Dayanışma Faaliyetlerinin Toplumsal Birliğe Etkisi           Yaşadığı İlin Göreceli Konumu",
+      "start": "2025-10-13",
+      "end": "2025-10-19",
+      "outcomes": [
+        {
+          "code": "SB.5.1.3",
+          "text": "Toplumsal birliği sürdürmeye yönelik yardımlaşma ve dayanışma faaliyetlerine katkı sağlayabilme"
+        },
+        {
+          "code": "SB.5.2.1",
+          "text": "Yaşadığı ilin göreceli konum özelliklerini belirleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "EVİMİZ DÜNYA",
+      "konu": "Yaşadığı İlin Göreceli Konumu",
+      "start": "2025-10-20",
+      "end": "2025-10-26",
+      "outcomes": [
+        {
+          "code": "SB.5.2.1",
+          "text": "Yaşadığı ilin göreceli konum özelliklerini belirleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "EVİMİZ DÜNYA",
+      "konu": "Yaşadığı İlde Doğal ve Beşerî Çevredeki Değişim",
+      "start": "2025-10-27",
+      "end": "2025-11-02",
+      "outcomes": [
+        {
+          "code": "SB.5.2.2",
+          "text": "Yaşadığı ilde doğal ve beşerî çevredeki değişimi neden ve sonuçlarıyla yorumlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "EVİMİZ DÜNYA",
+      "konu": "Yaşadığı İlde Doğal ve Beşerî Çevredeki Değişim",
+      "start": "2025-11-03",
+      "end": "2025-11-09",
+      "outcomes": [
+        {
+          "code": "SB.5.2.2",
+          "text": "Yaşadığı ilde doğal ve beşerî çevredeki değişimi neden ve sonuçlarıyla yorumlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "EVİMİZ DÜNYA",
+      "konu": "Yaşadığı İlde Meydana Gelebilecek Afetlerin Etkileri",
+      "start": "2025-11-17",
+      "end": "2025-11-23",
+      "outcomes": [
+        {
+          "code": "SB.5.2.3",
+          "text": "Yaşadığı ilde meydana gelebilecek afetlerin etkilerini azaltmaya yönelik farkındalık etkinlikleri düzenleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "EVİMİZ DÜNYA",
+      "konu": "Yaşadığı İlde Meydana Gelebilecek Afetlerin Etkileri",
+      "start": "2025-11-24",
+      "end": "2025-11-30",
+      "outcomes": [
+        {
+          "code": "SB.5.2.3",
+          "text": "Yaşadığı ilde meydana gelebilecek afetlerin etkilerini azaltmaya yönelik farkındalık etkinlikleri düzenleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "EVİMİZ DÜNYA",
+      "konu": "Ülkemize Komşu Devletler",
+      "start": "2025-12-01",
+      "end": "2025-12-07",
+      "outcomes": [
+        {
+          "code": "SB.5.2.4",
+          "text": "Ülkemize komşu devletler hakkında bilgi toplayabilme"
+        }
+      ]
+    },
+    {
+      "name": "EVİMİZ DÜNYA",
+      "konu": "Ülkemize Komşu Devletler",
+      "start": "2025-12-08",
+      "end": "2025-12-14",
+      "outcomes": [
+        {
+          "code": "SB.5.2.4",
+          "text": "Ülkemize komşu devletler hakkında bilgi toplayabilme"
+        }
+      ]
+    },
+    {
+      "name": "ORTAK MİRASIMIZ",
+      "konu": "Ortak Miras Ögeleri",
+      "start": "2025-12-15",
+      "end": "2025-12-21",
+      "outcomes": [
+        {
+          "code": "SB.5.3.1",
+          "text": "Yaşadığı ildeki ortak miras ögelerine ilişkin oluşturduğu ürünü paylaşabilme"
+        }
+      ]
+    },
+    {
+      "name": "ORTAK MİRASIMIZ",
+      "konu": "Ortak Miras Ögeleri",
+      "start": "2025-12-22",
+      "end": "2025-12-28",
+      "outcomes": [
+        {
+          "code": "SB.5.3.1",
+          "text": "Yaşadığı ildeki ortak miras ögelerine ilişkin oluşturduğu ürünü paylaşabilme"
+        }
+      ]
+    },
+    {
+      "name": "OCAK",
+      "konu": "Anadolu’nun İlk Yerleşim Yerlerinde Sosyal Hayat",
+      "start": "2025-12-29",
+      "end": "2026-01-04",
+      "outcomes": [
+        {
+          "code": "SB.5.3.2",
+          "text": "Anadolu’da ilk yerleşimleri kuran toplumların sosyal hayatlarına yönelik bakış açısı geliştirebilme"
+        }
+      ]
+    },
+    {
+      "name": "ORTAK MİRASIMIZ",
+      "konu": "Anadolu’nun İlk Yerleşim Yerlerinde Sosyal Hayat",
+      "start": "2026-01-05",
+      "end": "2026-01-11",
+      "outcomes": [
+        {
+          "code": "SB.5.3.2",
+          "text": "Anadolu’da ilk yerleşimleri kuran toplumların sosyal hayatlarına yönelik bakış açısı geliştirebilme"
+        }
+      ]
+    },
+    {
+      "name": "ORTAK MİRASIMIZ",
+      "konu": "Mezopotamya ve Anadolu Medeniyetlerinin Ortak Mirasa Katkıları",
+      "start": "2026-01-12",
+      "end": "2026-01-18",
+      "outcomes": [
+        {
+          "code": "SB.5.3.3",
+          "text": "Mezopotamya ve Anadolu medeniyetlerinin ortak mirasa katkılarını karşılaştırabilme"
+        }
+      ]
+    },
+    {
+      "name": "ORTAK MİRASIMIZ",
+      "konu": "Mezopotamya ve Anadolu Medeniyetlerinin Ortak Mirasa Katkıları",
+      "start": "2026-02-02",
+      "end": "2026-02-08",
+      "outcomes": [
+        {
+          "code": "SB.5.3.3",
+          "text": "Mezopotamya ve Anadolu medeniyetlerinin ortak mirasa katkılarını karşılaştırabilme"
+        }
+      ]
+    },
+    {
+      "name": "ORTAK MİRASIMIZ       YAŞAYAN DEMOKRASİMİZ",
+      "konu": "Mezopotamya ve Anadolu Medeniyetlerinin Ortak Mirasa Katkıları     Demokrasi ve Cumhuriyet Kavramının Temel Nitelikleri",
+      "start": "2026-02-09",
+      "end": "2026-02-15",
+      "outcomes": [
+        {
+          "code": "SB.5.3.3",
+          "text": "Mezopotamya ve Anadolu medeniyetlerinin ortak mirasa katkılarını karşılaştırabilme"
+        },
+        {
+          "code": "SB.5.4.1",
+          "text": "Demokrasi ve cumhuriyet kavramları arasındaki ilişkiyi çözümleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "YAŞAYAN DEMOKRASİMİZ",
+      "konu": "Demokrasi ve Cumhuriyet Kavramının Temel Nitelikleri",
+      "start": "2026-02-16",
+      "end": "2026-02-22",
+      "outcomes": [
+        {
+          "code": "SB.5.4.1",
+          "text": "Demokrasi ve cumhuriyet kavramları arasındaki ilişkiyi çözümleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "YAŞAYAN DEMOKRASİMİZ",
+      "konu": "Etkin Vatandaşın Özellikleri ve Önemi",
+      "start": "2026-02-23",
+      "end": "2026-03-01",
+      "outcomes": [
+        {
+          "code": "SB.5.4.2",
+          "text": "Toplum düzenine etkisi bakımından etkin vatandaş olmanın önemine yönelik çıkarımda bulunabilme"
+        }
+      ]
+    },
+    {
+      "name": "YAŞAYAN DEMOKRASİMİZ",
+      "konu": "Etkin Vatandaşın Özellikleri ve Önemi",
+      "start": "2026-03-02",
+      "end": "2026-03-08",
+      "outcomes": [
+        {
+          "code": "SB.5.4.2",
+          "text": "Toplum düzenine etkisi bakımından etkin vatandaş olmanın önemine yönelik çıkarımda bulunabilme"
+        }
+      ]
+    },
+    {
+      "name": "YAŞAYAN DEMOKRASİMİZ",
+      "konu": "Etkin Vatandaşın Özellikleri ve Önemi",
+      "start": "2026-03-09",
+      "end": "2026-03-15",
+      "outcomes": [
+        {
+          "code": "SB.5.4.3",
+          "text": "Temel insan hak ve sorumluluklarının önemini sorgulayabilme"
+        }
+      ]
+    },
+    {
+      "name": "YAŞAYAN DEMOKRASİMİZ",
+      "konu": "Temel Haklar, Sorumluluklar ve Önemi",
+      "start": "2026-03-23",
+      "end": "2026-03-29",
+      "outcomes": [
+        {
+          "code": "SB.5.4.3",
+          "text": "Temel insan hak ve sorumluluklarının önemini sorgulayabilme"
+        }
+      ]
+    },
+    {
+      "name": "YAŞAYAN DEMOKRASİMİZ",
+      "konu": "İhtiyaç Durumunda veya Sorunların Çözümünde Başvurulabilecek Kurumlar",
+      "start": "2026-03-30",
+      "end": "2026-04-05",
+      "outcomes": [
+        {
+          "code": "SB.5.4.4",
+          "text": "Bir ihtiyaç hâlinde veya sorun karşısında başvuru yapılabilecek kurumlar hakkında bilgi toplayabilme"
+        }
+      ]
+    },
+    {
+      "name": "YAŞAYAN DEMOKRASİMİZ",
+      "konu": "İhtiyaç Durumunda veya  Sorunların Çözümünde  Başvurulabilecek Kurumlar",
+      "start": "2026-04-06",
+      "end": "2026-04-12",
+      "outcomes": [
+        {
+          "code": "SB.5.4.4",
+          "text": "Bir ihtiyaç hâlinde veya sorun karşısında başvuru yapılabilecek kurumlar hakkında bilgi toplayabilme"
+        }
+      ]
+    },
+    {
+      "name": "YAŞAYAN DEMOKRASİMİZ        HAYATIMIZDAKİ EKONOMİ",
+      "konu": "İhtiyaç Durumunda veya Sorunların Çözümünde Başvurulabilecek Kurumlar       Kaynakların Verimli Kullanımı",
+      "start": "2026-04-13",
+      "end": "2026-04-19",
+      "outcomes": [
+        {
+          "code": "SB.5.4.4",
+          "text": "Bir ihtiyaç hâlinde veya sorun karşısında başvuru yapılabilecek kurumlar hakkında bilgi toplayabilme"
+        },
+        {
+          "code": "SB.5.5.1",
+          "text": "Kaynakları verimli kullanmanın doğa ve insanlar üzerindeki etkisini yorumlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "HAYATIMIZDAKİ EKONOMİ",
+      "konu": "Kaynakların Verimli Kullanımı",
+      "start": "2026-04-20",
+      "end": "2026-04-26",
+      "outcomes": [
+        {
+          "code": "SB.5.5.1",
+          "text": "Kaynakları verimli kullanmanın doğa ve insanlar üzerindeki etkisini yorumlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "HAYATIMIZDAKİ EKONOMİ",
+      "konu": "Bütçe Oluşturma",
+      "start": "2026-04-27",
+      "end": "2026-05-03",
+      "outcomes": [
+        {
+          "code": "SB.5.5.2",
+          "text": "İhtiyaç ve isteklerini karşılamak için gerekli bütçeyi planlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "HAYATIMIZDAKİ EKONOMİ",
+      "konu": "Bütçe Oluşturma",
+      "start": "2026-05-04",
+      "end": "2026-05-10",
+      "outcomes": [
+        {
+          "code": "SB.5.5.2",
+          "text": "İhtiyaç ve isteklerini karşılamak için gerekli bütçeyi planlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "HAYATIMIZDAKİ EKONOMİ",
+      "konu": "Yaşadığım İldeki Ekonomik Faaliyetler",
+      "start": "2026-05-11",
+      "end": "2026-05-17",
+      "outcomes": [
+        {
+          "code": "SB.5.5.3",
+          "text": "Yaşadığı ildeki ekonomik faaliyetleri özetleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "HAYATIMIZDAKİ EKONOMİ",
+      "konu": "Yaşadığım İldeki Ekonomik Faaliyetler",
+      "start": "2026-05-18",
+      "end": "2026-05-24",
+      "outcomes": [
+        {
+          "code": "SB.5.5.3",
+          "text": "Yaşadığı ildeki ekonomik faaliyetleri özetleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "HAYATIMIZDAKİ EKONOMİ",
+      "konu": "Yaşadığım İldeki Ekonomik Faaliyetler",
+      "start": "2026-06-01",
+      "end": "2026-06-07",
+      "outcomes": [
+        {
+          "code": "SB.5.5.3",
+          "text": "Yaşadığı ildeki ekonomik faaliyetleri özetleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "TEKNOLOJİ VE SOSYAL BİLİMLER",
+      "konu": "Teknolojik Gelişmelerin Toplum Hayatına Etkileri",
+      "start": "2026-06-08",
+      "end": "2026-06-14",
+      "outcomes": [
+        {
+          "code": "SB.5.6.1",
+          "text": "Teknolojik gelişmelerin toplum hayatına etkilerini tartışabilme"
+        }
+      ]
+    },
+    {
+      "name": "TEKNOLOJİ VE SOSYAL BİLİMLER",
+      "konu": "Teknolojik Ürünlerin Bilinçli Kullanımı",
+      "start": "2026-06-15",
+      "end": "2026-06-21",
+      "outcomes": [
+        {
+          "code": "SB.5.6.2",
+          "text": "Teknolojik ürünlerin bilinçli kullanımının önemine ilişkin ürün oluşturabilme"
+        }
+      ]
+    },
+    {
+      "name": "UYGUNDUR.",
+      "konu": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından planlanır ve uygulanır.",
+      "start": "2026-06-22",
+      "end": "2026-06-28",
+      "outcomes": []
+    }
+  ]
+}

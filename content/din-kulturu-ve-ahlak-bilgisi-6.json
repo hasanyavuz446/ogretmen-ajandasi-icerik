@@ -1,0 +1,427 @@
+{
+  "grade": 6,
+  "subject": "Din Kültürü ve Ahlak Bilgisi",
+  "themes": [
+    {
+      "name": "1. PEYGAMBER VE İLAHİ KİTAP İNANCI",
+      "konu": "İnsanlara Rehber: Peygamber",
+      "start": "2025-09-08",
+      "end": "2025-09-14",
+      "outcomes": [
+        {
+          "code": "DKAB.6.1.1",
+          "text": "Peygamberlerin insanlara rehber olarak gönderilmesi hakkında bilgi toplayabilme"
+        }
+      ]
+    },
+    {
+      "name": "1. PEYGAMBER VE İLAHİ KİTAP İNANCI",
+      "konu": "İnsanlara Rehber: Peygamber",
+      "start": "2025-09-15",
+      "end": "2025-09-21",
+      "outcomes": [
+        {
+          "code": "DKAB.6.1.1",
+          "text": "Peygamberlerin insanlara rehber olarak gönderilmesi hakkında bilgi toplayabilme"
+        }
+      ]
+    },
+    {
+      "name": "1. PEYGAMBER VE İLAHİ KİTAP İNANCI",
+      "konu": "Peygamberlerin İlettiği Mesaj: Vahiy",
+      "start": "2025-09-22",
+      "end": "2025-09-28",
+      "outcomes": [
+        {
+          "code": "DKAB.6.1.2",
+          "text": "Vahiylerin insanlara ilettiği mesajları yapılandırabilme"
+        }
+      ]
+    },
+    {
+      "name": "1. PEYGAMBER VE İLAHİ KİTAP İNANCI",
+      "konu": "Peygamberlerin İlettiği Mesaj: Vahiy",
+      "start": "2025-09-29",
+      "end": "2025-10-05",
+      "outcomes": [
+        {
+          "code": "DKAB.6.1.2",
+          "text": "Vahiylerin insanlara ilettiği mesajları yapılandırabilme"
+        }
+      ]
+    },
+    {
+      "name": "1. PEYGAMBER VE İLAHİ KİTAP İNANCI",
+      "konu": "İlahi Kitaplar",
+      "start": "2025-10-06",
+      "end": "2025-10-12",
+      "outcomes": [
+        {
+          "code": "DKAB.6.1.3",
+          "text": "İlahi kitaplarla ilgili bilgileri çözümleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "1. PEYGAMBER VE İLAHİ KİTAP İNANCI",
+      "konu": "İlahi Kitaplar",
+      "start": "2025-10-13",
+      "end": "2025-10-19",
+      "outcomes": [
+        {
+          "code": "DKAB.6.1.3",
+          "text": "İlahi kitaplarla ilgili bilgileri çözümleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "1. PEYGAMBER VE İLAHİ KİTAP İNANCI",
+      "konu": "Bir Sure Öğreniyorum: Felak Suresi",
+      "start": "2025-10-20",
+      "end": "2025-10-26",
+      "outcomes": [
+        {
+          "code": "DKAB.6.1.4",
+          "text": "Felak suresini ve bu surenin anlamını okuyarak yorumlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "1. PEYGAMBER VE İLAHİ KİTAP İNANCI",
+      "konu": "Oruç ve Kur’an Ayı Ramazan",
+      "start": "2025-11-03",
+      "end": "2025-11-09",
+      "outcomes": [
+        {
+          "code": "DKAB.6.2.1",
+          "text": "Ramazan ayının oruç ve Kur’an ayı olduğunu çözümleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "2. RAMAZAN VE ORUÇ",
+      "konu": "Oruç ve Kur’an Ayı Ramazan",
+      "start": "2025-11-17",
+      "end": "2025-11-23",
+      "outcomes": [
+        {
+          "code": "DKAB.6.2.1",
+          "text": "Ramazan ayının oruç ve Kur’an ayı olduğunu çözümleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "2. RAMAZAN VE ORUÇ",
+      "konu": "Oruç İbadeti",
+      "start": "2025-11-24",
+      "end": "2025-11-30",
+      "outcomes": [
+        {
+          "code": "DKAB.6.2.2",
+          "text": "Oruç ibadeti hakkında bilgi toplayabilme"
+        }
+      ]
+    },
+    {
+      "name": "2. RAMAZAN VE ORUÇ",
+      "konu": "Oruç İbadeti",
+      "start": "2025-12-01",
+      "end": "2025-12-07",
+      "outcomes": [
+        {
+          "code": "DKAB.6.2.2",
+          "text": "Oruç ibadeti hakkında bilgi toplayabilme"
+        }
+      ]
+    },
+    {
+      "name": "2. RAMAZAN VE ORUÇ",
+      "konu": "Oruç İbadetinin İnsana Kazandırdıkları",
+      "start": "2025-12-08",
+      "end": "2025-12-14",
+      "outcomes": [
+        {
+          "code": "DKAB.6.2.3",
+          "text": "Oruç ibadetinin insana kazandırdıklarını yapılandırabilme"
+        }
+      ]
+    },
+    {
+      "name": "2. RAMAZAN VE ORUÇ",
+      "konu": "Oruç İbadetinin İnsana Kazandırdıkları",
+      "start": "2025-12-15",
+      "end": "2025-12-21",
+      "outcomes": [
+        {
+          "code": "DKAB.6.2.4",
+          "text": "İftar duasını ve bu duanın anlamını okuyarak yorumlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "2. RAMAZAN VE ORUÇ",
+      "konu": "Bir Dua Öğreniyorum: İftar Duası",
+      "start": "2025-12-22",
+      "end": "2025-12-28",
+      "outcomes": [
+        {
+          "code": "DKAB.6.2.4",
+          "text": "İftar duasını ve bu duanın anlamını okuyarak yorumlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "3. AHLAKİ DAVRANIŞLAR",
+      "konu": "Doğru Sözlü Olmak",
+      "start": "2025-12-29",
+      "end": "2026-01-04",
+      "outcomes": [
+        {
+          "code": "DKAB.6.3.1",
+          "text": "Doğru sözlü olmayı kendi hayatına yansıtabilme"
+        }
+      ]
+    },
+    {
+      "name": "Din Kültürü ve Ahlak Bilgisi",
+      "start": "2026-01-05",
+      "end": "2026-01-11",
+      "outcomes": []
+    },
+    {
+      "name": "ŞUBAT",
+      "start": "2026-01-12",
+      "end": "2026-01-18",
+      "outcomes": []
+    },
+    {
+      "name": "3. AHLAKİ DAVRANIŞLAR",
+      "konu": "Merhametli Olmak",
+      "start": "2026-02-02",
+      "end": "2026-02-08",
+      "outcomes": [
+        {
+          "code": "DKAB.6.3.2",
+          "text": "Merhametli olmayı yorumlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "3. AHLAKİ DAVRANIŞLAR",
+      "konu": "Adap ve Nezaket Kurallarına Uymak",
+      "start": "2026-02-09",
+      "end": "2026-02-15",
+      "outcomes": [
+        {
+          "code": "DKAB.6.3.3",
+          "text": "Adap ve nezaket kurallarını özetleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "3. AHLAKİ DAVRANIŞLAR",
+      "konu": "Adap ve Nezaket Kurallarına Uymak",
+      "start": "2026-02-16",
+      "end": "2026-02-22",
+      "outcomes": [
+        {
+          "code": "DKAB.6.3.3",
+          "text": "Adap ve nezaket kurallarını özetleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "3. AHLAKİ DAVRANIŞLAR",
+      "konu": "Vatanımızı Sevmek",
+      "start": "2026-02-23",
+      "end": "2026-03-01",
+      "outcomes": [
+        {
+          "code": "DKAB.6.3.5",
+          "text": "Kunut dualarını ve bu duaların anlamlarını okuyarak yorumlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "3. AHLAKİ DAVRANIŞLAR",
+      "konu": "Bir Dua Öğreniyorum: Kunut Duaları",
+      "start": "2026-03-02",
+      "end": "2026-03-08",
+      "outcomes": [
+        {
+          "code": "DKAB.6.3.5",
+          "text": "Kunut dualarını ve bu duaların anlamlarını okuyarak yorumlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "4. PEYGAMBERLİĞİNDEN ÖNCE HZ. MUHAMMED",
+      "konu": "Hz. Muhammed’in (sav) Doğduğu Çevre",
+      "start": "2026-03-09",
+      "end": "2026-03-15",
+      "outcomes": [
+        {
+          "code": "DKAB.6.4.1",
+          "text": "Hz. Muhammed’in (sav) doğduğu çevreyi tarihsel bağlamda değerlendirebilme"
+        }
+      ]
+    },
+    {
+      "name": "4. PEYGAMBERLİĞİNDEN ÖNCE HZ. MUHAMMED",
+      "konu": "Hz. Muhammed’in (sav) Doğduğu Çevre",
+      "start": "2026-03-23",
+      "end": "2026-03-29",
+      "outcomes": [
+        {
+          "code": "DKAB.6.4.1",
+          "text": "Hz. Muhammed’in (sav) doğduğu çevreyi tarihsel bağlamda değerlendirebilme"
+        }
+      ]
+    },
+    {
+      "name": "4. PEYGAMBERLİĞİNDEN ÖNCE HZ. MUHAMMED",
+      "konu": "Hz. Muhammed’in (sav) Ailesi ve Çocukluğu",
+      "start": "2026-03-30",
+      "end": "2026-04-05",
+      "outcomes": [
+        {
+          "code": "DKAB.6.4.2",
+          "text": "Hz. Muhammed’in (sav) çocukluk yılları hakkında verilen bilgileri yorumlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "4. PEYGAMBERLİĞİNDEN ÖNCE HZ. MUHAMMED",
+      "konu": "Hz. Muhammed’in (sav) Ailesi ve Çocukluğu",
+      "start": "2026-04-06",
+      "end": "2026-04-12",
+      "outcomes": [
+        {
+          "code": "DKAB.6.4.2",
+          "text": "Hz. Muhammed’in (sav) çocukluk yılları hakkında verilen bilgileri yorumlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "4. PEYGAMBERLİĞİNDEN ÖNCE HZ. MUHAMMED",
+      "konu": "Hz. Muhammed’in (sav) Gençlik Yılları",
+      "start": "2026-04-13",
+      "end": "2026-04-19",
+      "outcomes": [
+        {
+          "code": "DKAB.6.4.3",
+          "text": "Hz. Muhammed’in (sav) gençlik yılları hakkında verilen bilgileri yapılandırabilme"
+        }
+      ]
+    },
+    {
+      "name": "4. PEYGAMBERLİĞİNDEN ÖNCE HZ. MUHAMMED",
+      "konu": "Hz. Muhammed’in (sav) Gençlik Yılları",
+      "start": "2026-04-20",
+      "end": "2026-04-26",
+      "outcomes": [
+        {
+          "code": "DKAB.6.4.3",
+          "text": "Hz. Muhammed’in (sav) gençlik yılları hakkında verilen bilgileri yapılandırabilme"
+        }
+      ]
+    },
+    {
+      "name": "4. PEYGAMBERLİĞİNDEN ÖNCE HZ. MUHAMMED",
+      "konu": "Bir Sure Öğreniyorum: Fil Suresi",
+      "start": "2026-04-27",
+      "end": "2026-05-03",
+      "outcomes": [
+        {
+          "code": "DKAB.6.4.4",
+          "text": "Fil suresini ve bu surenin anlamını okuyarak yorumlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "5. KÜLTÜRÜMÜZDE DİNİ MOTİFLER",
+      "konu": "Geleneğimizde Dinin İzleri",
+      "start": "2026-05-04",
+      "end": "2026-05-10",
+      "outcomes": [
+        {
+          "code": "DKAB.6.5.1",
+          "text": "Geleneğimizde, edebiyatımızda ve musikimizde dinin izlerini özetleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "5. KÜLTÜRÜMÜZDE DİNİ MOTİFLER",
+      "konu": "Geleneğimizde Dinin İzleri",
+      "start": "2026-05-11",
+      "end": "2026-05-17",
+      "outcomes": [
+        {
+          "code": "DKAB.6.5.1",
+          "text": "Geleneğimizde, edebiyatımızda ve musikimizde dinin izlerini özetleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "5. KÜLTÜRÜMÜZDE DİNİ MOTİFLER",
+      "konu": "Edebiyatımızda Dinin İzleri",
+      "start": "2026-05-18",
+      "end": "2026-05-24",
+      "outcomes": [
+        {
+          "code": "DKAB.6.5.1",
+          "text": "Geleneğimizde, edebiyatımızda ve musikimizde dinin izlerini özetleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "5. KÜLTÜRÜMÜZDE DİNİ MOTİFLER",
+      "konu": "Edebiyatımızda Dinin İzleri",
+      "start": "2026-05-25",
+      "end": "2026-05-31",
+      "outcomes": [
+        {
+          "code": "DKAB.6.5.1",
+          "text": "Geleneğimizde, edebiyatımızda ve musikimizde dinin izlerini özetleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "5. KÜLTÜRÜMÜZDE DİNİ MOTİFLER",
+      "konu": "Musikimizde Dinin İzleri",
+      "start": "2026-06-01",
+      "end": "2026-06-07",
+      "outcomes": [
+        {
+          "code": "DKAB.6.5.1",
+          "text": "Geleneğimizde, edebiyatımızda ve musikimizde dinin izlerini özetleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "5. KÜLTÜRÜMÜZDE DİNİ MOTİFLER",
+      "konu": "Musikimizde Dinin İzleri",
+      "start": "2026-06-08",
+      "end": "2026-06-14",
+      "outcomes": [
+        {
+          "code": "DKAB.6.5.1",
+          "text": "Geleneğimizde, edebiyatımızda ve musikimizde dinin izlerini özetleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "Din Kültürü ve Ahlak Bilgisi",
+      "start": "2026-06-15",
+      "end": "2026-06-21",
+      "outcomes": []
+    },
+    {
+      "name": "UYGUNDUR.",
+      "konu": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından planlanır ve uygulanır.",
+      "start": "2026-06-22",
+      "end": "2026-06-28",
+      "outcomes": []
+    }
+  ]
+}

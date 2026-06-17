@@ -1,0 +1,469 @@
+{
+  "grade": 6,
+  "subject": "Fen Bilimleri",
+  "themes": [
+    {
+      "name": "1. ÜNİTE: GÜNEŞ SİSTEMİ",
+      "konu": "Güneş Sistemi",
+      "start": "2025-09-08",
+      "end": "2025-09-14",
+      "outcomes": [
+        {
+          "code": "FB.6.1.1",
+          "text": "2. Güneş sistemi ile ilgili bilimsel model oluşturabilme"
+        }
+      ]
+    },
+    {
+      "name": "1. ÜNİTE: GÜNEŞ SİSTEMİ",
+      "konu": "Güneş Sistemi",
+      "start": "2025-09-15",
+      "end": "2025-09-21",
+      "outcomes": [
+        {
+          "code": "FB.6.1.1",
+          "text": "2. Güneş sistemi ile ilgili bilimsel model oluşturabilme"
+        },
+        {
+          "code": "FB.6.1.2",
+          "text": "2. Güneş ve Ay tutulması ile ilgili bilimsel model oluşturabilme"
+        }
+      ]
+    },
+    {
+      "name": "1. ÜNİTE: GÜNEŞ SİSTEMİ",
+      "konu": "Güneş ve Ay Tutulmaları",
+      "start": "2025-09-22",
+      "end": "2025-09-28",
+      "outcomes": [
+        {
+          "code": "FB.6.1.2",
+          "text": "2. Güneş ve Ay tutulması ile ilgili bilimsel model oluşturabilme"
+        }
+      ]
+    },
+    {
+      "name": "2. ÜNİTE: KUVVETİN ETKİSİNDE HAREKET",
+      "konu": "Bileşke Kuvvet",
+      "start": "2025-09-29",
+      "end": "2025-10-05",
+      "outcomes": [
+        {
+          "code": "FB.6.2.1",
+          "text": "1. Bir cisme etki eden aynı doğrultudaki kuvvetler arasındaki ilişkileri açıklayarak bileşke kuvveti yapılandırabilme"
+        }
+      ]
+    },
+    {
+      "name": "2. ÜNİTE: KUVVETİN ETKİSİNDE HAREKET",
+      "konu": "Bileşke Kuvvet",
+      "start": "2025-10-06",
+      "end": "2025-10-12",
+      "outcomes": [
+        {
+          "code": "FB.6.2.1",
+          "text": "1. Bir cisme etki eden aynı doğrultudaki kuvvetler arasındaki ilişkileri açıklayarak bileşke kuvveti yapılandırabilme"
+        }
+      ]
+    },
+    {
+      "name": "2. ÜNİTE: KUVVETİN ETKİSİNDE HAREKET",
+      "konu": "Sabit Süratli ve Sabit Hızlı Hareket",
+      "start": "2025-10-13",
+      "end": "2025-10-19",
+      "outcomes": [
+        {
+          "code": "FB.6.2.2",
+          "text": "1. Sürat ve hız kavramlarını karşılaştırabilme"
+        }
+      ]
+    },
+    {
+      "name": "2. ÜNİTE: KUVVETİN ETKİSİNDE HAREKET",
+      "konu": "Sabit Süratli ve Sabit Hızlı Hareket",
+      "start": "2025-10-20",
+      "end": "2025-10-26",
+      "outcomes": [
+        {
+          "code": "FB.6.2.2",
+          "text": "1. Sürat ve hız kavramlarını karşılaştırabilme"
+        },
+        {
+          "code": "FB.6.3.1",
+          "text": "5. İnsanda üremeyi sağlayan yapı ve organlar arasındaki ilişkileri çözümleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "3. ÜNİTE: CANLILARDA SİSTEMLER",
+      "konu": "Bitki ve Hayvanlarda Üreme, Büyüme ve Gelişme",
+      "start": "2025-10-27",
+      "end": "2025-11-02",
+      "outcomes": [
+        {
+          "code": "FB.6.3.1",
+          "text": "5. İnsanda üremeyi sağlayan yapı ve organlar arasındaki ilişkileri çözümleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "3. ÜNİTE: CANLILARDA SİSTEMLER",
+      "konu": "Bitki ve Hayvanlarda Üreme, Büyüme ve Gelişme",
+      "start": "2025-11-03",
+      "end": "2025-11-09",
+      "outcomes": [
+        {
+          "code": "FB.6.3.1",
+          "text": "5. İnsanda üremeyi sağlayan yapı ve organlar arasındaki ilişkileri çözümleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "3. ÜNİTE: CANLILARDA SİSTEMLER",
+      "konu": "Bitki ve Hayvanlarda Üreme, Büyüme ve Gelişme",
+      "start": "2025-11-17",
+      "end": "2025-11-23",
+      "outcomes": [
+        {
+          "code": "FB.6.3.1",
+          "text": "5. İnsanda üremeyi sağlayan yapı ve organlar arasındaki ilişkileri çözümleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "3. ÜNİTE: CANLILARDA SİSTEMLER",
+      "konu": "Denetleyici ve Düzenleyici Sistemler",
+      "start": "2025-11-24",
+      "end": "2025-11-30",
+      "outcomes": [
+        {
+          "code": "FB.6.3.2",
+          "text": "4. Denetleyici ve düzenleyici sistemlerin sağlığı için yapılması gerekenlerle ilgili bilgi toplayabilme"
+        }
+      ]
+    },
+    {
+      "name": "3. ÜNİTE: CANLILARDA SİSTEMLER",
+      "konu": "Denetleyici ve Düzenleyici Sistemler",
+      "start": "2025-12-01",
+      "end": "2025-12-07",
+      "outcomes": [
+        {
+          "code": "FB.6.3.2",
+          "text": "4. Denetleyici ve düzenleyici sistemlerin sağlığı için yapılması gerekenlerle ilgili bilgi toplayabilme"
+        }
+      ]
+    },
+    {
+      "name": "3. ÜNİTE: CANLILARDA SİSTEMLER",
+      "konu": "Denetleyici ve Düzenleyici Sistemler",
+      "start": "2025-12-08",
+      "end": "2025-12-14",
+      "outcomes": [
+        {
+          "code": "FB.6.3.2",
+          "text": "4. Denetleyici ve düzenleyici sistemlerin sağlığı için yapılması gerekenlerle ilgili bilgi toplayabilme"
+        },
+        {
+          "code": "FB.6.4.1",
+          "text": "2. Işığın yansımasında gelen ışın, yansıyan ışın ve yüzeyin normali arasındaki ilişkiyi kanıt kullanarak açıklayabilme"
+        }
+      ]
+    },
+    {
+      "name": "4. ÜNİTE: IŞIĞIN YANSIMASI VE RENKLER",
+      "konu": "Işığın Yansıması",
+      "start": "2025-12-15",
+      "end": "2025-12-21",
+      "outcomes": [
+        {
+          "code": "FB.6.4.1",
+          "text": "2. Işığın yansımasında gelen ışın, yansıyan ışın ve yüzeyin normali arasındaki ilişkiyi kanıt kullanarak açıklayabilme"
+        }
+      ]
+    },
+    {
+      "name": "4. ÜNİTE: IŞIĞIN YANSIMASI VE RENKLER",
+      "konu": "Aynalar",
+      "start": "2025-12-22",
+      "end": "2025-12-28",
+      "outcomes": [
+        {
+          "code": "FB.6.4.2",
+          "text": "1. Günlük hayattaki ayna çeşitlerine ilişkin bilimsel çıkarım yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "OCAK",
+      "konu": "Işığın Soğurulması",
+      "start": "2025-12-29",
+      "end": "2026-01-04",
+      "outcomes": [
+        {
+          "code": "FB.6.4.3",
+          "text": "4. Güneş enerjisinin günlük hayat ve teknolojideki yenilikçi uygulamalarına ilişkin eleştirel düşünebilme"
+        }
+      ]
+    },
+    {
+      "name": "4. ÜNİTE: IŞIĞIN YANSIMASI VE RENKLER",
+      "konu": "Işığın Soğurulması",
+      "start": "2026-01-05",
+      "end": "2026-01-11",
+      "outcomes": [
+        {
+          "code": "FB.6.4.3",
+          "text": "4. Güneş enerjisinin günlük hayat ve teknolojideki yenilikçi uygulamalarına ilişkin eleştirel düşünebilme"
+        }
+      ]
+    },
+    {
+      "name": "4. ÜNİTE: IŞIĞIN YANSIMASI VE RENKLER",
+      "konu": "Işığın Soğurulması",
+      "start": "2026-01-12",
+      "end": "2026-01-18",
+      "outcomes": [
+        {
+          "code": "FB.6.4.3",
+          "text": "4. Güneş enerjisinin günlük hayat ve teknolojideki yenilikçi uygulamalarına ilişkin eleştirel düşünebilme"
+        }
+      ]
+    },
+    {
+      "name": "4. ÜNİTE: IŞIĞIN YANSIMASI VE RENKLERİ",
+      "konu": "Işığın Soğurulması",
+      "start": "2026-02-02",
+      "end": "2026-02-08",
+      "outcomes": [
+        {
+          "code": "FB.6.4.3",
+          "text": "4. Güneş enerjisinin günlük hayat ve teknolojideki yenilikçi uygulamalarına ilişkin eleştirel düşünebilme"
+        },
+        {
+          "code": "FB.6.5.1",
+          "text": "1. Isı etkisiyle maddelerin genleşip büzüleceğine yönelik bilimsel gözleme dayalı tahmin edebilme"
+        }
+      ]
+    },
+    {
+      "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
+      "konu": "Genleşme ve Büzülme",
+      "start": "2026-02-09",
+      "end": "2026-02-15",
+      "outcomes": [
+        {
+          "code": "FB.6.5.1",
+          "text": "1. Isı etkisiyle maddelerin genleşip büzüleceğine yönelik bilimsel gözleme dayalı tahmin edebilme"
+        }
+      ]
+    },
+    {
+      "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
+      "konu": "Maddenin Hâl Değişim Noktaları",
+      "start": "2026-02-16",
+      "end": "2026-02-22",
+      "outcomes": [
+        {
+          "code": "FB.6.5.2",
+          "text": "1. Maddelerin erime, donma ve kaynama noktasını gösteren deney yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
+      "konu": "Maddenin Hâl Değişim Noktaları",
+      "start": "2026-02-23",
+      "end": "2026-03-01",
+      "outcomes": [
+        {
+          "code": "FB.6.5.2",
+          "text": "1. Maddelerin erime, donma ve kaynama noktasını gösteren deney yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
+      "konu": "Yoğunluk",
+      "start": "2026-03-02",
+      "end": "2026-03-08",
+      "outcomes": [
+        {
+          "code": "FB.6.5.3",
+          "text": "3. Suyun katı ve sıvı hâllerine ait yoğunlukları karşılaştırarak bu durumun canlılar için önemi hakkında bilimsel çıkarımlar yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
+      "konu": "Yoğunluk",
+      "start": "2026-03-09",
+      "end": "2026-03-15",
+      "outcomes": [
+        {
+          "code": "FB.6.5.3",
+          "text": "3. Suyun katı ve sıvı hâllerine ait yoğunlukları karşılaştırarak bu durumun canlılar için önemi hakkında bilimsel çıkarımlar yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
+      "konu": "Yoğunluk",
+      "start": "2026-03-23",
+      "end": "2026-03-29",
+      "outcomes": [
+        {
+          "code": "FB.6.5.3",
+          "text": "3. Suyun katı ve sıvı hâllerine ait yoğunlukları karşılaştırarak bu durumun canlılar için önemi hakkında bilimsel çıkarımlar yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
+      "konu": "Yoğunluk",
+      "start": "2026-03-30",
+      "end": "2026-04-05",
+      "outcomes": [
+        {
+          "code": "FB.6.5.3",
+          "text": "3. Suyun katı ve sıvı hâllerine ait yoğunlukları karşılaştırarak bu durumun canlılar için önemi hakkında bilimsel çıkarımlar yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
+      "konu": "Yoğunluk",
+      "start": "2026-04-06",
+      "end": "2026-04-12",
+      "outcomes": [
+        {
+          "code": "FB.6.5.3",
+          "text": "3. Suyun katı ve sıvı hâllerine ait yoğunlukları karşılaştırarak bu durumun canlılar için önemi hakkında bilimsel çıkarımlar yapabilme"
+        },
+        {
+          "code": "FB.6.6.1",
+          "text": "1. Maddelerin elektriği iletme durumlarını gösteren deney yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "6. ÜNİTE: ELEKTRİĞİN İLETİMİ VE DİRENÇ",
+      "konu": "Elektriğin İletimi",
+      "start": "2026-04-13",
+      "end": "2026-04-19",
+      "outcomes": [
+        {
+          "code": "FB.6.6.1",
+          "text": "1. Maddelerin elektriği iletme durumlarını gösteren deney yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "6. ÜNİTE: ELEKTRİĞİN İLETİMİ VE DİRENÇ",
+      "konu": "Elektriksel Direnç ve Bağlı Olduğu Faktörler",
+      "start": "2026-04-20",
+      "end": "2026-04-26",
+      "outcomes": [
+        {
+          "code": "FB.6.6.2",
+          "text": "1. Elektrik devresindeki ampulün parlaklığının bağlı olduğu değişkenleri belirlemeye yönelik deney yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "6. ÜNİTE: ELEKTRİĞİN İLETİMİ VE DİRENÇ",
+      "konu": "Elektriksel Direnç ve Bağlı Olduğu Faktörler",
+      "start": "2026-04-27",
+      "end": "2026-05-03",
+      "outcomes": [
+        {
+          "code": "FB.6.6.2",
+          "text": "1. Elektrik devresindeki ampulün parlaklığının bağlı olduğu değişkenleri belirlemeye yönelik deney yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "6. ÜNİTE: ELEKTRİĞİN İLETİMİ VE DİRENÇ",
+      "konu": "Elektriksel Direnç ve Bağlı Olduğu Faktörler",
+      "start": "2026-05-04",
+      "end": "2026-05-10",
+      "outcomes": [
+        {
+          "code": "FB.6.6.2",
+          "text": "1. Elektrik devresindeki ampulün parlaklığının bağlı olduğu değişkenleri belirlemeye yönelik deney yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "6. ÜNİTE: ELEKTRİĞİN İLETİMİ VE DİRENÇ",
+      "konu": "Elektriksel Direnç ve Bağlı Olduğu Faktörler",
+      "start": "2026-05-11",
+      "end": "2026-05-17",
+      "outcomes": [
+        {
+          "code": "FB.6.6.2",
+          "text": "1. Elektrik devresindeki ampulün parlaklığının bağlı olduğu değişkenleri belirlemeye yönelik deney yapabilme"
+        },
+        {
+          "code": "FB.6.7.1",
+          "text": "2. Biyoçeşitliliği tehdit eden faktörleri araştırma verilerine dayalı tahmin edebilme"
+        }
+      ]
+    },
+    {
+      "name": "7. ÜNİTE: SÜRDÜRÜLEBİLİR YAŞAM VE ETKİLEŞİM",
+      "konu": "Biyoçeşitlilik",
+      "start": "2026-05-18",
+      "end": "2026-05-24",
+      "outcomes": [
+        {
+          "code": "FB.6.7.1",
+          "text": "2. Biyoçeşitliliği tehdit eden faktörleri araştırma verilerine dayalı tahmin edebilme"
+        }
+      ]
+    },
+    {
+      "name": "7. ÜNİTE: SÜRDÜRÜLEBİLİR YAŞAM VE ETKİLEŞİM",
+      "konu": "Biyoçeşitlilik",
+      "start": "2026-06-01",
+      "end": "2026-06-07",
+      "outcomes": [
+        {
+          "code": "FB.6.7.1",
+          "text": "2. Biyoçeşitliliği tehdit eden faktörleri araştırma verilerine dayalı tahmin edebilme"
+        }
+      ]
+    },
+    {
+      "name": "7. ÜNİTE: SÜRDÜRÜLEBİLİR YAŞAM VE ETKİLEŞİM",
+      "konu": "İnsan ve Çevre Etkileşimi",
+      "start": "2026-06-08",
+      "end": "2026-06-14",
+      "outcomes": [
+        {
+          "code": "FB.6.7.2",
+          "text": "2. Yakın çevresindeki veya ülkemizdeki bir çevre problemine ilişkin çözüm üretebilme"
+        }
+      ]
+    },
+    {
+      "name": "7. ÜNİTE: SÜRDÜRÜLEBİLİR YAŞAM VE ETKİLEŞİM",
+      "konu": "İnsan ve Çevre Etkileşimi",
+      "start": "2026-06-15",
+      "end": "2026-06-21",
+      "outcomes": [
+        {
+          "code": "FB.6.7.2",
+          "text": "2. Yakın çevresindeki veya ülkemizdeki bir çevre problemine ilişkin çözüm üretebilme"
+        }
+      ]
+    },
+    {
+      "name": "UYGUNDUR.",
+      "konu": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından planlanır ve uygulanır.",
+      "start": "2026-06-22",
+      "end": "2026-06-28",
+      "outcomes": []
+    }
+  ]
+}

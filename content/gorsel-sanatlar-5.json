@@ -1,0 +1,422 @@
+{
+  "grade": 5,
+  "subject": "Görsel Sanatlar",
+  "themes": [
+    {
+      "name": "HAYAT   VE SANAT",
+      "konu": "Resimleme ve Afiş İlişkisi",
+      "start": "2025-09-08",
+      "end": "2025-09-14",
+      "outcomes": [
+        {
+          "code": "GS.5.1.1",
+          "text": "Edebî metinlerden ve yazı düzeninden faydalanarak çevre duyarlılığını yansıtan resimleme yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "HAYAT VE SANAT",
+      "konu": "Resimleme ve Afiş İlişkisi",
+      "start": "2025-09-15",
+      "end": "2025-09-21",
+      "outcomes": [
+        {
+          "code": "GS.1.1.1",
+          "text": "Çevresindeki nesnelerin renklerini ve geometrik şekillerini algılayabilme"
+        }
+      ]
+    },
+    {
+      "name": "HAYAT VE SANAT",
+      "konu": "Resimleme ve Afiş İlişkisi",
+      "start": "2025-09-22",
+      "end": "2025-09-28",
+      "outcomes": [
+        {
+          "code": "GS.1.1.2",
+          "text": "Farklı renkler ve geometrik şekillerdeki doğal ve yapay malzemelerle kolaj yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "HAYAT VE SANAT",
+      "konu": "Resimleme ve Afiş İlişkisi",
+      "start": "2025-09-29",
+      "end": "2025-10-05",
+      "outcomes": [
+        {
+          "code": "GS.1.1.2",
+          "text": "Farklı renkler ve geometrik şekillerdeki doğal ve yapay malzemelerle kolaj yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "SANATIN GÖRSEL DİLİ",
+      "konu": "Selçuklu ve Osmanlı Sanatında Motifler Asimetrik Denge",
+      "start": "2025-10-06",
+      "end": "2025-10-12",
+      "outcomes": [
+        {
+          "code": "GS.5.2.1",
+          "text": "Anadolu Türk kültürüne ait motiflerdeki görsel mesajları okuyabilme"
+        }
+      ]
+    },
+    {
+      "name": "SANATIN GÖRSEL DİLİ",
+      "konu": "Selçuklu ve Osmanlı Sanatında Motifler Asimetrik Denge",
+      "start": "2025-10-13",
+      "end": "2025-10-19",
+      "outcomes": [
+        {
+          "code": "GS.5.2.2",
+          "text": "Anadolu Türk kültürüne ait estetik motiflerle kolaj yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "SANATIN GÖRSEL DİLİ",
+      "konu": "Selçuklu ve Osmanlı Sanatında Motifler Asimetrik Denge",
+      "start": "2025-10-20",
+      "end": "2025-10-26",
+      "outcomes": [
+        {
+          "code": "GS.5.2.2",
+          "text": "Anadolu Türk kültürüne ait estetik motiflerle kolaj yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "SANATÇILAR VE ESERLERİ",
+      "konu": "Resim Sanatında Minyatür Etkisi Espas, Vurgu ve Hiyerarşi",
+      "start": "2025-11-03",
+      "end": "2025-11-09",
+      "outcomes": [
+        {
+          "code": "GS.5.3.1",
+          "text": "Geleneksel minyatürlerle minyatür etkisi taşıyan çağdaş sanat eserlerini karşılaştırmalı olarak inceleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "SANATÇILAR VE ESERLERİ",
+      "konu": "Resim Sanatında Minyatür Etkisi Espas, Vurgu ve Hiyerarşi",
+      "start": "2025-11-17",
+      "end": "2025-11-23",
+      "outcomes": [
+        {
+          "code": "GS.5.3.1",
+          "text": "Geleneksel minyatürlerle minyatür etkisi taşıyan çağdaş sanat eserlerini karşılaştırmalı olarak inceleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "SANATÇILAR VE ESERLERİ",
+      "konu": "Resim Sanatında Minyatür Etkisi Espas, Vurgu ve Hiyerarşi",
+      "start": "2025-11-24",
+      "end": "2025-11-30",
+      "outcomes": [
+        {
+          "code": "GS.5.3.2",
+          "text": "Tarihî ve mitolojik konularda minyatür özelliği gösteren sanatsal üretim yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "SANATÇILAR VE ESERLERİ",
+      "konu": "Resim Sanatında Minyatür Etkisi Espas, Vurgu ve Hiyerarşi",
+      "start": "2025-12-01",
+      "end": "2025-12-07",
+      "outcomes": [
+        {
+          "code": "GS.5.3.2",
+          "text": "Tarihî ve mitolojik konularda minyatür özelliği gösteren sanatsal üretim yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "SANATÇILAR VE ESERLERİ",
+      "konu": "Resim Sanatında Minyatür Etkisi Espas, Vurgu ve Hiyerarşi",
+      "start": "2025-12-08",
+      "end": "2025-12-14",
+      "outcomes": [
+        {
+          "code": "GS.5.3.2",
+          "text": "Tarihî ve mitolojik konularda minyatür özelliği gösteren sanatsal üretim yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "ÇİZİM VE GÖRSEL İFADE",
+      "konu": "Doğal Nesnelerin Doku Özellikleri Işığın Doku Algısına Etkisi Desende Tonlama ve Gölgelendirme",
+      "start": "2025-12-15",
+      "end": "2025-12-21",
+      "outcomes": [
+        {
+          "code": "GS.5.4.1",
+          "text": "Doğal nesnelerin doku özelliklerini yansıtan desen yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "ÇİZİM VE GÖRSEL İFADE",
+      "konu": "Doğal Nesnelerin Doku Özellikleri Işığın Doku Algısına Etkisi Desende Tonlama ve Gölgelendirme",
+      "start": "2025-12-22",
+      "end": "2025-12-28",
+      "outcomes": [
+        {
+          "code": "GS.5.4.1",
+          "text": "Doğal nesnelerin doku özelliklerini yansıtan desen yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "ÇİZİM VE GÖRSEL İFADE",
+      "konu": "Doğal Nesnelerin Doku Özellikleri Işığın Doku Algısına Etkisi Desende Tonlama ve Gölgelendirme",
+      "start": "2025-12-29",
+      "end": "2026-01-04",
+      "outcomes": [
+        {
+          "code": "GS.5.4.1",
+          "text": "Doğal nesnelerin doku özelliklerini yansıtan desen yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "ÇİZİM VE GÖRSEL İFADE",
+      "konu": "Doğal Nesnelerin Doku Özellikleri Işığın Doku Algısına Etkisi Desende Tonlama ve Gölgelendirme",
+      "start": "2026-01-05",
+      "end": "2026-01-11",
+      "outcomes": [
+        {
+          "code": "GS.5.4.1",
+          "text": "Doğal nesnelerin doku özelliklerini yansıtan desen yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "ÇİZİM VE GÖRSEL İFADE",
+      "konu": "Doğal Nesnelerin Doku Özellikleri Işığın Doku Algısına Etkisi Desende Tonlama ve Gölgelendirme",
+      "start": "2026-01-12",
+      "end": "2026-01-18",
+      "outcomes": [
+        {
+          "code": "GS.5.4.1",
+          "text": "Doğal nesnelerin doku özelliklerini yansıtan desen yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "RENK VE ESTETİK",
+      "konu": "Doğal ve Yapay Nesnelerin Doku Özellikleri İki Renkli Natürmort",
+      "start": "2026-02-02",
+      "end": "2026-02-08",
+      "outcomes": [
+        {
+          "code": "GS.5.5.1",
+          "text": "Doğal ve yapay nesnelerin doku özelliklerini yansıtan iki renkli natürmort yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "RENK VE ESTETİK",
+      "konu": "Doğal ve Yapay Nesnelerin Doku Özellikleri İki Renkli Natürmort",
+      "start": "2026-02-09",
+      "end": "2026-02-15",
+      "outcomes": [
+        {
+          "code": "GS.5.5.1",
+          "text": "Doğal ve yapay nesnelerin doku özelliklerini yansıtan iki renkli natürmort yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "RENK VE ESTETİK",
+      "konu": "Doğal ve Yapay Nesnelerin Doku Özellikleri İki Renkli Natürmort",
+      "start": "2026-02-16",
+      "end": "2026-02-22",
+      "outcomes": [
+        {
+          "code": "GS.5.5.1",
+          "text": "Doğal ve yapay nesnelerin doku özelliklerini yansıtan iki renkli natürmort yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "RENK VE ESTETİK",
+      "konu": "Doğal ve Yapay Nesnelerin Doku Özellikleri İki Renkli Natürmort",
+      "start": "2026-02-23",
+      "end": "2026-03-01",
+      "outcomes": [
+        {
+          "code": "GS.5.5.1",
+          "text": "Doğal ve yapay nesnelerin doku özelliklerini yansıtan iki renkli natürmort yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "RENK VE ESTETİK",
+      "konu": "Doğal ve Yapay Nesnelerin Doku Özellikleri İki Renkli Natürmort",
+      "start": "2026-03-02",
+      "end": "2026-03-08",
+      "outcomes": [
+        {
+          "code": "GS.5.5.1",
+          "text": "Doğal ve yapay nesnelerin doku özelliklerini yansıtan iki renkli natürmort yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "Görsel Sanatlar",
+      "konu": "Türk Dünyası ve Toplulukları Haftası",
+      "start": "2026-03-09",
+      "end": "2026-03-15",
+      "outcomes": []
+    },
+    {
+      "name": "Görsel Sanatlar",
+      "start": "2026-03-23",
+      "end": "2026-03-29",
+      "outcomes": []
+    },
+    {
+      "name": "MİLLÎ DEĞERLER VE SANAT",
+      "konu": "Millî Bayramlara İlişkin Değerler ve Geleneksel Çocuk Oyunları",
+      "start": "2026-03-30",
+      "end": "2026-04-05",
+      "outcomes": [
+        {
+          "code": "GS.5.6.1",
+          "text": "Millî bayramlarla ilgili değerleri geleneksel çocuk oyunlarıyla ilişkilendirerek sanatsal üretim yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "MİLLÎ DEĞERLER VE SANAT",
+      "konu": "Millî Bayramlara İlişkin Değerler ve Geleneksel Çocuk Oyunları",
+      "start": "2026-04-06",
+      "end": "2026-04-12",
+      "outcomes": [
+        {
+          "code": "GS.5.6.1",
+          "text": "Millî bayramlarla ilgili değerleri geleneksel çocuk oyunlarıyla ilişkilendirerek sanatsal üretim yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "MİLLÎ DEĞERLER VE SANAT",
+      "konu": "Millî Bayramlara İlişkin Değerler ve Geleneksel Çocuk Oyunları",
+      "start": "2026-04-13",
+      "end": "2026-04-19",
+      "outcomes": [
+        {
+          "code": "GS.5.6.1",
+          "text": "Millî bayramlarla ilgili değerleri geleneksel çocuk oyunlarıyla ilişkilendirerek sanatsal üretim yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "MİLLÎ DEĞERLER VE SANAT",
+      "konu": "Millî Bayramlara İlişkin Değerler ve Geleneksel Çocuk Oyunları",
+      "start": "2026-04-20",
+      "end": "2026-04-26",
+      "outcomes": [
+        {
+          "code": "GS.5.6.1",
+          "text": "Millî bayramlarla ilgili değerleri geleneksel çocuk oyunlarıyla ilişkilendirerek sanatsal üretim yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "Görsel Sanatlar",
+      "start": "2026-04-27",
+      "end": "2026-05-03",
+      "outcomes": []
+    },
+    {
+      "name": "MÜZE VE KÜLTÜR",
+      "konu": "Sergileme Mekânlarına Göre Müze Türleri Arkeoloji Müzesi",
+      "start": "2026-05-04",
+      "end": "2026-05-10",
+      "outcomes": [
+        {
+          "code": "GS.5.7.1",
+          "text": "Sergileme mekânlarına göre müzeleri karşılaştırabilme"
+        }
+      ]
+    },
+    {
+      "name": "MÜZE VE KÜLTÜR",
+      "konu": "Sergileme Mekânlarına Göre Müze Türleri Arkeoloji Müzesi",
+      "start": "2026-05-11",
+      "end": "2026-05-17",
+      "outcomes": [
+        {
+          "code": "GS.5.7.1",
+          "text": "Sergileme mekânlarına göre müzeleri karşılaştırabilme"
+        }
+      ]
+    },
+    {
+      "name": "MÜZE VE KÜLTÜR",
+      "konu": "Sergileme Mekânlarına Göre Müze Türleri Arkeoloji Müzesi",
+      "start": "2026-05-18",
+      "end": "2026-05-24",
+      "outcomes": [
+        {
+          "code": "GS.5.7.2",
+          "text": "Okulunda arkeoloji müzesi yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "MÜZE VE KÜLTÜR",
+      "konu": "Sergileme Mekânlarına Göre Müze Türleri Arkeoloji Müzesi",
+      "start": "2026-05-25",
+      "end": "2026-05-31",
+      "outcomes": [
+        {
+          "code": "GS.5.7.2",
+          "text": "Okulunda arkeoloji müzesi yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "MÜZE VE KÜLTÜR",
+      "konu": "Sergileme Mekânlarına Göre Müze Türleri Arkeoloji Müzesi",
+      "start": "2026-06-01",
+      "end": "2026-06-07",
+      "outcomes": [
+        {
+          "code": "GS.5.7.2",
+          "text": "Okulunda arkeoloji müzesi yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "MÜZE VE KÜLTÜR",
+      "konu": "Sergileme Mekânlarına Göre Müze Türleri Arkeoloji Müzesi",
+      "start": "2026-06-08",
+      "end": "2026-06-14",
+      "outcomes": [
+        {
+          "code": "GS.5.7.2",
+          "text": "Okulunda arkeoloji müzesi yapabilme"
+        }
+      ]
+    },
+    {
+      "name": "Görsel Sanatlar",
+      "start": "2026-06-15",
+      "end": "2026-06-21",
+      "outcomes": []
+    },
+    {
+      "name": "UYGUNDUR.",
+      "konu": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından planlanır ve uygulanır.",
+      "start": "2026-06-22",
+      "end": "2026-06-28",
+      "outcomes": []
+    }
+  ]
+}

@@ -1,0 +1,1191 @@
+{
+  "grade": 6,
+  "subject": "İngilizce",
+  "themes": [
+    {
+      "name": "İngilizce",
+      "konu": "Unit 1: Life",
+      "start": "2025-09-08",
+      "end": "2025-09-14",
+      "outcomes": [
+        {
+          "code": "E6.1.L1",
+          "text": "Students will be able to recognize phrases, words, and expressions related to repeated actions"
+        },
+        {
+          "code": "E6.1.SI1",
+          "text": "Students will be able to talk about repeated actions"
+        },
+        {
+          "code": "E6.1.SP1",
+          "text": "Students will be able to use a series of phrases and simple expressions to express their repeated actions"
+        },
+        {
+          "code": "E6.1.SP2",
+          "text": "Students will be able to tell the time and dates"
+        },
+        {
+          "code": "E6.1.R1",
+          "text": "Students will be able to understand short and simple texts, such as personal narratives about repeated actions"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 1: Life",
+      "start": "2025-09-15",
+      "end": "2025-09-21",
+      "outcomes": [
+        {
+          "code": "E6.1.L1",
+          "text": "Students will be able to recognize phrases, words, and expressions related to repeated actions"
+        },
+        {
+          "code": "E6.1.SI1",
+          "text": "Students will be able to talk about repeated actions"
+        },
+        {
+          "code": "E6.1.SP1",
+          "text": "Students will be able to use a series of phrases and simple expressions to express their repeated actions"
+        },
+        {
+          "code": "E6.1.SP2",
+          "text": "Students will be able to tell the time and dates"
+        },
+        {
+          "code": "E6.1.R1",
+          "text": "Students will be able to understand short and simple texts, such as personal narratives about repeated actions"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 1: Life",
+      "start": "2025-09-22",
+      "end": "2025-09-28",
+      "outcomes": [
+        {
+          "code": "E6.1.L1",
+          "text": "Students will be able to recognize phrases, words, and expressions related to repeated actions"
+        },
+        {
+          "code": "E6.1.SI1",
+          "text": "Students will be able to talk about repeated actions"
+        },
+        {
+          "code": "E6.1.SP1",
+          "text": "Students will be able to use a series of phrases and simple expressions to express their repeated actions"
+        },
+        {
+          "code": "E6.1.SP2",
+          "text": "Students will be able to tell the time and dates"
+        },
+        {
+          "code": "E6.1.R1",
+          "text": "Students will be able to understand short and simple texts, such as personal narratives about repeated actions"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 1: Life",
+      "start": "2025-09-29",
+      "end": "2025-10-05",
+      "outcomes": [
+        {
+          "code": "E6.1.L1",
+          "text": "Students will be able to recognize phrases, words, and expressions related to repeated actions"
+        },
+        {
+          "code": "E6.1.SI1",
+          "text": "Students will be able to talk about repeated actions"
+        },
+        {
+          "code": "E6.1.SP1",
+          "text": "Students will be able to use a series of phrases and simple expressions to express their repeated actions"
+        },
+        {
+          "code": "E6.1.SP2",
+          "text": "Students will be able to tell the time and dates"
+        },
+        {
+          "code": "E6.1.R1",
+          "text": "Students will be able to understand short and simple texts, such as personal narratives about repeated actions"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 2: Yummy Breakfast",
+      "start": "2025-10-06",
+      "end": "2025-10-12",
+      "outcomes": [
+        {
+          "code": "E6.2.L1",
+          "text": "Students will be able to identify the names of different food in an oral text"
+        },
+        {
+          "code": "E6.2.SI1",
+          "text": "Students will be able to ask people about their food preferences"
+        },
+        {
+          "code": "E6.2.SP1",
+          "text": "Students will be able to express their opinions about the food they like and don’t like"
+        },
+        {
+          "code": "E6.2.R1",
+          "text": "Students will be able to understand short and simple texts about food and preferences"
+        },
+        {
+          "code": "E6.2.R2",
+          "text": "Students will be able to understand the label of food products"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 2: Yummy Breakfast",
+      "start": "2025-10-13",
+      "end": "2025-10-19",
+      "outcomes": [
+        {
+          "code": "E6.2.L1",
+          "text": "Students will be able to identify the names of different food in an oral text"
+        },
+        {
+          "code": "E6.2.SI1",
+          "text": "Students will be able to ask people about their food preferences"
+        },
+        {
+          "code": "E6.2.SP1",
+          "text": "Students will be able to express their opinions about the food they like and don’t like"
+        },
+        {
+          "code": "E6.2.R1",
+          "text": "Students will be able to understand short and simple texts about food and preferences"
+        },
+        {
+          "code": "E6.2.R2",
+          "text": "Students will be able to understand the label of food products"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 2: Yummy Breakfast",
+      "start": "2025-10-20",
+      "end": "2025-10-26",
+      "outcomes": [
+        {
+          "code": "E6.2.L1",
+          "text": "Students will be able to identify the names of different food in an oral text"
+        },
+        {
+          "code": "E6.2.SI1",
+          "text": "Students will be able to ask people about their food preferences"
+        },
+        {
+          "code": "E6.2.SP1",
+          "text": "Students will be able to express their opinions about the food they like and don’t like"
+        },
+        {
+          "code": "E6.2.R1",
+          "text": "Students will be able to understand short and simple texts about food and preferences"
+        },
+        {
+          "code": "E6.2.R2",
+          "text": "Students will be able to understand the label of food products"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 2: Yummy Breakfast",
+      "start": "2025-10-27",
+      "end": "2025-11-02",
+      "outcomes": [
+        {
+          "code": "E6.2.L1",
+          "text": "Students will be able to identify the names of different food in an oral text"
+        },
+        {
+          "code": "E6.2.SI1",
+          "text": "Students will be able to ask people about their food preferences"
+        },
+        {
+          "code": "E6.2.SP1",
+          "text": "Students will be able to express their opinions about the food they like and don’t like"
+        },
+        {
+          "code": "E6.2.R1",
+          "text": "Students will be able to understand short and simple texts about food and preferences"
+        },
+        {
+          "code": "E6.2.R2",
+          "text": "Students will be able to understand the label of food products"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 3: Downtown",
+      "start": "2025-11-03",
+      "end": "2025-11-09",
+      "outcomes": [
+        {
+          "code": "E6.3.L1",
+          "text": "Students will be able to identify expressions and phrases related to present events"
+        },
+        {
+          "code": "E6.3.L2",
+          "text": "Students will be able to pick up the expressions in a dialogue comparing things. Spoken Interaction"
+        },
+        {
+          "code": "E6.3.SI1",
+          "text": "Students will be able to ask people questions about what they are doing at the moment"
+        },
+        {
+          "code": "E6.3.SI2",
+          "text": "Students will be able to ask people to compare things"
+        },
+        {
+          "code": "E6.3.SP1",
+          "text": "Students will be able to describe people doing different actions"
+        },
+        {
+          "code": "E6.3.SP2",
+          "text": "Students will be able to make comparisons between two things"
+        },
+        {
+          "code": "E6.3.R1",
+          "text": "Students will be able to understand visually supported, short and simple texts"
+        }
+      ]
+    },
+    {
+      "name": "ARA TATİL",
+      "start": "2025-11-10",
+      "end": "2025-11-16",
+      "outcomes": []
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 3: Downtown",
+      "start": "2025-11-17",
+      "end": "2025-11-23",
+      "outcomes": [
+        {
+          "code": "E6.3.L1",
+          "text": "Students will be able to identify expressions and phrases related to present events"
+        },
+        {
+          "code": "E6.3.L2",
+          "text": "Students will be able to pick up the expressions in a dialogue comparing things. Spoken Interaction"
+        },
+        {
+          "code": "E6.3.SI1",
+          "text": "Students will be able to ask people questions about what they are doing at the moment"
+        },
+        {
+          "code": "E6.3.SI2",
+          "text": "Students will be able to ask people to compare things"
+        },
+        {
+          "code": "E6.3.SP1",
+          "text": "Students will be able to describe people doing different actions"
+        },
+        {
+          "code": "E6.3.SP2",
+          "text": "Students will be able to make comparisons between two things"
+        },
+        {
+          "code": "E6.3.R1",
+          "text": "Students will be able to understand visually supported, short and simple texts"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 3: Downtown",
+      "start": "2025-11-24",
+      "end": "2025-11-30",
+      "outcomes": [
+        {
+          "code": "E6.3.L1",
+          "text": "Students will be able to identify expressions and phrases related to present events"
+        },
+        {
+          "code": "E6.3.L2",
+          "text": "Students will be able to pick up the expressions in a dialogue comparing things. Spoken Interaction"
+        },
+        {
+          "code": "E6.3.SI1",
+          "text": "Students will be able to ask people questions about what they are doing at the moment"
+        },
+        {
+          "code": "E6.3.SI2",
+          "text": "Students will be able to ask people to compare things"
+        },
+        {
+          "code": "E6.3.SP1",
+          "text": "Students will be able to describe people doing different actions"
+        },
+        {
+          "code": "E6.3.SP2",
+          "text": "Students will be able to make comparisons between two things"
+        },
+        {
+          "code": "E6.3.R1",
+          "text": "Students will be able to understand visually supported, short and simple texts"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 4: Weather and Emotions",
+      "start": "2025-12-01",
+      "end": "2025-12-07",
+      "outcomes": [
+        {
+          "code": "E6.4.L1",
+          "text": "Students will be able to pick up specific information from short oral texts about weather conditions and emotions. Spoken Interaction"
+        },
+        {
+          "code": "E6.4.SI1",
+          "text": "Students will be able to ask people about the weather. Spoken Production"
+        },
+        {
+          "code": "E6.4.SP1",
+          "text": "Students will be able to talk about the weather and their emotions in a simple way. Reading"
+        },
+        {
+          "code": "E6.4.R1",
+          "text": "Students will be able to understand short and simple texts about the weather, weather conditions and emotios"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 4: Weather and Emotions",
+      "start": "2025-12-08",
+      "end": "2025-12-14",
+      "outcomes": [
+        {
+          "code": "E6.4.L1",
+          "text": "Students will be able to pick up specific information from short oral texts about weather conditions and emotions. Spoken Interaction"
+        },
+        {
+          "code": "E6.4.SI1",
+          "text": "Students will be able to ask people about the weather. Spoken Production"
+        },
+        {
+          "code": "E6.4.SP1",
+          "text": "Students will be able to talk about the weather and their emotions in a simple way. Reading"
+        },
+        {
+          "code": "E6.4.R1",
+          "text": "Students will be able to understand short and simple texts about the weather, weather conditions and emotios"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 4: Weather and Emotions",
+      "start": "2025-12-15",
+      "end": "2025-12-21",
+      "outcomes": [
+        {
+          "code": "E6.4.L1",
+          "text": "Students will be able to pick up specific information from short oral texts about weather conditions and emotions. Spoken Interaction"
+        },
+        {
+          "code": "E6.4.SI1",
+          "text": "Students will be able to ask people about the weather. Spoken Production"
+        },
+        {
+          "code": "E6.4.SP1",
+          "text": "Students will be able to talk about the weather and their emotions in a simple way. Reading"
+        },
+        {
+          "code": "E6.4.R1",
+          "text": "Students will be able to understand short and simple texts about the weather, weather conditions and emotios"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 4: Weather and Emotions",
+      "start": "2025-12-22",
+      "end": "2025-12-28",
+      "outcomes": [
+        {
+          "code": "E6.4.L1",
+          "text": "Students will be able to pick up specific information from short oral texts about weather conditions and emotions. Spoken Interaction"
+        },
+        {
+          "code": "E6.4.SI1",
+          "text": "Students will be able to ask people about the weather. Spoken Production"
+        },
+        {
+          "code": "E6.4.SP1",
+          "text": "Students will be able to talk about the weather and their emotions in a simple way. Reading"
+        },
+        {
+          "code": "E6.4.R1",
+          "text": "Students will be able to understand short and simple texts about the weather, weather conditions and emotios"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 5: At the Fair",
+      "start": "2025-12-29",
+      "end": "2026-01-04",
+      "outcomes": [
+        {
+          "code": "E6.5.L1",
+          "text": "Students will be able to recognize the words related to the expression of emotions. Spoken Interaction"
+        },
+        {
+          "code": "E6.5.SI1",
+          "text": "Students will be able to talk about and express the feelings and personal opinions about places and things"
+        },
+        {
+          "code": "E6.5.SP1",
+          "text": "Students will be able to use various simple expressions to state the feelings and personal opinions about places and things"
+        },
+        {
+          "code": "E6.5.R1",
+          "text": "Students will be able to understand general meaning in simple texts related to the feelings and personal opinions about places and things"
+        },
+        {
+          "code": "E6.5.R2",
+          "text": "Students will be able to read specific information on a poster about a certain place"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 5: At the Fair",
+      "start": "2026-01-05",
+      "end": "2026-01-11",
+      "outcomes": [
+        {
+          "code": "E6.5.L1",
+          "text": "Students will be able to recognize the words related to the expression of emotions. Spoken Interaction"
+        },
+        {
+          "code": "E6.5.SI1",
+          "text": "Students will be able to talk about and express the feelings and personal opinions about places and things"
+        },
+        {
+          "code": "E6.5.SP1",
+          "text": "Students will be able to use various simple expressions to state the feelings and personal opinions about places and things"
+        },
+        {
+          "code": "E6.5.R1",
+          "text": "Students will be able to understand general meaning in simple texts related to the feelings and personal opinions about places and things"
+        },
+        {
+          "code": "E6.5.R2",
+          "text": "Students will be able to read specific information on a poster about a certain place"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 5: At the Fair",
+      "start": "2026-01-12",
+      "end": "2026-01-18",
+      "outcomes": [
+        {
+          "code": "E6.5.L1",
+          "text": "Students will be able to recognize the words related to the expression of emotions. Spoken Interaction"
+        },
+        {
+          "code": "E6.5.SI1",
+          "text": "Students will be able to talk about and express the feelings and personal opinions about places and things"
+        },
+        {
+          "code": "E6.5.SP1",
+          "text": "Students will be able to use various simple expressions to state the feelings and personal opinions about places and things"
+        },
+        {
+          "code": "E6.5.R1",
+          "text": "Students will be able to understand general meaning in simple texts related to the feelings and personal opinions about places and things"
+        },
+        {
+          "code": "E6.5.R2",
+          "text": "Students will be able to read specific information on a poster about a certain place"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "start": "2026-01-19",
+      "end": "2026-01-25",
+      "outcomes": []
+    },
+    {
+      "name": "İngilizce",
+      "start": "2026-01-26",
+      "end": "2026-02-01",
+      "outcomes": []
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 6: Occupations",
+      "start": "2026-02-02",
+      "end": "2026-02-08",
+      "outcomes": [
+        {
+          "code": "E6.6.L1",
+          "text": "Students will be able to understand familiar words and simple phrases concerning people’s occupations in clear oral texts"
+        },
+        {
+          "code": "E6.6.L2",
+          "text": "Students will be able to understand the time, days and dates. Spoken Interaction"
+        },
+        {
+          "code": "E6.6.SI1",
+          "text": "Students will be able to talk about occupations. Spoken Production"
+        },
+        {
+          "code": "E6.6.SP1",
+          "text": "Students will be able to ask personal questions"
+        },
+        {
+          "code": "E6.6.SP2",
+          "text": "Students will be able to state the dates. Reading"
+        },
+        {
+          "code": "E6.6.R1",
+          "text": "Students will be able to understand familiar words and simple sentences about occupations and the dates. Writing"
+        },
+        {
+          "code": "E6.6.W1",
+          "text": "Students will be able to produce a piece of writing about occupations and the dates"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 6: Occupations",
+      "start": "2026-02-09",
+      "end": "2026-02-15",
+      "outcomes": [
+        {
+          "code": "E6.6.L1",
+          "text": "Students will be able to understand familiar words and simple phrases concerning people’s occupations in clear oral texts"
+        },
+        {
+          "code": "E6.6.L2",
+          "text": "Students will be able to understand the time, days and dates. Spoken Interaction"
+        },
+        {
+          "code": "E6.6.SI1",
+          "text": "Students will be able to talk about occupations. Spoken Production"
+        },
+        {
+          "code": "E6.6.SP1",
+          "text": "Students will be able to ask personal questions"
+        },
+        {
+          "code": "E6.6.SP2",
+          "text": "Students will be able to state the dates. Reading"
+        },
+        {
+          "code": "E6.6.R1",
+          "text": "Students will be able to understand familiar words and simple sentences about occupations and the dates. Writing"
+        },
+        {
+          "code": "E6.6.W1",
+          "text": "Students will be able to produce a piece of writing about occupations and the dates"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 6: Occupations",
+      "start": "2026-02-16",
+      "end": "2026-02-22",
+      "outcomes": [
+        {
+          "code": "E6.6.L1",
+          "text": "Students will be able to understand familiar words and simple phrases concerning people’s occupations in clear oral texts"
+        },
+        {
+          "code": "E6.6.L2",
+          "text": "Students will be able to understand the time, days and dates. Spoken Interaction"
+        },
+        {
+          "code": "E6.6.SI1",
+          "text": "Students will be able to talk about occupations. Spoken Production"
+        },
+        {
+          "code": "E6.6.SP1",
+          "text": "Students will be able to ask personal questions"
+        },
+        {
+          "code": "E6.6.SP2",
+          "text": "Students will be able to state the dates. Reading"
+        },
+        {
+          "code": "E6.6.R1",
+          "text": "Students will be able to understand familiar words and simple sentences about occupations and the dates. Writing"
+        },
+        {
+          "code": "E6.6.W1",
+          "text": "Students will be able to produce a piece of writing about occupations and the dates"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 6: Occupations",
+      "start": "2026-02-23",
+      "end": "2026-03-01",
+      "outcomes": [
+        {
+          "code": "E6.6.L1",
+          "text": "Students will be able to understand familiar words and simple phrases concerning people’s occupations in clear oral texts"
+        },
+        {
+          "code": "E6.6.L2",
+          "text": "Students will be able to understand the time, days and dates. Spoken Interaction"
+        },
+        {
+          "code": "E6.6.SI1",
+          "text": "Students will be able to talk about occupations. Spoken Production"
+        },
+        {
+          "code": "E6.6.SP1",
+          "text": "Students will be able to ask personal questions"
+        },
+        {
+          "code": "E6.6.SP2",
+          "text": "Students will be able to state the dates. Reading"
+        },
+        {
+          "code": "E6.6.R1",
+          "text": "Students will be able to understand familiar words and simple sentences about occupations and the dates. Writing"
+        },
+        {
+          "code": "E6.6.W1",
+          "text": "Students will be able to produce a piece of writing about occupations and the dates"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 7: Holidays",
+      "start": "2026-03-02",
+      "end": "2026-03-08",
+      "outcomes": [
+        {
+          "code": "E6.7.L1",
+          "text": "Students will be able to spot the activities about holidays in oral texts. Spoken Interaction"
+        },
+        {
+          "code": "E6.7.SI1",
+          "text": "Students will be able to talk about their holidays. Spoken Production"
+        },
+        {
+          "code": "E6.7.SP1",
+          "text": "Students will be able to describe past activities and personal experiences. Reading"
+        },
+        {
+          "code": "E6.7.R1",
+          "text": "Students will be able to understand short, simple sentences and expressions related to past activities. Writing"
+        },
+        {
+          "code": "E6.7.W1",
+          "text": "Students will be able to write short and simple pieces in various forms about holidays"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 7: Holidays",
+      "start": "2026-03-09",
+      "end": "2026-03-15",
+      "outcomes": [
+        {
+          "code": "E6.7.L1",
+          "text": "Students will be able to spot the activities about holidays in oral texts. Spoken Interaction"
+        },
+        {
+          "code": "E6.7.SI1",
+          "text": "Students will be able to talk about their holidays. Spoken Production"
+        },
+        {
+          "code": "E6.7.SP1",
+          "text": "Students will be able to describe past activities and personal experiences. Reading"
+        },
+        {
+          "code": "E6.7.R1",
+          "text": "Students will be able to understand short, simple sentences and expressions related to past activities. Writing"
+        },
+        {
+          "code": "E6.7.W1",
+          "text": "Students will be able to write short and simple pieces in various forms about holidays"
+        }
+      ]
+    },
+    {
+      "name": "ARA TATİL",
+      "start": "2026-03-16",
+      "end": "2026-03-22",
+      "outcomes": []
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 7: Holidays",
+      "start": "2026-03-23",
+      "end": "2026-03-29",
+      "outcomes": [
+        {
+          "code": "E6.7.L1",
+          "text": "Students will be able to spot the activities about holidays in oral texts. Spoken Interaction"
+        },
+        {
+          "code": "E6.7.SI1",
+          "text": "Students will be able to talk about their holidays. Spoken Production"
+        },
+        {
+          "code": "E6.7.SP1",
+          "text": "Students will be able to describe past activities and personal experiences. Reading"
+        },
+        {
+          "code": "E6.7.R1",
+          "text": "Students will be able to understand short, simple sentences and expressions related to past activities. Writing"
+        },
+        {
+          "code": "E6.7.W1",
+          "text": "Students will be able to write short and simple pieces in various forms about holidays"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 7: Holidays",
+      "start": "2026-03-30",
+      "end": "2026-04-05",
+      "outcomes": [
+        {
+          "code": "E6.7.L1",
+          "text": "Students will be able to spot the activities about holidays in oral texts. Spoken Interaction"
+        },
+        {
+          "code": "E6.7.SI1",
+          "text": "Students will be able to talk about their holidays. Spoken Production"
+        },
+        {
+          "code": "E6.7.SP1",
+          "text": "Students will be able to describe past activities and personal experiences. Reading"
+        },
+        {
+          "code": "E6.7.R1",
+          "text": "Students will be able to understand short, simple sentences and expressions related to past activities. Writing"
+        },
+        {
+          "code": "E6.7.W1",
+          "text": "Students will be able to write short and simple pieces in various forms about holidays"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 8: Bookworms",
+      "start": "2026-04-06",
+      "end": "2026-04-12",
+      "outcomes": [
+        {
+          "code": "E6.8.L1",
+          "text": "Students will be able to listen to the instructions and locate things"
+        },
+        {
+          "code": "E6.8.L2",
+          "text": "Students will be able to understand past events in oral texts"
+        },
+        {
+          "code": "E6.8.SI1",
+          "text": "Students will be able to talk about the locations of people and things"
+        },
+        {
+          "code": "E6.8.SI2",
+          "text": "Students will be able to talk about past events with definite time"
+        },
+        {
+          "code": "E6.8.SP1",
+          "text": "Students will be able to describe the locations of people and things"
+        },
+        {
+          "code": "E6.8.SP2",
+          "text": "Students will be able to describe past events with definite time"
+        },
+        {
+          "code": "E6.8.R1",
+          "text": "Students will be able to understand short, simple sentences and expressions about past events with definite time"
+        },
+        {
+          "code": "E6.8.W1",
+          "text": "Students will be able to write about past events with definite time"
+        },
+        {
+          "code": "E6.8.W2",
+          "text": "Students will be able to write about the locations of people and things"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 8: Bookworms",
+      "start": "2026-04-13",
+      "end": "2026-04-19",
+      "outcomes": [
+        {
+          "code": "E6.8.L1",
+          "text": "Students will be able to listen to the instructions and locate things"
+        },
+        {
+          "code": "E6.8.L2",
+          "text": "Students will be able to understand past events in oral texts"
+        },
+        {
+          "code": "E6.8.SI1",
+          "text": "Students will be able to talk about the locations of people and things"
+        },
+        {
+          "code": "E6.8.SI2",
+          "text": "Students will be able to talk about past events with definite time"
+        },
+        {
+          "code": "E6.8.SP1",
+          "text": "Students will be able to describe the locations of people and things"
+        },
+        {
+          "code": "E6.8.SP2",
+          "text": "Students will be able to describe past events with definite time"
+        },
+        {
+          "code": "E6.8.R1",
+          "text": "Students will be able to understand short, simple sentences and expressions about past events with definite time"
+        },
+        {
+          "code": "E6.8.W1",
+          "text": "Students will be able to write about past events with definite time"
+        },
+        {
+          "code": "E6.8.W2",
+          "text": "Students will be able to write about the locations of people and things"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 8: Bookworms",
+      "start": "2026-04-20",
+      "end": "2026-04-26",
+      "outcomes": [
+        {
+          "code": "E6.8.L1",
+          "text": "Students will be able to listen to the instructions and locate things"
+        },
+        {
+          "code": "E6.8.L2",
+          "text": "Students will be able to understand past events in oral texts"
+        },
+        {
+          "code": "E6.8.SI1",
+          "text": "Students will be able to talk about the locations of people and things"
+        },
+        {
+          "code": "E6.8.SI2",
+          "text": "Students will be able to talk about past events with definite time"
+        },
+        {
+          "code": "E6.8.SP1",
+          "text": "Students will be able to describe the locations of people and things"
+        },
+        {
+          "code": "E6.8.SP2",
+          "text": "Students will be able to describe past events with definite time"
+        },
+        {
+          "code": "E6.8.R1",
+          "text": "Students will be able to understand short, simple sentences and expressions about past events with definite time"
+        },
+        {
+          "code": "E6.8.W1",
+          "text": "Students will be able to write about past events with definite time"
+        },
+        {
+          "code": "E6.8.W2",
+          "text": "Students will be able to write about the locations of people and things"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 8: Bookworms",
+      "start": "2026-04-27",
+      "end": "2026-05-03",
+      "outcomes": [
+        {
+          "code": "E6.8.L1",
+          "text": "Students will be able to listen to the instructions and locate things"
+        },
+        {
+          "code": "E6.8.L2",
+          "text": "Students will be able to understand past events in oral texts"
+        },
+        {
+          "code": "E6.8.SI1",
+          "text": "Students will be able to talk about the locations of people and things"
+        },
+        {
+          "code": "E6.8.SI2",
+          "text": "Students will be able to talk about past events with definite time"
+        },
+        {
+          "code": "E6.8.SP1",
+          "text": "Students will be able to describe the locations of people and things"
+        },
+        {
+          "code": "E6.8.SP2",
+          "text": "Students will be able to describe past events with definite time"
+        },
+        {
+          "code": "E6.8.R1",
+          "text": "Students will be able to understand short, simple sentences and expressions about past events with definite time"
+        },
+        {
+          "code": "E6.8.W1",
+          "text": "Students will be able to write about past events with definite time"
+        },
+        {
+          "code": "E6.8.W2",
+          "text": "Students will be able to write about the locations of people and things"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 9: Saving the Planet",
+      "start": "2026-05-04",
+      "end": "2026-05-10",
+      "outcomes": [
+        {
+          "code": "E6.9.L1",
+          "text": "Students will be able to recognize appropriate attitudes to save energy and to protect the environment"
+        },
+        {
+          "code": "E6.9.L2",
+          "text": "Students will be able to understand suggestions related to the protection of the environment in simple oral texts. Spoken Interaction"
+        },
+        {
+          "code": "E6.9.SI1",
+          "text": "Students will be able to give each other suggestions about the protection of the environment"
+        },
+        {
+          "code": "E6.9.SP1",
+          "text": "Students will be able to talk to people about the protection of the environment. Reading"
+        },
+        {
+          "code": "E6.9.R1",
+          "text": "Students will be able to understand the texts about the protection of the environment"
+        },
+        {
+          "code": "E6.9.R2",
+          "text": "Students will be able to follow short, simple written instructions"
+        },
+        {
+          "code": "E6.9.W1",
+          "text": "Students will be able to write simple pieces about the protection of the environment"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 9: Saving the Planet",
+      "start": "2026-05-11",
+      "end": "2026-05-17",
+      "outcomes": [
+        {
+          "code": "E6.9.L1",
+          "text": "Students will be able to recognize appropriate attitudes to save energy and to protect the environment"
+        },
+        {
+          "code": "E6.9.L2",
+          "text": "Students will be able to understand suggestions related to the protection of the environment in simple oral texts. Spoken Interaction"
+        },
+        {
+          "code": "E6.9.SI1",
+          "text": "Students will be able to give each other suggestions about the protection of the environment"
+        },
+        {
+          "code": "E6.9.SP1",
+          "text": "Students will be able to talk to people about the protection of the environment. Reading"
+        },
+        {
+          "code": "E6.9.R1",
+          "text": "Students will be able to understand the texts about the protection of the environment"
+        },
+        {
+          "code": "E6.9.R2",
+          "text": "Students will be able to follow short, simple written instructions"
+        },
+        {
+          "code": "E6.9.W1",
+          "text": "Students will be able to write simple pieces about the protection of the environment"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 9: Saving the Planet",
+      "start": "2026-05-18",
+      "end": "2026-05-24",
+      "outcomes": [
+        {
+          "code": "E6.9.L1",
+          "text": "Students will be able to recognize appropriate attitudes to save energy and to protect the environment"
+        },
+        {
+          "code": "E6.9.L2",
+          "text": "Students will be able to understand suggestions related to the protection of the environment in simple oral texts. Spoken Interaction"
+        },
+        {
+          "code": "E6.9.SI1",
+          "text": "Students will be able to give each other suggestions about the protection of the environment"
+        },
+        {
+          "code": "E6.9.SP1",
+          "text": "Students will be able to talk to people about the protection of the environment. Reading"
+        },
+        {
+          "code": "E6.9.R1",
+          "text": "Students will be able to understand the texts about the protection of the environment"
+        },
+        {
+          "code": "E6.9.R2",
+          "text": "Students will be able to follow short, simple written instructions"
+        },
+        {
+          "code": "E6.9.W1",
+          "text": "Students will be able to write simple pieces about the protection of the environment"
+        }
+      ]
+    },
+    {
+      "name": "BAYRAM TATİLİ",
+      "start": "2026-05-25",
+      "end": "2026-05-31",
+      "outcomes": []
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 10: Democracy",
+      "start": "2026-06-01",
+      "end": "2026-06-07",
+      "outcomes": [
+        {
+          "code": "E6.10.L1",
+          "text": "Students will be able to recognize some key features related to the concept of democracy. Spoken Interaction"
+        },
+        {
+          "code": "E6.10.SI1",
+          "text": "Students will be able to talk about the stages of classroom president polls"
+        },
+        {
+          "code": "E6.10.SP1",
+          "text": "Students will be able to give short descriptions of past and present events"
+        },
+        {
+          "code": "E6.10.SP2",
+          "text": "Students will be able to talk about the concept of democracy"
+        },
+        {
+          "code": "E6.10.R1",
+          "text": "Students will be able to recognize familiar words and simple phrases related to the concept of democracy"
+        },
+        {
+          "code": "E6.10.W1",
+          "text": "Students will be able to write simple pieces about concepts related to democracy"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 10: Democracy",
+      "start": "2026-06-08",
+      "end": "2026-06-14",
+      "outcomes": [
+        {
+          "code": "E6.10.L1",
+          "text": "Students will be able to recognize some key features related to the concept of democracy. Spoken Interaction"
+        },
+        {
+          "code": "E6.10.SI1",
+          "text": "Students will be able to talk about the stages of classroom president polls"
+        },
+        {
+          "code": "E6.10.SP1",
+          "text": "Students will be able to give short descriptions of past and present events"
+        },
+        {
+          "code": "E6.10.SP2",
+          "text": "Students will be able to talk about the concept of democracy"
+        },
+        {
+          "code": "E6.10.R1",
+          "text": "Students will be able to recognize familiar words and simple phrases related to the concept of democracy"
+        },
+        {
+          "code": "E6.10.W1",
+          "text": "Students will be able to write simple pieces about concepts related to democracy"
+        }
+      ]
+    },
+    {
+      "name": "İngilizce",
+      "konu": "Unit 10: Democracy",
+      "start": "2026-06-15",
+      "end": "2026-06-21",
+      "outcomes": [
+        {
+          "code": "E6.10.L1",
+          "text": "Students will be able to recognize some key features related to the concept of democracy. Spoken Interaction"
+        },
+        {
+          "code": "E6.10.SI1",
+          "text": "Students will be able to talk about the stages of classroom president polls"
+        },
+        {
+          "code": "E6.10.SP1",
+          "text": "Students will be able to give short descriptions of past and present events"
+        },
+        {
+          "code": "E6.10.SP2",
+          "text": "Students will be able to talk about the concept of democracy"
+        },
+        {
+          "code": "E6.10.R1",
+          "text": "Students will be able to recognize familiar words and simple phrases related to the concept of democracy"
+        },
+        {
+          "code": "E6.10.W1",
+          "text": "Students will be able to write simple pieces about concepts related to democracy"
+        }
+      ]
+    },
+    {
+      "name": "UYGUNDUR.",
+      "konu": "2025/2026 Eğitim-Öğretim Yılı Sonu",
+      "start": "2026-06-22",
+      "end": "2026-06-28",
+      "outcomes": []
+    }
+  ]
+}

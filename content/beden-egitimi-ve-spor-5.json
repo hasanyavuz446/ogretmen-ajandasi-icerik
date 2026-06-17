@@ -1,0 +1,427 @@
+{
+  "grade": 5,
+  "subject": "Beden Eğitimi ve Spor",
+  "themes": [
+    {
+      "name": "HAREKET VE ZİNDELİK",
+      "konu": "Fiziksel Aktivite Sırasında Vücudunda Meydana Gelen Değişimler Fiziksel Hareketsizliğin Getirdiği Sonuçlar Fiziksel Aktivite ve Zindelik İlişkisi Fiziksel Uygunluk",
+      "start": "2025-09-08",
+      "end": "2025-09-14",
+      "outcomes": [
+        {
+          "code": "BES.5.1.1",
+          "text": "Fiziksel aktiviteler sırasında vücudunda meydana gelen değişimleri sorgulayabilme"
+        }
+      ]
+    },
+    {
+      "name": "HAREKET VE ZİNDELİK",
+      "konu": "Fiziksel Aktivite Sırasında Vücudunda Meydana Gelen Değişimler Fiziksel Hareketsizliğin Getirdiği Sonuçlar Fiziksel Aktivite ve Zindelik İlişkisi Fiziksel Uygunluk",
+      "start": "2025-09-15",
+      "end": "2025-09-21",
+      "outcomes": [
+        {
+          "code": "BES.5.1.2",
+          "text": "Fiziksel hareketsizliğin getirdiği sonuçları yorumlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "HAREKET VE ZİNDELİK",
+      "konu": "Fiziksel Aktivite Sırasında Vücudunda Meydana Gelen Değişimler Fiziksel Hareketsizliğin Getirdiği Sonuçlar Fiziksel Aktivite ve Zindelik İlişkisi Fiziksel Uygunluk",
+      "start": "2025-09-22",
+      "end": "2025-09-28",
+      "outcomes": [
+        {
+          "code": "BES.5.1.3",
+          "text": "Fiziksel aktivite ve zindelik ilişkisini çözümleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "HAREKET VE ZİNDELİK",
+      "konu": "Fiziksel Aktivite Sırasında Vücudunda Meydana Gelen Değişimler Fiziksel Hareketsizliğin Getirdiği Sonuçlar Fiziksel Aktivite ve Zindelik İlişkisi Fiziksel Uygunluk",
+      "start": "2025-09-29",
+      "end": "2025-10-05",
+      "outcomes": [
+        {
+          "code": "BES.5.1.4",
+          "text": "Fiziksel uygunluk kavramını açıklayabilme"
+        }
+      ]
+    },
+    {
+      "name": "HAREKET VE ZİNDELİK",
+      "konu": "Fiziksel Aktivite Sırasında Vücudunda Meydana Gelen Değişimler Fiziksel Hareketsizliğin Getirdiği Sonuçlar Fiziksel Aktivite ve Zindelik İlişkisi Fiziksel Uygunluk",
+      "start": "2025-10-06",
+      "end": "2025-10-12",
+      "outcomes": [
+        {
+          "code": "BES.5.1.4",
+          "text": "Fiziksel uygunluk kavramını açıklayabilme"
+        }
+      ]
+    },
+    {
+      "name": "HAREKET VE ZİNDELİK",
+      "konu": "Fiziksel Aktivite Sırasında Vücudunda Meydana Gelen Değişimler Fiziksel Hareketsizliğin Getirdiği Sonuçlar Fiziksel Aktivite ve Zindelik İlişkisi Fiziksel Uygunluk",
+      "start": "2025-10-13",
+      "end": "2025-10-19",
+      "outcomes": [
+        {
+          "code": "BES.5.1.4",
+          "text": "Fiziksel uygunluk kavramını açıklayabilme"
+        }
+      ]
+    },
+    {
+      "name": "İŞ BİRLİKLİ OYUNLAR",
+      "konu": "İş birlikli Oyunlarda Hareket Kavramları İş birlikli Oyunlarda Hareket Becerileri İş birlikli Oyunlarda Taktik ve Strateji",
+      "start": "2025-10-20",
+      "end": "2025-10-26",
+      "outcomes": [
+        {
+          "code": "BES.5.2.1",
+          "text": "İş birlikli oyunlarda hareket kavramlarını uygulayabilme"
+        }
+      ]
+    },
+    {
+      "name": "İŞ BİRLİKLİ OYUNLAR",
+      "konu": "İş birlikli Oyunlarda Hareket Kavramları İş birlikli Oyunlarda Hareket Becerileri İş birlikli Oyunlarda Taktik ve Strateji",
+      "start": "2025-11-03",
+      "end": "2025-11-09",
+      "outcomes": [
+        {
+          "code": "BES.5.2.1",
+          "text": "İş birlikli oyunlarda hareket kavramlarını uygulayabilme"
+        }
+      ]
+    },
+    {
+      "name": "İŞ BİRLİKLİ OYUNLAR",
+      "konu": "İş birlikli Oyunlarda Hareket Kavramları İş birlikli Oyunlarda Hareket Becerileri İş birlikli Oyunlarda Taktik ve Strateji",
+      "start": "2025-11-17",
+      "end": "2025-11-23",
+      "outcomes": [
+        {
+          "code": "BES.5.2.2",
+          "text": "İş birlikli oyunlarda hareket becerisi sergileyebilme"
+        }
+      ]
+    },
+    {
+      "name": "İŞ BİRLİKLİ OYUNLAR",
+      "konu": "İş birlikli Oyunlarda Hareket Kavramları İş birlikli Oyunlarda Hareket Becerileri İş birlikli Oyunlarda Taktik ve Strateji",
+      "start": "2025-11-24",
+      "end": "2025-11-30",
+      "outcomes": [
+        {
+          "code": "BES.5.2.2",
+          "text": "İş birlikli oyunlarda hareket becerisi sergileyebilme"
+        }
+      ]
+    },
+    {
+      "name": "İŞ BİRLİKLİ OYUNLAR",
+      "konu": "İş birlikli Oyunlarda Hareket Kavramları İş birlikli Oyunlarda Hareket Becerileri İş birlikli Oyunlarda Taktik ve Strateji",
+      "start": "2025-12-01",
+      "end": "2025-12-07",
+      "outcomes": [
+        {
+          "code": "BES.5.2.2",
+          "text": "İş birlikli oyunlarda hareket becerisi sergileyebilme"
+        }
+      ]
+    },
+    {
+      "name": "İŞ BİRLİKLİ OYUNLAR",
+      "konu": "İş birlikli Oyunlarda Hareket Kavramları İş birlikli Oyunlarda Hareket Becerileri İş birlikli Oyunlarda Taktik ve Strateji",
+      "start": "2025-12-08",
+      "end": "2025-12-14",
+      "outcomes": [
+        {
+          "code": "BES.5.2.3",
+          "text": "İş birlikli oyunlarda taktik ve strateji geliştirebilme"
+        }
+      ]
+    },
+    {
+      "name": "İŞ BİRLİKLİ OYUNLAR",
+      "konu": "İş birlikli Oyunlarda Hareket Kavramları İş birlikli Oyunlarda Hareket Becerileri İş birlikli Oyunlarda Taktik ve Strateji",
+      "start": "2025-12-15",
+      "end": "2025-12-21",
+      "outcomes": [
+        {
+          "code": "BES.5.2.3",
+          "text": "İş birlikli oyunlarda taktik ve strateji geliştirebilme"
+        }
+      ]
+    },
+    {
+      "name": "İŞ BİRLİKLİ OYUNLAR",
+      "konu": "İş birlikli Oyunlarda Hareket Kavramları İş birlikli Oyunlarda Hareket Becerileri İş birlikli Oyunlarda Taktik ve Strateji",
+      "start": "2025-12-22",
+      "end": "2025-12-28",
+      "outcomes": [
+        {
+          "code": "BES.5.2.3",
+          "text": "İş birlikli oyunlarda taktik ve strateji geliştirebilme"
+        }
+      ]
+    },
+    {
+      "name": "HAYALİMDEKİ OYUN",
+      "konu": "Güvenli Ortam Oluşturma Özgün Oyun Oluşturma Adil Oyun Anlayışına Uygun Davranma",
+      "start": "2025-12-29",
+      "end": "2026-01-04",
+      "outcomes": [
+        {
+          "code": "BES.5.3.1",
+          "text": "Tasarlayacakları oyunlarda güvenli ortam oluşturabilme"
+        }
+      ]
+    },
+    {
+      "name": "HAYALİMDEKİ OYUN",
+      "konu": "Güvenli Ortam Oluşturma Özgün Oyun Oluşturma Adil Oyun Anlayışına Uygun Davranma",
+      "start": "2026-01-05",
+      "end": "2026-01-11",
+      "outcomes": [
+        {
+          "code": "BES.5.3.2",
+          "text": "Oyunların farklı özelliklerinden yararlanarak özgün bir oyun sentezleyebilme"
+        }
+      ]
+    },
+    {
+      "name": "ŞUBAT",
+      "start": "2026-01-12",
+      "end": "2026-01-18",
+      "outcomes": []
+    },
+    {
+      "name": "HAYALİMDEKİ OYUN",
+      "konu": "Güvenli Ortam Oluşturma Özgün Oyun Oluşturma Adil Oyun Anlayışına Uygun Davranma",
+      "start": "2026-02-02",
+      "end": "2026-02-08",
+      "outcomes": [
+        {
+          "code": "BES.5.3.3",
+          "text": "Tasarlanan oyunlarda adil oyun anlayışına uygun davranabilme"
+        }
+      ]
+    },
+    {
+      "name": "HAYALİMDEKİ OYUN",
+      "konu": "Güvenli Ortam Oluşturma Özgün Oyun Oluşturma Adil Oyun Anlayışına Uygun Davranma",
+      "start": "2026-02-09",
+      "end": "2026-02-15",
+      "outcomes": [
+        {
+          "code": "BES.5.3.3",
+          "text": "Tasarlanan oyunlarda adil oyun anlayışına uygun davranabilme"
+        }
+      ]
+    },
+    {
+      "name": "HAREKETİN ESTETİĞİ VE RİTMİ",
+      "konu": "Jimnastiğe İlişkin Hareket Kavramları Jimnastiğe İlişkin Hareket Becerileri Dansa Özgü Ritmik Hareketler",
+      "start": "2026-02-16",
+      "end": "2026-02-22",
+      "outcomes": [
+        {
+          "code": "BES.5.4.1",
+          "text": "Jimnastiğe ilişkin hareket kavramlarını uygulayabilme"
+        }
+      ]
+    },
+    {
+      "name": "HAREKETİN ESTETİĞİ VE RİTMİ",
+      "konu": "Jimnastiğe İlişkin Hareket Kavramları Jimnastiğe İlişkin Hareket Becerileri Dansa Özgü Ritmik Hareketler",
+      "start": "2026-02-23",
+      "end": "2026-03-01",
+      "outcomes": [
+        {
+          "code": "BES.5.4.1",
+          "text": "Jimnastiğe ilişkin hareket kavramlarını uygulayabilme"
+        }
+      ]
+    },
+    {
+      "name": "HAREKETİN ESTETİĞİ VE RİTMİ",
+      "konu": "Jimnastiğe İlişkin Hareket Kavramları Jimnastiğe İlişkin Hareket Becerileri Dansa Özgü Ritmik Hareketler",
+      "start": "2026-03-02",
+      "end": "2026-03-08",
+      "outcomes": [
+        {
+          "code": "BES.5.4.2",
+          "text": "Jimnastiğe ilişkin hareket becerilerini sergileyebilme"
+        }
+      ]
+    },
+    {
+      "name": "HAREKETİN ESTETİĞİ VE RİTMİ",
+      "konu": "Jimnastiğe İlişkin Hareket Kavramları Jimnastiğe İlişkin Hareket Becerileri Dansa Özgü Ritmik Hareketler",
+      "start": "2026-03-09",
+      "end": "2026-03-15",
+      "outcomes": [
+        {
+          "code": "BES.5.4.2",
+          "text": "Jimnastiğe ilişkin hareket becerilerini sergileyebilme"
+        }
+      ]
+    },
+    {
+      "name": "HAREKETİN ESTETİĞİ VE RİTMİ",
+      "konu": "Jimnastiğe İlişkin Hareket Kavramları Jimnastiğe İlişkin Hareket Becerileri Dansa Özgü Ritmik Hareketler",
+      "start": "2026-03-23",
+      "end": "2026-03-29",
+      "outcomes": [
+        {
+          "code": "BES.5.4.3",
+          "text": "Müzik eşliğinde dansa özgü ritmik hareket edebilme"
+        }
+      ]
+    },
+    {
+      "name": "HAREKETİN ESTETİĞİ VE RİTMİ",
+      "konu": "Jimnastiğe İlişkin Hareket Kavramları Jimnastiğe İlişkin Hareket Becerileri Dansa Özgü Ritmik Hareketler",
+      "start": "2026-03-30",
+      "end": "2026-04-05",
+      "outcomes": [
+        {
+          "code": "BES.5.4.3",
+          "text": "Müzik eşliğinde dansa özgü ritmik hareket edebilme"
+        }
+      ]
+    },
+    {
+      "name": "DAHA HIZLI DAHA YÜKSEĞE DAHA GÜÇLÜ VE BİRLİKTE",
+      "konu": "Çocuk Atletizmine İlişkin Hareket Kavramları Çocuk Atletizmine İlişkin Hareket Becerileri Olimpik ve Paralimpik Oyunlar",
+      "start": "2026-04-06",
+      "end": "2026-04-12",
+      "outcomes": [
+        {
+          "code": "BES.5.5.1",
+          "text": "Çocuk atletizmine ilişkin hareket kavramlarını uygulayabilme"
+        }
+      ]
+    },
+    {
+      "name": "DAHA HIZLI DAHA YÜKSEĞE DAHA GÜÇLÜ VE BİRLİKTE",
+      "konu": "Çocuk Atletizmine İlişkin Hareket Kavramları Çocuk Atletizmine İlişkin Hareket Becerileri Olimpik ve Paralimpik Oyunlar",
+      "start": "2026-04-13",
+      "end": "2026-04-19",
+      "outcomes": [
+        {
+          "code": "BES.5.5.1",
+          "text": "Çocuk atletizmine ilişkin hareket kavramlarını uygulayabilme"
+        }
+      ]
+    },
+    {
+      "name": "DAHA HIZLI DAHA YÜKSEĞE DAHA GÜÇLÜ VE BİRLİKTE",
+      "konu": "Çocuk Atletizmine İlişkin Hareket Kavramları Çocuk Atletizmine İlişkin Hareket Becerileri Olimpik ve Paralimpik Oyunlar",
+      "start": "2026-04-20",
+      "end": "2026-04-26",
+      "outcomes": [
+        {
+          "code": "BES.5.5.2",
+          "text": "Çocuk atletizmine ilişkin hareket becerilerini sergileyebilme"
+        }
+      ]
+    },
+    {
+      "name": "DAHA HIZLI DAHA YÜKSEĞE DAHA GÜÇLÜ VE BİRLİKTE",
+      "konu": "Çocuk Atletizmine İlişkin Hareket Kavramları Çocuk Atletizmine İlişkin Hareket Becerileri Olimpik ve Paralimpik Oyunlar",
+      "start": "2026-04-27",
+      "end": "2026-05-03",
+      "outcomes": [
+        {
+          "code": "BES.5.5.2",
+          "text": "Çocuk atletizmine ilişkin hareket becerilerini sergileyebilme"
+        }
+      ]
+    },
+    {
+      "name": "DAHA HIZLI DAHA YÜKSEĞE DAHA GÜÇLÜ VE BİRLİKTE",
+      "konu": "Çocuk Atletizmine İlişkin Hareket Kavramları Çocuk Atletizmine İlişkin Hareket Becerileri Olimpik ve Paralimpik Oyunlar",
+      "start": "2026-05-04",
+      "end": "2026-05-10",
+      "outcomes": [
+        {
+          "code": "BES.5.5.3",
+          "text": "Olimpik ve paralimpik oyunların önemini açıklayabilme"
+        }
+      ]
+    },
+    {
+      "name": "DAHA HIZLI DAHA YÜKSEĞE DAHA GÜÇLÜ VE BİRLİKTE",
+      "konu": "Çocuk Atletizmine İlişkin Hareket Kavramları Çocuk Atletizmine İlişkin Hareket Becerileri Olimpik ve Paralimpik Oyunlar",
+      "start": "2026-05-11",
+      "end": "2026-05-17",
+      "outcomes": [
+        {
+          "code": "BES.5.5.3",
+          "text": "Olimpik ve paralimpik oyunların önemini açıklayabilme"
+        }
+      ]
+    },
+    {
+      "name": "DAHA HIZLI DAHA YÜKSEĞE DAHA GÜÇLÜ VE BİRLİKTE",
+      "konu": "Çocuk Atletizmine İlişkin Hareket Kavramları Çocuk Atletizmine İlişkin Hareket Becerileri Olimpik ve Paralimpik Oyunlar",
+      "start": "2026-05-18",
+      "end": "2026-05-24",
+      "outcomes": [
+        {
+          "code": "BES.5.5.3",
+          "text": "Olimpik ve paralimpik oyunların önemini açıklayabilme"
+        }
+      ]
+    },
+    {
+      "name": "KURBAN BAYRAMI TATİLİ",
+      "start": "2026-05-25",
+      "end": "2026-05-31",
+      "outcomes": []
+    },
+    {
+      "name": "DAHA HIZLI DAHA YÜKSEĞE DAHA GÜÇLÜ VE BİRLİKTE",
+      "konu": "Çocuk Atletizmine İlişkin Hareket Kavramları Çocuk Atletizmine İlişkin Hareket Becerileri Olimpik ve Paralimpik Oyunlar",
+      "start": "2026-06-01",
+      "end": "2026-06-07",
+      "outcomes": [
+        {
+          "code": "BES.5.5.3",
+          "text": "Olimpik ve paralimpik oyunların önemini açıklayabilme"
+        }
+      ]
+    },
+    {
+      "name": "DAHA HIZLI DAHA YÜKSEĞE DAHA GÜÇLÜ VE BİRLİKTE",
+      "konu": "Çocuk Atletizmine İlişkin Hareket Kavramları Çocuk Atletizmine İlişkin Hareket Becerileri Olimpik ve Paralimpik Oyunlar",
+      "start": "2026-06-08",
+      "end": "2026-06-14",
+      "outcomes": [
+        {
+          "code": "BES.5.5.3",
+          "text": "Olimpik ve paralimpik oyunların önemini açıklayabilme"
+        }
+      ]
+    },
+    {
+      "name": "Beden Eğitimi ve Spor",
+      "start": "2026-06-15",
+      "end": "2026-06-21",
+      "outcomes": []
+    },
+    {
+      "name": "UYGUNDUR.",
+      "konu": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından planlanır ve uygulanır.",
+      "start": "2026-06-22",
+      "end": "2026-06-28",
+      "outcomes": []
+    }
+  ]
+}

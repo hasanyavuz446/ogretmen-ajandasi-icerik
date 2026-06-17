@@ -1,0 +1,486 @@
+{
+  "grade": 6,
+  "subject": "Müzik",
+  "themes": [
+    {
+      "name": "Mü. 6. A. DİNLEME - SÖYLEME",
+      "konu": "1.ÜNİTE İstiklâl Marşı",
+      "start": "2025-09-08",
+      "end": "2025-09-14",
+      "outcomes": [
+        {
+          "code": "Mü.6.A.1",
+          "text": "İstiklâl Marşı’nı birlikte söyler"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. A. DİNLEME - SÖYLEME",
+      "konu": "1.ÜNİTE İstiklâl Marşı",
+      "start": "2025-09-15",
+      "end": "2025-09-21",
+      "outcomes": [
+        {
+          "code": "Mü.6.A.1",
+          "text": "İstiklâl Marşı’nı birlikte söyler"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. B. MÜZİKSEL ALGI VE BİLGİLENME",
+      "konu": "1.ÜNİTE İnsan ve Ses",
+      "start": "2025-09-22",
+      "end": "2025-09-28",
+      "outcomes": [
+        {
+          "code": "Mü.6.B.4",
+          "text": "İnsan sesinin oluşumunu kavrar"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. B. MÜZİKSEL ALGI VE BİLGİLENME",
+      "konu": "1.ÜNİTE İnsan ve Ses",
+      "start": "2025-09-29",
+      "end": "2025-10-05",
+      "outcomes": [
+        {
+          "code": "Mü.6.B.4",
+          "text": "İnsan sesinin oluşumunu kavrar"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. A. DİNLEME - SÖYLEME",
+      "konu": "1. ÜNİTE Müzikte Hız ve Gürlük",
+      "start": "2025-10-06",
+      "end": "2025-10-12",
+      "outcomes": [
+        {
+          "code": "Mü.6.A.5",
+          "text": "Seslendirdiği müziklerde hız ve gürlük basamaklarını uygular"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. A. DİNLEME - SÖYLEME",
+      "konu": "1. ÜNİTE Müzikte Hız ve Gürlük",
+      "start": "2025-10-13",
+      "end": "2025-10-19",
+      "outcomes": [
+        {
+          "code": "Mü.6.A.5",
+          "text": "Seslendirdiği müziklerde hız ve gürlük basamaklarını uygular"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. A. DİNLEME - SÖYLEME",
+      "konu": "1. ÜNİTE Müzikte Hız ve Gürlük",
+      "start": "2025-10-20",
+      "end": "2025-10-26",
+      "outcomes": [
+        {
+          "code": "Mü.6.A.5",
+          "text": "Seslendirdiği müziklerde hız ve gürlük basamaklarını uygular"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. D. MÜZİK KÜLTÜRÜ",
+      "konu": "1.ÜNİTE Atatürk ve Müzik",
+      "start": "2025-10-27",
+      "end": "2025-11-02",
+      "outcomes": [
+        {
+          "code": "Mü.6.D.6",
+          "text": "Atatürk’ün sevdiği türkü ve şarkıları tanır"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. D. MÜZİK KÜLTÜRÜ",
+      "konu": "1.ÜNİTE Atatürk ve Müzik",
+      "start": "2025-11-03",
+      "end": "2025-11-09",
+      "outcomes": [
+        {
+          "code": "Mü.6.D.2",
+          "text": "Atatürk’ün müzikle ilgili temel görüşlerini anlar"
+        }
+      ]
+    },
+    {
+      "name": "ARA TATİL",
+      "start": "2025-11-10",
+      "end": "2025-11-16",
+      "outcomes": []
+    },
+    {
+      "name": "Mü. 6. A. DİNLEME - SÖYLEME",
+      "konu": "2.ÜNİTE Ses Değiştirici İşaretler",
+      "start": "2025-11-17",
+      "end": "2025-11-23",
+      "outcomes": [
+        {
+          "code": "Mü.6.A.3",
+          "text": "Öğrendiği notaları seslendirir"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. B. MÜZİKSEL ALGI VE BİLGİLENME",
+      "konu": "2.ÜNİTE Ses Değiştirici İşaretler",
+      "start": "2025-11-24",
+      "end": "2025-11-30",
+      "outcomes": [
+        {
+          "code": "Mü.6.B.1",
+          "text": "Temel müzik yazı ve ögelerini kullanır"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. A. DİNLEME - SÖYLEME",
+      "konu": "2.ÜNİTE Ses Değiştirici İşaretler",
+      "start": "2025-12-01",
+      "end": "2025-12-07",
+      "outcomes": [
+        {
+          "code": "Mü.6.A.3",
+          "text": "Öğrendiği notaları seslendirir"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. B. MÜZİKSEL ALGI VE BİLGİLENME",
+      "konu": "2.ÜNİTE Tekrar İşaretleri",
+      "start": "2025-12-08",
+      "end": "2025-12-14",
+      "outcomes": [
+        {
+          "code": "Mü.6.B.1",
+          "text": "Temel müzik yazı ve ögelerini kullanır"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. B. MÜZİKSEL ALGI VE BİLGİLENME",
+      "konu": "2.ÜNİTE Onaltılık Nota ve Onaltılık Sus",
+      "start": "2025-12-15",
+      "end": "2025-12-21",
+      "outcomes": [
+        {
+          "code": "Mü.6.B.1",
+          "text": "Temel müzik yazı ve ögelerini kullanır"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. B. MÜZİKSEL ALGI VE BİLGİLENME",
+      "konu": "2.ÜNİTE Müzikte Bağlar",
+      "start": "2025-12-22",
+      "end": "2025-12-28",
+      "outcomes": [
+        {
+          "code": "Mü.6.B.1",
+          "text": "Temel müzik yazı ve ögelerini kullanır"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. B. MÜZİKSEL ALGI VE BİLGİLENME",
+      "konu": "2.ÜNİTE Müzikte Bağlar",
+      "start": "2025-12-29",
+      "end": "2026-01-04",
+      "outcomes": [
+        {
+          "code": "Mü.6.B.1",
+          "text": "Temel müzik yazı ve ögelerini kullanır"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. B. MÜZİKSEL ALGI VE BİLGİLENME",
+      "konu": "2.ÜNİTE Müzikte Ölçü",
+      "start": "2026-01-05",
+      "end": "2026-01-11",
+      "outcomes": [
+        {
+          "code": "Mü.6.B.1",
+          "text": "Temel müzik yazı ve ögelerini kullanır"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. A. DİNLEME - SÖYLEME",
+      "konu": "2.ÜNİTE Müzikte Ölçü",
+      "start": "2026-01-12",
+      "end": "2026-01-18",
+      "outcomes": [
+        {
+          "code": "Mü.6.A.4",
+          "text": "Farklı ritmik yapıdaki müzikleri seslendirir"
+        }
+      ]
+    },
+    {
+      "name": "Müzik",
+      "start": "2026-01-19",
+      "end": "2026-01-25",
+      "outcomes": []
+    },
+    {
+      "name": "Müzik",
+      "start": "2026-01-26",
+      "end": "2026-02-01",
+      "outcomes": []
+    },
+    {
+      "name": "Mü. 6. C. MÜZİKSEL YARATICILIK",
+      "konu": "2.ÜNİTE Müzikte Ölçü",
+      "start": "2026-02-02",
+      "end": "2026-02-08",
+      "outcomes": [
+        {
+          "code": "Mü.6.C.2",
+          "text": "Farklı ritmik yapıdaki müzikleri harekete dönüştürür"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. C. MÜZİKSEL YARATICILIK",
+      "konu": "2.ÜNİTE Müzikte Ölçü",
+      "start": "2026-02-09",
+      "end": "2026-02-15",
+      "outcomes": [
+        {
+          "code": "Mü.6.C.2",
+          "text": "Farklı ritmik yapıdaki müzikleri harekete dönüştürür"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. B. MÜZİKSEL ALGI VE BİLGİLENME",
+      "konu": "2.ÜNİTE Müziklerde Aynı ve Farklı Bölümler",
+      "start": "2026-02-16",
+      "end": "2026-02-22",
+      "outcomes": [
+        {
+          "code": "Mü.6.B.2",
+          "text": "Müziklerde aynı ve farklı bölümleri ritim çalgılarıyla ayırt eder"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. C. MÜZİKSEL YARATICILIK",
+      "konu": "2.ÜNİTE Müziklerde Aynı ve Farklı Bölümler",
+      "start": "2026-02-23",
+      "end": "2026-03-01",
+      "outcomes": [
+        {
+          "code": "Mü.6.C.4",
+          "text": "Müziklerde aynı ve farklı bölümleri dansa dönüştürür"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. A. DİNLEME - SÖYLEME",
+      "konu": "2.ÜNİTE Müziklerde Aynı ve Farklı Bölümler",
+      "start": "2026-03-02",
+      "end": "2026-03-08",
+      "outcomes": [
+        {
+          "code": "Mü.6.C.5",
+          "text": "Kendi oluşturduğu ezgileri seslendirir"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. D. MÜZİK KÜLTÜRÜ",
+      "konu": "3.ÜNİTE Türk Müziği",
+      "start": "2026-03-09",
+      "end": "2026-03-15",
+      "outcomes": [
+        {
+          "code": "Mü.6.D.1",
+          "text": "Yurdumuza ait başlıca müzik türlerini ayırt eder"
+        }
+      ]
+    },
+    {
+      "name": "ARA TATİL",
+      "start": "2026-03-16",
+      "end": "2026-03-22",
+      "outcomes": []
+    },
+    {
+      "name": "Mü. 6. A. DİNLEME - SÖYLEME",
+      "konu": "2.ÜNİTE Müzikte Ölçü",
+      "start": "2026-03-23",
+      "end": "2026-03-29",
+      "outcomes": [
+        {
+          "code": "Mü.6.A.4",
+          "text": "Farklı ritmik yapıdaki müzikleri seslendirir"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. D. MÜZİK KÜLTÜRÜ",
+      "konu": "3.ÜNİTE Türk Müziği",
+      "start": "2026-03-30",
+      "end": "2026-04-05",
+      "outcomes": [
+        {
+          "code": "Mü.6.D.1",
+          "text": "Yurdumuza ait başlıca müzik türlerini ayırt eder"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. D. MÜZİK KÜLTÜRÜ",
+      "konu": "3.ÜNİTE Türk Müziği",
+      "start": "2026-04-06",
+      "end": "2026-04-12",
+      "outcomes": [
+        {
+          "code": "Mü.6.D.1",
+          "text": "Yurdumuza ait başlıca müzik türlerini ayırt eder"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. C. MÜZİKSEL YARATICILIK",
+      "konu": "3.ÜNİTE Türk Müziği",
+      "start": "2026-04-13",
+      "end": "2026-04-19",
+      "outcomes": [
+        {
+          "code": "Mü.6.C.1",
+          "text": "Dinlediği farklı türdeki müziklerle ilgili duygu ve düşüncelerini farklı anlatım yollarıyla ifade eder"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. A. DİNLEME - SÖYLEME",
+      "konu": "3.ÜNİTE Nihavent ve Nikriz Makamları",
+      "start": "2026-04-20",
+      "end": "2026-04-26",
+      "outcomes": [
+        {
+          "code": "Mü.6.A.6",
+          "text": "Türk müziğinin makamsal bir yapıda olduğunu fark eder"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. A. DİNLEME - SÖYLEME",
+      "konu": "3.ÜNİTE Nihavent ve Nikriz Makamları",
+      "start": "2026-04-27",
+      "end": "2026-05-03",
+      "outcomes": [
+        {
+          "code": "Mü.6.A.6",
+          "text": "Türk müziğinin makamsal bir yapıda olduğunu fark eder"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. A. DİNLEME - SÖYLEME",
+      "konu": "3.ÜNİTE Nihavent ve Nikriz Makamları",
+      "start": "2026-05-04",
+      "end": "2026-05-10",
+      "outcomes": [
+        {
+          "code": "Mü.6.A.6",
+          "text": "Türk müziğinin makamsal bir yapıda olduğunu fark eder"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. A. DİNLEME - SÖYLEME",
+      "konu": "3.ÜNİTE Nihavent ve Nikriz Makamları",
+      "start": "2026-05-11",
+      "end": "2026-05-17",
+      "outcomes": [
+        {
+          "code": "Mü.6.A.6",
+          "text": "Türk müziğinin makamsal bir yapıda olduğunu fark eder"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. A. DİNLEME - SÖYLEME",
+      "konu": "3.ÜNİTE Türk Müziği",
+      "start": "2026-05-18",
+      "end": "2026-05-24",
+      "outcomes": [
+        {
+          "code": "Mü.6.A.2",
+          "text": "Millî birlik ve beraberlik duygusunu güçlendiren marşlarımızı doğru söyler"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. A. DİNLEME - SÖYLEME",
+      "konu": "3.ÜNİTE Nihavent ve Nikriz Makamları",
+      "start": "2026-05-25",
+      "end": "2026-05-31",
+      "outcomes": [
+        {
+          "code": "Mü.6.A.6",
+          "text": "Türk müziğinin makamsal bir yapıda olduğunu fark eder"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. C. MÜZİKSEL YARATICILIK",
+      "konu": "3. ÜNİTE Müzik Arşivim",
+      "start": "2026-06-01",
+      "end": "2026-06-07",
+      "outcomes": [
+        {
+          "code": "Mü.6.C.6",
+          "text": "Müzikle ilgili araştırma ve çalışmalarında bilişim teknolojilerinden yararlanır"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. C. MÜZİKSEL YARATICILIK",
+      "konu": "3. ÜNİTE Müzik Arşivim",
+      "start": "2026-06-08",
+      "end": "2026-06-14",
+      "outcomes": [
+        {
+          "code": "Mü.6.C.6",
+          "text": "Müzikle ilgili araştırma ve çalışmalarında bilişim teknolojilerinden yararlanır"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. C. MÜZİKSEL YARATICILIK",
+      "konu": "3. ÜNİTE Müzik Arşivim",
+      "start": "2026-06-15",
+      "end": "2026-06-21",
+      "outcomes": [
+        {
+          "code": "Mü.6.C.6",
+          "text": "Müzikle ilgili araştırma ve çalışmalarında bilişim teknolojilerinden yararlanır"
+        }
+      ]
+    },
+    {
+      "name": "Mü. 6. C. MÜZİKSEL YARATICILIK",
+      "konu": "3. ÜNİTE Müzik Arşivim",
+      "start": "2026-06-22",
+      "end": "2026-06-28",
+      "outcomes": [
+        {
+          "code": "Mü.6.C.6",
+          "text": "Müzikle ilgili araştırma ve çalışmalarında bilişim teknolojilerinden yararlanır"
+        }
+      ]
+    }
+  ]
+}

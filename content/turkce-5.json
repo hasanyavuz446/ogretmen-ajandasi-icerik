@@ -1,0 +1,680 @@
+{
+  "grade": 5,
+  "subject": "Türkçe",
+  "themes": [
+    {
+      "name": "1. Tema: OYUN DÜNYASI",
+      "start": "2025-09-08",
+      "end": "2025-10-19",
+      "outcomes": [
+        {
+          "code": "T.D.5.1",
+          "text": "Dinlemede/izlemede materyal seçimini yönetebilme"
+        },
+        {
+          "code": "T.D.5.4",
+          "text": "Dinlediğinde/izlediğinde geçen anlamını bilmediği söz varlığı unsurlarının anlamını tahmin edebilme"
+        },
+        {
+          "code": "T.D.5.5",
+          "text": "Dinlediğinin/izlediğinin yüzey anlamını belirleyebilme"
+        },
+        {
+          "code": "T.D.5.19",
+          "text": "Dinlediğinden/izlediğinden hareketle söz varlığını geliştirmeye yönelik çözümleme yapabilme"
+        },
+        {
+          "code": "T.D.5.25",
+          "text": "Dinleme/izleme sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+        },
+        {
+          "code": "T.O.5.1",
+          "text": "Okumada materyal seçimini yönetebilme"
+        },
+        {
+          "code": "T.O.5.2",
+          "text": "Sesli ve sessiz okurken akıcı okuma unsurlarını yönetebilme"
+        },
+        {
+          "code": "T.O.5.3",
+          "text": "Okumada strateji ve yöntem seçimlerini yönetebilme"
+        },
+        {
+          "code": "T.O.5.5",
+          "text": "Metinde geçen anlamını bilmediği söz varlığı unsurlarının anlamını tahmin edebilme"
+        },
+        {
+          "code": "T.O.5.6",
+          "text": "Metnin yüzey anlamını belirleyebilme"
+        },
+        {
+          "code": "T.O.5.21",
+          "text": "Okuduğu metinden hareketle söz varlığını geliştirmeye yönelik çözümleme yapabilme"
+        },
+        {
+          "code": "T.O.5.27",
+          "text": "Okuma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+        },
+        {
+          "code": "T.K.5.1",
+          "text": "Konuşma sürecini yönetebilme"
+        },
+        {
+          "code": "T.K.5.3",
+          "text": "Konuşmasında amaç ve içeriğe yönelik seçimlerini yönetebilme"
+        },
+        {
+          "code": "T.K.5.4",
+          "text": "Konuşmasında ön bilgilerinden yararlanabilme"
+        },
+        {
+          "code": "T.K.5.9",
+          "text": "Konuşmasında sesini uygun şekilde kullanabilme"
+        },
+        {
+          "code": "T.K.5.22",
+          "text": "Konuşmasını zenginleştirecek biçimde söz varlığını kullanabilme"
+        },
+        {
+          "code": "T.K.5.26",
+          "text": "Konuşma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+        },
+        {
+          "code": "T.Y.5.1",
+          "text": "Yazma sürecini yönetebilme"
+        },
+        {
+          "code": "T.Y.5.3",
+          "text": "Yazısında içerik ve yapıya yönelik seçimlerini yönetebilme"
+        },
+        {
+          "code": "T.Y.5.4",
+          "text": "Yazılı üretim ve yazılı etkileşiminde ön bilgilerinden yararlanabilme"
+        },
+        {
+          "code": "T.Y.5.18",
+          "text": "Yazısını zenginleştirecek biçimde söz varlığını kullanabilme"
+        },
+        {
+          "code": "T.Y.5.21",
+          "text": "Yazım kuralları ve noktalama işaretlerini uygulayabilme"
+        },
+        {
+          "code": "T.Y.5.22",
+          "text": "Yazma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "2. Tema: ATATÜRK’Ü TANIMAK",
+      "start": "2025-10-20",
+      "end": "2025-12-07",
+      "outcomes": [
+        {
+          "code": "T.D.5.1",
+          "text": "Dinlemede/izlemede materyal seçimini yönetebilme"
+        },
+        {
+          "code": "T.D.5.2",
+          "text": "Dinlemede/izlemede strateji ve yöntem seçimlerini yönetebilme"
+        },
+        {
+          "code": "T.D.5.3",
+          "text": "Dinleyeceğinin/izleyeceğinin içeriğine yönelik tahminde bulunabilme"
+        },
+        {
+          "code": "T.D.5.4",
+          "text": "Dinlediğinde/izlediğinde geçen anlamını bilmediği söz varlığı unsurlarının anlamını tahmin edebilme"
+        },
+        {
+          "code": "T.D.5.13",
+          "text": "Öyküleyici metinlerdeki hikâye unsurlarını belirlemeye yönelik çözümleme yapabilme"
+        },
+        {
+          "code": "T.D.5.25",
+          "text": "Dinleme/izleme sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+        },
+        {
+          "code": "T.O.5.1",
+          "text": "Okumada materyal seçimini yönetebilme"
+        },
+        {
+          "code": "T.O.5.2",
+          "text": "Sesli ve sessiz okurken akıcı okuma unsurlarını yönetebilme"
+        },
+        {
+          "code": "T.O.5.3",
+          "text": "Okumada strateji ve yöntem seçimlerini yönetebilme"
+        },
+        {
+          "code": "T.O.5.4",
+          "text": "Okuyacağı metnin içeriğine yönelik tahminde bulunabilme"
+        },
+        {
+          "code": "T.O.5.5",
+          "text": "Metinde geçen anlamını bilmediği söz varlığı unsurlarının anlamını tahmin edebilme"
+        },
+        {
+          "code": "T.O.5.14",
+          "text": "Öyküleyici metinlerdeki hikâye unsurlarını belirlemeye yönelik çözümleme yapabilme"
+        },
+        {
+          "code": "T.O.5.27",
+          "text": "Okuma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme Konuşma"
+        },
+        {
+          "code": "T.K.5.1",
+          "text": "Konuşma sürecini yönetebilme"
+        },
+        {
+          "code": "T.K.5.2",
+          "text": "Konuşma yöntem ve tekniklerine yönelik seçimlerini yönetebilme"
+        },
+        {
+          "code": "T.K.5.11",
+          "text": "Konuşmasında tahminlerinden yararlanabilme"
+        },
+        {
+          "code": "T.K.5.24",
+          "text": "Uygun geçiş ve bağlantı ifadelerini kullanabilme"
+        },
+        {
+          "code": "T.K.5.25",
+          "text": "Konuşmasında beden dilini ve mekânı etkili kullanabilme"
+        },
+        {
+          "code": "T.K.5.26",
+          "text": "Konuşma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+        },
+        {
+          "code": "T.Y.5.1",
+          "text": "Yazma sürecini yönetebilme"
+        },
+        {
+          "code": "T.Y.5.2",
+          "text": "Yazma strateji, yöntem ve tekniklerine yönelik seçimlerini yönetebilme"
+        },
+        {
+          "code": "T.Y.5.3",
+          "text": "Yazısında içerik ve yapıya yönelik seçimlerini yönetebilme"
+        },
+        {
+          "code": "T.Y.5.8",
+          "text": "Yazılı üretim ve yazılı etkileşiminde tahminlerinden yararlanabilme"
+        },
+        {
+          "code": "T.Y.5.20",
+          "text": "Uygun geçiş ve bağlantı ifadelerini kullanabilme"
+        },
+        {
+          "code": "T.Y.5.21",
+          "text": "Yazım kuralları ve noktalama işaretlerini uygulayabilme"
+        },
+        {
+          "code": "T.Y.5.22",
+          "text": "Yazma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "3. Tema: DUYGULARIMI TANIYORUM",
+      "start": "2025-12-08",
+      "end": "2026-01-18",
+      "outcomes": [
+        {
+          "code": "T.D.5.1",
+          "text": "Dinlemede/izlemede materyal seçimini yönetebilme"
+        },
+        {
+          "code": "T.D.5.2",
+          "text": "Dinlemede/izlemede strateji ve yöntem seçimlerini yönetebilme"
+        },
+        {
+          "code": "T.D.5.7",
+          "text": "Dinlediğinin/izlediğinin derin anlamını belirlemeye yönelik basit çıkarımlar yapabilme"
+        },
+        {
+          "code": "T.D.5.16",
+          "text": "Metnin bölümlerini belirlemeye yönelik çözümleme yapabilme"
+        },
+        {
+          "code": "T.D.5.17",
+          "text": "Bilgilendirici metinde düşünceyi geliştirme yollarını belirlemeye yönelik çözümleme yapabilme"
+        },
+        {
+          "code": "T.D.5.18",
+          "text": "Dinlediğindeki/izlediğindeki söz sanatlarını belirlemeye yönelik çözümleme yapabilme"
+        },
+        {
+          "code": "T.D.5.25",
+          "text": "Dinleme/izleme sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme Okuma"
+        },
+        {
+          "code": "T.O.5.3",
+          "text": "Okumada strateji ve yöntem seçimlerini yönetebilme"
+        },
+        {
+          "code": "T.O.5.8",
+          "text": "Metnin derin anlamını belirlemeye yönelik basit çıkarımlar yapabilme"
+        },
+        {
+          "code": "T.O.5.17",
+          "text": "Metnin bölümlerini belirlemeye yönelik çözümleme yapabilme"
+        },
+        {
+          "code": "T.O.5.18",
+          "text": "Şiirin biçim özelliklerini belirlemeye yönelik çözümleme yapabilme"
+        },
+        {
+          "code": "T.O.5.19",
+          "text": "Bilgilendirici metinde düşünceyi geliştirme yollarını belirlemeye yönelik çözümleme yapabilme"
+        },
+        {
+          "code": "T.O.5.20",
+          "text": "Metindeki söz sanatlarını belirlemeye yönelik çözümleme yapabilme"
+        },
+        {
+          "code": "T.O.5.27",
+          "text": "Okuma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme Konuşma"
+        },
+        {
+          "code": "T.K.5.1",
+          "text": "Konuşma sürecini yönetebilme"
+        },
+        {
+          "code": "T.K.5.7",
+          "text": "Yaratıcı konuşma yapabilme"
+        },
+        {
+          "code": "T.K.5.8",
+          "text": "Hazırlıksız konuşma yapabilme"
+        },
+        {
+          "code": "T.K.5.21",
+          "text": "Konuşmasında düşünceyi geliştirme yollarını kullanabilme"
+        },
+        {
+          "code": "T.K.5.23",
+          "text": "Konuşmasında açık ve örtük ifadeleri kullanabilme"
+        },
+        {
+          "code": "T.K.5.26",
+          "text": "Konuşma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme Yazma"
+        },
+        {
+          "code": "T.Y.5.1",
+          "text": "Yazma sürecini yönetebilme"
+        },
+        {
+          "code": "T.Y.5.3",
+          "text": "Yazısında içerik ve yapıya yönelik seçimlerini yönetebilme"
+        },
+        {
+          "code": "T.Y.5.7",
+          "text": "Yaratıcı yazı yazabilme"
+        },
+        {
+          "code": "T.Y.5.17",
+          "text": "Yazısında düşünceyi geliştirme yollarını kullanabilme"
+        },
+        {
+          "code": "T.Y.5.19",
+          "text": "Yazısında açık ve örtük ifade etmeye yönelik yapıları kullanabilme"
+        },
+        {
+          "code": "T.Y.5.21",
+          "text": "Yazım kuralları ve noktalama işaretlerini uygulayabilme"
+        },
+        {
+          "code": "T.Y.5.22",
+          "text": "Yazma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "4. Tema: GELENEKLERİMİZ",
+      "start": "2026-02-02",
+      "end": "2026-03-15",
+      "outcomes": [
+        {
+          "code": "T.D.5.1",
+          "text": "Dinlemede/izlemede materyal seçimini yönetebilme"
+        },
+        {
+          "code": "T.D.5.2",
+          "text": "Dinlemede/izlemede strateji ve yöntem seçimlerini yönetebilme"
+        },
+        {
+          "code": "T.D.5.6",
+          "text": "Görselle iletilen anlamı belirleyebilme"
+        },
+        {
+          "code": "T.D.5.9",
+          "text": "Dinlediğini/izlediğini kendi içinde karşılaştırabilme"
+        },
+        {
+          "code": "T.D.5.11",
+          "text": "Dinlediğindeki/izlediğindeki unsurları sınıflandırabilme"
+        },
+        {
+          "code": "T.D.5.15",
+          "text": "Bilgilendirici metinde anahtar kelimeleri belirlemeye yönelik çözümleme yapabilme"
+        },
+        {
+          "code": "T.D.5.21",
+          "text": "Dinlediğini/izlediğini özetleyebilme"
+        },
+        {
+          "code": "T.D.5.25",
+          "text": "Dinleme/izleme sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+        },
+        {
+          "code": "T.O.5.1",
+          "text": "Okumada materyal seçimini yönetebilme"
+        },
+        {
+          "code": "T.O.5.3",
+          "text": "Okumada strateji ve yöntem seçimlerini yönetebilme"
+        },
+        {
+          "code": "T.O.5.7",
+          "text": "Görselle iletilen anlamı belirleyebilme"
+        },
+        {
+          "code": "T.O.5.10",
+          "text": "Metin içi karşılaştırma yapabilme"
+        },
+        {
+          "code": "T.O.5.12",
+          "text": "Metindeki unsurları sınıflandırabilme"
+        },
+        {
+          "code": "T.O.5.16",
+          "text": "Bilgilendirici metinde anahtar kelimeleri belirlemeye yönelik çözümleme yapabilme"
+        },
+        {
+          "code": "T.O.5.23",
+          "text": "Okuduğunu özetleyebilme"
+        },
+        {
+          "code": "T.O.5.27",
+          "text": "Okuma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+        },
+        {
+          "code": "T.K.5.1",
+          "text": "Konuşma sürecini yönetebilme"
+        },
+        {
+          "code": "T.K.5.12",
+          "text": "Konuşmasında karşılaştırma yapabilme"
+        },
+        {
+          "code": "T.K.5.17",
+          "text": "Sözlü olarak tartışmaya katılabilme"
+        },
+        {
+          "code": "T.K.5.20",
+          "text": "Hazırlıklı konuşmasını yapılandırabilme"
+        },
+        {
+          "code": "T.K.5.26",
+          "text": "Konuşma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+        },
+        {
+          "code": "T.Y.5.1",
+          "text": "Yazma sürecini yönetebilme"
+        },
+        {
+          "code": "T.Y.5.3",
+          "text": "Yazısında içerik ve yapıya yönelik seçimlerini yönetebilme"
+        },
+        {
+          "code": "T.Y.5.9",
+          "text": "Yazılı üretim ve yazılı etkileşiminde karşılaştırma yapabilme"
+        },
+        {
+          "code": "T.Y.5.14",
+          "text": "Yazılı üretiminde ve yazılı etkileşiminde tartışabilme"
+        },
+        {
+          "code": "T.Y.5.21",
+          "text": "Yazım kuralları ve noktalama işaretlerini uygulayabilme"
+        },
+        {
+          "code": "T.Y.5.22",
+          "text": "Yazma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "5. Tema: İLETİŞİM VE SOSYAL İLİŞKİLER",
+      "start": "2026-03-23",
+      "end": "2026-05-03",
+      "outcomes": [
+        {
+          "code": "T.D.5.1",
+          "text": "Dinlemede/izlemede materyal seçimini yönetebilme"
+        },
+        {
+          "code": "T.D.5.2",
+          "text": "Dinlemede/izlemede strateji ve yöntem seçimlerini yönetebilme"
+        },
+        {
+          "code": "T.D.5.8",
+          "text": "Dinlediğinin/izlediğinin derin anlamını belirlemeye yönelik üst düzey çıkarımlar yapabilme"
+        },
+        {
+          "code": "T.D.5.10",
+          "text": "Dinledikleri/izledikleri arasında karşılaştırma yapabilme"
+        },
+        {
+          "code": "T.D.5.12",
+          "text": "Dinlediğini/izlediğini yorumlayabilme"
+        },
+        {
+          "code": "T.D.5.24",
+          "text": "Dinlediğindeki/izlediğindeki probleme çözüm üretebilme"
+        },
+        {
+          "code": "T.D.5.25",
+          "text": "Dinleme/izleme sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme Okuma"
+        },
+        {
+          "code": "T.O.5.1",
+          "text": "Okumada materyal seçimini yönetebilme"
+        },
+        {
+          "code": "T.O.5.3",
+          "text": "Okumada strateji ve yöntem seçimlerini yönetebilme"
+        },
+        {
+          "code": "T.O.5.9",
+          "text": "Metnin derin anlamını belirlemeye yönelik üst düzey çıkarımlar yapabilme"
+        },
+        {
+          "code": "T.O.5.11",
+          "text": "Metinler arası karşılaştırma yapabilme"
+        },
+        {
+          "code": "T.O.5.13",
+          "text": "Metni yorumlayabilme"
+        },
+        {
+          "code": "T.O.5.26",
+          "text": "Metindeki probleme çözüm üretebilme"
+        },
+        {
+          "code": "T.O.5.27",
+          "text": "Okuma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme Konuşma"
+        },
+        {
+          "code": "T.K.5.1",
+          "text": "Konuşma sürecini yönetebilme"
+        },
+        {
+          "code": "T.K.5.5",
+          "text": "Konuşmasında uygun tepki verebilme"
+        },
+        {
+          "code": "T.K.5.13",
+          "text": "Konuşmasında sınıflandırma yapabilme"
+        },
+        {
+          "code": "T.K.5.15",
+          "text": "Sözlü olarak özetleyebilme"
+        },
+        {
+          "code": "T.K.5.19",
+          "text": "Problem çözümüne yönelik konuşma yapabilme"
+        },
+        {
+          "code": "T.K.5.26",
+          "text": "Konuşma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme Yazma"
+        },
+        {
+          "code": "T.Y.5.1",
+          "text": "Yazma sürecini yönetebilme"
+        },
+        {
+          "code": "T.Y.5.3",
+          "text": "Yazısında içerik ve yapıya yönelik seçimlerini yönetebilme"
+        },
+        {
+          "code": "T.Y.5.5",
+          "text": "Yazılı etkileşiminde uygun tepki verebilme"
+        },
+        {
+          "code": "T.Y.5.10",
+          "text": "Yazısında sınıflandırma yapabilme"
+        },
+        {
+          "code": "T.Y.5.12",
+          "text": "Yazılı olarak özetleyebilme"
+        },
+        {
+          "code": "T.Y.5.16",
+          "text": "Problem çözümüne yönelik yazabilme"
+        },
+        {
+          "code": "T.Y.5.21",
+          "text": "Yazım kuralları ve noktalama işaretlerini uygulayabilme"
+        },
+        {
+          "code": "T.Y.5.22",
+          "text": "Yazma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+        }
+      ]
+    },
+    {
+      "name": "6. Tema: SAĞLIKLI YAŞIYORUM",
+      "start": "2026-05-04",
+      "end": "2026-06-21",
+      "outcomes": [
+        {
+          "code": "T.D.5.1",
+          "text": "Dinlemede/izlemede materyal seçimini yönetebilme"
+        },
+        {
+          "code": "T.D.5.14",
+          "text": "Bilgilendirici metinlerde metin yapılarından hareketle önemli bilgileri belirlemeye yönelik çözümleme yapabilme"
+        },
+        {
+          "code": "T.D.5.20",
+          "text": "Çoklu ortam ögelerine yönelik çözümleme yapabilme"
+        },
+        {
+          "code": "T.D.5.22",
+          "text": "Dinlediğini/izlediğini değerlendirebilme"
+        },
+        {
+          "code": "T.D.5.23",
+          "text": "Dinlediğini/izlediğini eleştirebilme"
+        },
+        {
+          "code": "T.D.5.25",
+          "text": "Dinleme/izleme sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme Okuma"
+        },
+        {
+          "code": "T.O.5.1",
+          "text": "Okumada materyal seçimini yönetebilme"
+        },
+        {
+          "code": "T.O.5.15",
+          "text": "Bilgilendirici metinlerde metin yapılarından hareketle önemli bilgileri belirlemeye yönelik çözümleme yapabilme"
+        },
+        {
+          "code": "T.O.5.22",
+          "text": "Çoklu ortam ögelerine yönelik çözümleme yapabilme"
+        },
+        {
+          "code": "T.O.5.24",
+          "text": "Okuduğunu değerlendirebilme"
+        },
+        {
+          "code": "T.O.5.25",
+          "text": "Metni eleştirebilme"
+        },
+        {
+          "code": "T.O.5.27",
+          "text": "Okuma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme Konuşma"
+        },
+        {
+          "code": "T.K.5.1",
+          "text": "Konuşma sürecini yönetebilme"
+        },
+        {
+          "code": "T.K.5.6",
+          "text": "Konuşmasında çoklu ortam ögeleriyle içerik oluşturabilme"
+        },
+        {
+          "code": "T.K.5.10",
+          "text": "Sözlü sunum yapabilme"
+        },
+        {
+          "code": "T.K.5.14",
+          "text": "Yorumunu sözlü olarak ifade edebilme"
+        },
+        {
+          "code": "T.K.5.16",
+          "text": "Değerlendirmesini sözlü olarak ifade edebilme"
+        },
+        {
+          "code": "T.K.5.18",
+          "text": "Eleştirisini sözlü olarak ifade edebilme"
+        },
+        {
+          "code": "T.K.5.26",
+          "text": "Konuşma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme Yazma"
+        },
+        {
+          "code": "T.Y.5.1",
+          "text": "Yazma sürecini yönetebilme"
+        },
+        {
+          "code": "T.Y.5.6",
+          "text": "Yazısında çoklu ortam ögeleriyle içerik oluşturabilme"
+        },
+        {
+          "code": "T.Y.5.11",
+          "text": "Yorumunu yazılı olarak ifade edebilme"
+        },
+        {
+          "code": "T.Y.5.13",
+          "text": "Değerlendirmesini yazılı olarak ifade edebilme"
+        },
+        {
+          "code": "T.Y.5.15",
+          "text": "Eleştirisini yazılı olarak ifade edebilme"
+        },
+        {
+          "code": "T.Y.5.21",
+          "text": "Yazım kuralları ve noktalama işaretlerini uygulayabilme"
+        },
+        {
+          "code": "T.Y.5.22",
+          "text": "Yazma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+        }
+      ]
+    }
+  ]
+}
