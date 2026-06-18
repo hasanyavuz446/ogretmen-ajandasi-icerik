@@ -4,8 +4,8 @@
   "themes": [
     {
       "name": "1. Tema: OYUN DÜNYASI",
-      "start": "2025-09-08",
-      "end": "2025-10-19",
+      "start": "2026-09-14",
+      "end": "2026-10-25",
       "outcomes": [
         {
           "code": "T.D.5.1",
@@ -107,8 +107,8 @@
     },
     {
       "name": "2. Tema: ATATÜRK’Ü TANIMAK",
-      "start": "2025-10-20",
-      "end": "2025-12-07",
+      "start": "2026-10-26",
+      "end": "2026-12-13",
       "outcomes": [
         {
           "code": "T.D.5.1",
@@ -218,8 +218,8 @@
     },
     {
       "name": "3. Tema: DUYGULARIMI TANIYORUM",
-      "start": "2025-12-08",
-      "end": "2026-01-18",
+      "start": "2026-12-14",
+      "end": "2027-01-24",
       "outcomes": [
         {
           "code": "T.D.5.1",
@@ -333,8 +333,8 @@
     },
     {
       "name": "4. Tema: GELENEKLERİMİZ",
-      "start": "2026-02-02",
-      "end": "2026-03-15",
+      "start": "2027-02-08",
+      "end": "2027-03-21",
       "outcomes": [
         {
           "code": "T.D.5.1",
@@ -448,8 +448,8 @@
     },
     {
       "name": "5. Tema: İLETİŞİM VE SOSYAL İLİŞKİLER",
-      "start": "2026-03-23",
-      "end": "2026-05-03",
+      "start": "2027-03-29",
+      "end": "2027-05-09",
       "outcomes": [
         {
           "code": "T.D.5.1",
@@ -567,8 +567,8 @@
     },
     {
       "name": "6. Tema: SAĞLIKLI YAŞIYORUM",
-      "start": "2026-05-04",
-      "end": "2026-06-21",
+      "start": "2027-05-10",
+      "end": "2027-06-27",
       "outcomes": [
         {
           "code": "T.D.5.1",

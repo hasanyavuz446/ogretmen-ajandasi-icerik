@@ -5,15 +5,15 @@
     {
       "name": "Hazırlık ve Tekrar",
       "konu": "Oryantasyon ve geçen yıl konularının tekrarı (REVISION 1-2).",
-      "start": "2025-09-08",
-      "end": "2025-09-19",
+      "start": "2026-09-14",
+      "end": "2026-09-25",
       "outcomes": []
     },
     {
       "name": "Theme 1: School Life",
       "konu": "People, places and rules at school; school clubs; countries; national days and celebrations",
-      "start": "2025-09-22",
-      "end": "2025-10-17",
+      "start": "2026-09-28",
+      "end": "2026-10-23",
       "outcomes": [
         {
           "code": "ENG.5.1.L1",
@@ -112,8 +112,8 @@
     {
       "name": "Theme 2: Classroom Life",
       "konu": "Classroom rules and language; school subjects; timetables; classroom objects; days of the week; time",
-      "start": "2025-10-20",
-      "end": "2025-11-21",
+      "start": "2026-10-26",
+      "end": "2026-11-27",
       "outcomes": [
         {
           "code": "ENG.5.2.L1",
@@ -212,8 +212,8 @@
     {
       "name": "Theme 3: Personal Life",
       "konu": "Basic body parts and physical features; clothes; daily routines and activities",
-      "start": "2025-11-24",
-      "end": "2025-12-19",
+      "start": "2026-11-30",
+      "end": "2026-12-25",
       "outcomes": [
         {
           "code": "ENG.5.3.L1",
@@ -312,8 +312,8 @@
     {
       "name": "Theme 4: Family Life",
       "konu": "Family members' routines; family members' hobbies and activities",
-      "start": "2025-12-22",
-      "end": "2026-01-16",
+      "start": "2026-12-28",
+      "end": "2027-01-22",
       "outcomes": [
         {
           "code": "ENG.5.4.L1",
@@ -412,8 +412,8 @@
     {
       "name": "Theme 5: Life in the Neighbourhood & City",
       "konu": "Places for recreation and attractions in the neighbourhood and city; different types of houses",
-      "start": "2026-02-02",
-      "end": "2026-03-06",
+      "start": "2027-02-08",
+      "end": "2027-03-12",
       "outcomes": [
         {
           "code": "ENG.5.5.L1",
@@ -512,8 +512,8 @@
     {
       "name": "Theme 6: Life in the World",
       "konu": "Basic food types; ordering in a restaurant; food events",
-      "start": "2026-03-09",
-      "end": "2026-04-10",
+      "start": "2027-03-15",
+      "end": "2027-04-16",
       "outcomes": [
         {
           "code": "ENG.5.6.L1",
@@ -612,8 +612,8 @@
     {
       "name": "Theme 7: Life in Nature",
       "konu": "Types of animals in nature; wild animals in nature; their habitats",
-      "start": "2026-04-13",
-      "end": "2026-05-08",
+      "start": "2027-04-19",
+      "end": "2027-05-14",
       "outcomes": [
         {
           "code": "ENG.5.7.L1",
@@ -712,8 +712,8 @@
     {
       "name": "Theme 8: Life in the Universe & Future",
       "konu": "Planet Earth; holidays; school holidays, places, activities, and plans for holidays",
-      "start": "2026-05-11",
-      "end": "2026-06-12",
+      "start": "2027-05-17",
+      "end": "2027-06-25",
       "outcomes": [
         {
           "code": "ENG.5.8.L1",

@@ -5,8 +5,8 @@
     {
       "name": "1. ALLAH İNANCI",
       "konu": "Evrendeki Mükemmel Düzen",
-      "start": "2025-09-08",
-      "end": "2025-09-14",
+      "start": "2026-09-14",
+      "end": "2026-09-20",
       "outcomes": [
         {
           "code": "DKAB.5.1.1",
@@ -17,8 +17,8 @@
     {
       "name": "1. ALLAH İNANCI",
       "konu": "Allah’ın Varlığı ve Birliği",
-      "start": "2025-09-15",
-      "end": "2025-09-21",
+      "start": "2026-09-21",
+      "end": "2026-09-27",
       "outcomes": [
         {
           "code": "DKAB.5.1.2",
@@ -29,8 +29,8 @@
     {
       "name": "1. ALLAH İNANCI",
       "konu": "Allah’ın Varlığı ve Birliği",
-      "start": "2025-09-22",
-      "end": "2025-09-28",
+      "start": "2026-09-28",
+      "end": "2026-10-04",
       "outcomes": [
         {
           "code": "DKAB.5.1.2",
@@ -41,8 +41,8 @@
     {
       "name": "1. ALLAH İNANCI",
       "konu": "Allah’ın Güzel İsimleri",
-      "start": "2025-09-29",
-      "end": "2025-10-05",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
       "outcomes": [
         {
           "code": "DKAB.5.1.3",
@@ -53,8 +53,8 @@
     {
       "name": "1. ALLAH İNANCI",
       "konu": "Allah’ın Güzel İsimleri",
-      "start": "2025-10-06",
-      "end": "2025-10-12",
+      "start": "2026-10-12",
+      "end": "2026-10-18",
       "outcomes": [
         {
           "code": "DKAB.5.1.3",
@@ -65,8 +65,8 @@
     {
       "name": "1. ALLAH İNANCI",
       "konu": "Bir SureÖğreniyorum: İhlas Suresi",
-      "start": "2025-10-13",
-      "end": "2025-10-19",
+      "start": "2026-10-19",
+      "end": "2026-10-25",
       "outcomes": [
         {
           "code": "DKAB.5.1.4",
@@ -77,8 +77,8 @@
     {
       "name": "1. ALLAH İNANCI",
       "konu": "Bir SureÖğreniyorum: İhlas Suresi",
-      "start": "2025-10-20",
-      "end": "2025-10-26",
+      "start": "2026-10-26",
+      "end": "2026-11-01",
       "outcomes": [
         {
           "code": "DKAB.5.1.4",
@@ -93,8 +93,8 @@
     {
       "name": "2. NAMAZ",
       "konu": "Allah’ın Huzurunda Olmak: Namaz",
-      "start": "2025-11-03",
-      "end": "2025-11-09",
+      "start": "2026-11-09",
+      "end": "2026-11-15",
       "outcomes": [
         {
           "code": "DKAB.5.2.1",
@@ -105,8 +105,8 @@
     {
       "name": "2. NAMAZ",
       "konu": "Namazın Kılınışı",
-      "start": "2025-11-17",
-      "end": "2025-11-23",
+      "start": "2026-11-23",
+      "end": "2026-11-29",
       "outcomes": [
         {
           "code": "DKAB.5.2.2",
@@ -117,8 +117,8 @@
     {
       "name": "2. NAMAZ",
       "konu": "Namazın Kılınışı",
-      "start": "2025-11-24",
-      "end": "2025-11-30",
+      "start": "2026-11-30",
+      "end": "2026-12-06",
       "outcomes": [
         {
           "code": "DKAB.5.2.2",
@@ -129,8 +129,8 @@
     {
       "name": "2. NAMAZ",
       "konu": "Namazın Kılınışı",
-      "start": "2025-12-01",
-      "end": "2025-12-07",
+      "start": "2026-12-07",
+      "end": "2026-12-13",
       "outcomes": [
         {
           "code": "DKAB.5.2.2",
@@ -141,8 +141,8 @@
     {
       "name": "2. NAMAZ",
       "konu": "Namazın İnsana Kazandırdıkları",
-      "start": "2025-12-08",
-      "end": "2025-12-14",
+      "start": "2026-12-14",
+      "end": "2026-12-20",
       "outcomes": [
         {
           "code": "DKAB.5.2.3",
@@ -153,8 +153,8 @@
     {
       "name": "2. NAMAZ",
       "konu": "Namazın İnsana Kazandırdıkları",
-      "start": "2025-12-15",
-      "end": "2025-12-21",
+      "start": "2026-12-21",
+      "end": "2026-12-27",
       "outcomes": [
         {
           "code": "DKAB.5.2.3",
@@ -165,8 +165,8 @@
     {
       "name": "2. NAMAZ",
       "konu": "Bir Dua Öğreniyorum: Tahiyyat Duası",
-      "start": "2025-12-22",
-      "end": "2025-12-28",
+      "start": "2026-12-28",
+      "end": "2027-01-03",
       "outcomes": [
         {
           "code": "DKAB.5.2.4",
@@ -177,8 +177,8 @@
     {
       "name": "2. NAMAZ",
       "konu": "Bir Dua Öğreniyorum: Tahiyyat Duası",
-      "start": "2025-12-29",
-      "end": "2026-01-04",
+      "start": "2027-01-04",
+      "end": "2027-01-10",
       "outcomes": [
         {
           "code": "DKAB.5.2.4",
@@ -188,21 +188,21 @@
     },
     {
       "name": "Din Kültürü ve Ahlak Bilgisi",
-      "start": "2026-01-05",
-      "end": "2026-01-11",
+      "start": "2027-01-11",
+      "end": "2027-01-17",
       "outcomes": []
     },
     {
       "name": "ŞUBAT",
-      "start": "2026-01-12",
-      "end": "2026-01-18",
+      "start": "2027-01-18",
+      "end": "2027-01-24",
       "outcomes": []
     },
     {
       "name": "3. KUR'AN-I KERİM",
       "konu": "Kur’an-ı Kerim’in  İç Düzeni",
-      "start": "2026-02-02",
-      "end": "2026-02-08",
+      "start": "2027-02-08",
+      "end": "2027-02-14",
       "outcomes": [
         {
           "code": "DKAB.5.3.1",
@@ -213,8 +213,8 @@
     {
       "name": "3. KUR'AN-I KERİM",
       "konu": "Kur’an-ı Kerim’in Temel Özellikleri",
-      "start": "2026-02-09",
-      "end": "2026-02-15",
+      "start": "2027-02-15",
+      "end": "2027-02-21",
       "outcomes": [
         {
           "code": "DKAB.5.3.2",
@@ -225,8 +225,8 @@
     {
       "name": "3. KUR'AN-I KERİM",
       "konu": "Kur’an-ı Kerim’in Temel Özellikleri",
-      "start": "2026-02-16",
-      "end": "2026-02-22",
+      "start": "2027-02-22",
+      "end": "2027-02-28",
       "outcomes": [
         {
           "code": "DKAB.5.3.2",
@@ -237,8 +237,8 @@
     {
       "name": "3. KUR'AN-I KERİM",
       "konu": "Kur’an-ı Kerim’in Ana Konuları",
-      "start": "2026-02-23",
-      "end": "2026-03-01",
+      "start": "2027-03-01",
+      "end": "2027-03-07",
       "outcomes": [
         {
           "code": "DKAB.5.3.3",
@@ -249,8 +249,8 @@
     {
       "name": "3. KUR'AN-I KERİM",
       "konu": "Kur’an-ı Kerim’in Ana Konuları",
-      "start": "2026-03-02",
-      "end": "2026-03-08",
+      "start": "2027-03-08",
+      "end": "2027-03-14",
       "outcomes": [
         {
           "code": "DKAB.5.3.3",
@@ -261,8 +261,8 @@
     {
       "name": "3. KUR'AN-I KERİM",
       "konu": "Bir Sure Öğreniyorum:  Kevser Suresi",
-      "start": "2026-03-09",
-      "end": "2026-03-15",
+      "start": "2027-03-15",
+      "end": "2027-03-21",
       "outcomes": [
         {
           "code": "DKAB.5.3.4",
@@ -273,8 +273,8 @@
     {
       "name": "3. KUR'AN-I KERİM",
       "konu": "Bir Sure Öğreniyorum:  Kevser Suresi",
-      "start": "2026-03-23",
-      "end": "2026-03-29",
+      "start": "2027-03-29",
+      "end": "2027-04-04",
       "outcomes": [
         {
           "code": "DKAB.5.3.4",
@@ -285,8 +285,8 @@
     {
       "name": "4. PEYGAMBER  KISSALARI",
       "konu": "Allah’ın Elçileri: Peygamberler",
-      "start": "2026-03-30",
-      "end": "2026-04-05",
+      "start": "2027-04-05",
+      "end": "2027-04-11",
       "outcomes": [
         {
           "code": "DKAB.5.4.1",
@@ -297,8 +297,8 @@
     {
       "name": "4. PEYGAMBER  KISSALARI",
       "konu": "Allah’ın Elçileri: Peygamberler",
-      "start": "2026-04-06",
-      "end": "2026-04-12",
+      "start": "2027-04-12",
+      "end": "2027-04-18",
       "outcomes": [
         {
           "code": "DKAB.5.4.1",
@@ -309,8 +309,8 @@
     {
       "name": "4. PEYGAMBER  KISSALARI",
       "konu": "Allah’ın Elçileri:  Peygamberler",
-      "start": "2026-04-13",
-      "end": "2026-04-19",
+      "start": "2027-04-19",
+      "end": "2027-04-25",
       "outcomes": [
         {
           "code": "DKAB.5.4.1",
@@ -321,8 +321,8 @@
     {
       "name": "4. PEYGAMBER  KISSALARI",
       "konu": "Kur’an-ı Kerim’den Öğütler:  Peygamber Kıssaları",
-      "start": "2026-04-20",
-      "end": "2026-04-26",
+      "start": "2027-04-26",
+      "end": "2027-05-02",
       "outcomes": [
         {
           "code": "DKAB.5.4.2",
@@ -333,8 +333,8 @@
     {
       "name": "4. PEYGAMBER  KISSALARI",
       "konu": "Kur’an-ı Kerim’den Öğütler:  Peygamber Kıssaları",
-      "start": "2026-04-27",
-      "end": "2026-05-03",
+      "start": "2027-05-03",
+      "end": "2027-05-09",
       "outcomes": [
         {
           "code": "DKAB.5.4.2",
@@ -345,8 +345,8 @@
     {
       "name": "4. PEYGAMBER  KISSALARI",
       "konu": "Bir SureÖğreniyorum:  Kureyş Suresi",
-      "start": "2026-05-04",
-      "end": "2026-05-10",
+      "start": "2027-05-10",
+      "end": "2027-05-16",
       "outcomes": [
         {
           "code": "DKAB.5.4.3",
@@ -357,8 +357,8 @@
     {
       "name": "5. MİMARİMİZDEKİ DİNÎ  MOTİFLER",
       "konu": "Dinin Mimarimize  Etkisi",
-      "start": "2026-05-11",
-      "end": "2026-05-17",
+      "start": "2027-05-17",
+      "end": "2027-05-23",
       "outcomes": [
         {
           "code": "DKAB.5.5.1",
@@ -369,8 +369,8 @@
     {
       "name": "5. MİMARİMİZDEKİ DİNÎ MOTİFLER",
       "konu": "Camileri Tanıyalım",
-      "start": "2026-05-18",
-      "end": "2026-05-24",
+      "start": "2027-05-24",
+      "end": "2027-05-30",
       "outcomes": [
         {
           "code": "DKAB.5.5.2",
@@ -381,8 +381,8 @@
     {
       "name": "5. MİMARİMİZDEKİ DİNÎ MOTİFLER",
       "konu": "Camileri Tanıyalım",
-      "start": "2026-05-25",
-      "end": "2026-05-31",
+      "start": "2027-05-31",
+      "end": "2027-06-06",
       "outcomes": [
         {
           "code": "DKAB.5.5.2",
@@ -393,8 +393,8 @@
     {
       "name": "5. MİMARİMİZDEKİ DİNÎ MOTİFLER",
       "konu": "Kültürümüzden Cami Örnekleri",
-      "start": "2026-06-01",
-      "end": "2026-06-07",
+      "start": "2027-06-07",
+      "end": "2027-06-13",
       "outcomes": [
         {
           "code": "DKAB.5.5.3",
@@ -405,8 +405,8 @@
     {
       "name": "5. MİMARİMİZDEKİ DİNÎ MOTİFLER",
       "konu": "Kültürümüzden Cami Örnekleri",
-      "start": "2026-06-08",
-      "end": "2026-06-14",
+      "start": "2027-06-14",
+      "end": "2027-06-20",
       "outcomes": [
         {
           "code": "DKAB.5.5.3",
@@ -416,15 +416,15 @@
     },
     {
       "name": "Din Kültürü ve Ahlak Bilgisi",
-      "start": "2026-06-15",
-      "end": "2026-06-21",
+      "start": "2027-06-21",
+      "end": "2027-06-27",
       "outcomes": []
     },
     {
       "name": "UYGUNDUR.",
       "konu": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından planlanır ve uygulanır.",
-      "start": "2026-06-22",
-      "end": "2026-06-28",
+      "start": "2027-06-28",
+      "end": "2027-07-04",
       "outcomes": []
     }
   ]

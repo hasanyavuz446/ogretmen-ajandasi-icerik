@@ -5,8 +5,8 @@
     {
       "name": "Geometrik Şekiller",
       "konu": "Temel Geometrik Çizimler ve İnşalar",
-      "start": "2025-09-08",
-      "end": "2025-09-14",
+      "start": "2026-09-14",
+      "end": "2026-09-20",
       "outcomes": [
         {
           "code": "MAT.5.3.1",
@@ -17,8 +17,8 @@
     {
       "name": "Geometrik Şekiller",
       "konu": "Temel Geometrik Çizimler ve İnşalar",
-      "start": "2025-09-15",
-      "end": "2025-09-21",
+      "start": "2026-09-21",
+      "end": "2026-09-27",
       "outcomes": [
         {
           "code": "MAT.5.3.2",
@@ -29,8 +29,8 @@
     {
       "name": "Geometrik Şekiller",
       "konu": "Açı Ölçme",
-      "start": "2025-09-22",
-      "end": "2025-09-28",
+      "start": "2026-09-28",
+      "end": "2026-10-04",
       "outcomes": [
         {
           "code": "MAT.5.3.3",
@@ -41,8 +41,8 @@
     {
       "name": "Geometrik Şekiller",
       "konu": "Açı Ölçme",
-      "start": "2025-09-29",
-      "end": "2025-10-05",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
       "outcomes": [
         {
           "code": "MAT.5.3.4",
@@ -53,8 +53,8 @@
     {
       "name": "Geometrik Şekiller",
       "konu": "Çokgenler ve Çember",
-      "start": "2025-10-06",
-      "end": "2025-10-12",
+      "start": "2026-10-12",
+      "end": "2026-10-18",
       "outcomes": [
         {
           "code": "MAT.5.3.5",
@@ -65,8 +65,8 @@
     {
       "name": "Geometrik Şekiller",
       "konu": "Çokgenler ve Çember",
-      "start": "2025-10-13",
-      "end": "2025-10-19",
+      "start": "2026-10-19",
+      "end": "2026-10-25",
       "outcomes": [
         {
           "code": "MAT.5.3.6",
@@ -77,8 +77,8 @@
     {
       "name": "Geometrik Şekiller",
       "konu": "Çokgenler ve Çember",
-      "start": "2025-10-20",
-      "end": "2025-10-26",
+      "start": "2026-10-26",
+      "end": "2026-11-01",
       "outcomes": [
         {
           "code": "MAT.5.3.7",
@@ -89,8 +89,8 @@
     {
       "name": "Geometrik Şekiller",
       "konu": "Çokgenler ve Çember — Sınav Haftası",
-      "start": "2025-10-27",
-      "end": "2025-11-02",
+      "start": "2026-11-02",
+      "end": "2026-11-08",
       "outcomes": [
         {
           "code": "MAT.5.3.7",
@@ -101,8 +101,8 @@
     {
       "name": "Sayılar ve Nicelikler (1)",
       "konu": "Çok Basamaklı Sayıları Okuma ve Yazma",
-      "start": "2025-11-03",
-      "end": "2025-11-09",
+      "start": "2026-11-09",
+      "end": "2026-11-15",
       "outcomes": [
         {
           "code": "MAT.5.1.1",
@@ -113,8 +113,8 @@
     {
       "name": "Sayılar ve Nicelikler (1)",
       "konu": "Çözümleme",
-      "start": "2025-11-17",
-      "end": "2025-11-23",
+      "start": "2026-11-23",
+      "end": "2026-11-29",
       "outcomes": [
         {
           "code": "MAT.5.1.1",
@@ -125,8 +125,8 @@
     {
       "name": "Sayılar ve Nicelikler (1)",
       "konu": "Doğal Sayılarla Dört İşlem İçeren Problem Çözme",
-      "start": "2025-11-24",
-      "end": "2025-11-30",
+      "start": "2026-11-30",
+      "end": "2026-12-06",
       "outcomes": [
         {
           "code": "MAT.5.1.2",
@@ -137,8 +137,8 @@
     {
       "name": "Sayılar ve Nicelikler (1)",
       "konu": "Doğal Sayılarla Dört İşlem İçeren Problem Çözme",
-      "start": "2025-12-01",
-      "end": "2025-12-07",
+      "start": "2026-12-07",
+      "end": "2026-12-13",
       "outcomes": [
         {
           "code": "MAT.5.1.2",
@@ -149,8 +149,8 @@
     {
       "name": "Sayılar ve Nicelikler (1)",
       "konu": "Doğal Sayılarla Dört İşlem İçeren Problem Çözme",
-      "start": "2025-12-08",
-      "end": "2025-12-14",
+      "start": "2026-12-14",
+      "end": "2026-12-20",
       "outcomes": [
         {
           "code": "MAT.5.1.2",
@@ -161,8 +161,8 @@
     {
       "name": "Sayılar ve Nicelikler (1) · Geometrik Nicelikler",
       "konu": "Dört İşlem Problem Çözme · Dikdörtgenin Çevre Uzunluğu ve Alanı",
-      "start": "2025-12-15",
-      "end": "2025-12-21",
+      "start": "2026-12-21",
+      "end": "2026-12-27",
       "outcomes": [
         {
           "code": "MAT.5.1.2",
@@ -177,8 +177,8 @@
     {
       "name": "Geometrik Nicelikler",
       "konu": "Dikdörtgenin Çevre Uzunluğu ve Alanı",
-      "start": "2025-12-22",
-      "end": "2025-12-28",
+      "start": "2026-12-28",
+      "end": "2027-01-03",
       "outcomes": [
         {
           "code": "MAT.5.4.1",
@@ -193,8 +193,8 @@
     {
       "name": "Geometrik Nicelikler",
       "konu": "Dikdörtgenin Çevre Uzunluğu ve Alanı — Sınav Haftası",
-      "start": "2025-12-29",
-      "end": "2026-01-04",
+      "start": "2027-01-04",
+      "end": "2027-01-10",
       "outcomes": [
         {
           "code": "MAT.5.4.3",
@@ -205,8 +205,8 @@
     {
       "name": "Geometrik Nicelikler",
       "konu": "Dikdörtgenin Çevre Uzunluğu ve Alanı",
-      "start": "2026-01-05",
-      "end": "2026-01-11",
+      "start": "2027-01-11",
+      "end": "2027-01-17",
       "outcomes": [
         {
           "code": "MAT.5.4.4",
@@ -217,8 +217,8 @@
     {
       "name": "Geometrik Nicelikler",
       "konu": "Dikdörtgenin Çevre Uzunluğu ve Alanı",
-      "start": "2026-01-12",
-      "end": "2026-01-18",
+      "start": "2027-01-18",
+      "end": "2027-01-24",
       "outcomes": [
         {
           "code": "MAT.5.4.4",
@@ -229,8 +229,8 @@
     {
       "name": "Sayılar ve Nicelikler (2)",
       "konu": "Kesirlerin Farklı Gösterimleri",
-      "start": "2026-02-02",
-      "end": "2026-02-08",
+      "start": "2027-02-08",
+      "end": "2027-02-14",
       "outcomes": [
         {
           "code": "MAT.5.1.3",
@@ -241,8 +241,8 @@
     {
       "name": "Sayılar ve Nicelikler (2)",
       "konu": "Kesirlerin Farklı Gösterimleri",
-      "start": "2026-02-09",
-      "end": "2026-02-15",
+      "start": "2027-02-15",
+      "end": "2027-02-21",
       "outcomes": [
         {
           "code": "MAT.5.1.3",
@@ -253,8 +253,8 @@
     {
       "name": "Sayılar ve Nicelikler (2)",
       "konu": "Kesirlerin Farklı Gösterimleri",
-      "start": "2026-02-16",
-      "end": "2026-02-22",
+      "start": "2027-02-22",
+      "end": "2027-02-28",
       "outcomes": [
         {
           "code": "MAT.5.1.3",
@@ -265,8 +265,8 @@
     {
       "name": "Sayılar ve Nicelikler (2)",
       "konu": "Kesirlerin Farklı Gösterimleri · Kesirlerin Karşılaştırılması",
-      "start": "2026-02-23",
-      "end": "2026-03-01",
+      "start": "2027-03-01",
+      "end": "2027-03-07",
       "outcomes": [
         {
           "code": "MAT.5.1.3",
@@ -281,8 +281,8 @@
     {
       "name": "Sayılar ve Nicelikler (2)",
       "konu": "Kesirlerin Karşılaştırılması",
-      "start": "2026-03-02",
-      "end": "2026-03-08",
+      "start": "2027-03-08",
+      "end": "2027-03-14",
       "outcomes": [
         {
           "code": "MAT.5.1.4",
@@ -293,8 +293,8 @@
     {
       "name": "Sayılar ve Nicelikler (2)",
       "konu": "Kesirlerin Karşılaştırılması",
-      "start": "2026-03-09",
-      "end": "2026-03-15",
+      "start": "2027-03-15",
+      "end": "2027-03-21",
       "outcomes": [
         {
           "code": "MAT.5.1.4",
@@ -305,8 +305,8 @@
     {
       "name": "Sayılar ve Nicelikler (2)",
       "konu": "Kesirlerin Karşılaştırılması — Sınav Haftası",
-      "start": "2026-03-23",
-      "end": "2026-03-29",
+      "start": "2027-03-29",
+      "end": "2027-04-04",
       "outcomes": [
         {
           "code": "MAT.5.1.4",
@@ -317,8 +317,8 @@
     {
       "name": "İstatistiksel Araştırma Süreci",
       "konu": "Kategorik Veri Dağılımları",
-      "start": "2026-03-30",
-      "end": "2026-04-05",
+      "start": "2027-04-05",
+      "end": "2027-04-11",
       "outcomes": [
         {
           "code": "MAT.5.5.1",
@@ -329,8 +329,8 @@
     {
       "name": "İstatistiksel Araştırma Süreci",
       "konu": "Kategorik Veri Dağılımları",
-      "start": "2026-04-06",
-      "end": "2026-04-12",
+      "start": "2027-04-12",
+      "end": "2027-04-18",
       "outcomes": [
         {
           "code": "MAT.5.5.1",
@@ -341,8 +341,8 @@
     {
       "name": "İstatistiksel Araştırma Süreci",
       "konu": "Kategorik Veri Dağılımları",
-      "start": "2026-04-13",
-      "end": "2026-04-19",
+      "start": "2027-04-19",
+      "end": "2027-04-25",
       "outcomes": [
         {
           "code": "MAT.5.5.1",
@@ -353,8 +353,8 @@
     {
       "name": "İstatistiksel Araştırma Süreci",
       "konu": "Kategorik Veri Dağılımları",
-      "start": "2026-04-20",
-      "end": "2026-04-26",
+      "start": "2027-04-26",
+      "end": "2027-05-02",
       "outcomes": [
         {
           "code": "MAT.5.5.1",
@@ -369,8 +369,8 @@
     {
       "name": "İstatistiksel Araştırma Süreci · İşlemlerle Cebirsel Düşünme",
       "konu": "Kategorik Veri Dağılımları · Eşitliğin Korunumu",
-      "start": "2026-04-27",
-      "end": "2026-05-03",
+      "start": "2027-05-03",
+      "end": "2027-05-09",
       "outcomes": [
         {
           "code": "MAT.5.5.2",
@@ -385,8 +385,8 @@
     {
       "name": "İşlemlerle Cebirsel Düşünme",
       "konu": "Değişme, Birleşme ve Dağılma Özellikleri",
-      "start": "2026-05-04",
-      "end": "2026-05-10",
+      "start": "2027-05-10",
+      "end": "2027-05-16",
       "outcomes": [
         {
           "code": "MAT.5.2.1",
@@ -397,8 +397,8 @@
     {
       "name": "İşlemlerle Cebirsel Düşünme",
       "konu": "İşlem Önceliği · Örüntüler",
-      "start": "2026-05-11",
-      "end": "2026-05-17",
+      "start": "2027-05-17",
+      "end": "2027-05-23",
       "outcomes": [
         {
           "code": "MAT.5.2.2",
@@ -413,8 +413,8 @@
     {
       "name": "İşlemlerle Cebirsel Düşünme",
       "konu": "Örüntüler",
-      "start": "2026-05-18",
-      "end": "2026-05-24",
+      "start": "2027-05-24",
+      "end": "2027-05-30",
       "outcomes": [
         {
           "code": "MAT.5.2.3",
@@ -425,8 +425,8 @@
     {
       "name": "İşlemlerle Cebirsel Düşünme · Veriden Olasılığa",
       "konu": "Temel Aritmetik İşlemler ve Algoritma · Öznel Olasılık",
-      "start": "2026-06-01",
-      "end": "2026-06-07",
+      "start": "2027-06-07",
+      "end": "2027-06-13",
       "outcomes": [
         {
           "code": "MAT.5.2.4",
@@ -437,8 +437,8 @@
     {
       "name": "Veriden Olasılığa",
       "konu": "Öznel Olasılık — Sınav Haftası",
-      "start": "2026-06-08",
-      "end": "2026-06-14",
+      "start": "2027-06-14",
+      "end": "2027-06-20",
       "outcomes": [
         {
           "code": "MAT.5.2.4",
@@ -453,8 +453,8 @@
     {
       "name": "Veriden Olasılığa",
       "konu": "Öznel Olasılık",
-      "start": "2026-06-15",
-      "end": "2026-06-21",
+      "start": "2027-06-21",
+      "end": "2027-06-27",
       "outcomes": [
         {
           "code": "MAT.5.6.2",
@@ -465,8 +465,8 @@
     {
       "name": "Sosyal Etkinlik · Farklılaştırma",
       "konu": "Okul temelli planlama — yıl sonu etkinlikleri",
-      "start": "2026-06-22",
-      "end": "2026-06-28",
+      "start": "2027-06-28",
+      "end": "2027-07-04",
       "outcomes": []
     }
   ]

@@ -5,8 +5,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 1: Life",
-      "start": "2025-09-08",
-      "end": "2025-09-14",
+      "start": "2026-09-14",
+      "end": "2026-09-20",
       "outcomes": [
         {
           "code": "E6.1.L1",
@@ -33,8 +33,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 1: Life",
-      "start": "2025-09-15",
-      "end": "2025-09-21",
+      "start": "2026-09-21",
+      "end": "2026-09-27",
       "outcomes": [
         {
           "code": "E6.1.L1",
@@ -61,8 +61,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 1: Life",
-      "start": "2025-09-22",
-      "end": "2025-09-28",
+      "start": "2026-09-28",
+      "end": "2026-10-04",
       "outcomes": [
         {
           "code": "E6.1.L1",
@@ -89,8 +89,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 1: Life",
-      "start": "2025-09-29",
-      "end": "2025-10-05",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
       "outcomes": [
         {
           "code": "E6.1.L1",
@@ -117,8 +117,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 2: Yummy Breakfast",
-      "start": "2025-10-06",
-      "end": "2025-10-12",
+      "start": "2026-10-12",
+      "end": "2026-10-18",
       "outcomes": [
         {
           "code": "E6.2.L1",
@@ -145,8 +145,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 2: Yummy Breakfast",
-      "start": "2025-10-13",
-      "end": "2025-10-19",
+      "start": "2026-10-19",
+      "end": "2026-10-25",
       "outcomes": [
         {
           "code": "E6.2.L1",
@@ -173,8 +173,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 2: Yummy Breakfast",
-      "start": "2025-10-20",
-      "end": "2025-10-26",
+      "start": "2026-10-26",
+      "end": "2026-11-01",
       "outcomes": [
         {
           "code": "E6.2.L1",
@@ -201,8 +201,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 2: Yummy Breakfast",
-      "start": "2025-10-27",
-      "end": "2025-11-02",
+      "start": "2026-11-02",
+      "end": "2026-11-08",
       "outcomes": [
         {
           "code": "E6.2.L1",
@@ -229,8 +229,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 3: Downtown",
-      "start": "2025-11-03",
-      "end": "2025-11-09",
+      "start": "2026-11-09",
+      "end": "2026-11-15",
       "outcomes": [
         {
           "code": "E6.3.L1",
@@ -264,15 +264,15 @@
     },
     {
       "name": "ARA TATİL",
-      "start": "2025-11-10",
-      "end": "2025-11-16",
+      "start": "2026-11-16",
+      "end": "2026-11-22",
       "outcomes": []
     },
     {
       "name": "İngilizce",
       "konu": "Unit 3: Downtown",
-      "start": "2025-11-17",
-      "end": "2025-11-23",
+      "start": "2026-11-23",
+      "end": "2026-11-29",
       "outcomes": [
         {
           "code": "E6.3.L1",
@@ -307,8 +307,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 3: Downtown",
-      "start": "2025-11-24",
-      "end": "2025-11-30",
+      "start": "2026-11-30",
+      "end": "2026-12-06",
       "outcomes": [
         {
           "code": "E6.3.L1",
@@ -343,8 +343,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 4: Weather and Emotions",
-      "start": "2025-12-01",
-      "end": "2025-12-07",
+      "start": "2026-12-07",
+      "end": "2026-12-13",
       "outcomes": [
         {
           "code": "E6.4.L1",
@@ -367,8 +367,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 4: Weather and Emotions",
-      "start": "2025-12-08",
-      "end": "2025-12-14",
+      "start": "2026-12-14",
+      "end": "2026-12-20",
       "outcomes": [
         {
           "code": "E6.4.L1",
@@ -391,8 +391,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 4: Weather and Emotions",
-      "start": "2025-12-15",
-      "end": "2025-12-21",
+      "start": "2026-12-21",
+      "end": "2026-12-27",
       "outcomes": [
         {
           "code": "E6.4.L1",
@@ -415,8 +415,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 4: Weather and Emotions",
-      "start": "2025-12-22",
-      "end": "2025-12-28",
+      "start": "2026-12-28",
+      "end": "2027-01-03",
       "outcomes": [
         {
           "code": "E6.4.L1",
@@ -439,8 +439,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 5: At the Fair",
-      "start": "2025-12-29",
-      "end": "2026-01-04",
+      "start": "2027-01-04",
+      "end": "2027-01-10",
       "outcomes": [
         {
           "code": "E6.5.L1",
@@ -467,8 +467,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 5: At the Fair",
-      "start": "2026-01-05",
-      "end": "2026-01-11",
+      "start": "2027-01-11",
+      "end": "2027-01-17",
       "outcomes": [
         {
           "code": "E6.5.L1",
@@ -495,8 +495,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 5: At the Fair",
-      "start": "2026-01-12",
-      "end": "2026-01-18",
+      "start": "2027-01-18",
+      "end": "2027-01-24",
       "outcomes": [
         {
           "code": "E6.5.L1",
@@ -522,21 +522,21 @@
     },
     {
       "name": "İngilizce",
-      "start": "2026-01-19",
-      "end": "2026-01-25",
+      "start": "2027-01-25",
+      "end": "2027-01-31",
       "outcomes": []
     },
     {
       "name": "İngilizce",
-      "start": "2026-01-26",
-      "end": "2026-02-01",
+      "start": "2027-02-01",
+      "end": "2027-02-07",
       "outcomes": []
     },
     {
       "name": "İngilizce",
       "konu": "Unit 6: Occupations",
-      "start": "2026-02-02",
-      "end": "2026-02-08",
+      "start": "2027-02-08",
+      "end": "2027-02-14",
       "outcomes": [
         {
           "code": "E6.6.L1",
@@ -571,8 +571,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 6: Occupations",
-      "start": "2026-02-09",
-      "end": "2026-02-15",
+      "start": "2027-02-15",
+      "end": "2027-02-21",
       "outcomes": [
         {
           "code": "E6.6.L1",
@@ -607,8 +607,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 6: Occupations",
-      "start": "2026-02-16",
-      "end": "2026-02-22",
+      "start": "2027-02-22",
+      "end": "2027-02-28",
       "outcomes": [
         {
           "code": "E6.6.L1",
@@ -643,8 +643,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 6: Occupations",
-      "start": "2026-02-23",
-      "end": "2026-03-01",
+      "start": "2027-03-01",
+      "end": "2027-03-07",
       "outcomes": [
         {
           "code": "E6.6.L1",
@@ -679,8 +679,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 7: Holidays",
-      "start": "2026-03-02",
-      "end": "2026-03-08",
+      "start": "2027-03-08",
+      "end": "2027-03-14",
       "outcomes": [
         {
           "code": "E6.7.L1",
@@ -707,8 +707,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 7: Holidays",
-      "start": "2026-03-09",
-      "end": "2026-03-15",
+      "start": "2027-03-15",
+      "end": "2027-03-21",
       "outcomes": [
         {
           "code": "E6.7.L1",
@@ -734,15 +734,15 @@
     },
     {
       "name": "ARA TATİL",
-      "start": "2026-03-16",
-      "end": "2026-03-22",
+      "start": "2027-03-22",
+      "end": "2027-03-28",
       "outcomes": []
     },
     {
       "name": "İngilizce",
       "konu": "Unit 7: Holidays",
-      "start": "2026-03-23",
-      "end": "2026-03-29",
+      "start": "2027-03-29",
+      "end": "2027-04-04",
       "outcomes": [
         {
           "code": "E6.7.L1",
@@ -769,8 +769,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 7: Holidays",
-      "start": "2026-03-30",
-      "end": "2026-04-05",
+      "start": "2027-04-05",
+      "end": "2027-04-11",
       "outcomes": [
         {
           "code": "E6.7.L1",
@@ -797,8 +797,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 8: Bookworms",
-      "start": "2026-04-06",
-      "end": "2026-04-12",
+      "start": "2027-04-12",
+      "end": "2027-04-18",
       "outcomes": [
         {
           "code": "E6.8.L1",
@@ -841,8 +841,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 8: Bookworms",
-      "start": "2026-04-13",
-      "end": "2026-04-19",
+      "start": "2027-04-19",
+      "end": "2027-04-25",
       "outcomes": [
         {
           "code": "E6.8.L1",
@@ -885,8 +885,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 8: Bookworms",
-      "start": "2026-04-20",
-      "end": "2026-04-26",
+      "start": "2027-04-26",
+      "end": "2027-05-02",
       "outcomes": [
         {
           "code": "E6.8.L1",
@@ -929,8 +929,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 8: Bookworms",
-      "start": "2026-04-27",
-      "end": "2026-05-03",
+      "start": "2027-05-03",
+      "end": "2027-05-09",
       "outcomes": [
         {
           "code": "E6.8.L1",
@@ -973,8 +973,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 9: Saving the Planet",
-      "start": "2026-05-04",
-      "end": "2026-05-10",
+      "start": "2027-05-10",
+      "end": "2027-05-16",
       "outcomes": [
         {
           "code": "E6.9.L1",
@@ -1009,8 +1009,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 9: Saving the Planet",
-      "start": "2026-05-11",
-      "end": "2026-05-17",
+      "start": "2027-05-17",
+      "end": "2027-05-23",
       "outcomes": [
         {
           "code": "E6.9.L1",
@@ -1045,8 +1045,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 9: Saving the Planet",
-      "start": "2026-05-18",
-      "end": "2026-05-24",
+      "start": "2027-05-24",
+      "end": "2027-05-30",
       "outcomes": [
         {
           "code": "E6.9.L1",
@@ -1080,15 +1080,15 @@
     },
     {
       "name": "BAYRAM TATİLİ",
-      "start": "2026-05-25",
-      "end": "2026-05-31",
+      "start": "2027-05-31",
+      "end": "2027-06-06",
       "outcomes": []
     },
     {
       "name": "İngilizce",
       "konu": "Unit 10: Democracy",
-      "start": "2026-06-01",
-      "end": "2026-06-07",
+      "start": "2027-06-07",
+      "end": "2027-06-13",
       "outcomes": [
         {
           "code": "E6.10.L1",
@@ -1119,8 +1119,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 10: Democracy",
-      "start": "2026-06-08",
-      "end": "2026-06-14",
+      "start": "2027-06-14",
+      "end": "2027-06-20",
       "outcomes": [
         {
           "code": "E6.10.L1",
@@ -1151,8 +1151,8 @@
     {
       "name": "İngilizce",
       "konu": "Unit 10: Democracy",
-      "start": "2026-06-15",
-      "end": "2026-06-21",
+      "start": "2027-06-21",
+      "end": "2027-06-27",
       "outcomes": [
         {
           "code": "E6.10.L1",
@@ -1183,8 +1183,8 @@
     {
       "name": "UYGUNDUR.",
       "konu": "2025/2026 Eğitim-Öğretim Yılı Sonu",
-      "start": "2026-06-22",
-      "end": "2026-06-28",
+      "start": "2027-06-28",
+      "end": "2027-07-04",
       "outcomes": []
     }
   ]
