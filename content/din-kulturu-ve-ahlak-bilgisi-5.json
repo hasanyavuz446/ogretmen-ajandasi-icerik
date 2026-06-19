@@ -1,431 +1,453 @@
 {
-  "grade": 5,
-  "subject": "Din Kültürü ve Ahlak Bilgisi",
-  "themes": [
+ "grade": 5,
+ "subject": "Din Kültürü ve Ahlak Bilgisi",
+ "themes": [
+  {
+   "name": "1. ÜNİTE: ALLAH İNANCI",
+   "konu": "Evrendeki Mükemmel Düzen",
+   "start": "2026-09-14",
+   "end": "2026-09-20",
+   "outcomes": [
     {
-      "name": "1. ALLAH İNANCI",
-      "konu": "Evrendeki Mükemmel Düzen",
-      "start": "2026-09-14",
-      "end": "2026-09-20",
-      "outcomes": [
-        {
-          "code": "DKAB.5.1.1",
-          "text": "Evrendeki mükemmel düzene ilişkin akıl yürütebilme"
-        }
-      ]
-    },
-    {
-      "name": "1. ALLAH İNANCI",
-      "konu": "Allah’ın Varlığı ve Birliği",
-      "start": "2026-09-21",
-      "end": "2026-09-27",
-      "outcomes": [
-        {
-          "code": "DKAB.5.1.2",
-          "text": "Evrendeki mükemmel düzeni gözlem yoluyla fark edip Allah’ın (cc) varlığı ve birliğini gözleme dayalı tahmin edebilme"
-        }
-      ]
-    },
-    {
-      "name": "1. ALLAH İNANCI",
-      "konu": "Allah’ın Varlığı ve Birliği",
-      "start": "2026-09-28",
-      "end": "2026-10-04",
-      "outcomes": [
-        {
-          "code": "DKAB.5.1.2",
-          "text": "Evrendeki mükemmel düzeni gözlem yoluyla fark edip Allah’ın (cc) varlığı ve birliğini gözleme dayalı tahmin edebilme"
-        }
-      ]
-    },
-    {
-      "name": "1. ALLAH İNANCI",
-      "konu": "Allah’ın Güzel İsimleri",
-      "start": "2026-10-05",
-      "end": "2026-10-11",
-      "outcomes": [
-        {
-          "code": "DKAB.5.1.3",
-          "text": "Allah’ın (cc) güzel isimleri hakkında bilgi toplayabilme"
-        }
-      ]
-    },
-    {
-      "name": "1. ALLAH İNANCI",
-      "konu": "Allah’ın Güzel İsimleri",
-      "start": "2026-10-12",
-      "end": "2026-10-18",
-      "outcomes": [
-        {
-          "code": "DKAB.5.1.3",
-          "text": "Allah’ın (cc) güzel isimleri hakkında bilgi toplayabilme"
-        }
-      ]
-    },
-    {
-      "name": "1. ALLAH İNANCI",
-      "konu": "Bir SureÖğreniyorum: İhlas Suresi",
-      "start": "2026-10-19",
-      "end": "2026-10-25",
-      "outcomes": [
-        {
-          "code": "DKAB.5.1.4",
-          "text": "İhlas suresini ve bu surenin anlamını okuyarak yorumlayabilme"
-        }
-      ]
-    },
-    {
-      "name": "1. ALLAH İNANCI",
-      "konu": "Bir SureÖğreniyorum: İhlas Suresi",
-      "start": "2026-10-26",
-      "end": "2026-11-01",
-      "outcomes": [
-        {
-          "code": "DKAB.5.1.4",
-          "text": "İhlas suresini ve bu surenin anlamını okuyarak yorumlayabilme"
-        },
-        {
-          "code": "DKAB.5.2.1",
-          "text": "Namaz ibadetini özetleyebilme"
-        }
-      ]
-    },
-    {
-      "name": "2. NAMAZ",
-      "konu": "Allah’ın Huzurunda Olmak: Namaz",
-      "start": "2026-11-09",
-      "end": "2026-11-15",
-      "outcomes": [
-        {
-          "code": "DKAB.5.2.1",
-          "text": "Namaz ibadetini özetleyebilme"
-        }
-      ]
-    },
-    {
-      "name": "2. NAMAZ",
-      "konu": "Namazın Kılınışı",
-      "start": "2026-11-23",
-      "end": "2026-11-29",
-      "outcomes": [
-        {
-          "code": "DKAB.5.2.2",
-          "text": "Namazın kılınışını gözlemleyebilme"
-        }
-      ]
-    },
-    {
-      "name": "2. NAMAZ",
-      "konu": "Namazın Kılınışı",
-      "start": "2026-11-30",
-      "end": "2026-12-06",
-      "outcomes": [
-        {
-          "code": "DKAB.5.2.2",
-          "text": "Namazın kılınışını gözlemleyebilme"
-        }
-      ]
-    },
-    {
-      "name": "2. NAMAZ",
-      "konu": "Namazın Kılınışı",
-      "start": "2026-12-07",
-      "end": "2026-12-13",
-      "outcomes": [
-        {
-          "code": "DKAB.5.2.2",
-          "text": "Namazın kılınışını gözlemleyebilme"
-        }
-      ]
-    },
-    {
-      "name": "2. NAMAZ",
-      "konu": "Namazın İnsana Kazandırdıkları",
-      "start": "2026-12-14",
-      "end": "2026-12-20",
-      "outcomes": [
-        {
-          "code": "DKAB.5.2.3",
-          "text": "Namazın insan hayatına etkileri hakkında düşünebilme"
-        }
-      ]
-    },
-    {
-      "name": "2. NAMAZ",
-      "konu": "Namazın İnsana Kazandırdıkları",
-      "start": "2026-12-21",
-      "end": "2026-12-27",
-      "outcomes": [
-        {
-          "code": "DKAB.5.2.3",
-          "text": "Namazın insan hayatına etkileri hakkında düşünebilme"
-        }
-      ]
-    },
-    {
-      "name": "2. NAMAZ",
-      "konu": "Bir Dua Öğreniyorum: Tahiyyat Duası",
-      "start": "2026-12-28",
-      "end": "2027-01-03",
-      "outcomes": [
-        {
-          "code": "DKAB.5.2.4",
-          "text": "Tahiyyat duasını ve bu duanın anlamını okuyarak yorumlayabilme"
-        }
-      ]
-    },
-    {
-      "name": "2. NAMAZ",
-      "konu": "Bir Dua Öğreniyorum: Tahiyyat Duası",
-      "start": "2027-01-04",
-      "end": "2027-01-10",
-      "outcomes": [
-        {
-          "code": "DKAB.5.2.4",
-          "text": "Tahiyyat duasını ve bu duanın anlamını okuyarak yorumlayabilme"
-        }
-      ]
-    },
-    {
-      "name": "Din Kültürü ve Ahlak Bilgisi",
-      "start": "2027-01-11",
-      "end": "2027-01-17",
-      "outcomes": []
-    },
-    {
-      "name": "ŞUBAT",
-      "start": "2027-01-18",
-      "end": "2027-01-24",
-      "outcomes": []
-    },
-    {
-      "name": "3. KUR'AN-I KERİM",
-      "konu": "Kur’an-ı Kerim’in  İç Düzeni",
-      "start": "2027-02-08",
-      "end": "2027-02-14",
-      "outcomes": [
-        {
-          "code": "DKAB.5.3.1",
-          "text": "Kur’an-ı Kerim’in iç düzenini çözümleyebilme"
-        }
-      ]
-    },
-    {
-      "name": "3. KUR'AN-I KERİM",
-      "konu": "Kur’an-ı Kerim’in Temel Özellikleri",
-      "start": "2027-02-15",
-      "end": "2027-02-21",
-      "outcomes": [
-        {
-          "code": "DKAB.5.3.2",
-          "text": "Kur’an-ı Kerim’in temel özellikleri hakkında bilgi toplayabilme"
-        }
-      ]
-    },
-    {
-      "name": "3. KUR'AN-I KERİM",
-      "konu": "Kur’an-ı Kerim’in Temel Özellikleri",
-      "start": "2027-02-22",
-      "end": "2027-02-28",
-      "outcomes": [
-        {
-          "code": "DKAB.5.3.2",
-          "text": "Kur’an-ı Kerim’in temel özellikleri hakkında bilgi toplayabilme"
-        }
-      ]
-    },
-    {
-      "name": "3. KUR'AN-I KERİM",
-      "konu": "Kur’an-ı Kerim’in Ana Konuları",
-      "start": "2027-03-01",
-      "end": "2027-03-07",
-      "outcomes": [
-        {
-          "code": "DKAB.5.3.3",
-          "text": "Kuran-ı Kerim’in ana konularını sınıflandırabilme"
-        }
-      ]
-    },
-    {
-      "name": "3. KUR'AN-I KERİM",
-      "konu": "Kur’an-ı Kerim’in Ana Konuları",
-      "start": "2027-03-08",
-      "end": "2027-03-14",
-      "outcomes": [
-        {
-          "code": "DKAB.5.3.3",
-          "text": "Kuran-ı Kerim’in ana konularını sınıflandırabilme"
-        }
-      ]
-    },
-    {
-      "name": "3. KUR'AN-I KERİM",
-      "konu": "Bir Sure Öğreniyorum:  Kevser Suresi",
-      "start": "2027-03-15",
-      "end": "2027-03-21",
-      "outcomes": [
-        {
-          "code": "DKAB.5.3.4",
-          "text": "Kevser suresini ve bu surenin anlamını okuyarak yorumlayabilme"
-        }
-      ]
-    },
-    {
-      "name": "3. KUR'AN-I KERİM",
-      "konu": "Bir Sure Öğreniyorum:  Kevser Suresi",
-      "start": "2027-03-29",
-      "end": "2027-04-04",
-      "outcomes": [
-        {
-          "code": "DKAB.5.3.4",
-          "text": "Kevser suresini ve bu surenin anlamını okuyarak yorumlayabilme"
-        }
-      ]
-    },
-    {
-      "name": "4. PEYGAMBER  KISSALARI",
-      "konu": "Allah’ın Elçileri: Peygamberler",
-      "start": "2027-04-05",
-      "end": "2027-04-11",
-      "outcomes": [
-        {
-          "code": "DKAB.5.4.1",
-          "text": "Peygamberlik hakkında akıl yürütebilme"
-        }
-      ]
-    },
-    {
-      "name": "4. PEYGAMBER  KISSALARI",
-      "konu": "Allah’ın Elçileri: Peygamberler",
-      "start": "2027-04-12",
-      "end": "2027-04-18",
-      "outcomes": [
-        {
-          "code": "DKAB.5.4.1",
-          "text": "Peygamberlik hakkında akıl yürütebilme"
-        }
-      ]
-    },
-    {
-      "name": "4. PEYGAMBER  KISSALARI",
-      "konu": "Allah’ın Elçileri:  Peygamberler",
-      "start": "2027-04-19",
-      "end": "2027-04-25",
-      "outcomes": [
-        {
-          "code": "DKAB.5.4.1",
-          "text": "Peygamberlik hakkında akıl yürütebilme"
-        }
-      ]
-    },
-    {
-      "name": "4. PEYGAMBER  KISSALARI",
-      "konu": "Kur’an-ı Kerim’den Öğütler:  Peygamber Kıssaları",
-      "start": "2027-04-26",
-      "end": "2027-05-02",
-      "outcomes": [
-        {
-          "code": "DKAB.5.4.2",
-          "text": "Peygamber kıssalarında verilen öğütleri sentezleyebilme"
-        }
-      ]
-    },
-    {
-      "name": "4. PEYGAMBER  KISSALARI",
-      "konu": "Kur’an-ı Kerim’den Öğütler:  Peygamber Kıssaları",
-      "start": "2027-05-03",
-      "end": "2027-05-09",
-      "outcomes": [
-        {
-          "code": "DKAB.5.4.2",
-          "text": "Peygamber kıssalarında verilen öğütleri sentezleyebilme"
-        }
-      ]
-    },
-    {
-      "name": "4. PEYGAMBER  KISSALARI",
-      "konu": "Bir SureÖğreniyorum:  Kureyş Suresi",
-      "start": "2027-05-10",
-      "end": "2027-05-16",
-      "outcomes": [
-        {
-          "code": "DKAB.5.4.3",
-          "text": "Kureyş suresini ve bu surenin anlamını okuyarak yorumlayabilme"
-        }
-      ]
-    },
-    {
-      "name": "5. MİMARİMİZDEKİ DİNÎ  MOTİFLER",
-      "konu": "Dinin Mimarimize  Etkisi",
-      "start": "2027-05-17",
-      "end": "2027-05-23",
-      "outcomes": [
-        {
-          "code": "DKAB.5.5.1",
-          "text": "Dinin mimarimize etkisini çözümleyebilme"
-        }
-      ]
-    },
-    {
-      "name": "5. MİMARİMİZDEKİ DİNÎ MOTİFLER",
-      "konu": "Camileri Tanıyalım",
-      "start": "2027-05-24",
-      "end": "2027-05-30",
-      "outcomes": [
-        {
-          "code": "DKAB.5.5.2",
-          "text": "Camilerin bölümlerini tanıyabilme"
-        }
-      ]
-    },
-    {
-      "name": "5. MİMARİMİZDEKİ DİNÎ MOTİFLER",
-      "konu": "Camileri Tanıyalım",
-      "start": "2027-05-31",
-      "end": "2027-06-06",
-      "outcomes": [
-        {
-          "code": "DKAB.5.5.2",
-          "text": "Camilerin bölümlerini tanıyabilme"
-        }
-      ]
-    },
-    {
-      "name": "5. MİMARİMİZDEKİ DİNÎ MOTİFLER",
-      "konu": "Kültürümüzden Cami Örnekleri",
-      "start": "2027-06-07",
-      "end": "2027-06-13",
-      "outcomes": [
-        {
-          "code": "DKAB.5.5.3",
-          "text": "Kültürümüzde yer alan cami örneklerini karşılaştırabilme"
-        }
-      ]
-    },
-    {
-      "name": "5. MİMARİMİZDEKİ DİNÎ MOTİFLER",
-      "konu": "Kültürümüzden Cami Örnekleri",
-      "start": "2027-06-14",
-      "end": "2027-06-20",
-      "outcomes": [
-        {
-          "code": "DKAB.5.5.3",
-          "text": "Kültürümüzde yer alan cami örneklerini karşılaştırabilme"
-        }
-      ]
-    },
-    {
-      "name": "Din Kültürü ve Ahlak Bilgisi",
-      "start": "2027-06-21",
-      "end": "2027-06-27",
-      "outcomes": []
-    },
-    {
-      "name": "UYGUNDUR.",
-      "konu": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından planlanır ve uygulanır.",
-      "start": "2027-06-28",
-      "end": "2027-07-04",
-      "outcomes": []
+     "code": "DKAB.5.1.1",
+     "text": "Evrendeki mükemmel düzene ilişkin akıl yürütebilme"
     }
-  ]
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: ALLAH İNANCI",
+   "konu": "Evrendeki Mükemmel Düzen",
+   "start": "2026-09-21",
+   "end": "2026-09-27",
+   "outcomes": [
+    {
+     "code": "DKAB.5.1.1",
+     "text": "Evrendeki mükemmel düzene ilişkin akıl yürütebilme"
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: ALLAH İNANCI",
+   "konu": "Allah’ın Varlığı ve Birliği",
+   "start": "2026-09-28",
+   "end": "2026-10-04",
+   "outcomes": [
+    {
+     "code": "DKAB.5.1.2",
+     "text": "Evrendeki mükemmel düzeni gözlem yoluyla fark edip Allah’ın (cc) varlığı ve birliğini gözleme dayalı tahmin edebilme"
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: ALLAH İNANCI",
+   "konu": "Allah’ın Varlığı ve Birliği",
+   "start": "2026-10-05",
+   "end": "2026-10-11",
+   "outcomes": [
+    {
+     "code": "DKAB.5.1.2",
+     "text": "Evrendeki mükemmel düzeni gözlem yoluyla fark edip Allah’ın (cc) varlığı ve birliğini gözleme dayalı tahmin edebilme"
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: ALLAH İNANCI",
+   "konu": "Allah’ın Güzel İsimleri",
+   "start": "2026-10-12",
+   "end": "2026-10-18",
+   "outcomes": [
+    {
+     "code": "DKAB.5.1.3",
+     "text": "Allah’ın (cc) güzel isimleri hakkında bilgi toplayabilme"
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: ALLAH İNANCI",
+   "konu": "Allah’ın Güzel İsimleri",
+   "start": "2026-10-19",
+   "end": "2026-10-25",
+   "outcomes": [
+    {
+     "code": "DKAB.5.1.3",
+     "text": "Allah’ın (cc) güzel isimleri hakkında bilgi toplayabilme"
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: ALLAH İNANCI",
+   "konu": "Bir Sure Öğreniyorum: İhlas Suresi",
+   "start": "2026-10-26",
+   "end": "2026-11-01",
+   "outcomes": [
+    {
+     "code": "DKAB.5.1.4",
+     "text": "İhlas suresini ve bu surenin anlamını okuyarak yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: ALLAH İNANCI",
+   "konu": "Bir Sure Öğreniyorum: İhlas Suresi",
+   "start": "2026-11-02",
+   "end": "2026-11-08",
+   "outcomes": [
+    {
+     "code": "DKAB.5.1.4",
+     "text": "İhlas suresini ve bu surenin anlamını okuyarak yorumlayabilme"
+    },
+    {
+     "code": "DKAB.5.2.1",
+     "text": "Namaz ibadetini özetleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: NAMAZ",
+   "konu": "Allah’ın Huzurunda Olmak: Namaz",
+   "start": "2026-11-09",
+   "end": "2026-11-15",
+   "outcomes": [
+    {
+     "code": "DKAB.5.2.1",
+     "text": "Namaz ibadetini özetleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: NAMAZ",
+   "konu": "Allah’ın Huzurunda Olmak: Namaz",
+   "start": "2026-11-23",
+   "end": "2026-11-29",
+   "outcomes": [
+    {
+     "code": "DKAB.5.2.1",
+     "text": "Namaz ibadetini özetleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: NAMAZ",
+   "konu": "Namazın Kılınışı",
+   "start": "2026-11-30",
+   "end": "2026-12-06",
+   "outcomes": [
+    {
+     "code": "DKAB.5.2.2",
+     "text": "Namazın kılınışını gözlemleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: NAMAZ",
+   "konu": "Namazın Kılınışı",
+   "start": "2026-12-07",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "DKAB.5.2.2",
+     "text": "Namazın kılınışını gözlemleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: NAMAZ",
+   "konu": "Namazın İnsana Kazandırdıkları",
+   "start": "2026-12-14",
+   "end": "2026-12-20",
+   "outcomes": [
+    {
+     "code": "DKAB.5.2.3",
+     "text": "Namazın insan hayatına etkileri hakkında düşünebilme"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: NAMAZ",
+   "konu": "Namazın İnsana Kazandırdıkları",
+   "start": "2026-12-21",
+   "end": "2026-12-27",
+   "outcomes": [
+    {
+     "code": "DKAB.5.2.3",
+     "text": "Namazın insan hayatına etkileri hakkında düşünebilme"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: NAMAZ",
+   "konu": "Namazın İnsana Kazandırdıkları",
+   "start": "2026-12-28",
+   "end": "2027-01-03",
+   "outcomes": [
+    {
+     "code": "DKAB.5.2.3",
+     "text": "Namazın insan hayatına etkileri hakkında düşünebilme"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: NAMAZ",
+   "konu": "Bir Dua Öğreniyorum: Tahiyyat Duası",
+   "start": "2027-01-04",
+   "end": "2027-01-10",
+   "outcomes": [
+    {
+     "code": "DKAB.5.2.4",
+     "text": "Tahiyyat duasını ve bu duanın anlamını okuyarak yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: NAMAZ",
+   "konu": "Bir Dua Öğreniyorum: Tahiyyat Duası",
+   "start": "2027-01-11",
+   "end": "2027-01-17",
+   "outcomes": [
+    {
+     "code": "DKAB.5.2.4",
+     "text": "Tahiyyat duasını ve bu duanın anlamını okuyarak yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: KUR'AN-I KERİM",
+   "konu": "Kur’an-ı Kerim’in İç Düzeni",
+   "start": "2027-01-18",
+   "end": "2027-01-24",
+   "outcomes": [
+    {
+     "code": "DKAB.5.3.1",
+     "text": "Kur’an-ı Kerim’in iç düzenini çözümleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: KUR'AN-I KERİM",
+   "konu": "Kur’an-ı Kerim’in İç Düzeni",
+   "start": "2027-02-08",
+   "end": "2027-02-14",
+   "outcomes": [
+    {
+     "code": "DKAB.5.3.1",
+     "text": "Kur’an-ı Kerim’in iç düzenini çözümleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: KUR'AN-I KERİM",
+   "konu": "Kur’an-ı Kerim’in Temel Özellikleri",
+   "start": "2027-02-15",
+   "end": "2027-02-21",
+   "outcomes": [
+    {
+     "code": "DKAB.5.3.2",
+     "text": "Kur’an-ı Kerim’in temel özellikleri hakkında bilgi toplayabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: KUR'AN-I KERİM",
+   "konu": "Kur’an-ı Kerim’in Temel Özellikleri",
+   "start": "2027-02-22",
+   "end": "2027-02-28",
+   "outcomes": [
+    {
+     "code": "DKAB.5.3.2",
+     "text": "Kur’an-ı Kerim’in temel özellikleri hakkında bilgi toplayabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: KUR'AN-I KERİM",
+   "konu": "Kur’an-ı Kerim’in Ana Konuları",
+   "start": "2027-03-01",
+   "end": "2027-03-07",
+   "outcomes": [
+    {
+     "code": "DKAB.5.3.3",
+     "text": "Kuran-ı Kerim’in ana konularını sınıflandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: KUR'AN-I KERİM",
+   "konu": "Kur’an-ı Kerim’in Ana Konuları",
+   "start": "2027-03-15",
+   "end": "2027-03-21",
+   "outcomes": [
+    {
+     "code": "DKAB.5.3.3",
+     "text": "Kuran-ı Kerim’in ana konularını sınıflandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: KUR'AN-I KERİM",
+   "konu": "Bir Sure Öğreniyorum: Kevser Suresi",
+   "start": "2027-03-22",
+   "end": "2027-03-28",
+   "outcomes": [
+    {
+     "code": "DKAB.5.3.4",
+     "text": "Kevser suresini ve bu surenin anlamını okuyarak yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: KUR'AN-I KERİM",
+   "konu": "Bir Sure Öğreniyorum: Kevser Suresi",
+   "start": "2027-03-29",
+   "end": "2027-04-04",
+   "outcomes": [
+    {
+     "code": "DKAB.5.3.4",
+     "text": "Kevser suresini ve bu surenin anlamını okuyarak yorumlayabilme"
+    },
+    {
+     "code": "DKAB.5.4.1",
+     "text": "Peygamberlik hakkında akıl yürütebilme"
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: PEYGAMBER KISSALARI",
+   "konu": "Allah’ın Elçileri: Peygamberler",
+   "start": "2027-04-05",
+   "end": "2027-04-11",
+   "outcomes": [
+    {
+     "code": "DKAB.5.4.1",
+     "text": "Peygamberlik hakkında akıl yürütebilme"
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: PEYGAMBER KISSALARI",
+   "konu": "Allah’ın Elçileri: Peygamberler",
+   "start": "2027-04-12",
+   "end": "2027-04-18",
+   "outcomes": [
+    {
+     "code": "DKAB.5.4.1",
+     "text": "Peygamberlik hakkında akıl yürütebilme"
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: PEYGAMBER KISSALARI",
+   "konu": "Kur’an-ı Kerim’den Öğütler: Peygamber Kıssaları",
+   "start": "2027-04-19",
+   "end": "2027-04-25",
+   "outcomes": [
+    {
+     "code": "DKAB.5.4.2",
+     "text": "Peygamber kıssalarında verilen öğütleri sentezleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: PEYGAMBER KISSALARI",
+   "konu": "Kur’an-ı Kerim’den Öğütler: Peygamber Kıssaları",
+   "start": "2027-04-26",
+   "end": "2027-05-02",
+   "outcomes": [
+    {
+     "code": "DKAB.5.4.2",
+     "text": "Peygamber kıssalarında verilen öğütleri sentezleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: PEYGAMBER KISSALARI",
+   "konu": "Bir Sure Öğreniyorum: Kureyş Suresi",
+   "start": "2027-05-03",
+   "end": "2027-05-09",
+   "outcomes": [
+    {
+     "code": "DKAB.5.4.3",
+     "text": "Kureyş suresini ve bu surenin anlamını okuyarak yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: PEYGAMBER KISSALARI",
+   "konu": "Bir Sure Öğreniyorum: Kureyş Suresi",
+   "start": "2027-05-10",
+   "end": "2027-05-16",
+   "outcomes": [
+    {
+     "code": "DKAB.5.4.3",
+     "text": "Kureyş suresini ve bu surenin anlamını okuyarak yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MİMARİMİZDE DİNÎ MOTİFLER",
+   "konu": "Dinin Mimarimize Etkisi",
+   "start": "2027-05-17",
+   "end": "2027-05-23",
+   "outcomes": [
+    {
+     "code": "DKAB.5.5.1",
+     "text": "Dinin mimarimize etkisini çözümleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MİMARİMİZDE DİNÎ MOTİFLER",
+   "konu": "Dinin Mimarimize Etkisi",
+   "start": "2027-05-24",
+   "end": "2027-05-30",
+   "outcomes": [
+    {
+     "code": "DKAB.5.5.1",
+     "text": "Dinin mimarimize etkisini çözümleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MİMARİMİZDE DİNÎ MOTİFLER",
+   "konu": "Camileri Tanıyalım",
+   "start": "2027-05-31",
+   "end": "2027-06-06",
+   "outcomes": [
+    {
+     "code": "DKAB.5.5.2",
+     "text": "Camilerin bölümlerini tanıyabilme"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MİMARİMİZDE DİNÎ MOTİFLER",
+   "konu": "Camileri Tanıyalım",
+   "start": "2027-06-07",
+   "end": "2027-06-13",
+   "outcomes": [
+    {
+     "code": "DKAB.5.5.2",
+     "text": "Camilerin bölümlerini tanıyabilme"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MİMARİMİZDE DİNÎ MOTİFLER",
+   "konu": "Kültürümüzden Cami Örnekleri",
+   "start": "2027-06-14",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "DKAB.5.5.3",
+     "text": "Kültürümüzde yer alan cami örneklerini karşılaştırabilme"
+    }
+   ]
+  },
+  {
+   "name": "SOSYAL ETKİNLİK VE YIL SONU DEĞERLENDİRME",
+   "konu": "Proje sunumları, sosyal/kültürel etkinlikler ve yıl sonu genel değerlendirme",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": []
+  }
+ ]
 }
