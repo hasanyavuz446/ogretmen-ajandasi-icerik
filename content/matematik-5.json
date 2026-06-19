@@ -1,473 +1,457 @@
 {
-  "grade": 5,
-  "subject": "Matematik",
-  "themes": [
+ "grade": 5,
+ "subject": "Matematik",
+ "themes": [
+  {
+   "name": "MAT.5.3. GEOMETRİK ŞEKİLLER",
+   "konu": "Temel Geometrik Çizimler ve İnşalar",
+   "start": "2026-09-14",
+   "end": "2026-09-20",
+   "outcomes": [
     {
-      "name": "Geometrik Şekiller",
-      "konu": "Temel Geometrik Çizimler ve İnşalar",
-      "start": "2026-09-14",
-      "end": "2026-09-20",
-      "outcomes": [
-        {
-          "code": "MAT.5.3.1",
-          "text": "Temel geometrik çizimler için matematiksel araç ve teknolojiden yararlanabilme"
-        }
-      ]
-    },
-    {
-      "name": "Geometrik Şekiller",
-      "konu": "Temel Geometrik Çizimler ve İnşalar",
-      "start": "2026-09-21",
-      "end": "2026-09-27",
-      "outcomes": [
-        {
-          "code": "MAT.5.3.2",
-          "text": "Temel geometrik çizimlere dayalı deneyimlerini yansıtabilme"
-        }
-      ]
-    },
-    {
-      "name": "Geometrik Şekiller",
-      "konu": "Açı Ölçme",
-      "start": "2026-09-28",
-      "end": "2026-10-04",
-      "outcomes": [
-        {
-          "code": "MAT.5.3.3",
-          "text": "Açıları ölçmek için matematiksel araç ve teknolojiden yararlanabilme"
-        }
-      ]
-    },
-    {
-      "name": "Geometrik Şekiller",
-      "konu": "Açı Ölçme",
-      "start": "2026-10-05",
-      "end": "2026-10-11",
-      "outcomes": [
-        {
-          "code": "MAT.5.3.4",
-          "text": "Düzlemde iki veya üç doğrunun birbirine göre durumuna bağlı olarak oluşabilecek açılara dair çıkarım yapabilme"
-        }
-      ]
-    },
-    {
-      "name": "Geometrik Şekiller",
-      "konu": "Çokgenler ve Çember",
-      "start": "2026-10-12",
-      "end": "2026-10-18",
-      "outcomes": [
-        {
-          "code": "MAT.5.3.5",
-          "text": "Çokgenleri düzlemde ardışık olarak kesişen doğruların oluşturduğu kapalı şekiller olarak yorumlayabilme"
-        }
-      ]
-    },
-    {
-      "name": "Geometrik Şekiller",
-      "konu": "Çokgenler ve Çember",
-      "start": "2026-10-19",
-      "end": "2026-10-25",
-      "outcomes": [
-        {
-          "code": "MAT.5.3.6",
-          "text": "Çokgenlerin özellikleri ile ilgili edindiği deneyimleri yansıtabilme"
-        }
-      ]
-    },
-    {
-      "name": "Geometrik Şekiller",
-      "konu": "Çokgenler ve Çember",
-      "start": "2026-10-26",
-      "end": "2026-11-01",
-      "outcomes": [
-        {
-          "code": "MAT.5.3.7",
-          "text": "Matematiksel araç ve teknoloji yardımıyla düzlemde iki noktada kesişen çember çiftinin merkezleri ve kesişim noktalarından biri ile inşa edilen üçgenlerin kenar özelliklerine yönelik muhakeme yapabilme"
-        }
-      ]
-    },
-    {
-      "name": "Geometrik Şekiller",
-      "konu": "Çokgenler ve Çember — Sınav Haftası",
-      "start": "2026-11-02",
-      "end": "2026-11-08",
-      "outcomes": [
-        {
-          "code": "MAT.5.3.7",
-          "text": "Matematiksel araç ve teknoloji yardımıyla düzlemde iki noktada kesişen çember çiftinin merkezleri ve kesişim noktalarından biri ile inşa edilen üçgenlerin kenar özelliklerine yönelik muhakeme yapabilme"
-        }
-      ]
-    },
-    {
-      "name": "Sayılar ve Nicelikler (1)",
-      "konu": "Çok Basamaklı Sayıları Okuma ve Yazma",
-      "start": "2026-11-09",
-      "end": "2026-11-15",
-      "outcomes": [
-        {
-          "code": "MAT.5.1.1",
-          "text": "Altı basamaklı sayıları okuma ve yazmayı çok basamaklı sayılara genelleyebilme"
-        }
-      ]
-    },
-    {
-      "name": "Sayılar ve Nicelikler (1)",
-      "konu": "Çözümleme",
-      "start": "2026-11-23",
-      "end": "2026-11-29",
-      "outcomes": [
-        {
-          "code": "MAT.5.1.1",
-          "text": "Altı basamaklı sayıları okuma ve yazmayı çok basamaklı sayılara genelleyebilme"
-        }
-      ]
-    },
-    {
-      "name": "Sayılar ve Nicelikler (1)",
-      "konu": "Doğal Sayılarla Dört İşlem İçeren Problem Çözme",
-      "start": "2026-11-30",
-      "end": "2026-12-06",
-      "outcomes": [
-        {
-          "code": "MAT.5.1.2",
-          "text": "Doğal sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme"
-        }
-      ]
-    },
-    {
-      "name": "Sayılar ve Nicelikler (1)",
-      "konu": "Doğal Sayılarla Dört İşlem İçeren Problem Çözme",
-      "start": "2026-12-07",
-      "end": "2026-12-13",
-      "outcomes": [
-        {
-          "code": "MAT.5.1.2",
-          "text": "Doğal sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme"
-        }
-      ]
-    },
-    {
-      "name": "Sayılar ve Nicelikler (1)",
-      "konu": "Doğal Sayılarla Dört İşlem İçeren Problem Çözme",
-      "start": "2026-12-14",
-      "end": "2026-12-20",
-      "outcomes": [
-        {
-          "code": "MAT.5.1.2",
-          "text": "Doğal sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme"
-        }
-      ]
-    },
-    {
-      "name": "Sayılar ve Nicelikler (1) · Geometrik Nicelikler",
-      "konu": "Dört İşlem Problem Çözme · Dikdörtgenin Çevre Uzunluğu ve Alanı",
-      "start": "2026-12-21",
-      "end": "2026-12-27",
-      "outcomes": [
-        {
-          "code": "MAT.5.1.2",
-          "text": "Doğal sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme"
-        },
-        {
-          "code": "MAT.5.4.1",
-          "text": "Kenar uzunlukları doğal sayı olan bir dikdörtgenin çevre uzunluğu verildiğinde kenar uzunluklarını yorumlayabilme"
-        }
-      ]
-    },
-    {
-      "name": "Geometrik Nicelikler",
-      "konu": "Dikdörtgenin Çevre Uzunluğu ve Alanı",
-      "start": "2026-12-28",
-      "end": "2027-01-03",
-      "outcomes": [
-        {
-          "code": "MAT.5.4.1",
-          "text": "Kenar uzunlukları doğal sayı olan bir dikdörtgenin çevre uzunluğu verildiğinde kenar uzunluklarını yorumlayabilme"
-        },
-        {
-          "code": "MAT.5.4.2",
-          "text": "Birim karelerden yola çıkarak dikdörtgenin alanını değerlendirebilme"
-        }
-      ]
-    },
-    {
-      "name": "Geometrik Nicelikler",
-      "konu": "Dikdörtgenin Çevre Uzunluğu ve Alanı — Sınav Haftası",
-      "start": "2027-01-04",
-      "end": "2027-01-10",
-      "outcomes": [
-        {
-          "code": "MAT.5.4.3",
-          "text": "Kenar uzunlukları doğal sayı olan bir dikdörtgenin alanının ölçüsü verildiğinde çevre uzunluğunu, çevre uzunluğu verildiğinde alanını yorumlayabilme"
-        }
-      ]
-    },
-    {
-      "name": "Geometrik Nicelikler",
-      "konu": "Dikdörtgenin Çevre Uzunluğu ve Alanı",
-      "start": "2027-01-11",
-      "end": "2027-01-17",
-      "outcomes": [
-        {
-          "code": "MAT.5.4.4",
-          "text": "Dikdörtgenin çevre uzunluğu ve alanı ile ilgili problemleri çözebilme"
-        }
-      ]
-    },
-    {
-      "name": "Geometrik Nicelikler",
-      "konu": "Dikdörtgenin Çevre Uzunluğu ve Alanı",
-      "start": "2027-01-18",
-      "end": "2027-01-24",
-      "outcomes": [
-        {
-          "code": "MAT.5.4.4",
-          "text": "Dikdörtgenin çevre uzunluğu ve alanı ile ilgili problemleri çözebilme"
-        }
-      ]
-    },
-    {
-      "name": "Sayılar ve Nicelikler (2)",
-      "konu": "Kesirlerin Farklı Gösterimleri",
-      "start": "2027-02-08",
-      "end": "2027-02-14",
-      "outcomes": [
-        {
-          "code": "MAT.5.1.3",
-          "text": "Gerçek yaşam durumlarına karşılık gelen kesirleri farklı biçimlerde temsil edebilme"
-        }
-      ]
-    },
-    {
-      "name": "Sayılar ve Nicelikler (2)",
-      "konu": "Kesirlerin Farklı Gösterimleri",
-      "start": "2027-02-15",
-      "end": "2027-02-21",
-      "outcomes": [
-        {
-          "code": "MAT.5.1.3",
-          "text": "Gerçek yaşam durumlarına karşılık gelen kesirleri farklı biçimlerde temsil edebilme"
-        }
-      ]
-    },
-    {
-      "name": "Sayılar ve Nicelikler (2)",
-      "konu": "Kesirlerin Farklı Gösterimleri",
-      "start": "2027-02-22",
-      "end": "2027-02-28",
-      "outcomes": [
-        {
-          "code": "MAT.5.1.3",
-          "text": "Gerçek yaşam durumlarına karşılık gelen kesirleri farklı biçimlerde temsil edebilme"
-        }
-      ]
-    },
-    {
-      "name": "Sayılar ve Nicelikler (2)",
-      "konu": "Kesirlerin Farklı Gösterimleri · Kesirlerin Karşılaştırılması",
-      "start": "2027-03-01",
-      "end": "2027-03-07",
-      "outcomes": [
-        {
-          "code": "MAT.5.1.3",
-          "text": "Gerçek yaşam durumlarına karşılık gelen kesirleri farklı biçimlerde temsil edebilme"
-        },
-        {
-          "code": "MAT.5.1.4",
-          "text": "Farklı gösterimlerle ifade edilen kesirlerin karşılaştırılmasına yönelik çıkarım yapabilme"
-        }
-      ]
-    },
-    {
-      "name": "Sayılar ve Nicelikler (2)",
-      "konu": "Kesirlerin Karşılaştırılması",
-      "start": "2027-03-08",
-      "end": "2027-03-14",
-      "outcomes": [
-        {
-          "code": "MAT.5.1.4",
-          "text": "Farklı gösterimlerle ifade edilen kesirlerin karşılaştırılmasına yönelik çıkarım yapabilme"
-        }
-      ]
-    },
-    {
-      "name": "Sayılar ve Nicelikler (2)",
-      "konu": "Kesirlerin Karşılaştırılması",
-      "start": "2027-03-15",
-      "end": "2027-03-21",
-      "outcomes": [
-        {
-          "code": "MAT.5.1.4",
-          "text": "Farklı gösterimlerle ifade edilen kesirlerin karşılaştırılmasına yönelik çıkarım yapabilme"
-        }
-      ]
-    },
-    {
-      "name": "Sayılar ve Nicelikler (2)",
-      "konu": "Kesirlerin Karşılaştırılması — Sınav Haftası",
-      "start": "2027-03-29",
-      "end": "2027-04-04",
-      "outcomes": [
-        {
-          "code": "MAT.5.1.4",
-          "text": "Farklı gösterimlerle ifade edilen kesirlerin karşılaştırılmasına yönelik çıkarım yapabilme"
-        }
-      ]
-    },
-    {
-      "name": "İstatistiksel Araştırma Süreci",
-      "konu": "Kategorik Veri Dağılımları",
-      "start": "2027-04-05",
-      "end": "2027-04-11",
-      "outcomes": [
-        {
-          "code": "MAT.5.5.1",
-          "text": "Kategorik veri ile çalışabilme ve veriye dayalı karar verebilme"
-        }
-      ]
-    },
-    {
-      "name": "İstatistiksel Araştırma Süreci",
-      "konu": "Kategorik Veri Dağılımları",
-      "start": "2027-04-12",
-      "end": "2027-04-18",
-      "outcomes": [
-        {
-          "code": "MAT.5.5.1",
-          "text": "Kategorik veri ile çalışabilme ve veriye dayalı karar verebilme"
-        }
-      ]
-    },
-    {
-      "name": "İstatistiksel Araştırma Süreci",
-      "konu": "Kategorik Veri Dağılımları",
-      "start": "2027-04-19",
-      "end": "2027-04-25",
-      "outcomes": [
-        {
-          "code": "MAT.5.5.1",
-          "text": "Kategorik veri ile çalışabilme ve veriye dayalı karar verebilme"
-        }
-      ]
-    },
-    {
-      "name": "İstatistiksel Araştırma Süreci",
-      "konu": "Kategorik Veri Dağılımları",
-      "start": "2027-04-26",
-      "end": "2027-05-02",
-      "outcomes": [
-        {
-          "code": "MAT.5.5.1",
-          "text": "Kategorik veri ile çalışabilme ve veriye dayalı karar verebilme"
-        },
-        {
-          "code": "MAT.5.5.2",
-          "text": "Başkaları tarafından oluşturulan kategorik veriye dayalı istatistiksel sonuç veya yorumları tartışabilme"
-        }
-      ]
-    },
-    {
-      "name": "İstatistiksel Araştırma Süreci · İşlemlerle Cebirsel Düşünme",
-      "konu": "Kategorik Veri Dağılımları · Eşitliğin Korunumu",
-      "start": "2027-05-03",
-      "end": "2027-05-09",
-      "outcomes": [
-        {
-          "code": "MAT.5.5.2",
-          "text": "Başkaları tarafından oluşturulan kategorik veriye dayalı istatistiksel sonuç veya yorumları tartışabilme"
-        },
-        {
-          "code": "MAT.5.2.1",
-          "text": "Eşitliğin korunumuna ve işlem özelliklerine yönelik çıkarım yapabilme"
-        }
-      ]
-    },
-    {
-      "name": "İşlemlerle Cebirsel Düşünme",
-      "konu": "Değişme, Birleşme ve Dağılma Özellikleri",
-      "start": "2027-05-10",
-      "end": "2027-05-16",
-      "outcomes": [
-        {
-          "code": "MAT.5.2.1",
-          "text": "Eşitliğin korunumuna ve işlem özelliklerine yönelik çıkarım yapabilme"
-        }
-      ]
-    },
-    {
-      "name": "İşlemlerle Cebirsel Düşünme",
-      "konu": "İşlem Önceliği · Örüntüler",
-      "start": "2027-05-17",
-      "end": "2027-05-23",
-      "outcomes": [
-        {
-          "code": "MAT.5.2.2",
-          "text": "Karşılaştığı günlük hayat ya da matematiksel durumlarda işlem önceliğini yorumlayabilme"
-        },
-        {
-          "code": "MAT.5.2.3",
-          "text": "Sayı ve şekil örüntülerinin kuralına ilişkin muhakeme yapabilme"
-        }
-      ]
-    },
-    {
-      "name": "İşlemlerle Cebirsel Düşünme",
-      "konu": "Örüntüler",
-      "start": "2027-05-24",
-      "end": "2027-05-30",
-      "outcomes": [
-        {
-          "code": "MAT.5.2.3",
-          "text": "Sayı ve şekil örüntülerinin kuralına ilişkin muhakeme yapabilme"
-        }
-      ]
-    },
-    {
-      "name": "İşlemlerle Cebirsel Düşünme · Veriden Olasılığa",
-      "konu": "Temel Aritmetik İşlemler ve Algoritma · Öznel Olasılık",
-      "start": "2027-06-07",
-      "end": "2027-06-13",
-      "outcomes": [
-        {
-          "code": "MAT.5.2.4",
-          "text": "Temel aritmetik işlem içeren durumlardaki algoritmaları yorumlayabilme"
-        }
-      ]
-    },
-    {
-      "name": "Veriden Olasılığa",
-      "konu": "Öznel Olasılık — Sınav Haftası",
-      "start": "2027-06-14",
-      "end": "2027-06-20",
-      "outcomes": [
-        {
-          "code": "MAT.5.2.4",
-          "text": "Temel aritmetik işlem içeren durumlardaki algoritmaları yorumlayabilme"
-        },
-        {
-          "code": "MAT.5.6.1",
-          "text": "Herhangi bir olayın olasılığının 0 (imkânsız) ile 1 (kesin) arasında (0 ve 1 dâhil) olduğunu yorumlayabilme"
-        }
-      ]
-    },
-    {
-      "name": "Veriden Olasılığa",
-      "konu": "Öznel Olasılık",
-      "start": "2027-06-21",
-      "end": "2027-06-27",
-      "outcomes": [
-        {
-          "code": "MAT.5.6.2",
-          "text": "Olayları az ya da çok olasılıklı şeklinde yapılandırabilme"
-        }
-      ]
-    },
-    {
-      "name": "Sosyal Etkinlik · Farklılaştırma",
-      "konu": "Okul temelli planlama — yıl sonu etkinlikleri",
-      "start": "2027-06-28",
-      "end": "2027-07-04",
-      "outcomes": []
+     "code": "MAT.5.3.1",
+     "text": "Temel geometrik çizimler için matematiksel araç ve teknolojiden yararlana- bilme"
     }
-  ]
+   ]
+  },
+  {
+   "name": "MAT.5.3. GEOMETRİK ŞEKİLLER",
+   "konu": "Temel Geometrik Çizimler ve İnşalar",
+   "start": "2026-09-21",
+   "end": "2026-09-27",
+   "outcomes": [
+    {
+     "code": "MAT.5.3.1",
+     "text": "Temel geometrik çizimler için matematiksel araç ve teknolojiden yararlana- bilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.3. GEOMETRİK ŞEKİLLER",
+   "konu": "Temel Geometrik Çizimler ve İnşalar",
+   "start": "2026-09-28",
+   "end": "2026-10-04",
+   "outcomes": [
+    {
+     "code": "MAT.5.3.2",
+     "text": "Temel geometrik çizimlere dayalı deneyimlerini yansıtabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.3. GEOMETRİK ŞEKİLLER",
+   "konu": "Açı Ölçme",
+   "start": "2026-10-05",
+   "end": "2026-10-11",
+   "outcomes": [
+    {
+     "code": "MAT.5.3.3",
+     "text": "Açıları ölçmek için matematiksel araç ve teknolojiden yararlanabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.3. GEOMETRİK ŞEKİLLER",
+   "konu": "Açı Ölçme",
+   "start": "2026-10-12",
+   "end": "2026-10-18",
+   "outcomes": [
+    {
+     "code": "MAT.5.3.4",
+     "text": "Düzlemde iki veya üç doğrunun birbirine göre durumuna bağlı olarak oluşabi- lecek açılara dair çıkarım yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.3. GEOMETRİK ŞEKİLLER",
+   "konu": "Çokgenler ve Çember",
+   "start": "2026-10-19",
+   "end": "2026-10-25",
+   "outcomes": [
+    {
+     "code": "MAT.5.3.5",
+     "text": "Çokgenleri düzlemde ardışık olarak kesişen doğruların oluşturduğu kapalı şe- killer olarak yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.3. GEOMETRİK ŞEKİLLER",
+   "konu": "Çokgenler ve Çember",
+   "start": "2026-10-26",
+   "end": "2026-11-01",
+   "outcomes": [
+    {
+     "code": "MAT.5.3.6",
+     "text": "Çokgenlerin özellikleri ile ilgili edindiği deneyimleri yansıtabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.3. GEOMETRİK ŞEKİLLER",
+   "konu": "Çokgenler ve Çember",
+   "start": "2026-11-02",
+   "end": "2026-11-08",
+   "outcomes": [
+    {
+     "code": "MAT.5.3.7",
+     "text": "Matematiksel araç ve teknoloji yardımıyla düzlemde iki noktada kesişen çem- ber çiftinin merkezleri ve kesişim noktalarından biri ile inşa edilen üçgenlerin kenar özelliklerine yönelik muhakeme yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.1. SAYILAR VE NİCELİKLER (1) — Doğal Sayılar",
+   "konu": "Çok Basamaklı Sayıları Okuma ve Yazma; Çözümleme",
+   "start": "2026-11-09",
+   "end": "2026-11-15",
+   "outcomes": [
+    {
+     "code": "MAT.5.1.1",
+     "text": "Altı basamaklı sayıları okuma ve yazmayı çok basamaklı sayılara genelleye- bilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.1. SAYILAR VE NİCELİKLER (1) — Doğal Sayılar",
+   "konu": "Çok Basamaklı Sayıları Okuma ve Yazma; Çözümleme",
+   "start": "2026-11-23",
+   "end": "2026-11-29",
+   "outcomes": [
+    {
+     "code": "MAT.5.1.1",
+     "text": "Altı basamaklı sayıları okuma ve yazmayı çok basamaklı sayılara genelleye- bilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.1. SAYILAR VE NİCELİKLER (1) — Doğal Sayılar",
+   "konu": "Çok Basamaklı Sayıları Okuma ve Yazma; Çözümleme",
+   "start": "2026-11-30",
+   "end": "2026-12-06",
+   "outcomes": [
+    {
+     "code": "MAT.5.1.1",
+     "text": "Altı basamaklı sayıları okuma ve yazmayı çok basamaklı sayılara genelleye- bilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.1. SAYILAR VE NİCELİKLER (1) — Doğal Sayılar",
+   "konu": "Doğal Sayılarla Dört İşlem İçeren Problem Çözme",
+   "start": "2026-12-07",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "MAT.5.1.2",
+     "text": "Doğal sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.1. SAYILAR VE NİCELİKLER (1) — Doğal Sayılar",
+   "konu": "Doğal Sayılarla Dört İşlem İçeren Problem Çözme",
+   "start": "2026-12-14",
+   "end": "2026-12-20",
+   "outcomes": [
+    {
+     "code": "MAT.5.1.2",
+     "text": "Doğal sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.1. SAYILAR VE NİCELİKLER (1) — Doğal Sayılar",
+   "konu": "Doğal Sayılarla Dört İşlem İçeren Problem Çözme",
+   "start": "2026-12-21",
+   "end": "2026-12-27",
+   "outcomes": [
+    {
+     "code": "MAT.5.1.2",
+     "text": "Doğal sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme"
+    },
+    {
+     "code": "MAT.5.4.1",
+     "text": "Kenar uzunlukları doğal sayı olan bir dikdörtgenin çevre uzunluğu verildiğinde kenar uzunluklarını yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.4. GEOMETRİK NİCELİKLER",
+   "konu": "Dikdörtgenin Çevre Uzunluğu ve Alanı",
+   "start": "2026-12-28",
+   "end": "2027-01-03",
+   "outcomes": [
+    {
+     "code": "MAT.5.4.1",
+     "text": "Kenar uzunlukları doğal sayı olan bir dikdörtgenin çevre uzunluğu verildiğinde kenar uzunluklarını yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.4. GEOMETRİK NİCELİKLER",
+   "konu": "Dikdörtgenin Çevre Uzunluğu ve Alanı",
+   "start": "2027-01-04",
+   "end": "2027-01-10",
+   "outcomes": [
+    {
+     "code": "MAT.5.4.2",
+     "text": "Birim karelerden yola çıkarak dikdörtgenin alanını değerlendirebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.4. GEOMETRİK NİCELİKLER",
+   "konu": "Dikdörtgenin Çevre Uzunluğu ve Alanı",
+   "start": "2027-01-11",
+   "end": "2027-01-17",
+   "outcomes": [
+    {
+     "code": "MAT.5.4.3",
+     "text": "Kenar uzunlukları doğal sayı olan bir dikdörtgenin alanının ölçüsü verildiğinde çevre uzunluğunu, çevre uzunluğu verildiğinde alanını yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.4. GEOMETRİK NİCELİKLER",
+   "konu": "Dikdörtgenin Çevre Uzunluğu ve Alanı",
+   "start": "2027-01-18",
+   "end": "2027-01-24",
+   "outcomes": [
+    {
+     "code": "MAT.5.4.4",
+     "text": "Dikdörtgenin çevre uzunluğu ve alanı ile ilgili problemleri çözebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.1. SAYILAR VE NİCELİKLER (2) — Kesirler",
+   "konu": "Kesirlerin Farklı Gösterimleri",
+   "start": "2027-02-08",
+   "end": "2027-02-14",
+   "outcomes": [
+    {
+     "code": "MAT.5.1.3",
+     "text": "Gerçek yaşam durumlarına karşılık gelen kesirleri farklı biçimlerde temsil ede- bilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.1. SAYILAR VE NİCELİKLER (2) — Kesirler",
+   "konu": "Kesirlerin Farklı Gösterimleri",
+   "start": "2027-02-15",
+   "end": "2027-02-21",
+   "outcomes": [
+    {
+     "code": "MAT.5.1.3",
+     "text": "Gerçek yaşam durumlarına karşılık gelen kesirleri farklı biçimlerde temsil ede- bilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.1. SAYILAR VE NİCELİKLER (2) — Kesirler",
+   "konu": "Kesirlerin Farklı Gösterimleri",
+   "start": "2027-02-22",
+   "end": "2027-02-28",
+   "outcomes": [
+    {
+     "code": "MAT.5.1.3",
+     "text": "Gerçek yaşam durumlarına karşılık gelen kesirleri farklı biçimlerde temsil ede- bilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.1. SAYILAR VE NİCELİKLER (2) — Kesirler",
+   "konu": "Kesirlerin Farklı Gösterimleri",
+   "start": "2027-03-01",
+   "end": "2027-03-07",
+   "outcomes": [
+    {
+     "code": "MAT.5.1.3",
+     "text": "Gerçek yaşam durumlarına karşılık gelen kesirleri farklı biçimlerde temsil ede- bilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.1. SAYILAR VE NİCELİKLER (2) — Kesirler",
+   "konu": "Kesirlerin Karşılaştırılması",
+   "start": "2027-03-15",
+   "end": "2027-03-21",
+   "outcomes": [
+    {
+     "code": "MAT.5.1.4",
+     "text": "Farklı gösterimlerle ifade edilen kesirlerin karşılaştırılmasına yönelik çıkarım yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.1. SAYILAR VE NİCELİKLER (2) — Kesirler",
+   "konu": "Kesirlerin Karşılaştırılması",
+   "start": "2027-03-22",
+   "end": "2027-03-28",
+   "outcomes": [
+    {
+     "code": "MAT.5.1.4",
+     "text": "Farklı gösterimlerle ifade edilen kesirlerin karşılaştırılmasına yönelik çıkarım yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.1. SAYILAR VE NİCELİKLER (2) — Kesirler",
+   "konu": "Kesirlerin Karşılaştırılması",
+   "start": "2027-03-29",
+   "end": "2027-04-04",
+   "outcomes": [
+    {
+     "code": "MAT.5.1.4",
+     "text": "Farklı gösterimlerle ifade edilen kesirlerin karşılaştırılmasına yönelik çıkarım yapabilme"
+    },
+    {
+     "code": "MAT.5.5.1",
+     "text": "Kategorik veri ile çalışabilme ve veriye dayalı karar verebilme VE SÜREÇ BİLEŞENLERİ a) Kategorik veriye dayanan istatistiksel araştırma gerektiren durumları fark eder."
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.5. İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+   "konu": "Kategorik Veri Dağılımları",
+   "start": "2027-04-05",
+   "end": "2027-04-11",
+   "outcomes": [
+    {
+     "code": "MAT.5.5.1",
+     "text": "Kategorik veri ile çalışabilme ve veriye dayalı karar verebilme VE SÜREÇ BİLEŞENLERİ a) Kategorik veriye dayanan istatistiksel araştırma gerektiren durumları fark eder."
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.5. İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+   "konu": "Kategorik Veri Dağılımları",
+   "start": "2027-04-12",
+   "end": "2027-04-18",
+   "outcomes": [
+    {
+     "code": "MAT.5.5.1",
+     "text": "Kategorik veri ile çalışabilme ve veriye dayalı karar verebilme VE SÜREÇ BİLEŞENLERİ a) Kategorik veriye dayanan istatistiksel araştırma gerektiren durumları fark eder."
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.5. İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+   "konu": "Kategorik Veri Dağılımları",
+   "start": "2027-04-19",
+   "end": "2027-04-25",
+   "outcomes": [
+    {
+     "code": "MAT.5.5.2",
+     "text": "Başkaları tarafından oluşturulan kategorik veriye dayalı istatistiksel sonuç veya yorumları tartışabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.5. İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+   "konu": "Kategorik Veri Dağılımları",
+   "start": "2027-04-26",
+   "end": "2027-05-02",
+   "outcomes": [
+    {
+     "code": "MAT.5.5.2",
+     "text": "Başkaları tarafından oluşturulan kategorik veriye dayalı istatistiksel sonuç veya yorumları tartışabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.5. İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+   "konu": "Kategorik Veri Dağılımları",
+   "start": "2027-05-03",
+   "end": "2027-05-09",
+   "outcomes": [
+    {
+     "code": "MAT.5.5.2",
+     "text": "Başkaları tarafından oluşturulan kategorik veriye dayalı istatistiksel sonuç veya yorumları tartışabilme"
+    },
+    {
+     "code": "MAT.5.2.1",
+     "text": "Eşitliğin korunumuna ve işlem özelliklerine yönelik çıkarım yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.2. İŞLEMLERLE CEBİRSEL DÜŞÜNME",
+   "konu": "Eşitliğin Korunumu, Değişme-Birleşme ve Dağılma Özellikleri",
+   "start": "2027-05-10",
+   "end": "2027-05-16",
+   "outcomes": [
+    {
+     "code": "MAT.5.2.1",
+     "text": "Eşitliğin korunumuna ve işlem özelliklerine yönelik çıkarım yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.2. İŞLEMLERLE CEBİRSEL DÜŞÜNME",
+   "konu": "İşlem Önceliği",
+   "start": "2027-05-17",
+   "end": "2027-05-23",
+   "outcomes": [
+    {
+     "code": "MAT.5.2.2",
+     "text": "Karşılaştığı günlük hayat ya da matematiksel durumlarda işlem önceliğini yo- rumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.2. İŞLEMLERLE CEBİRSEL DÜŞÜNME",
+   "konu": "Örüntüler",
+   "start": "2027-05-24",
+   "end": "2027-05-30",
+   "outcomes": [
+    {
+     "code": "MAT.5.2.3",
+     "text": "Sayı ve şekil örüntülerinin kuralına ilişkin muhakeme yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.2. İŞLEMLERLE CEBİRSEL DÜŞÜNME",
+   "konu": "Temel Aritmetik İşlemler ve Algoritma",
+   "start": "2027-05-31",
+   "end": "2027-06-06",
+   "outcomes": [
+    {
+     "code": "MAT.5.2.4",
+     "text": "Temel aritmetik işlem içeren durumlardaki algoritmaları yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.6. VERİDEN OLASILIĞA",
+   "konu": "Öznel Olasılık",
+   "start": "2027-06-07",
+   "end": "2027-06-13",
+   "outcomes": [
+    {
+     "code": "MAT.5.6.1",
+     "text": "Herhangi bir olayın olasılığının 0 (imkânsız) ile 1 (kesin) arasında (0 ve 1 dâhil) olduğunu (olasılık spektrumu) yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.5.6. VERİDEN OLASILIĞA",
+   "konu": "Öznel Olasılık",
+   "start": "2027-06-14",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "MAT.5.6.2",
+     "text": "Olayları az ya da çok olasılıklı şeklinde yapılandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "SOSYAL ETKİNLİK VE YIL SONU DEĞERLENDİRME",
+   "konu": "Proje sunumları, sosyal/kültürel etkinlikler ve yıl sonu genel değerlendirme",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": []
+  }
+ ]
 }
