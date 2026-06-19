@@ -1,201 +1,201 @@
 {
-  "version": "2026-2027.1",
-  "year": "2025-2026",
-  "plans": [
-    {
-      "grade": 1,
-      "subject": "Beden Eğitimi ve Oyun",
-      "file": "beden-egitimi-ve-oyun-1.json"
-    },
-    {
-      "grade": 1,
-      "subject": "Görsel Sanatlar",
-      "file": "gorsel-sanatlar-1.json"
-    },
-    {
-      "grade": 1,
-      "subject": "Hayat Bilgisi",
-      "file": "hayat-bilgisi-1.json"
-    },
-    {
-      "grade": 1,
-      "subject": "Matematik",
-      "file": "matematik-1.json"
-    },
-    {
-      "grade": 1,
-      "subject": "Müzik",
-      "file": "muzik-1.json"
-    },
-    {
-      "grade": 1,
-      "subject": "Rehberlik",
-      "file": "rehberlik-1.json"
-    },
-    {
-      "grade": 1,
-      "subject": "Serbest Etkinlik",
-      "file": "serbest-etkinlik-1.json"
-    },
-    {
-      "grade": 1,
-      "subject": "Türkçe",
-      "file": "turkce-1.json"
-    },
-    {
-      "grade": 1,
-      "subject": "İlk Okuma Yazma-Harf Veriliş",
-      "file": "ilk-okuma-yazma-harf-verilis-1.json"
-    },
-    {
-      "grade": 2,
-      "subject": "Almanca",
-      "file": "almanca-2.json"
-    },
-    {
-      "grade": 2,
-      "subject": "Beden Eğitimi ve Oyun",
-      "file": "beden-egitimi-ve-oyun-2.json"
-    },
-    {
-      "grade": 2,
-      "subject": "Görsel Sanatlar",
-      "file": "gorsel-sanatlar-2.json"
-    },
-    {
-      "grade": 2,
-      "subject": "Hayat Bilgisi",
-      "file": "hayat-bilgisi-2.json"
-    },
-    {
-      "grade": 2,
-      "subject": "Matematik",
-      "file": "matematik-2.json"
-    },
-    {
-      "grade": 2,
-      "subject": "Müzik",
-      "file": "muzik-2.json"
-    },
-    {
-      "grade": 2,
-      "subject": "Rehberlik",
-      "file": "rehberlik-2.json"
-    },
-    {
-      "grade": 2,
-      "subject": "Serbest Etkinlik",
-      "file": "serbest-etkinlik-2.json"
-    },
-    {
-      "grade": 2,
-      "subject": "Türkçe",
-      "file": "turkce-2.json"
-    },
-    {
-      "grade": 2,
-      "subject": "İngilizce",
-      "file": "ingilizce-2.json"
-    },
-    {
-      "grade": 5,
-      "subject": "Almanca",
-      "file": "almanca-5.json"
-    },
-    {
-      "grade": 5,
-      "subject": "Beden Eğitimi ve Spor",
-      "file": "beden-egitimi-ve-spor-5.json"
-    },
-    {
-      "grade": 5,
-      "subject": "Bilişim Teknolojileri ve Yazılım",
-      "file": "bilisim-teknolojileri-ve-yazilim-5.json"
-    },
-    {
-      "grade": 5,
-      "subject": "Din Kültürü ve Ahlak Bilgisi",
-      "file": "din-kulturu-ve-ahlak-bilgisi-5.json"
-    },
-    {
-      "grade": 5,
-      "subject": "Fen Bilimleri",
-      "file": "fen-bilimleri-5.json"
-    },
-    {
-      "grade": 5,
-      "subject": "Görsel Sanatlar",
-      "file": "gorsel-sanatlar-5.json"
-    },
-    {
-      "grade": 5,
-      "subject": "Matematik",
-      "file": "matematik-5.json"
-    },
-    {
-      "grade": 5,
-      "subject": "Müzik",
-      "file": "muzik-5.json"
-    },
-    {
-      "grade": 5,
-      "subject": "Sosyal Bilgiler",
-      "file": "sosyal-bilgiler-5.json"
-    },
-    {
-      "grade": 5,
-      "subject": "Türkçe",
-      "file": "turkce-5.json"
-    },
-    {
-      "grade": 5,
-      "subject": "İngilizce",
-      "file": "ingilizce-5.json"
-    },
-    {
-      "grade": 6,
-      "subject": "Beden Eğitimi ve Spor",
-      "file": "beden-egitimi-ve-spor-6.json"
-    },
-    {
-      "grade": 6,
-      "subject": "Bilişim Teknolojileri ve Yazılım",
-      "file": "bilisim-teknolojileri-ve-yazilim-6.json"
-    },
-    {
-      "grade": 6,
-      "subject": "Din Kültürü ve Ahlak Bilgisi",
-      "file": "din-kulturu-ve-ahlak-bilgisi-6.json"
-    },
-    {
-      "grade": 6,
-      "subject": "Fen Bilimleri",
-      "file": "fen-bilimleri-6.json"
-    },
-    {
-      "grade": 6,
-      "subject": "Görsel Sanatlar",
-      "file": "gorsel-sanatlar-6.json"
-    },
-    {
-      "grade": 6,
-      "subject": "Matematik",
-      "file": "matematik-6.json"
-    },
-    {
-      "grade": 6,
-      "subject": "Müzik",
-      "file": "muzik-6.json"
-    },
-    {
-      "grade": 6,
-      "subject": "Sosyal Bilgiler",
-      "file": "sosyal-bilgiler-6.json"
-    },
-    {
-      "grade": 6,
-      "subject": "İngilizce",
-      "file": "ingilizce-6.json"
-    }
-  ]
+ "version": "2026-2027.2",
+ "year": "2025-2026",
+ "plans": [
+  {
+   "grade": 1,
+   "subject": "Beden Eğitimi ve Oyun",
+   "file": "beden-egitimi-ve-oyun-1.json"
+  },
+  {
+   "grade": 1,
+   "subject": "Görsel Sanatlar",
+   "file": "gorsel-sanatlar-1.json"
+  },
+  {
+   "grade": 1,
+   "subject": "Hayat Bilgisi",
+   "file": "hayat-bilgisi-1.json"
+  },
+  {
+   "grade": 1,
+   "subject": "Matematik",
+   "file": "matematik-1.json"
+  },
+  {
+   "grade": 1,
+   "subject": "Müzik",
+   "file": "muzik-1.json"
+  },
+  {
+   "grade": 1,
+   "subject": "Rehberlik",
+   "file": "rehberlik-1.json"
+  },
+  {
+   "grade": 1,
+   "subject": "Serbest Etkinlik",
+   "file": "serbest-etkinlik-1.json"
+  },
+  {
+   "grade": 1,
+   "subject": "Türkçe",
+   "file": "turkce-1.json"
+  },
+  {
+   "grade": 1,
+   "subject": "İlk Okuma Yazma-Harf Veriliş",
+   "file": "ilk-okuma-yazma-harf-verilis-1.json"
+  },
+  {
+   "grade": 2,
+   "subject": "Almanca",
+   "file": "almanca-2.json"
+  },
+  {
+   "grade": 2,
+   "subject": "Beden Eğitimi ve Oyun",
+   "file": "beden-egitimi-ve-oyun-2.json"
+  },
+  {
+   "grade": 2,
+   "subject": "Görsel Sanatlar",
+   "file": "gorsel-sanatlar-2.json"
+  },
+  {
+   "grade": 2,
+   "subject": "Hayat Bilgisi",
+   "file": "hayat-bilgisi-2.json"
+  },
+  {
+   "grade": 2,
+   "subject": "Matematik",
+   "file": "matematik-2.json"
+  },
+  {
+   "grade": 2,
+   "subject": "Müzik",
+   "file": "muzik-2.json"
+  },
+  {
+   "grade": 2,
+   "subject": "Rehberlik",
+   "file": "rehberlik-2.json"
+  },
+  {
+   "grade": 2,
+   "subject": "Serbest Etkinlik",
+   "file": "serbest-etkinlik-2.json"
+  },
+  {
+   "grade": 2,
+   "subject": "Türkçe",
+   "file": "turkce-2.json"
+  },
+  {
+   "grade": 2,
+   "subject": "İngilizce",
+   "file": "ingilizce-2.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Almanca",
+   "file": "almanca-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Beden Eğitimi ve Spor",
+   "file": "beden-egitimi-ve-spor-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Bilişim Teknolojileri ve Yazılım",
+   "file": "bilisim-teknolojileri-ve-yazilim-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Din Kültürü ve Ahlak Bilgisi",
+   "file": "din-kulturu-ve-ahlak-bilgisi-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Fen Bilimleri",
+   "file": "fen-bilimleri-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Görsel Sanatlar",
+   "file": "gorsel-sanatlar-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Matematik",
+   "file": "matematik-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Müzik",
+   "file": "muzik-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Sosyal Bilgiler",
+   "file": "sosyal-bilgiler-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Türkçe",
+   "file": "turkce-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "İngilizce",
+   "file": "ingilizce-5.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Beden Eğitimi ve Spor",
+   "file": "beden-egitimi-ve-spor-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Bilişim Teknolojileri ve Yazılım",
+   "file": "bilisim-teknolojileri-ve-yazilim-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Din Kültürü ve Ahlak Bilgisi",
+   "file": "din-kulturu-ve-ahlak-bilgisi-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Fen Bilimleri",
+   "file": "fen-bilimleri-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Görsel Sanatlar",
+   "file": "gorsel-sanatlar-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Matematik",
+   "file": "matematik-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Müzik",
+   "file": "muzik-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Sosyal Bilgiler",
+   "file": "sosyal-bilgiler-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "İngilizce",
+   "file": "ingilizce-6.json"
+  }
+ ]
 }
