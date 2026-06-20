@@ -1,435 +1,453 @@
 {
-  "grade": 5,
-  "subject": "Bilişim Teknolojileri ve Yazılım",
-  "themes": [
+ "grade": 5,
+ "subject": "Bilişim Teknolojileri ve Yazılım",
+ "themes": [
+  {
+   "name": "1. TEMA: BİLİŞİM TEKNOLOJİLERİNİN HAYATIMIZDAKİ YERİ",
+   "konu": "Bilişim Teknolojilerinin Sınıflandırılması",
+   "start": "2026-09-14",
+   "end": "2026-09-20",
+   "outcomes": [
     {
-      "name": "BİLİŞİM TEKNOLOJİLERİNİN TEMELLERİ",
-      "konu": "Bilişim Teknolojilerinin Günlük Yaşamdaki Önemi Dijital Vatandaşlık Uygulamaları Bilgisayar Sistemlerinin Kullanımı Dosya ve Klasör Yönetimi",
-      "start": "2026-09-14",
-      "end": "2026-09-20",
-      "outcomes": [
-        {
-          "code": "BTY.5.1.1",
-          "text": "Günlük yaşamda kullanılan bilişim teknolojilerini sınıflandırabilme"
-        }
-      ]
-    },
-    {
-      "name": "BİLİŞİM TEKNOLOJİLERİNİN TEMELLERİ",
-      "konu": "Bilişim Teknolojilerinin Günlük Yaşamdaki Önemi Dijital Vatandaşlık Uygulamaları Bilgisayar Sistemlerinin Kullanımı Dosya ve Klasör Yönetimi",
-      "start": "2026-09-21",
-      "end": "2026-09-27",
-      "outcomes": [
-        {
-          "code": "BTY.5.1.2",
-          "text": "Bilişim teknolojilerinin etkilerini özetleyebilme"
-        }
-      ]
-    },
-    {
-      "name": "BİLİŞİM TEKNOLOJİLERİNİN TEMELLERİ",
-      "konu": "Bilişim Teknolojilerinin Günlük Yaşamdaki Önemi Dijital Vatandaşlık Uygulamaları Bilgisayar Sistemlerinin Kullanımı Dosya ve Klasör Yönetimi",
-      "start": "2026-09-28",
-      "end": "2026-10-04",
-      "outcomes": [
-        {
-          "code": "BTY.5.1.3",
-          "text": "Dijital vatandaşlık uygulamalarını sınıflandırabilme"
-        }
-      ]
-    },
-    {
-      "name": "BİLİŞİM TEKNOLOJİLERİNİN TEMELLERİ",
-      "konu": "Bilişim Teknolojilerinin Günlük Yaşamdaki Önemi Dijital Vatandaşlık Uygulamaları Bilgisayar Sistemlerinin Kullanımı Dosya ve Klasör Yönetimi",
-      "start": "2026-10-05",
-      "end": "2026-10-11",
-      "outcomes": [
-        {
-          "code": "BTY.5.1.4",
-          "text": "Bilgisayar sistemlerini çözümleyebilme"
-        }
-      ]
-    },
-    {
-      "name": "BİLİŞİM TEKNOLOJİLERİNİN TEMELLERİ",
-      "konu": "Bilişim Teknolojilerinin Günlük Yaşamdaki Önemi Dijital Vatandaşlık Uygulamaları Bilgisayar Sistemlerinin Kullanımı Dosya ve Klasör Yönetimi",
-      "start": "2026-10-12",
-      "end": "2026-10-18",
-      "outcomes": [
-        {
-          "code": "BTY.5.1.5",
-          "text": "Dosya ve klasör yönetimi ile ilgili temel işlemlerle çalışma"
-        }
-      ]
-    },
-    {
-      "name": "DİJİTAL ÜRÜN TASARIMI VE GELİŞTİRME",
-      "konu": "Görsellerin Temel Özellikleri Görsel İşleme Programları Kelime İşlemci Programları Kelime İşlemci Belgesi Hazırlama Sunu Hazırlama Programları Sunu Belgesi Hazırlama",
-      "start": "2026-10-19",
-      "end": "2026-10-25",
-      "outcomes": [
-        {
-          "code": "BTY.5.2.1",
-          "text": "Görsel işleme programlarından yararlanabilme"
-        },
-        {
-          "code": "BTY.5.2.2",
-          "text": "Görsel tasarım belgesi için kurgu oluşturabilme"
-        }
-      ]
-    },
-    {
-      "name": "DİJİTAL ÜRÜN TASARIMI VE GELİŞTİRME",
-      "konu": "Görsellerin Temel Özellikleri Görsel İşleme Programları Kelime İşlemci Programları Kelime İşlemci Belgesi Hazırlama Sunu Hazırlama Programları Sunu Belgesi Hazırlama",
-      "start": "2026-10-26",
-      "end": "2026-11-01",
-      "outcomes": [
-        {
-          "code": "BTY.5.2.3",
-          "text": "Görsel belgesi oluşturabilme"
-        },
-        {
-          "code": "BTY.5.2.4",
-          "text": "Kelime işlemci programlarından yararlanabilme"
-        }
-      ]
-    },
-    {
-      "name": "DİJİTAL ÜRÜN TASARIMI VE GELİŞTİRME",
-      "konu": "Görsellerin Temel Özellikleri Görsel İşleme Programları Kelime İşlemci Programları Kelime İşlemci Belgesi Hazırlama Sunu Hazırlama Programları Sunu Belgesi Hazırlama",
-      "start": "2026-11-09",
-      "end": "2026-11-15",
-      "outcomes": [
-        {
-          "code": "BTY.5.2.5",
-          "text": "Kelime işlemci belgesi oluşturabilme"
-        }
-      ]
-    },
-    {
-      "name": "DİJİTAL ÜRÜN TASARIMI VE GELİŞTİRME",
-      "konu": "Görsellerin Temel Özellikleri Görsel İşleme Programları Kelime İşlemci Programları Kelime İşlemci Belgesi Hazırlama Sunu Hazırlama Programları Sunu Belgesi Hazırlama",
-      "start": "2026-11-23",
-      "end": "2026-11-29",
-      "outcomes": [
-        {
-          "code": "BTY.5.2.6",
-          "text": "Sunu programlarından yararlanabilme"
-        }
-      ]
-    },
-    {
-      "name": "DİJİTAL ÜRÜN TASARIMI VE GELİŞTİRME",
-      "konu": "Görsellerin Temel Özellikleri Görsel İşleme Programları Kelime İşlemci Programları Kelime İşlemci Belgesi Hazırlama Sunu Hazırlama Programları Sunu Belgesi Hazırlama",
-      "start": "2026-11-30",
-      "end": "2026-12-06",
-      "outcomes": [
-        {
-          "code": "BTY.5.2.7",
-          "text": "Sunu belgesi oluşturabilme"
-        }
-      ]
-    },
-    {
-      "name": "BİLGİSAYAR AĞLARI VE İLETİŞİM",
-      "konu": "Bilgisayar Ağları Ve Ağ Bileşenleri Bilgisayar Ağ Türleri Bilgi Kaynakları İnternette Arama Yöntemleri",
-      "start": "2026-12-07",
-      "end": "2026-12-13",
-      "outcomes": [
-        {
-          "code": "BTY.5.3.1",
-          "text": "Bilgisayar ağları ve bileşenlerini sorgulayabilme"
-        }
-      ]
-    },
-    {
-      "name": "BİLGİSAYAR AĞLARI VE İLETİŞİM",
-      "konu": "Bilgisayar Ağları Ve Ağ Bileşenleri Bilgisayar Ağ Türleri Bilgi Kaynakları İnternette Arama Yöntemleri",
-      "start": "2026-12-14",
-      "end": "2026-12-20",
-      "outcomes": [
-        {
-          "code": "BTY.5.3.2",
-          "text": "Bilgisayar ağları ve bağlanma yöntemlerini sınıflandırabilme"
-        }
-      ]
-    },
-    {
-      "name": "BİLGİSAYAR AĞLARI VE İLETİŞİM",
-      "konu": "Bilgisayar Ağları Ve Ağ Bileşenleri Bilgisayar Ağ Türleri Bilgi Kaynakları İnternette Arama Yöntemleri",
-      "start": "2026-12-21",
-      "end": "2026-12-27",
-      "outcomes": [
-        {
-          "code": "BTY.5.3.3",
-          "text": "İnternet ile amacına uygun olarak çalışabilme"
-        }
-      ]
-    },
-    {
-      "name": "BİLİŞİM ETİĞİ VE SİBER GÜVENLİK",
-      "konu": "Bilişim Etiği Bilişim Etiği İlkeleri Bilişim Etiğinin Önemi Bilgi Paylaşımı Dijital Ortamlarda Gizlilik ve Güvenlik Kişisel Verinin Korunması",
-      "start": "2026-12-28",
-      "end": "2027-01-03",
-      "outcomes": [
-        {
-          "code": "BTY.5.4.1",
-          "text": "Bilişim etiği kurallarını ve ilkelerini yorumlayabilme"
-        }
-      ]
-    },
-    {
-      "name": "BİLİŞİM ETİĞİ VE SİBER GÜVENLİK",
-      "konu": "Bilişim Etiği Bilişim Etiği İlkeleri Bilişim Etiğinin Önemi Bilgi Paylaşımı Dijital Ortamlarda Gizlilik ve Güvenlik Kişisel Verinin Korunması",
-      "start": "2027-01-04",
-      "end": "2027-01-10",
-      "outcomes": [
-        {
-          "code": "BTY.5.4.2",
-          "text": "Dijital ortamlarda gizlilik ve güvenlik önlemlerini yönetme"
-        }
-      ]
-    },
-    {
-      "name": "YAPAY ZEKÂ OKURYAZARLIĞI",
-      "konu": "Yapay Zekâda Temel Kavramlar ve Özellikler Yapay Zekâ Kullanım Alanları ve Alt Boyutları Yapay Zekâda Güvenlik",
-      "start": "2027-01-11",
-      "end": "2027-01-17",
-      "outcomes": [
-        {
-          "code": "BTY.5.5.1",
-          "text": "Yapay zekâ ile ilgili temel kavramları ve özellikleri sorgulayabilme"
-        }
-      ]
-    },
-    {
-      "name": "ŞUBAT",
-      "start": "2027-01-18",
-      "end": "2027-01-24",
-      "outcomes": []
-    },
-    {
-      "name": "YAPAY ZEKÂ OKURYAZARLIĞI",
-      "konu": "Yapay Zekâda Temel Kavramlar ve Özellikler Yapay Zekâ Kullanım Alanları ve Alt Boyutları Yapay Zekâda Güvenlik",
-      "start": "2027-02-08",
-      "end": "2027-02-14",
-      "outcomes": [
-        {
-          "code": "BTY.5.5.2",
-          "text": "Yapay zekâ uygulamalarını sınıflandırabilme"
-        }
-      ]
-    },
-    {
-      "name": "YAPAY ZEKÂ OKURYAZARLIĞI",
-      "konu": "Yapay Zekâda Temel Kavramlar ve Özellikler Yapay Zekâ Kullanım Alanları ve Alt Boyutları Yapay Zekâda Güvenlik",
-      "start": "2027-02-15",
-      "end": "2027-02-21",
-      "outcomes": [
-        {
-          "code": "BTY.5.5.2",
-          "text": "Yapay zekâ uygulamalarını sınıflandırabilme"
-        }
-      ]
-    },
-    {
-      "name": "YAPAY ZEKÂ OKURYAZARLIĞI",
-      "konu": "Yapay Zekâda Temel Kavramlar ve Özellikler Yapay Zekâ Kullanım Alanları ve Alt Boyutları Yapay Zekâda Güvenlik",
-      "start": "2027-02-22",
-      "end": "2027-02-28",
-      "outcomes": [
-        {
-          "code": "BTY.5.5.3",
-          "text": "Yapay zekâya ilişkin güvenlik önlemlerini yönetebilme"
-        }
-      ]
-    },
-    {
-      "name": "YAPAY ZEKÂ OKURYAZARLIĞI",
-      "konu": "Yapay Zekâda Temel Kavramlar ve Özellikler Yapay Zekâ Kullanım Alanları ve Alt Boyutları Yapay Zekâda Güvenlik",
-      "start": "2027-03-01",
-      "end": "2027-03-07",
-      "outcomes": [
-        {
-          "code": "BTY.5.5.3",
-          "text": "Yapay zekâya ilişkin güvenlik önlemlerini yönetebilme"
-        }
-      ]
-    },
-    {
-      "name": "YAZILIM TASARIMI VE PROGRAMLAMA",
-      "konu": "Problem Belirleme ve Algoritma Oluşturma Algoritma Test Etme ve Geri Bildirim Alma Hata Ayıklama ve Geliştirme Yazılımda Kullanılan Bileşenler Karar ve Döngü Yapıları Blok Tabanlı Ortamda Yazılım Geliştirme",
-      "start": "2027-03-08",
-      "end": "2027-03-14",
-      "outcomes": [
-        {
-          "code": "BTY.5.6.1",
-          "text": "Problem çözümü için algoritmik düşünebilme"
-        }
-      ]
-    },
-    {
-      "name": "YAZILIM TASARIMI VE PROGRAMLAMA",
-      "konu": "Problem Belirleme ve Algoritma Oluşturma Algoritma Test Etme ve Geri Bildirim Alma Hata Ayıklama ve Geliştirme Yazılımda Kullanılan Bileşenler Karar ve Döngü Yapıları Blok Tabanlı Ortamda Yazılım Geliştirme",
-      "start": "2027-03-15",
-      "end": "2027-03-21",
-      "outcomes": [
-        {
-          "code": "BTY.5.6.1",
-          "text": "Problem çözümü için algoritmik düşünebilme"
-        }
-      ]
-    },
-    {
-      "name": "YAZILIM TASARIMI VE PROGRAMLAMA",
-      "konu": "Problem Belirleme ve Algoritma Oluşturma Algoritma Test Etme ve Geri Bildirim Alma Hata Ayıklama ve Geliştirme Yazılımda Kullanılan Bileşenler Karar ve Döngü Yapıları Blok Tabanlı Ortamda Yazılım Geliştirme",
-      "start": "2027-03-29",
-      "end": "2027-04-04",
-      "outcomes": [
-        {
-          "code": "BTY.5.6.1",
-          "text": "Problem çözümü için algoritmik düşünebilme"
-        }
-      ]
-    },
-    {
-      "name": "YAZILIM TASARIMI VE PROGRAMLAMA",
-      "konu": "Problem Belirleme ve Algoritma Oluşturma Algoritma Test Etme ve Geri Bildirim Alma Hata Ayıklama ve Geliştirme Yazılımda Kullanılan Bileşenler Karar ve Döngü Yapıları Blok Tabanlı Ortamda Yazılım Geliştirme",
-      "start": "2027-04-05",
-      "end": "2027-04-11",
-      "outcomes": [
-        {
-          "code": "BTY.5.6.2",
-          "text": "Algoritma oluşturmada hata ayıklayabilme"
-        }
-      ]
-    },
-    {
-      "name": "YAZILIM TASARIMI VE PROGRAMLAMA",
-      "konu": "Problem Belirleme ve Algoritma Oluşturma Algoritma Test Etme ve Geri Bildirim Alma Hata Ayıklama ve Geliştirme Yazılımda Kullanılan Bileşenler Karar ve Döngü Yapıları Blok Tabanlı Ortamda Yazılım Geliştirme",
-      "start": "2027-04-12",
-      "end": "2027-04-18",
-      "outcomes": [
-        {
-          "code": "BTY.5.6.2",
-          "text": "Algoritma oluşturmada hata ayıklayabilme"
-        }
-      ]
-    },
-    {
-      "name": "YAZILIM TASARIMI VE PROGRAMLAMA",
-      "konu": "Problem Belirleme ve Algoritma Oluşturma Algoritma Test Etme ve Geri Bildirim Alma Hata Ayıklama ve Geliştirme Yazılımda Kullanılan Bileşenler Karar ve Döngü Yapıları Blok Tabanlı Ortamda Yazılım Geliştirme",
-      "start": "2027-04-19",
-      "end": "2027-04-25",
-      "outcomes": [
-        {
-          "code": "BTY.5.6.2",
-          "text": "Algoritma oluşturmada hata ayıklayabilme"
-        }
-      ]
-    },
-    {
-      "name": "YAZILIM TASARIMI VE PROGRAMLAMA",
-      "konu": "Problem Belirleme ve Algoritma Oluşturma Algoritma Test Etme ve Geri Bildirim Alma Hata Ayıklama ve Geliştirme Yazılımda Kullanılan Bileşenler Karar ve Döngü Yapıları Blok Tabanlı Ortamda Yazılım Geliştirme",
-      "start": "2027-04-26",
-      "end": "2027-05-02",
-      "outcomes": [
-        {
-          "code": "BTY.5.6.3",
-          "text": "Yazılım geliştirme sürecinde kullanılan bileşenlerden yararlanabilme"
-        }
-      ]
-    },
-    {
-      "name": "YAZILIM TASARIMI VE PROGRAMLAMA",
-      "konu": "Problem Belirleme ve Algoritma Oluşturma Algoritma Test Etme ve Geri Bildirim Alma Hata Ayıklama ve Geliştirme Yazılımda Kullanılan Bileşenler Karar ve Döngü Yapıları Blok Tabanlı Ortamda Yazılım Geliştirme",
-      "start": "2027-05-03",
-      "end": "2027-05-09",
-      "outcomes": [
-        {
-          "code": "BTY.5.6.3",
-          "text": "Yazılım geliştirme sürecinde kullanılan bileşenlerden yararlanabilme"
-        }
-      ]
-    },
-    {
-      "name": "YAZILIM TASARIMI VE PROGRAMLAMA",
-      "konu": "Problem Belirleme ve Algoritma Oluşturma Algoritma Test Etme ve Geri Bildirim Alma Hata Ayıklama ve Geliştirme Yazılımda Kullanılan Bileşenler Karar ve Döngü Yapıları Blok Tabanlı Ortamda Yazılım Geliştirme",
-      "start": "2027-05-10",
-      "end": "2027-05-16",
-      "outcomes": [
-        {
-          "code": "BTY.5.6.3",
-          "text": "Yazılım geliştirme sürecinde kullanılan bileşenlerden yararlanabilme"
-        }
-      ]
-    },
-    {
-      "name": "YAZILIM TASARIMI VE PROGRAMLAMA",
-      "konu": "Problem Belirleme ve Algoritma Oluşturma Algoritma Test Etme ve Geri Bildirim Alma Hata Ayıklama ve Geliştirme Yazılımda Kullanılan Bileşenler Karar ve Döngü Yapıları Blok Tabanlı Ortamda Yazılım Geliştirme",
-      "start": "2027-05-17",
-      "end": "2027-05-23",
-      "outcomes": [
-        {
-          "code": "BTY.5.6.4",
-          "text": "Blok tabanlı ortamda yazılım geliştirme sürecini yönetebilme"
-        }
-      ]
-    },
-    {
-      "name": "YAZILIM TASARIMI VE PROGRAMLAMA",
-      "konu": "Problem Belirleme ve Algoritma Oluşturma Algoritma Test Etme ve Geri Bildirim Alma Hata Ayıklama ve Geliştirme Yazılımda Kullanılan Bileşenler Karar ve Döngü Yapıları Blok Tabanlı Ortamda Yazılım Geliştirme",
-      "start": "2027-05-24",
-      "end": "2027-05-30",
-      "outcomes": [
-        {
-          "code": "BTY.5.6.4",
-          "text": "Blok tabanlı ortamda yazılım geliştirme sürecini yönetebilme"
-        }
-      ]
-    },
-    {
-      "name": "KURBAN BAYRAMI",
-      "start": "2027-05-31",
-      "end": "2027-06-06",
-      "outcomes": []
-    },
-    {
-      "name": "YAZILIM TASARIMI VE PROGRAMLAMA",
-      "konu": "Problem Belirleme ve Algoritma Oluşturma Algoritma Test Etme ve Geri Bildirim Alma Hata Ayıklama ve Geliştirme Yazılımda Kullanılan Bileşenler Karar ve Döngü Yapıları Blok Tabanlı Ortamda Yazılım Geliştirme",
-      "start": "2027-06-07",
-      "end": "2027-06-13",
-      "outcomes": [
-        {
-          "code": "BTY.5.6.4",
-          "text": "Blok tabanlı ortamda yazılım geliştirme sürecini yönetebilme"
-        }
-      ]
-    },
-    {
-      "name": "YAZILIM TASARIMI VE PROGRAMLAMA",
-      "konu": "Problem Belirleme ve Algoritma Oluşturma Algoritma Test Etme ve Geri Bildirim Alma Hata Ayıklama ve Geliştirme Yazılımda Kullanılan Bileşenler Karar ve Döngü Yapıları Blok Tabanlı Ortamda Yazılım Geliştirme",
-      "start": "2027-06-14",
-      "end": "2027-06-20",
-      "outcomes": [
-        {
-          "code": "BTY.5.6.4",
-          "text": "Blok tabanlı ortamda yazılım geliştirme sürecini yönetebilme"
-        }
-      ]
-    },
-    {
-      "name": "Bilişim Teknolojileri ve Yazılım",
-      "start": "2027-06-21",
-      "end": "2027-06-27",
-      "outcomes": []
-    },
-    {
-      "name": "UYGUNDUR.",
-      "konu": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından planlanır ve uygulanır.",
-      "start": "2027-06-28",
-      "end": "2027-07-04",
-      "outcomes": []
+     "code": "BTY.5.1.1",
+     "text": "Günlük yaşamda kullanılan bilişim teknolojilerini sınıflandırabilme"
     }
-  ]
+   ]
+  },
+  {
+   "name": "1. TEMA: BİLİŞİM TEKNOLOJİLERİNİN HAYATIMIZDAKİ YERİ",
+   "konu": "Bilişim Teknolojilerinin Sınıflandırılması",
+   "start": "2026-09-21",
+   "end": "2026-09-27",
+   "outcomes": [
+    {
+     "code": "BTY.5.1.1",
+     "text": "Günlük yaşamda kullanılan bilişim teknolojilerini sınıflandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "1. TEMA: BİLİŞİM TEKNOLOJİLERİNİN HAYATIMIZDAKİ YERİ",
+   "konu": "Bilişim Teknolojilerinin Etkileri ve Dijital Sağlık",
+   "start": "2026-09-28",
+   "end": "2026-10-04",
+   "outcomes": [
+    {
+     "code": "BTY.5.1.2",
+     "text": "Bilişim teknolojilerinin birey ve toplum üzerindeki etkilerini özetleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "1. TEMA: BİLİŞİM TEKNOLOJİLERİNİN HAYATIMIZDAKİ YERİ",
+   "konu": "Dijital Vatandaşlık Uygulamaları",
+   "start": "2026-10-05",
+   "end": "2026-10-11",
+   "outcomes": [
+    {
+     "code": "BTY.5.1.3",
+     "text": "Dijital vatandaşlık uygulamalarını sınıflandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "1. TEMA: BİLİŞİM TEKNOLOJİLERİNİN HAYATIMIZDAKİ YERİ",
+   "konu": "Yapay Zekâda Temel Kavram ve Özellikler",
+   "start": "2026-10-12",
+   "end": "2026-10-18",
+   "outcomes": [
+    {
+     "code": "BTY.5.1.4",
+     "text": "Yapay zekâ ile ilgili temel kavramları ve özellikleri sorgulayabilme"
+    }
+   ]
+  },
+  {
+   "name": "1. TEMA: BİLİŞİM TEKNOLOJİLERİNİN HAYATIMIZDAKİ YERİ",
+   "konu": "Yapay Zekâda Temel Kavram ve Özellikler",
+   "start": "2026-10-19",
+   "end": "2026-10-25",
+   "outcomes": [
+    {
+     "code": "BTY.5.1.4",
+     "text": "Yapay zekâ ile ilgili temel kavramları ve özellikleri sorgulayabilme"
+    }
+   ]
+  },
+  {
+   "name": "1. TEMA: BİLİŞİM TEKNOLOJİLERİNİN HAYATIMIZDAKİ YERİ",
+   "konu": "Bilgisayar Sistemlerinin Kullanımı",
+   "start": "2026-10-26",
+   "end": "2026-11-01",
+   "outcomes": [
+    {
+     "code": "BTY.5.1.5",
+     "text": "Bilgisayar sistemlerini çözümleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "1. TEMA: BİLİŞİM TEKNOLOJİLERİNİN HAYATIMIZDAKİ YERİ",
+   "konu": "Dosya ve Klasör Yönetimi",
+   "start": "2026-11-02",
+   "end": "2026-11-08",
+   "outcomes": [
+    {
+     "code": "BTY.5.1.6",
+     "text": "Dosya ve klasör yönetimi ile ilgili temel işlemlerle çalışabilme"
+    },
+    {
+     "code": "BTY.5.2.1",
+     "text": "Görsel düzenleme programlarından yararlanabilme"
+    }
+   ]
+  },
+  {
+   "name": "2. TEMA: DİJİTAL ÜRÜN TASARIMI VE GELİŞTİRME",
+   "konu": "Görsel Tasarıma Yönelik Kurgu Oluşturma",
+   "start": "2026-11-09",
+   "end": "2026-11-15",
+   "outcomes": [
+    {
+     "code": "BTY.5.2.2",
+     "text": "Görsel için kurgu oluşturabilme"
+    }
+   ]
+  },
+  {
+   "name": "2. TEMA: DİJİTAL ÜRÜN TASARIMI VE GELİŞTİRME",
+   "konu": "Görsel Ürün Geliştirme",
+   "start": "2026-11-23",
+   "end": "2026-11-29",
+   "outcomes": [
+    {
+     "code": "BTY.5.2.3",
+     "text": "Görsel dosyası geliştirebilme"
+    }
+   ]
+  },
+  {
+   "name": "2. TEMA: DİJİTAL ÜRÜN TASARIMI VE GELİŞTİRME",
+   "konu": "Kelime İşlemci Programlarına Giriş",
+   "start": "2026-11-30",
+   "end": "2026-12-06",
+   "outcomes": [
+    {
+     "code": "BTY.5.2.4",
+     "text": "Kelime işlemci programlarından yararlanabilme"
+    }
+   ]
+  },
+  {
+   "name": "2. TEMA: DİJİTAL ÜRÜN TASARIMI VE GELİŞTİRME",
+   "konu": "Kelime İşlemci Dosyası Geliştirme",
+   "start": "2026-12-07",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "BTY.5.2.5",
+     "text": "Kelime işlemci dosyası geliştirebilme"
+    }
+   ]
+  },
+  {
+   "name": "2. TEMA: DİJİTAL ÜRÜN TASARIMI VE GELİŞTİRME",
+   "konu": "Sunum Programlarına Giriş",
+   "start": "2026-12-14",
+   "end": "2026-12-20",
+   "outcomes": [
+    {
+     "code": "BTY.5.2.6",
+     "text": "Sunum programlarından yararlanabilme"
+    }
+   ]
+  },
+  {
+   "name": "2. TEMA: DİJİTAL ÜRÜN TASARIMI VE GELİŞTİRME",
+   "konu": "Sunum Dosyası Oluşturma",
+   "start": "2026-12-21",
+   "end": "2026-12-27",
+   "outcomes": [
+    {
+     "code": "BTY.5.2.7",
+     "text": "Sunum dosyası geliştirebilme"
+    }
+   ]
+  },
+  {
+   "name": "3. TEMA: BİLGİSAYAR AĞLARI VE İLETİŞİM",
+   "konu": "Bilgisayar Ağları ve Ağ Bileşenleri",
+   "start": "2026-12-28",
+   "end": "2027-01-03",
+   "outcomes": [
+    {
+     "code": "BTY.5.3.1",
+     "text": "Bilgisayar ağları ve bileşenlerini sorgulayabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. TEMA: BİLGİSAYAR AĞLARI VE İLETİŞİM",
+   "konu": "Bilgisayar Ağ Türleri ve Bağlanma Yöntemleri",
+   "start": "2027-01-04",
+   "end": "2027-01-10",
+   "outcomes": [
+    {
+     "code": "BTY.5.3.2",
+     "text": "Bilgisayar ağları ve bağlanma yöntemlerini sınıflandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. TEMA: BİLGİSAYAR AĞLARI VE İLETİŞİM",
+   "konu": "İnternette Bilgi Kaynakları ve Arama Yöntemleri",
+   "start": "2027-01-11",
+   "end": "2027-01-17",
+   "outcomes": [
+    {
+     "code": "BTY.5.3.3",
+     "text": "İnternet ile amacına uygun olarak çalışabilme"
+    }
+   ]
+  },
+  {
+   "name": "4. TEMA: BİLİŞİM ETİĞİ VE SİBER GÜVENLİK",
+   "konu": "Bilişim Etiği ve İlkeleri",
+   "start": "2027-01-18",
+   "end": "2027-01-24",
+   "outcomes": [
+    {
+     "code": "BTY.5.4.1",
+     "text": "Bilişim etiği kural ve ilkelerini yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "4. TEMA: BİLİŞİM ETİĞİ VE SİBER GÜVENLİK",
+   "konu": "Dijital Ortamlarda Gizlilik ve Güvenlik",
+   "start": "2027-02-08",
+   "end": "2027-02-14",
+   "outcomes": [
+    {
+     "code": "BTY.5.4.2",
+     "text": "Dijital ortamlarda gizlilik ve güvenlik önlemlerini yönetebilme"
+    }
+   ]
+  },
+  {
+   "name": "5. TEMA: YAPAY ZEKÂ",
+   "konu": "Yapay Zekâ Kullanım Alanları ve Alt Dalları",
+   "start": "2027-02-15",
+   "end": "2027-02-21",
+   "outcomes": [
+    {
+     "code": "BTY.5.5.1",
+     "text": "Yapay zekâ uygulamalarını sınıflandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "5. TEMA: YAPAY ZEKÂ",
+   "konu": "Yapay Zekâ Kullanım Alanları ve Alt Dalları",
+   "start": "2027-02-22",
+   "end": "2027-02-28",
+   "outcomes": [
+    {
+     "code": "BTY.5.5.1",
+     "text": "Yapay zekâ uygulamalarını sınıflandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "5. TEMA: YAPAY ZEKÂ",
+   "konu": "Yapay Zekâ Kullanım Alanları ve Alt Dalları",
+   "start": "2027-03-01",
+   "end": "2027-03-07",
+   "outcomes": [
+    {
+     "code": "BTY.5.5.1",
+     "text": "Yapay zekâ uygulamalarını sınıflandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "5. TEMA: YAPAY ZEKÂ",
+   "konu": "Yapay Zekâda Güvenlik",
+   "start": "2027-03-15",
+   "end": "2027-03-21",
+   "outcomes": [
+    {
+     "code": "BTY.5.5.2",
+     "text": "Yapay zekâya ilişkin etik ve güvenlik/gizlilik önlemlerini yönetebilme"
+    }
+   ]
+  },
+  {
+   "name": "5. TEMA: YAPAY ZEKÂ",
+   "konu": "Yapay Zekâda Güvenlik",
+   "start": "2027-03-22",
+   "end": "2027-03-28",
+   "outcomes": [
+    {
+     "code": "BTY.5.5.2",
+     "text": "Yapay zekâya ilişkin etik ve güvenlik/gizlilik önlemlerini yönetebilme"
+    },
+    {
+     "code": "BTY.5.6.1",
+     "text": "Problem çözümü için algoritmik düşünebilme"
+    }
+   ]
+  },
+  {
+   "name": "6. TEMA: YAZILIM TASARIMI VE PROGRAMLAMA",
+   "konu": "Problem Belirleme ve Algoritma Oluşturma",
+   "start": "2027-03-29",
+   "end": "2027-04-04",
+   "outcomes": [
+    {
+     "code": "BTY.5.6.1",
+     "text": "Problem çözümü için algoritmik düşünebilme"
+    }
+   ]
+  },
+  {
+   "name": "6. TEMA: YAZILIM TASARIMI VE PROGRAMLAMA",
+   "konu": "Problem Belirleme ve Algoritma Oluşturma",
+   "start": "2027-04-05",
+   "end": "2027-04-11",
+   "outcomes": [
+    {
+     "code": "BTY.5.6.1",
+     "text": "Problem çözümü için algoritmik düşünebilme"
+    }
+   ]
+  },
+  {
+   "name": "6. TEMA: YAZILIM TASARIMI VE PROGRAMLAMA",
+   "konu": "Problem Belirleme ve Algoritma Oluşturma",
+   "start": "2027-04-12",
+   "end": "2027-04-18",
+   "outcomes": [
+    {
+     "code": "BTY.5.6.1",
+     "text": "Problem çözümü için algoritmik düşünebilme"
+    }
+   ]
+  },
+  {
+   "name": "6. TEMA: YAZILIM TASARIMI VE PROGRAMLAMA",
+   "konu": "Algoritma Test Etme ve Geri Bildirim Alma",
+   "start": "2027-04-19",
+   "end": "2027-04-25",
+   "outcomes": [
+    {
+     "code": "BTY.5.6.2",
+     "text": "Algoritma oluşturmada test edebilme-hata ayıklayabilme"
+    }
+   ]
+  },
+  {
+   "name": "6. TEMA: YAZILIM TASARIMI VE PROGRAMLAMA",
+   "konu": "Algoritma Test Etme ve Geri Bildirim Alma",
+   "start": "2027-04-26",
+   "end": "2027-05-02",
+   "outcomes": [
+    {
+     "code": "BTY.5.6.2",
+     "text": "Algoritma oluşturmada test edebilme-hata ayıklayabilme"
+    }
+   ]
+  },
+  {
+   "name": "6. TEMA: YAZILIM TASARIMI VE PROGRAMLAMA",
+   "konu": "Algoritma Test Etme ve Geri Bildirim Alma",
+   "start": "2027-05-03",
+   "end": "2027-05-09",
+   "outcomes": [
+    {
+     "code": "BTY.5.6.2",
+     "text": "Algoritma oluşturmada test edebilme-hata ayıklayabilme"
+    }
+   ]
+  },
+  {
+   "name": "6. TEMA: YAZILIM TASARIMI VE PROGRAMLAMA",
+   "konu": "Yazılımda Kullanılan Bileşenler",
+   "start": "2027-05-10",
+   "end": "2027-05-16",
+   "outcomes": [
+    {
+     "code": "BTY.5.6.3",
+     "text": "Yazılım geliştirme sürecinde kullanılan bileşenlerden yararlanabilme"
+    }
+   ]
+  },
+  {
+   "name": "6. TEMA: YAZILIM TASARIMI VE PROGRAMLAMA",
+   "konu": "Yazılımda Kullanılan Bileşenler",
+   "start": "2027-05-17",
+   "end": "2027-05-23",
+   "outcomes": [
+    {
+     "code": "BTY.5.6.3",
+     "text": "Yazılım geliştirme sürecinde kullanılan bileşenlerden yararlanabilme"
+    }
+   ]
+  },
+  {
+   "name": "6. TEMA: YAZILIM TASARIMI VE PROGRAMLAMA",
+   "konu": "Yazılımda Kullanılan Bileşenler",
+   "start": "2027-05-24",
+   "end": "2027-05-30",
+   "outcomes": [
+    {
+     "code": "BTY.5.6.3",
+     "text": "Yazılım geliştirme sürecinde kullanılan bileşenlerden yararlanabilme"
+    }
+   ]
+  },
+  {
+   "name": "6. TEMA: YAZILIM TASARIMI VE PROGRAMLAMA",
+   "konu": "Blok Tabanlı Ortamda Yazılım Geliştirme",
+   "start": "2027-05-31",
+   "end": "2027-06-06",
+   "outcomes": [
+    {
+     "code": "BTY.5.6.4",
+     "text": "Blok tabanlı ortamda yazılım geliştirme sürecini yönetebilme"
+    }
+   ]
+  },
+  {
+   "name": "6. TEMA: YAZILIM TASARIMI VE PROGRAMLAMA",
+   "konu": "Blok Tabanlı Ortamda Yazılım Geliştirme",
+   "start": "2027-06-07",
+   "end": "2027-06-13",
+   "outcomes": [
+    {
+     "code": "BTY.5.6.4",
+     "text": "Blok tabanlı ortamda yazılım geliştirme sürecini yönetebilme"
+    }
+   ]
+  },
+  {
+   "name": "6. TEMA: YAZILIM TASARIMI VE PROGRAMLAMA",
+   "konu": "Blok Tabanlı Ortamda Yazılım Geliştirme",
+   "start": "2027-06-14",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "BTY.5.6.4",
+     "text": "Blok tabanlı ortamda yazılım geliştirme sürecini yönetebilme"
+    }
+   ]
+  },
+  {
+   "name": "SOSYAL ETKİNLİK VE YIL SONU DEĞERLENDİRME",
+   "konu": "Proje sunumları, sosyal/kültürel etkinlikler ve yıl sonu genel değerlendirme",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": []
+  }
+ ]
 }
