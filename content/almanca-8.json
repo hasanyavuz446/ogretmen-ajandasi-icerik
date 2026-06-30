@@ -1,0 +1,1573 @@
+{
+ "grade": 8,
+ "subject": "Almanca",
+ "themes": [
+  {
+   "name": "Almanca",
+   "konu": "1. Schule und Ausbildung",
+   "start": "2026-09-14",
+   "end": "2026-09-18",
+   "outcomes": [
+    {
+     "code": "ALM8.1.1",
+     "text": "[HÖREN] Kann Wendungen und Wörter verstehen, wenn es um Dinge von ganz unmittelbarer Bedeutung geht (z.B. grundlegende Informationen zu Schule und Ausbildung)."
+    },
+    {
+     "code": "ALM8.1.2",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.1.3",
+     "text": "[SPRECHEN] Kann mit einfachen Mitteln die eigene Herkunft und Ausbildung, die direkte Umgebung und Dinge im Zusammenhang mit unmittelbaren Bedürfnissen beschreiben."
+    },
+    {
+     "code": "ALM8.1.4",
+     "text": "[SPRECHEN] Kann sich in einfachen, routinemäßigen Situationen verständigen, in denen es um einen unkomplizierten und direkten Austausch von Informationen über Ausbildung geht."
+    },
+    {
+     "code": "ALM8.1.5",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen, in denen gängige alltags- oder berufsbezogene Sprache verwendet wird."
+    },
+    {
+     "code": "ALM8.1.6",
+     "text": "[SCHREIBEN] Kann in einer Reihe einfacher Sätze über die eigene Familie, die Lebensumstände und den Bildungshintergrund schreiben."
+    },
+    {
+     "code": "ALM8.1.7",
+     "text": "[SCHREIBEN] Kann in Form verbundener Sätze etwas über alltägliche Aspekte des eigenen Umfelds schreiben."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "1. Schule und Ausbildung",
+   "start": "2026-09-21",
+   "end": "2026-09-25",
+   "outcomes": [
+    {
+     "code": "ALM8.1.1",
+     "text": "[HÖREN] Kann Wendungen und Wörter verstehen, wenn es um Dinge von ganz unmittelbarer Bedeutung geht (z.B. grundlegende Informationen zu Schule und Ausbildung)."
+    },
+    {
+     "code": "ALM8.1.2",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.1.3",
+     "text": "[SPRECHEN] Kann mit einfachen Mitteln die eigene Herkunft und Ausbildung, die direkte Umgebung und Dinge im Zusammenhang mit unmittelbaren Bedürfnissen beschreiben."
+    },
+    {
+     "code": "ALM8.1.4",
+     "text": "[SPRECHEN] Kann sich in einfachen, routinemäßigen Situationen verständigen, in denen es um einen unkomplizierten und direkten Austausch von Informationen über Ausbildung geht."
+    },
+    {
+     "code": "ALM8.1.5",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen, in denen gängige alltags- oder berufsbezogene Sprache verwendet wird."
+    },
+    {
+     "code": "ALM8.1.6",
+     "text": "[SCHREIBEN] Kann in einer Reihe einfacher Sätze über die eigene Familie, die Lebensumstände und den Bildungshintergrund schreiben."
+    },
+    {
+     "code": "ALM8.1.7",
+     "text": "[SCHREIBEN] Kann in Form verbundener Sätze etwas über alltägliche Aspekte des eigenen Umfelds schreiben."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "1. Schule und Ausbildung",
+   "start": "2026-09-28",
+   "end": "2026-10-02",
+   "outcomes": [
+    {
+     "code": "ALM8.1.1",
+     "text": "[HÖREN] Kann Wendungen und Wörter verstehen, wenn es um Dinge von ganz unmittelbarer Bedeutung geht (z.B. grundlegende Informationen zu Schule und Ausbildung)."
+    },
+    {
+     "code": "ALM8.1.2",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.1.3",
+     "text": "[SPRECHEN] Kann mit einfachen Mitteln die eigene Herkunft und Ausbildung, die direkte Umgebung und Dinge im Zusammenhang mit unmittelbaren Bedürfnissen beschreiben."
+    },
+    {
+     "code": "ALM8.1.4",
+     "text": "[SPRECHEN] Kann sich in einfachen, routinemäßigen Situationen verständigen, in denen es um einen unkomplizierten und direkten Austausch von Informationen über Ausbildung geht."
+    },
+    {
+     "code": "ALM8.1.5",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen, in denen gängige alltags- oder berufsbezogene Sprache verwendet wird."
+    },
+    {
+     "code": "ALM8.1.6",
+     "text": "[SCHREIBEN] Kann in einer Reihe einfacher Sätze über die eigene Familie, die Lebensumstände und den Bildungshintergrund schreiben."
+    },
+    {
+     "code": "ALM8.1.7",
+     "text": "[SCHREIBEN] Kann in Form verbundener Sätze etwas über alltägliche Aspekte des eigenen Umfelds schreiben."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "1. Schule und Ausbildung",
+   "start": "2026-10-05",
+   "end": "2026-10-09",
+   "outcomes": [
+    {
+     "code": "ALM8.1.1",
+     "text": "[HÖREN] Kann Wendungen und Wörter verstehen, wenn es um Dinge von ganz unmittelbarer Bedeutung geht (z.B. grundlegende Informationen zu Schule und Ausbildung)."
+    },
+    {
+     "code": "ALM8.1.2",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.1.3",
+     "text": "[SPRECHEN] Kann mit einfachen Mitteln die eigene Herkunft und Ausbildung, die direkte Umgebung und Dinge im Zusammenhang mit unmittelbaren Bedürfnissen beschreiben."
+    },
+    {
+     "code": "ALM8.1.4",
+     "text": "[SPRECHEN] Kann sich in einfachen, routinemäßigen Situationen verständigen, in denen es um einen unkomplizierten und direkten Austausch von Informationen über Ausbildung geht."
+    },
+    {
+     "code": "ALM8.1.5",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen, in denen gängige alltags- oder berufsbezogene Sprache verwendet wird."
+    },
+    {
+     "code": "ALM8.1.6",
+     "text": "[SCHREIBEN] Kann in einer Reihe einfacher Sätze über die eigene Familie, die Lebensumstände und den Bildungshintergrund schreiben."
+    },
+    {
+     "code": "ALM8.1.7",
+     "text": "[SCHREIBEN] Kann in Form verbundener Sätze etwas über alltägliche Aspekte des eigenen Umfelds schreiben."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "1. Schule und Ausbildung",
+   "start": "2026-10-12",
+   "end": "2026-10-16",
+   "outcomes": [
+    {
+     "code": "ALM8.1.1",
+     "text": "[HÖREN] Kann Wendungen und Wörter verstehen, wenn es um Dinge von ganz unmittelbarer Bedeutung geht (z.B. grundlegende Informationen zu Schule und Ausbildung)."
+    },
+    {
+     "code": "ALM8.1.2",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.1.3",
+     "text": "[SPRECHEN] Kann mit einfachen Mitteln die eigene Herkunft und Ausbildung, die direkte Umgebung und Dinge im Zusammenhang mit unmittelbaren Bedürfnissen beschreiben."
+    },
+    {
+     "code": "ALM8.1.4",
+     "text": "[SPRECHEN] Kann sich in einfachen, routinemäßigen Situationen verständigen, in denen es um einen unkomplizierten und direkten Austausch von Informationen über Ausbildung geht."
+    },
+    {
+     "code": "ALM8.1.5",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen, in denen gängige alltags- oder berufsbezogene Sprache verwendet wird."
+    },
+    {
+     "code": "ALM8.1.6",
+     "text": "[SCHREIBEN] Kann in einer Reihe einfacher Sätze über die eigene Familie, die Lebensumstände und den Bildungshintergrund schreiben."
+    },
+    {
+     "code": "ALM8.1.7",
+     "text": "[SCHREIBEN] Kann in Form verbundener Sätze etwas über alltägliche Aspekte des eigenen Umfelds schreiben."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "1. Schule und Ausbildung",
+   "start": "2026-10-19",
+   "end": "2026-10-23",
+   "outcomes": [
+    {
+     "code": "ALM8.1.1",
+     "text": "[HÖREN] Kann Wendungen und Wörter verstehen, wenn es um Dinge von ganz unmittelbarer Bedeutung geht (z.B. grundlegende Informationen zu Schule und Ausbildung)."
+    },
+    {
+     "code": "ALM8.1.2",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.1.3",
+     "text": "[SPRECHEN] Kann mit einfachen Mitteln die eigene Herkunft und Ausbildung, die direkte Umgebung und Dinge im Zusammenhang mit unmittelbaren Bedürfnissen beschreiben."
+    },
+    {
+     "code": "ALM8.1.4",
+     "text": "[SPRECHEN] Kann sich in einfachen, routinemäßigen Situationen verständigen, in denen es um einen unkomplizierten und direkten Austausch von Informationen über Ausbildung geht."
+    },
+    {
+     "code": "ALM8.1.5",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen, in denen gängige alltags- oder berufsbezogene Sprache verwendet wird."
+    },
+    {
+     "code": "ALM8.1.6",
+     "text": "[SCHREIBEN] Kann in einer Reihe einfacher Sätze über die eigene Familie, die Lebensumstände und den Bildungshintergrund schreiben."
+    },
+    {
+     "code": "ALM8.1.7",
+     "text": "[SCHREIBEN] Kann in Form verbundener Sätze etwas über alltägliche Aspekte des eigenen Umfelds schreiben."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "2. Berufe und Familie",
+   "start": "2026-10-26",
+   "end": "2026-10-30",
+   "outcomes": [
+    {
+     "code": "ALM8.2.1",
+     "text": "[HÖREN] Kann Sätze und häufig gebrauchte Ausdrücke verstehen, die mit Bereichen von unmittelbarer Bedeutung zusammenhängen (Person, Familie, Einkaufen, Arbeit, nähere Umgebung)."
+    },
+    {
+     "code": "ALM8.2.2",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.2.3",
+     "text": "[SPRECHEN] Kann die eigene Herkunft und Ausbildung, die direkte Umgebung und unmittelbare Bedürfnisse beschreiben."
+    },
+    {
+     "code": "ALM8.2.4",
+     "text": "[SPRECHEN] Kann die Familie, Lebensverhältnisse, die Ausbildung und die berufliche Tätigkeit beschreiben."
+    },
+    {
+     "code": "ALM8.2.5",
+     "text": "[SPRECHEN] Kann über Aspekte des eigenen alltäglichen Lebensbereichs berichten (Leute, Orte, Erfahrungen in Beruf oder Ausbildung)."
+    },
+    {
+     "code": "ALM8.2.6",
+     "text": "[SPRECHEN] Kann Fragen zum Thema Arbeit stellen und beantworten."
+    },
+    {
+     "code": "ALM8.2.7",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen."
+    },
+    {
+     "code": "ALM8.2.8",
+     "text": "[LESEN] Kann aus Briefen, Broschüren oder Zeitungsartikeln spezifische Informationen herausfinden."
+    },
+    {
+     "code": "ALM8.2.9",
+     "text": "[SCHREIBEN] Kann in einer Reihe einfacher Sätze über die eigene Familie, die Lebensumstände und die berufliche Tätigkeit schreiben."
+    },
+    {
+     "code": "ALM8.2.10",
+     "text": "[SCHREIBEN] Kann kurze, einfache, formelhafte Notizen machen."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "2. Berufe und Familie",
+   "start": "2026-11-02",
+   "end": "2026-11-06",
+   "outcomes": [
+    {
+     "code": "ALM8.2.1",
+     "text": "[HÖREN] Kann Sätze und häufig gebrauchte Ausdrücke verstehen, die mit Bereichen von unmittelbarer Bedeutung zusammenhängen (Person, Familie, Einkaufen, Arbeit, nähere Umgebung)."
+    },
+    {
+     "code": "ALM8.2.2",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.2.3",
+     "text": "[SPRECHEN] Kann die eigene Herkunft und Ausbildung, die direkte Umgebung und unmittelbare Bedürfnisse beschreiben."
+    },
+    {
+     "code": "ALM8.2.4",
+     "text": "[SPRECHEN] Kann die Familie, Lebensverhältnisse, die Ausbildung und die berufliche Tätigkeit beschreiben."
+    },
+    {
+     "code": "ALM8.2.5",
+     "text": "[SPRECHEN] Kann über Aspekte des eigenen alltäglichen Lebensbereichs berichten (Leute, Orte, Erfahrungen in Beruf oder Ausbildung)."
+    },
+    {
+     "code": "ALM8.2.6",
+     "text": "[SPRECHEN] Kann Fragen zum Thema Arbeit stellen und beantworten."
+    },
+    {
+     "code": "ALM8.2.7",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen."
+    },
+    {
+     "code": "ALM8.2.8",
+     "text": "[LESEN] Kann aus Briefen, Broschüren oder Zeitungsartikeln spezifische Informationen herausfinden."
+    },
+    {
+     "code": "ALM8.2.9",
+     "text": "[SCHREIBEN] Kann in einer Reihe einfacher Sätze über die eigene Familie, die Lebensumstände und die berufliche Tätigkeit schreiben."
+    },
+    {
+     "code": "ALM8.2.10",
+     "text": "[SCHREIBEN] Kann kurze, einfache, formelhafte Notizen machen."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "2. Berufe und Familie",
+   "start": "2026-11-09",
+   "end": "2026-11-13",
+   "outcomes": [
+    {
+     "code": "ALM8.2.1",
+     "text": "[HÖREN] Kann Sätze und häufig gebrauchte Ausdrücke verstehen, die mit Bereichen von unmittelbarer Bedeutung zusammenhängen (Person, Familie, Einkaufen, Arbeit, nähere Umgebung)."
+    },
+    {
+     "code": "ALM8.2.2",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.2.3",
+     "text": "[SPRECHEN] Kann die eigene Herkunft und Ausbildung, die direkte Umgebung und unmittelbare Bedürfnisse beschreiben."
+    },
+    {
+     "code": "ALM8.2.4",
+     "text": "[SPRECHEN] Kann die Familie, Lebensverhältnisse, die Ausbildung und die berufliche Tätigkeit beschreiben."
+    },
+    {
+     "code": "ALM8.2.5",
+     "text": "[SPRECHEN] Kann über Aspekte des eigenen alltäglichen Lebensbereichs berichten (Leute, Orte, Erfahrungen in Beruf oder Ausbildung)."
+    },
+    {
+     "code": "ALM8.2.6",
+     "text": "[SPRECHEN] Kann Fragen zum Thema Arbeit stellen und beantworten."
+    },
+    {
+     "code": "ALM8.2.7",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen."
+    },
+    {
+     "code": "ALM8.2.8",
+     "text": "[LESEN] Kann aus Briefen, Broschüren oder Zeitungsartikeln spezifische Informationen herausfinden."
+    },
+    {
+     "code": "ALM8.2.9",
+     "text": "[SCHREIBEN] Kann in einer Reihe einfacher Sätze über die eigene Familie, die Lebensumstände und die berufliche Tätigkeit schreiben."
+    },
+    {
+     "code": "ALM8.2.10",
+     "text": "[SCHREIBEN] Kann kurze, einfache, formelhafte Notizen machen."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "2. Berufe und Familie",
+   "start": "2026-11-23",
+   "end": "2026-11-27",
+   "outcomes": [
+    {
+     "code": "ALM8.2.1",
+     "text": "[HÖREN] Kann Sätze und häufig gebrauchte Ausdrücke verstehen, die mit Bereichen von unmittelbarer Bedeutung zusammenhängen (Person, Familie, Einkaufen, Arbeit, nähere Umgebung)."
+    },
+    {
+     "code": "ALM8.2.2",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.2.3",
+     "text": "[SPRECHEN] Kann die eigene Herkunft und Ausbildung, die direkte Umgebung und unmittelbare Bedürfnisse beschreiben."
+    },
+    {
+     "code": "ALM8.2.4",
+     "text": "[SPRECHEN] Kann die Familie, Lebensverhältnisse, die Ausbildung und die berufliche Tätigkeit beschreiben."
+    },
+    {
+     "code": "ALM8.2.5",
+     "text": "[SPRECHEN] Kann über Aspekte des eigenen alltäglichen Lebensbereichs berichten (Leute, Orte, Erfahrungen in Beruf oder Ausbildung)."
+    },
+    {
+     "code": "ALM8.2.6",
+     "text": "[SPRECHEN] Kann Fragen zum Thema Arbeit stellen und beantworten."
+    },
+    {
+     "code": "ALM8.2.7",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen."
+    },
+    {
+     "code": "ALM8.2.8",
+     "text": "[LESEN] Kann aus Briefen, Broschüren oder Zeitungsartikeln spezifische Informationen herausfinden."
+    },
+    {
+     "code": "ALM8.2.9",
+     "text": "[SCHREIBEN] Kann in einer Reihe einfacher Sätze über die eigene Familie, die Lebensumstände und die berufliche Tätigkeit schreiben."
+    },
+    {
+     "code": "ALM8.2.10",
+     "text": "[SCHREIBEN] Kann kurze, einfache, formelhafte Notizen machen."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "2. Berufe und Familie",
+   "start": "2026-11-30",
+   "end": "2026-12-04",
+   "outcomes": [
+    {
+     "code": "ALM8.2.1",
+     "text": "[HÖREN] Kann Sätze und häufig gebrauchte Ausdrücke verstehen, die mit Bereichen von unmittelbarer Bedeutung zusammenhängen (Person, Familie, Einkaufen, Arbeit, nähere Umgebung)."
+    },
+    {
+     "code": "ALM8.2.2",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.2.3",
+     "text": "[SPRECHEN] Kann die eigene Herkunft und Ausbildung, die direkte Umgebung und unmittelbare Bedürfnisse beschreiben."
+    },
+    {
+     "code": "ALM8.2.4",
+     "text": "[SPRECHEN] Kann die Familie, Lebensverhältnisse, die Ausbildung und die berufliche Tätigkeit beschreiben."
+    },
+    {
+     "code": "ALM8.2.5",
+     "text": "[SPRECHEN] Kann über Aspekte des eigenen alltäglichen Lebensbereichs berichten (Leute, Orte, Erfahrungen in Beruf oder Ausbildung)."
+    },
+    {
+     "code": "ALM8.2.6",
+     "text": "[SPRECHEN] Kann Fragen zum Thema Arbeit stellen und beantworten."
+    },
+    {
+     "code": "ALM8.2.7",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen."
+    },
+    {
+     "code": "ALM8.2.8",
+     "text": "[LESEN] Kann aus Briefen, Broschüren oder Zeitungsartikeln spezifische Informationen herausfinden."
+    },
+    {
+     "code": "ALM8.2.9",
+     "text": "[SCHREIBEN] Kann in einer Reihe einfacher Sätze über die eigene Familie, die Lebensumstände und die berufliche Tätigkeit schreiben."
+    },
+    {
+     "code": "ALM8.2.10",
+     "text": "[SCHREIBEN] Kann kurze, einfache, formelhafte Notizen machen."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "2. Berufe und Familie",
+   "start": "2026-12-07",
+   "end": "2026-12-11",
+   "outcomes": [
+    {
+     "code": "ALM8.2.1",
+     "text": "[HÖREN] Kann Sätze und häufig gebrauchte Ausdrücke verstehen, die mit Bereichen von unmittelbarer Bedeutung zusammenhängen (Person, Familie, Einkaufen, Arbeit, nähere Umgebung)."
+    },
+    {
+     "code": "ALM8.2.2",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.2.3",
+     "text": "[SPRECHEN] Kann die eigene Herkunft und Ausbildung, die direkte Umgebung und unmittelbare Bedürfnisse beschreiben."
+    },
+    {
+     "code": "ALM8.2.4",
+     "text": "[SPRECHEN] Kann die Familie, Lebensverhältnisse, die Ausbildung und die berufliche Tätigkeit beschreiben."
+    },
+    {
+     "code": "ALM8.2.5",
+     "text": "[SPRECHEN] Kann über Aspekte des eigenen alltäglichen Lebensbereichs berichten (Leute, Orte, Erfahrungen in Beruf oder Ausbildung)."
+    },
+    {
+     "code": "ALM8.2.6",
+     "text": "[SPRECHEN] Kann Fragen zum Thema Arbeit stellen und beantworten."
+    },
+    {
+     "code": "ALM8.2.7",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen."
+    },
+    {
+     "code": "ALM8.2.8",
+     "text": "[LESEN] Kann aus Briefen, Broschüren oder Zeitungsartikeln spezifische Informationen herausfinden."
+    },
+    {
+     "code": "ALM8.2.9",
+     "text": "[SCHREIBEN] Kann in einer Reihe einfacher Sätze über die eigene Familie, die Lebensumstände und die berufliche Tätigkeit schreiben."
+    },
+    {
+     "code": "ALM8.2.10",
+     "text": "[SCHREIBEN] Kann kurze, einfache, formelhafte Notizen machen."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "3. Privates Leben und Feste Feiern",
+   "start": "2026-12-14",
+   "end": "2026-12-18",
+   "outcomes": [
+    {
+     "code": "ALM8.3.1",
+     "text": "[HÖREN] Kann Wendungen und Wörter verstehen, wenn es um Dinge von unmittelbarer Bedeutung geht (Person, Familie, Einkaufen), sofern deutlich und langsam gesprochen wird."
+    },
+    {
+     "code": "ALM8.3.2",
+     "text": "[HÖREN] Kann verstehen, was in einem einfachen Alltagsgespräch langsam und deutlich gesagt wird."
+    },
+    {
+     "code": "ALM8.3.3",
+     "text": "[SPRECHEN] Kann Fragen stellen und beantworten und in vorhersehbaren Alltagssituationen Gedanken und Informationen austauschen."
+    },
+    {
+     "code": "ALM8.3.4",
+     "text": "[SPRECHEN] Kann jemanden einladen und auf Einladungen reagieren."
+    },
+    {
+     "code": "ALM8.3.5",
+     "text": "[SPRECHEN] Kann Pläne, Gewohnheiten und Alltagsbeschäftigungen beschreiben sowie über vergangene Aktivitäten berichten."
+    },
+    {
+     "code": "ALM8.3.6",
+     "text": "[SPRECHEN] Kann mit einfachen Worten Personen, Orte und Dinge beschreiben."
+    },
+    {
+     "code": "ALM8.3.7",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen."
+    },
+    {
+     "code": "ALM8.3.8",
+     "text": "[LESEN] Kann kurze, einfache persönliche Briefe / E-Mails / Einladungen verstehen."
+    },
+    {
+     "code": "ALM8.3.9",
+     "text": "[SCHREIBEN] Kann Fragen zum Thema Feste und Geschenke stellen und beantworten."
+    },
+    {
+     "code": "ALM8.3.10",
+     "text": "[SCHREIBEN] Kann kurze, einfache persönliche Briefe / E-Mails / Einladungen schreiben."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "3. Privates Leben und Feste Feiern",
+   "start": "2026-12-21",
+   "end": "2026-12-25",
+   "outcomes": [
+    {
+     "code": "ALM8.3.1",
+     "text": "[HÖREN] Kann Wendungen und Wörter verstehen, wenn es um Dinge von unmittelbarer Bedeutung geht (Person, Familie, Einkaufen), sofern deutlich und langsam gesprochen wird."
+    },
+    {
+     "code": "ALM8.3.2",
+     "text": "[HÖREN] Kann verstehen, was in einem einfachen Alltagsgespräch langsam und deutlich gesagt wird."
+    },
+    {
+     "code": "ALM8.3.3",
+     "text": "[SPRECHEN] Kann Fragen stellen und beantworten und in vorhersehbaren Alltagssituationen Gedanken und Informationen austauschen."
+    },
+    {
+     "code": "ALM8.3.4",
+     "text": "[SPRECHEN] Kann jemanden einladen und auf Einladungen reagieren."
+    },
+    {
+     "code": "ALM8.3.5",
+     "text": "[SPRECHEN] Kann Pläne, Gewohnheiten und Alltagsbeschäftigungen beschreiben sowie über vergangene Aktivitäten berichten."
+    },
+    {
+     "code": "ALM8.3.6",
+     "text": "[SPRECHEN] Kann mit einfachen Worten Personen, Orte und Dinge beschreiben."
+    },
+    {
+     "code": "ALM8.3.7",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen."
+    },
+    {
+     "code": "ALM8.3.8",
+     "text": "[LESEN] Kann kurze, einfache persönliche Briefe / E-Mails / Einladungen verstehen."
+    },
+    {
+     "code": "ALM8.3.9",
+     "text": "[SCHREIBEN] Kann Fragen zum Thema Feste und Geschenke stellen und beantworten."
+    },
+    {
+     "code": "ALM8.3.10",
+     "text": "[SCHREIBEN] Kann kurze, einfache persönliche Briefe / E-Mails / Einladungen schreiben."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "3. Privates Leben und Feste Feiern",
+   "start": "2026-12-28",
+   "end": "2027-01-01",
+   "outcomes": [
+    {
+     "code": "ALM8.3.1",
+     "text": "[HÖREN] Kann Wendungen und Wörter verstehen, wenn es um Dinge von unmittelbarer Bedeutung geht (Person, Familie, Einkaufen), sofern deutlich und langsam gesprochen wird."
+    },
+    {
+     "code": "ALM8.3.2",
+     "text": "[HÖREN] Kann verstehen, was in einem einfachen Alltagsgespräch langsam und deutlich gesagt wird."
+    },
+    {
+     "code": "ALM8.3.3",
+     "text": "[SPRECHEN] Kann Fragen stellen und beantworten und in vorhersehbaren Alltagssituationen Gedanken und Informationen austauschen."
+    },
+    {
+     "code": "ALM8.3.4",
+     "text": "[SPRECHEN] Kann jemanden einladen und auf Einladungen reagieren."
+    },
+    {
+     "code": "ALM8.3.5",
+     "text": "[SPRECHEN] Kann Pläne, Gewohnheiten und Alltagsbeschäftigungen beschreiben sowie über vergangene Aktivitäten berichten."
+    },
+    {
+     "code": "ALM8.3.6",
+     "text": "[SPRECHEN] Kann mit einfachen Worten Personen, Orte und Dinge beschreiben."
+    },
+    {
+     "code": "ALM8.3.7",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen."
+    },
+    {
+     "code": "ALM8.3.8",
+     "text": "[LESEN] Kann kurze, einfache persönliche Briefe / E-Mails / Einladungen verstehen."
+    },
+    {
+     "code": "ALM8.3.9",
+     "text": "[SCHREIBEN] Kann Fragen zum Thema Feste und Geschenke stellen und beantworten."
+    },
+    {
+     "code": "ALM8.3.10",
+     "text": "[SCHREIBEN] Kann kurze, einfache persönliche Briefe / E-Mails / Einladungen schreiben."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "3. Privates Leben und Feste Feiern",
+   "start": "2027-01-04",
+   "end": "2027-01-08",
+   "outcomes": [
+    {
+     "code": "ALM8.3.1",
+     "text": "[HÖREN] Kann Wendungen und Wörter verstehen, wenn es um Dinge von unmittelbarer Bedeutung geht (Person, Familie, Einkaufen), sofern deutlich und langsam gesprochen wird."
+    },
+    {
+     "code": "ALM8.3.2",
+     "text": "[HÖREN] Kann verstehen, was in einem einfachen Alltagsgespräch langsam und deutlich gesagt wird."
+    },
+    {
+     "code": "ALM8.3.3",
+     "text": "[SPRECHEN] Kann Fragen stellen und beantworten und in vorhersehbaren Alltagssituationen Gedanken und Informationen austauschen."
+    },
+    {
+     "code": "ALM8.3.4",
+     "text": "[SPRECHEN] Kann jemanden einladen und auf Einladungen reagieren."
+    },
+    {
+     "code": "ALM8.3.5",
+     "text": "[SPRECHEN] Kann Pläne, Gewohnheiten und Alltagsbeschäftigungen beschreiben sowie über vergangene Aktivitäten berichten."
+    },
+    {
+     "code": "ALM8.3.6",
+     "text": "[SPRECHEN] Kann mit einfachen Worten Personen, Orte und Dinge beschreiben."
+    },
+    {
+     "code": "ALM8.3.7",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen."
+    },
+    {
+     "code": "ALM8.3.8",
+     "text": "[LESEN] Kann kurze, einfache persönliche Briefe / E-Mails / Einladungen verstehen."
+    },
+    {
+     "code": "ALM8.3.9",
+     "text": "[SCHREIBEN] Kann Fragen zum Thema Feste und Geschenke stellen und beantworten."
+    },
+    {
+     "code": "ALM8.3.10",
+     "text": "[SCHREIBEN] Kann kurze, einfache persönliche Briefe / E-Mails / Einladungen schreiben."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "3. Privates Leben und Feste Feiern",
+   "start": "2027-01-11",
+   "end": "2027-01-15",
+   "outcomes": [
+    {
+     "code": "ALM8.3.1",
+     "text": "[HÖREN] Kann Wendungen und Wörter verstehen, wenn es um Dinge von unmittelbarer Bedeutung geht (Person, Familie, Einkaufen), sofern deutlich und langsam gesprochen wird."
+    },
+    {
+     "code": "ALM8.3.2",
+     "text": "[HÖREN] Kann verstehen, was in einem einfachen Alltagsgespräch langsam und deutlich gesagt wird."
+    },
+    {
+     "code": "ALM8.3.3",
+     "text": "[SPRECHEN] Kann Fragen stellen und beantworten und in vorhersehbaren Alltagssituationen Gedanken und Informationen austauschen."
+    },
+    {
+     "code": "ALM8.3.4",
+     "text": "[SPRECHEN] Kann jemanden einladen und auf Einladungen reagieren."
+    },
+    {
+     "code": "ALM8.3.5",
+     "text": "[SPRECHEN] Kann Pläne, Gewohnheiten und Alltagsbeschäftigungen beschreiben sowie über vergangene Aktivitäten berichten."
+    },
+    {
+     "code": "ALM8.3.6",
+     "text": "[SPRECHEN] Kann mit einfachen Worten Personen, Orte und Dinge beschreiben."
+    },
+    {
+     "code": "ALM8.3.7",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen."
+    },
+    {
+     "code": "ALM8.3.8",
+     "text": "[LESEN] Kann kurze, einfache persönliche Briefe / E-Mails / Einladungen verstehen."
+    },
+    {
+     "code": "ALM8.3.9",
+     "text": "[SCHREIBEN] Kann Fragen zum Thema Feste und Geschenke stellen und beantworten."
+    },
+    {
+     "code": "ALM8.3.10",
+     "text": "[SCHREIBEN] Kann kurze, einfache persönliche Briefe / E-Mails / Einladungen schreiben."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "3. Privates Leben und Feste Feiern",
+   "start": "2027-01-18",
+   "end": "2027-01-22",
+   "outcomes": [
+    {
+     "code": "ALM8.3.1",
+     "text": "[HÖREN] Kann Wendungen und Wörter verstehen, wenn es um Dinge von unmittelbarer Bedeutung geht (Person, Familie, Einkaufen), sofern deutlich und langsam gesprochen wird."
+    },
+    {
+     "code": "ALM8.3.2",
+     "text": "[HÖREN] Kann verstehen, was in einem einfachen Alltagsgespräch langsam und deutlich gesagt wird."
+    },
+    {
+     "code": "ALM8.3.3",
+     "text": "[SPRECHEN] Kann Fragen stellen und beantworten und in vorhersehbaren Alltagssituationen Gedanken und Informationen austauschen."
+    },
+    {
+     "code": "ALM8.3.4",
+     "text": "[SPRECHEN] Kann jemanden einladen und auf Einladungen reagieren."
+    },
+    {
+     "code": "ALM8.3.5",
+     "text": "[SPRECHEN] Kann Pläne, Gewohnheiten und Alltagsbeschäftigungen beschreiben sowie über vergangene Aktivitäten berichten."
+    },
+    {
+     "code": "ALM8.3.6",
+     "text": "[SPRECHEN] Kann mit einfachen Worten Personen, Orte und Dinge beschreiben."
+    },
+    {
+     "code": "ALM8.3.7",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen."
+    },
+    {
+     "code": "ALM8.3.8",
+     "text": "[LESEN] Kann kurze, einfache persönliche Briefe / E-Mails / Einladungen verstehen."
+    },
+    {
+     "code": "ALM8.3.9",
+     "text": "[SCHREIBEN] Kann Fragen zum Thema Feste und Geschenke stellen und beantworten."
+    },
+    {
+     "code": "ALM8.3.10",
+     "text": "[SCHREIBEN] Kann kurze, einfache persönliche Briefe / E-Mails / Einladungen schreiben."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "4. Essen und Trinken",
+   "start": "2027-02-08",
+   "end": "2027-02-12",
+   "outcomes": [
+    {
+     "code": "ALM8.4.1",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.4.2",
+     "text": "[SPRECHEN] Kann erklären, was er/sie an etwas mag oder nicht mag."
+    },
+    {
+     "code": "ALM8.4.3",
+     "text": "[SPRECHEN] Kann Fragen über Gewohnheiten und Alltagsbeschäftigungen stellen und beantworten."
+    },
+    {
+     "code": "ALM8.4.4",
+     "text": "[SPRECHEN] Kann jemanden einladen und auf Einladungen reagieren."
+    },
+    {
+     "code": "ALM8.4.5",
+     "text": "[SPRECHEN] Kommt mit gängigen Alltagssituationen wie Unterkunft, Reisen, Einkaufen und Essen zurecht."
+    },
+    {
+     "code": "ALM8.4.6",
+     "text": "[SPRECHEN] Kann eine Mahlzeit bestellen."
+    },
+    {
+     "code": "ALM8.4.7",
+     "text": "[LESEN] Kann konkrete, voraussagbare Informationen in einfachen Alltagstexten auffinden (Anzeigen, Prospekte, Speisekarten, Fahrpläne)."
+    },
+    {
+     "code": "ALM8.4.8",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen."
+    },
+    {
+     "code": "ALM8.4.9",
+     "text": "[SCHREIBEN] Kann Fragen über Gewohnheiten und Alltagsbeschäftigungen stellen und beantworten."
+    },
+    {
+     "code": "ALM8.4.10",
+     "text": "[SCHREIBEN] Kann kurze, einfache Notizen und Mitteilungen schreiben, die sich auf unmittelbare Bedürfnisse beziehen."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "4. Essen und Trinken",
+   "start": "2027-02-15",
+   "end": "2027-02-19",
+   "outcomes": [
+    {
+     "code": "ALM8.4.1",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.4.2",
+     "text": "[SPRECHEN] Kann erklären, was er/sie an etwas mag oder nicht mag."
+    },
+    {
+     "code": "ALM8.4.3",
+     "text": "[SPRECHEN] Kann Fragen über Gewohnheiten und Alltagsbeschäftigungen stellen und beantworten."
+    },
+    {
+     "code": "ALM8.4.4",
+     "text": "[SPRECHEN] Kann jemanden einladen und auf Einladungen reagieren."
+    },
+    {
+     "code": "ALM8.4.5",
+     "text": "[SPRECHEN] Kommt mit gängigen Alltagssituationen wie Unterkunft, Reisen, Einkaufen und Essen zurecht."
+    },
+    {
+     "code": "ALM8.4.6",
+     "text": "[SPRECHEN] Kann eine Mahlzeit bestellen."
+    },
+    {
+     "code": "ALM8.4.7",
+     "text": "[LESEN] Kann konkrete, voraussagbare Informationen in einfachen Alltagstexten auffinden (Anzeigen, Prospekte, Speisekarten, Fahrpläne)."
+    },
+    {
+     "code": "ALM8.4.8",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen."
+    },
+    {
+     "code": "ALM8.4.9",
+     "text": "[SCHREIBEN] Kann Fragen über Gewohnheiten und Alltagsbeschäftigungen stellen und beantworten."
+    },
+    {
+     "code": "ALM8.4.10",
+     "text": "[SCHREIBEN] Kann kurze, einfache Notizen und Mitteilungen schreiben, die sich auf unmittelbare Bedürfnisse beziehen."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "4. Essen und Trinken",
+   "start": "2027-02-22",
+   "end": "2027-02-26",
+   "outcomes": [
+    {
+     "code": "ALM8.4.1",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.4.2",
+     "text": "[SPRECHEN] Kann erklären, was er/sie an etwas mag oder nicht mag."
+    },
+    {
+     "code": "ALM8.4.3",
+     "text": "[SPRECHEN] Kann Fragen über Gewohnheiten und Alltagsbeschäftigungen stellen und beantworten."
+    },
+    {
+     "code": "ALM8.4.4",
+     "text": "[SPRECHEN] Kann jemanden einladen und auf Einladungen reagieren."
+    },
+    {
+     "code": "ALM8.4.5",
+     "text": "[SPRECHEN] Kommt mit gängigen Alltagssituationen wie Unterkunft, Reisen, Einkaufen und Essen zurecht."
+    },
+    {
+     "code": "ALM8.4.6",
+     "text": "[SPRECHEN] Kann eine Mahlzeit bestellen."
+    },
+    {
+     "code": "ALM8.4.7",
+     "text": "[LESEN] Kann konkrete, voraussagbare Informationen in einfachen Alltagstexten auffinden (Anzeigen, Prospekte, Speisekarten, Fahrpläne)."
+    },
+    {
+     "code": "ALM8.4.8",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen."
+    },
+    {
+     "code": "ALM8.4.9",
+     "text": "[SCHREIBEN] Kann Fragen über Gewohnheiten und Alltagsbeschäftigungen stellen und beantworten."
+    },
+    {
+     "code": "ALM8.4.10",
+     "text": "[SCHREIBEN] Kann kurze, einfache Notizen und Mitteilungen schreiben, die sich auf unmittelbare Bedürfnisse beziehen."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "4. Essen und Trinken",
+   "start": "2027-03-01",
+   "end": "2027-03-05",
+   "outcomes": [
+    {
+     "code": "ALM8.4.1",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.4.2",
+     "text": "[SPRECHEN] Kann erklären, was er/sie an etwas mag oder nicht mag."
+    },
+    {
+     "code": "ALM8.4.3",
+     "text": "[SPRECHEN] Kann Fragen über Gewohnheiten und Alltagsbeschäftigungen stellen und beantworten."
+    },
+    {
+     "code": "ALM8.4.4",
+     "text": "[SPRECHEN] Kann jemanden einladen und auf Einladungen reagieren."
+    },
+    {
+     "code": "ALM8.4.5",
+     "text": "[SPRECHEN] Kommt mit gängigen Alltagssituationen wie Unterkunft, Reisen, Einkaufen und Essen zurecht."
+    },
+    {
+     "code": "ALM8.4.6",
+     "text": "[SPRECHEN] Kann eine Mahlzeit bestellen."
+    },
+    {
+     "code": "ALM8.4.7",
+     "text": "[LESEN] Kann konkrete, voraussagbare Informationen in einfachen Alltagstexten auffinden (Anzeigen, Prospekte, Speisekarten, Fahrpläne)."
+    },
+    {
+     "code": "ALM8.4.8",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen."
+    },
+    {
+     "code": "ALM8.4.9",
+     "text": "[SCHREIBEN] Kann Fragen über Gewohnheiten und Alltagsbeschäftigungen stellen und beantworten."
+    },
+    {
+     "code": "ALM8.4.10",
+     "text": "[SCHREIBEN] Kann kurze, einfache Notizen und Mitteilungen schreiben, die sich auf unmittelbare Bedürfnisse beziehen."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "4. Essen und Trinken",
+   "start": "2027-03-15",
+   "end": "2027-03-19",
+   "outcomes": [
+    {
+     "code": "ALM8.4.1",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.4.2",
+     "text": "[SPRECHEN] Kann erklären, was er/sie an etwas mag oder nicht mag."
+    },
+    {
+     "code": "ALM8.4.3",
+     "text": "[SPRECHEN] Kann Fragen über Gewohnheiten und Alltagsbeschäftigungen stellen und beantworten."
+    },
+    {
+     "code": "ALM8.4.4",
+     "text": "[SPRECHEN] Kann jemanden einladen und auf Einladungen reagieren."
+    },
+    {
+     "code": "ALM8.4.5",
+     "text": "[SPRECHEN] Kommt mit gängigen Alltagssituationen wie Unterkunft, Reisen, Einkaufen und Essen zurecht."
+    },
+    {
+     "code": "ALM8.4.6",
+     "text": "[SPRECHEN] Kann eine Mahlzeit bestellen."
+    },
+    {
+     "code": "ALM8.4.7",
+     "text": "[LESEN] Kann konkrete, voraussagbare Informationen in einfachen Alltagstexten auffinden (Anzeigen, Prospekte, Speisekarten, Fahrpläne)."
+    },
+    {
+     "code": "ALM8.4.8",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen."
+    },
+    {
+     "code": "ALM8.4.9",
+     "text": "[SCHREIBEN] Kann Fragen über Gewohnheiten und Alltagsbeschäftigungen stellen und beantworten."
+    },
+    {
+     "code": "ALM8.4.10",
+     "text": "[SCHREIBEN] Kann kurze, einfache Notizen und Mitteilungen schreiben, die sich auf unmittelbare Bedürfnisse beziehen."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "4. Essen und Trinken",
+   "start": "2027-03-22",
+   "end": "2027-03-26",
+   "outcomes": [
+    {
+     "code": "ALM8.4.1",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.4.2",
+     "text": "[SPRECHEN] Kann erklären, was er/sie an etwas mag oder nicht mag."
+    },
+    {
+     "code": "ALM8.4.3",
+     "text": "[SPRECHEN] Kann Fragen über Gewohnheiten und Alltagsbeschäftigungen stellen und beantworten."
+    },
+    {
+     "code": "ALM8.4.4",
+     "text": "[SPRECHEN] Kann jemanden einladen und auf Einladungen reagieren."
+    },
+    {
+     "code": "ALM8.4.5",
+     "text": "[SPRECHEN] Kommt mit gängigen Alltagssituationen wie Unterkunft, Reisen, Einkaufen und Essen zurecht."
+    },
+    {
+     "code": "ALM8.4.6",
+     "text": "[SPRECHEN] Kann eine Mahlzeit bestellen."
+    },
+    {
+     "code": "ALM8.4.7",
+     "text": "[LESEN] Kann konkrete, voraussagbare Informationen in einfachen Alltagstexten auffinden (Anzeigen, Prospekte, Speisekarten, Fahrpläne)."
+    },
+    {
+     "code": "ALM8.4.8",
+     "text": "[LESEN] Kann kurze, einfache Texte zu vertrauten, konkreten Themen verstehen."
+    },
+    {
+     "code": "ALM8.4.9",
+     "text": "[SCHREIBEN] Kann Fragen über Gewohnheiten und Alltagsbeschäftigungen stellen und beantworten."
+    },
+    {
+     "code": "ALM8.4.10",
+     "text": "[SCHREIBEN] Kann kurze, einfache Notizen und Mitteilungen schreiben, die sich auf unmittelbare Bedürfnisse beziehen."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "5. Wetter und Kleidung",
+   "start": "2027-03-29",
+   "end": "2027-04-02",
+   "outcomes": [
+    {
+     "code": "ALM8.5.1",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.5.2",
+     "text": "[HÖREN] Kann genug verstehen, um ohne übermäßige Mühe in einfachen Routinegesprächen zurechtzukommen."
+    },
+    {
+     "code": "ALM8.5.3",
+     "text": "[SPRECHEN] Kann eine einfache Beschreibung von Lebens- oder Wetterbedingungen, Vorlieben oder Abneigungen geben, in kurzen Abfolgen aus einfachen Wendungen und Sätzen."
+    },
+    {
+     "code": "ALM8.5.4",
+     "text": "[SPRECHEN] Kann etwas erzählen oder in Form einer einfachen Aufzählung berichten."
+    },
+    {
+     "code": "ALM8.5.5",
+     "text": "[LESEN] Kann kurze, einfache Texte lesen und verstehen, die einen sehr frequenten Wortschatz und international bekannte Wörter enthalten."
+    },
+    {
+     "code": "ALM8.5.6",
+     "text": "[SCHREIBEN] Kann eine Reihe einfacher Wendungen und Sätze schreiben und mit Konnektoren wie 'und', 'aber' oder 'weil' verbinden."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "5. Wetter und Kleidung",
+   "start": "2027-04-05",
+   "end": "2027-04-09",
+   "outcomes": [
+    {
+     "code": "ALM8.5.1",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.5.2",
+     "text": "[HÖREN] Kann genug verstehen, um ohne übermäßige Mühe in einfachen Routinegesprächen zurechtzukommen."
+    },
+    {
+     "code": "ALM8.5.3",
+     "text": "[SPRECHEN] Kann eine einfache Beschreibung von Lebens- oder Wetterbedingungen, Vorlieben oder Abneigungen geben, in kurzen Abfolgen aus einfachen Wendungen und Sätzen."
+    },
+    {
+     "code": "ALM8.5.4",
+     "text": "[SPRECHEN] Kann etwas erzählen oder in Form einer einfachen Aufzählung berichten."
+    },
+    {
+     "code": "ALM8.5.5",
+     "text": "[LESEN] Kann kurze, einfache Texte lesen und verstehen, die einen sehr frequenten Wortschatz und international bekannte Wörter enthalten."
+    },
+    {
+     "code": "ALM8.5.6",
+     "text": "[SCHREIBEN] Kann eine Reihe einfacher Wendungen und Sätze schreiben und mit Konnektoren wie 'und', 'aber' oder 'weil' verbinden."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "5. Wetter und Kleidung",
+   "start": "2027-04-12",
+   "end": "2027-04-16",
+   "outcomes": [
+    {
+     "code": "ALM8.5.1",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.5.2",
+     "text": "[HÖREN] Kann genug verstehen, um ohne übermäßige Mühe in einfachen Routinegesprächen zurechtzukommen."
+    },
+    {
+     "code": "ALM8.5.3",
+     "text": "[SPRECHEN] Kann eine einfache Beschreibung von Lebens- oder Wetterbedingungen, Vorlieben oder Abneigungen geben, in kurzen Abfolgen aus einfachen Wendungen und Sätzen."
+    },
+    {
+     "code": "ALM8.5.4",
+     "text": "[SPRECHEN] Kann etwas erzählen oder in Form einer einfachen Aufzählung berichten."
+    },
+    {
+     "code": "ALM8.5.5",
+     "text": "[LESEN] Kann kurze, einfache Texte lesen und verstehen, die einen sehr frequenten Wortschatz und international bekannte Wörter enthalten."
+    },
+    {
+     "code": "ALM8.5.6",
+     "text": "[SCHREIBEN] Kann eine Reihe einfacher Wendungen und Sätze schreiben und mit Konnektoren wie 'und', 'aber' oder 'weil' verbinden."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "5. Wetter und Kleidung",
+   "start": "2027-04-19",
+   "end": "2027-04-23",
+   "outcomes": [
+    {
+     "code": "ALM8.5.1",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.5.2",
+     "text": "[HÖREN] Kann genug verstehen, um ohne übermäßige Mühe in einfachen Routinegesprächen zurechtzukommen."
+    },
+    {
+     "code": "ALM8.5.3",
+     "text": "[SPRECHEN] Kann eine einfache Beschreibung von Lebens- oder Wetterbedingungen, Vorlieben oder Abneigungen geben, in kurzen Abfolgen aus einfachen Wendungen und Sätzen."
+    },
+    {
+     "code": "ALM8.5.4",
+     "text": "[SPRECHEN] Kann etwas erzählen oder in Form einer einfachen Aufzählung berichten."
+    },
+    {
+     "code": "ALM8.5.5",
+     "text": "[LESEN] Kann kurze, einfache Texte lesen und verstehen, die einen sehr frequenten Wortschatz und international bekannte Wörter enthalten."
+    },
+    {
+     "code": "ALM8.5.6",
+     "text": "[SCHREIBEN] Kann eine Reihe einfacher Wendungen und Sätze schreiben und mit Konnektoren wie 'und', 'aber' oder 'weil' verbinden."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "5. Wetter und Kleidung",
+   "start": "2027-04-26",
+   "end": "2027-04-30",
+   "outcomes": [
+    {
+     "code": "ALM8.5.1",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.5.2",
+     "text": "[HÖREN] Kann genug verstehen, um ohne übermäßige Mühe in einfachen Routinegesprächen zurechtzukommen."
+    },
+    {
+     "code": "ALM8.5.3",
+     "text": "[SPRECHEN] Kann eine einfache Beschreibung von Lebens- oder Wetterbedingungen, Vorlieben oder Abneigungen geben, in kurzen Abfolgen aus einfachen Wendungen und Sätzen."
+    },
+    {
+     "code": "ALM8.5.4",
+     "text": "[SPRECHEN] Kann etwas erzählen oder in Form einer einfachen Aufzählung berichten."
+    },
+    {
+     "code": "ALM8.5.5",
+     "text": "[LESEN] Kann kurze, einfache Texte lesen und verstehen, die einen sehr frequenten Wortschatz und international bekannte Wörter enthalten."
+    },
+    {
+     "code": "ALM8.5.6",
+     "text": "[SCHREIBEN] Kann eine Reihe einfacher Wendungen und Sätze schreiben und mit Konnektoren wie 'und', 'aber' oder 'weil' verbinden."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "5. Wetter und Kleidung",
+   "start": "2027-05-03",
+   "end": "2027-05-07",
+   "outcomes": [
+    {
+     "code": "ALM8.5.1",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.5.2",
+     "text": "[HÖREN] Kann genug verstehen, um ohne übermäßige Mühe in einfachen Routinegesprächen zurechtzukommen."
+    },
+    {
+     "code": "ALM8.5.3",
+     "text": "[SPRECHEN] Kann eine einfache Beschreibung von Lebens- oder Wetterbedingungen, Vorlieben oder Abneigungen geben, in kurzen Abfolgen aus einfachen Wendungen und Sätzen."
+    },
+    {
+     "code": "ALM8.5.4",
+     "text": "[SPRECHEN] Kann etwas erzählen oder in Form einer einfachen Aufzählung berichten."
+    },
+    {
+     "code": "ALM8.5.5",
+     "text": "[LESEN] Kann kurze, einfache Texte lesen und verstehen, die einen sehr frequenten Wortschatz und international bekannte Wörter enthalten."
+    },
+    {
+     "code": "ALM8.5.6",
+     "text": "[SCHREIBEN] Kann eine Reihe einfacher Wendungen und Sätze schreiben und mit Konnektoren wie 'und', 'aber' oder 'weil' verbinden."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "6. Digitale Medien im Alltag",
+   "start": "2027-05-10",
+   "end": "2027-05-14",
+   "outcomes": [
+    {
+     "code": "ALM8.6.1",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.6.2",
+     "text": "[HÖREN] Kann genug verstehen, um ohne übermäßige Mühe in einfachen Routinegesprächen zurechtzukommen."
+    },
+    {
+     "code": "ALM8.6.3",
+     "text": "[SPRECHEN] Kann diskutieren, was man als Nächstes tun sollte, Vorschläge machen und auf Vorschläge reagieren, um Anleitungen bitten und Anleitungen geben."
+    },
+    {
+     "code": "ALM8.6.4",
+     "text": "[SPRECHEN] Kann eine eingeübte, kurze, einfache Präsentation zu einem vertrauten Thema vortragen."
+    },
+    {
+     "code": "ALM8.6.5",
+     "text": "[SPRECHEN] Kann relevante Informationen austauschen und die eigene Meinung zu einer praktischen Frage äußern."
+    },
+    {
+     "code": "ALM8.6.6",
+     "text": "[SPRECHEN] Kann mit einfachen Mitteln Gegenstände sowie Dinge, die ihm/ihr gehören, kurz beschreiben und vergleichen."
+    },
+    {
+     "code": "ALM8.6.7",
+     "text": "[LESEN] Kann aus einem kurzen Text Schlüsselwörter, Wendungen und kurze Sätze heraussuchen und wiedergeben."
+    },
+    {
+     "code": "ALM8.6.8",
+     "text": "[LESEN] Kann einfache Anleitungen für Apparate, mit denen man im Alltag zu tun hat, verstehen."
+    },
+    {
+     "code": "ALM8.6.9",
+     "text": "[SCHREIBEN] Kann etwas beschreiben, indem er/sie die einzelnen Punkte in Form einer einfachen Aufzählung aneinanderreiht."
+    },
+    {
+     "code": "ALM8.6.10",
+     "text": "[SCHREIBEN] Kann Texte mit einfachen Wendungen und Sätzen verfassen."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "6. Digitale Medien im Alltag",
+   "start": "2027-05-17",
+   "end": "2027-05-21",
+   "outcomes": [
+    {
+     "code": "ALM8.6.1",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.6.2",
+     "text": "[HÖREN] Kann genug verstehen, um ohne übermäßige Mühe in einfachen Routinegesprächen zurechtzukommen."
+    },
+    {
+     "code": "ALM8.6.3",
+     "text": "[SPRECHEN] Kann diskutieren, was man als Nächstes tun sollte, Vorschläge machen und auf Vorschläge reagieren, um Anleitungen bitten und Anleitungen geben."
+    },
+    {
+     "code": "ALM8.6.4",
+     "text": "[SPRECHEN] Kann eine eingeübte, kurze, einfache Präsentation zu einem vertrauten Thema vortragen."
+    },
+    {
+     "code": "ALM8.6.5",
+     "text": "[SPRECHEN] Kann relevante Informationen austauschen und die eigene Meinung zu einer praktischen Frage äußern."
+    },
+    {
+     "code": "ALM8.6.6",
+     "text": "[SPRECHEN] Kann mit einfachen Mitteln Gegenstände sowie Dinge, die ihm/ihr gehören, kurz beschreiben und vergleichen."
+    },
+    {
+     "code": "ALM8.6.7",
+     "text": "[LESEN] Kann aus einem kurzen Text Schlüsselwörter, Wendungen und kurze Sätze heraussuchen und wiedergeben."
+    },
+    {
+     "code": "ALM8.6.8",
+     "text": "[LESEN] Kann einfache Anleitungen für Apparate, mit denen man im Alltag zu tun hat, verstehen."
+    },
+    {
+     "code": "ALM8.6.9",
+     "text": "[SCHREIBEN] Kann etwas beschreiben, indem er/sie die einzelnen Punkte in Form einer einfachen Aufzählung aneinanderreiht."
+    },
+    {
+     "code": "ALM8.6.10",
+     "text": "[SCHREIBEN] Kann Texte mit einfachen Wendungen und Sätzen verfassen."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "6. Digitale Medien im Alltag",
+   "start": "2027-05-24",
+   "end": "2027-05-28",
+   "outcomes": [
+    {
+     "code": "ALM8.6.1",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.6.2",
+     "text": "[HÖREN] Kann genug verstehen, um ohne übermäßige Mühe in einfachen Routinegesprächen zurechtzukommen."
+    },
+    {
+     "code": "ALM8.6.3",
+     "text": "[SPRECHEN] Kann diskutieren, was man als Nächstes tun sollte, Vorschläge machen und auf Vorschläge reagieren, um Anleitungen bitten und Anleitungen geben."
+    },
+    {
+     "code": "ALM8.6.4",
+     "text": "[SPRECHEN] Kann eine eingeübte, kurze, einfache Präsentation zu einem vertrauten Thema vortragen."
+    },
+    {
+     "code": "ALM8.6.5",
+     "text": "[SPRECHEN] Kann relevante Informationen austauschen und die eigene Meinung zu einer praktischen Frage äußern."
+    },
+    {
+     "code": "ALM8.6.6",
+     "text": "[SPRECHEN] Kann mit einfachen Mitteln Gegenstände sowie Dinge, die ihm/ihr gehören, kurz beschreiben und vergleichen."
+    },
+    {
+     "code": "ALM8.6.7",
+     "text": "[LESEN] Kann aus einem kurzen Text Schlüsselwörter, Wendungen und kurze Sätze heraussuchen und wiedergeben."
+    },
+    {
+     "code": "ALM8.6.8",
+     "text": "[LESEN] Kann einfache Anleitungen für Apparate, mit denen man im Alltag zu tun hat, verstehen."
+    },
+    {
+     "code": "ALM8.6.9",
+     "text": "[SCHREIBEN] Kann etwas beschreiben, indem er/sie die einzelnen Punkte in Form einer einfachen Aufzählung aneinanderreiht."
+    },
+    {
+     "code": "ALM8.6.10",
+     "text": "[SCHREIBEN] Kann Texte mit einfachen Wendungen und Sätzen verfassen."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "6. Digitale Medien im Alltag",
+   "start": "2027-05-31",
+   "end": "2027-06-04",
+   "outcomes": [
+    {
+     "code": "ALM8.6.1",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.6.2",
+     "text": "[HÖREN] Kann genug verstehen, um ohne übermäßige Mühe in einfachen Routinegesprächen zurechtzukommen."
+    },
+    {
+     "code": "ALM8.6.3",
+     "text": "[SPRECHEN] Kann diskutieren, was man als Nächstes tun sollte, Vorschläge machen und auf Vorschläge reagieren, um Anleitungen bitten und Anleitungen geben."
+    },
+    {
+     "code": "ALM8.6.4",
+     "text": "[SPRECHEN] Kann eine eingeübte, kurze, einfache Präsentation zu einem vertrauten Thema vortragen."
+    },
+    {
+     "code": "ALM8.6.5",
+     "text": "[SPRECHEN] Kann relevante Informationen austauschen und die eigene Meinung zu einer praktischen Frage äußern."
+    },
+    {
+     "code": "ALM8.6.6",
+     "text": "[SPRECHEN] Kann mit einfachen Mitteln Gegenstände sowie Dinge, die ihm/ihr gehören, kurz beschreiben und vergleichen."
+    },
+    {
+     "code": "ALM8.6.7",
+     "text": "[LESEN] Kann aus einem kurzen Text Schlüsselwörter, Wendungen und kurze Sätze heraussuchen und wiedergeben."
+    },
+    {
+     "code": "ALM8.6.8",
+     "text": "[LESEN] Kann einfache Anleitungen für Apparate, mit denen man im Alltag zu tun hat, verstehen."
+    },
+    {
+     "code": "ALM8.6.9",
+     "text": "[SCHREIBEN] Kann etwas beschreiben, indem er/sie die einzelnen Punkte in Form einer einfachen Aufzählung aneinanderreiht."
+    },
+    {
+     "code": "ALM8.6.10",
+     "text": "[SCHREIBEN] Kann Texte mit einfachen Wendungen und Sätzen verfassen."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "6. Digitale Medien im Alltag",
+   "start": "2027-06-07",
+   "end": "2027-06-11",
+   "outcomes": [
+    {
+     "code": "ALM8.6.1",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.6.2",
+     "text": "[HÖREN] Kann genug verstehen, um ohne übermäßige Mühe in einfachen Routinegesprächen zurechtzukommen."
+    },
+    {
+     "code": "ALM8.6.3",
+     "text": "[SPRECHEN] Kann diskutieren, was man als Nächstes tun sollte, Vorschläge machen und auf Vorschläge reagieren, um Anleitungen bitten und Anleitungen geben."
+    },
+    {
+     "code": "ALM8.6.4",
+     "text": "[SPRECHEN] Kann eine eingeübte, kurze, einfache Präsentation zu einem vertrauten Thema vortragen."
+    },
+    {
+     "code": "ALM8.6.5",
+     "text": "[SPRECHEN] Kann relevante Informationen austauschen und die eigene Meinung zu einer praktischen Frage äußern."
+    },
+    {
+     "code": "ALM8.6.6",
+     "text": "[SPRECHEN] Kann mit einfachen Mitteln Gegenstände sowie Dinge, die ihm/ihr gehören, kurz beschreiben und vergleichen."
+    },
+    {
+     "code": "ALM8.6.7",
+     "text": "[LESEN] Kann aus einem kurzen Text Schlüsselwörter, Wendungen und kurze Sätze heraussuchen und wiedergeben."
+    },
+    {
+     "code": "ALM8.6.8",
+     "text": "[LESEN] Kann einfache Anleitungen für Apparate, mit denen man im Alltag zu tun hat, verstehen."
+    },
+    {
+     "code": "ALM8.6.9",
+     "text": "[SCHREIBEN] Kann etwas beschreiben, indem er/sie die einzelnen Punkte in Form einer einfachen Aufzählung aneinanderreiht."
+    },
+    {
+     "code": "ALM8.6.10",
+     "text": "[SCHREIBEN] Kann Texte mit einfachen Wendungen und Sätzen verfassen."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "6. Digitale Medien im Alltag",
+   "start": "2027-06-14",
+   "end": "2027-06-18",
+   "outcomes": [
+    {
+     "code": "ALM8.6.1",
+     "text": "[HÖREN] Kann im Allgemeinen das Thema von Gesprächen erkennen, wenn langsam und deutlich gesprochen wird."
+    },
+    {
+     "code": "ALM8.6.2",
+     "text": "[HÖREN] Kann genug verstehen, um ohne übermäßige Mühe in einfachen Routinegesprächen zurechtzukommen."
+    },
+    {
+     "code": "ALM8.6.3",
+     "text": "[SPRECHEN] Kann diskutieren, was man als Nächstes tun sollte, Vorschläge machen und auf Vorschläge reagieren, um Anleitungen bitten und Anleitungen geben."
+    },
+    {
+     "code": "ALM8.6.4",
+     "text": "[SPRECHEN] Kann eine eingeübte, kurze, einfache Präsentation zu einem vertrauten Thema vortragen."
+    },
+    {
+     "code": "ALM8.6.5",
+     "text": "[SPRECHEN] Kann relevante Informationen austauschen und die eigene Meinung zu einer praktischen Frage äußern."
+    },
+    {
+     "code": "ALM8.6.6",
+     "text": "[SPRECHEN] Kann mit einfachen Mitteln Gegenstände sowie Dinge, die ihm/ihr gehören, kurz beschreiben und vergleichen."
+    },
+    {
+     "code": "ALM8.6.7",
+     "text": "[LESEN] Kann aus einem kurzen Text Schlüsselwörter, Wendungen und kurze Sätze heraussuchen und wiedergeben."
+    },
+    {
+     "code": "ALM8.6.8",
+     "text": "[LESEN] Kann einfache Anleitungen für Apparate, mit denen man im Alltag zu tun hat, verstehen."
+    },
+    {
+     "code": "ALM8.6.9",
+     "text": "[SCHREIBEN] Kann etwas beschreiben, indem er/sie die einzelnen Punkte in Form einer einfachen Aufzählung aneinanderreiht."
+    },
+    {
+     "code": "ALM8.6.10",
+     "text": "[SCHREIBEN] Kann Texte mit einfachen Wendungen und Sätzen verfassen."
+    }
+   ]
+  },
+  {
+   "name": "Almanca",
+   "konu": "Sosyal Etkinlik / Yıl Sonu Değerlendirme",
+   "start": "2027-06-21",
+   "end": "2027-06-25",
+   "outcomes": []
+  }
+ ]
+}

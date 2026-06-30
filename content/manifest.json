@@ -1,5 +1,5 @@
 {
- "version": "2026-2027.12",
+ "version": "2026-2027.13",
  "year": "2025-2026",
  "plans": [
   {
@@ -201,6 +201,11 @@
    "grade": 8,
    "subject": "İngilizce",
    "file": "ingilizce-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Almanca",
+   "file": "almanca-8.json"
   }
  ]
 }
