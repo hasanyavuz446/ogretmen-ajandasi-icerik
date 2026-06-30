@@ -1,0 +1,478 @@
+{
+ "grade": 8,
+ "subject": "Rehberlik ve Kariyer Planlama",
+ "themes": [
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Kendini Tanıma",
+   "start": "2026-09-14",
+   "end": "2026-09-18",
+   "outcomes": [
+    {
+     "code": "RKP.8.1",
+     "text": "Ergenlik döneminin bedeninde, duygularında ve düşüncelerinde oluşturduğu etkileri sıralar."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Kendini Tanıma",
+   "start": "2026-09-21",
+   "end": "2026-09-25",
+   "outcomes": [
+    {
+     "code": "RKP.8.2",
+     "text": "Bedensel ve duygusal değişimlerin ergenlik döneminin doğal bir parçası olduğunu fark eder."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Kendini Tanıma",
+   "start": "2026-09-28",
+   "end": "2026-10-02",
+   "outcomes": [
+    {
+     "code": "RKP.8.3",
+     "text": "Yetenek, ilgi, değer kavramını açıklar."
+    },
+    {
+     "code": "RKP.8.4",
+     "text": "Değerlerle ilgileri ayırt eder."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Kendini Tanıma",
+   "start": "2026-10-05",
+   "end": "2026-10-09",
+   "outcomes": [
+    {
+     "code": "RKP.8.5",
+     "text": "Kendi yetenek, ilgi ve değerlerini fark eder"
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Kendini Tanıma",
+   "start": "2026-10-12",
+   "end": "2026-10-16",
+   "outcomes": [
+    {
+     "code": "RKP.8.6",
+     "text": "Bireysel özelliklerini tanımaya istekli olur."
+    },
+    {
+     "code": "RKP.8.7",
+     "text": "Güçlü ve zayıf yönlerini listeler."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Kendini Tanıma",
+   "start": "2026-10-19",
+   "end": "2026-10-23",
+   "outcomes": [
+    {
+     "code": "RKP.8.8",
+     "text": "Bireysel özelliklerin toplumda üstlendiği rollere etkisini kavrar."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Kendini Tanıma",
+   "start": "2026-10-26",
+   "end": "2026-10-30",
+   "outcomes": [
+    {
+     "code": "RKP.8.9",
+     "text": "Bireysel farklılıklarını ve özelliklerini değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Güvenli ve Sağlıklı Yaşam",
+   "start": "2026-11-02",
+   "end": "2026-11-06",
+   "outcomes": [
+    {
+     "code": "RKP.8.10",
+     "text": "Zararlı alışkanlıkların duygusal ve bedensel yönden insan hayatına etkilerini fark eder."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Güvenli ve Sağlıklı Yaşam",
+   "start": "2026-11-09",
+   "end": "2026-11-13",
+   "outcomes": [
+    {
+     "code": "RKP.8.11",
+     "text": "Kendini zararlı alışkanlıklardan korur."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Güvenli ve Sağlıklı Yaşam",
+   "start": "2026-11-23",
+   "end": "2026-11-27",
+   "outcomes": [
+    {
+     "code": "RKP.8.12",
+     "text": "Güvenli ve sağlıklı hayat için gerekli alışkanlıkları edinir."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Güvenli ve Sağlıklı Yaşam",
+   "start": "2026-11-30",
+   "end": "2026-12-04",
+   "outcomes": [
+    {
+     "code": "RKP.8.13",
+     "text": "Stresin nedenlerini ve belirtilerini açıklar."
+    },
+    {
+     "code": "RKP.8.14",
+     "text": "Stres durumlarında kullandığı tepkileri etkililiği açısından değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Güvenli ve Sağlıklı Yaşam",
+   "start": "2026-12-07",
+   "end": "2026-12-11",
+   "outcomes": [
+    {
+     "code": "RKP.8.15",
+     "text": "Stresle başa çıkmada uygun yöntemler kullanır."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Eğitim Yaşamı",
+   "start": "2026-12-14",
+   "end": "2026-12-18",
+   "outcomes": [
+    {
+     "code": "RKP.8.16",
+     "text": "Kendi öğrenme stilini belirler."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Eğitim Yaşamı",
+   "start": "2026-12-21",
+   "end": "2026-12-25",
+   "outcomes": [
+    {
+     "code": "RKP.8.17",
+     "text": "Okuldaki görev ve sorumluluklarını yerine getirir."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Eğitim Yaşamı",
+   "start": "2026-12-28",
+   "end": "2027-01-01",
+   "outcomes": [
+    {
+     "code": "RKP.8.18",
+     "text": "Okul başarısını arttırmak için planlı çalışmaya özen gösterir."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Eğitim Yaşamı",
+   "start": "2027-01-04",
+   "end": "2027-01-08",
+   "outcomes": [
+    {
+     "code": "RKP.8.19",
+     "text": "Sınav kaygısının performansına etkisini kavrar."
+    },
+    {
+     "code": "RKP.8.20",
+     "text": "Sınav kaygısıyla baş etme yollarını açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Eğitim Yaşamı",
+   "start": "2027-01-11",
+   "end": "2027-01-15",
+   "outcomes": [
+    {
+     "code": "RKP.8.21",
+     "text": "Sınav kaygısı yaşadığında gerekli yardım almaya istekli olur."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Meslekleri Tanıma",
+   "start": "2027-01-18",
+   "end": "2027-01-22",
+   "outcomes": [
+    {
+     "code": "RKP.8.22",
+     "text": "İş, meslek, uğraş ve kariyer kavramlarını tanımlar."
+    },
+    {
+     "code": "RKP.8.23",
+     "text": "Meslek sahibi olmanın önemini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Meslekleri Tanıma",
+   "start": "2027-02-08",
+   "end": "2027-02-12",
+   "outcomes": [
+    {
+     "code": "RKP.8.24",
+     "text": "Üst öğrenim kurumlarına geçiş sistemini araştırır."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Meslekleri Tanıma",
+   "start": "2027-02-15",
+   "end": "2027-02-19",
+   "outcomes": [
+    {
+     "code": "RKP.8.25",
+     "text": "Ortaöğretim program türleri hakkında bilgi toplar."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Meslekleri Tanıma",
+   "start": "2027-02-22",
+   "end": "2027-02-26",
+   "outcomes": [
+    {
+     "code": "RKP.8.26",
+     "text": "İlgi, yetenek ve değerlerin ortaöğretim program türü seçimindeki rolünü fark eder."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Meslekleri Tanıma",
+   "start": "2027-03-01",
+   "end": "2027-03-05",
+   "outcomes": [
+    {
+     "code": "RKP.8.27",
+     "text": "İlgi duyduğu mesleklerin gerektirdiği eğitimin neler olduğunu kavrar."
+    },
+    {
+     "code": "RKP.8.28",
+     "text": "İlgi duyduğu mesleklerin gerektirdiği bireysel özelliklerin neler olduğunu kavrar."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Meslekleri Tanıma",
+   "start": "2027-03-15",
+   "end": "2027-03-19",
+   "outcomes": [
+    {
+     "code": "RKP.8.29",
+     "text": "Ortaöğretim program türü seçiminde ailesinin ve çevresinin beklentileriyle kendi beklentilerini ayırt eder."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Meslekleri Tanıma",
+   "start": "2027-03-22",
+   "end": "2027-03-26",
+   "outcomes": [
+    {
+     "code": "RKP.8.30",
+     "text": "İlgi duyduğu mesleklerle bireysel özelliklerinin ortak noktalarını belirler."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Meslekleri Tanıma",
+   "start": "2027-03-29",
+   "end": "2027-04-02",
+   "outcomes": [
+    {
+     "code": "RKP.8.31",
+     "text": "Eğitimini sürdüreceği ortaöğretim program türünün meslek seçimine etkisini fark eder."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Meslekleri Tanıma",
+   "start": "2027-04-05",
+   "end": "2027-04-09",
+   "outcomes": [
+    {
+     "code": "RKP.8.32",
+     "text": "Meslekler hakkında bilgi toplayacağı kaynakları fark eder."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Meslekleri Tanıma",
+   "start": "2027-04-12",
+   "end": "2027-04-16",
+   "outcomes": [
+    {
+     "code": "RKP.8.33",
+     "text": "Meslekler hakkında bilgi toplar."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Meslekleri Tanıma",
+   "start": "2027-04-19",
+   "end": "2027-04-23",
+   "outcomes": [
+    {
+     "code": "RKP.8.34",
+     "text": "Her mesleğin toplum yaşamındaki önemini fark eder."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Meslekleri Tanıma",
+   "start": "2027-04-26",
+   "end": "2027-04-30",
+   "outcomes": [
+    {
+     "code": "RKP.8.35",
+     "text": "Mesleklerin uzun vadede istihdam olanaklarını değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Kariyer Planlama",
+   "start": "2027-05-03",
+   "end": "2027-05-07",
+   "outcomes": [
+    {
+     "code": "RKP.8.36",
+     "text": "Günlük yaşamında olumlu iletişim kurmanın önemini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Kariyer Planlama",
+   "start": "2027-05-10",
+   "end": "2027-05-14",
+   "outcomes": [
+    {
+     "code": "RKP.8.37",
+     "text": "Kendini tanıtmada öz geçmişin önemini fark eder."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Kariyer Planlama",
+   "start": "2027-05-17",
+   "end": "2027-05-21",
+   "outcomes": [
+    {
+     "code": "RKP.8.38",
+     "text": "Öz geçmişini yazar."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Kariyer Planlama",
+   "start": "2027-05-24",
+   "end": "2027-05-28",
+   "outcomes": [
+    {
+     "code": "RKP.8.39",
+     "text": "Kariyer planlama basamaklarını açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Kariyer Planlama",
+   "start": "2027-05-31",
+   "end": "2027-06-04",
+   "outcomes": [
+    {
+     "code": "RKP.8.40",
+     "text": "Bireysel kariyer planlama dosyası hazırlar."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Kariyer Planlama",
+   "start": "2027-06-07",
+   "end": "2027-06-11",
+   "outcomes": [
+    {
+     "code": "RKP.8.41",
+     "text": "Ortaöğretim tercihlerini kariyer dosyasındaki verilerden yararlanarak belirler."
+    },
+    {
+     "code": "RKP.8.42",
+     "text": "Kariyer planlamanın gelişim dönemlerinde farklılık gösterebileceğini fark eder."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Kariyer Planlama",
+   "start": "2027-06-14",
+   "end": "2027-06-18",
+   "outcomes": [
+    {
+     "code": "RKP.8.43",
+     "text": "Mevcut kariyer hedeflerinin gerçekleşebilirliğini değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "Rehberlik ve Kariyer Planlama",
+   "konu": "Kariyer Planlama",
+   "start": "2027-06-21",
+   "end": "2027-06-25",
+   "outcomes": [
+    {
+     "code": "RKP.8.44",
+     "text": "Kariyer planlamada alternatifleri değerlendirir."
+    }
+   ]
+  }
+ ]
+}

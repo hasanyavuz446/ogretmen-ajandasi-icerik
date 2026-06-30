@@ -1,0 +1,537 @@
+{
+ "grade": 8,
+ "subject": "Fen Bilimleri",
+ "themes": [
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Mevsimler ve İklim",
+   "start": "2026-09-14",
+   "end": "2026-09-18",
+   "outcomes": [
+    {
+     "code": "F.8.1.1.1",
+     "text": "F.8.1.1.1. Mevsimlerin oluşumuna yönelik tahminlerde bulunur."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Mevsimler ve İklim",
+   "start": "2026-09-21",
+   "end": "2026-09-25",
+   "outcomes": []
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Mevsimler ve İklim",
+   "start": "2026-09-28",
+   "end": "2026-10-02",
+   "outcomes": [
+    {
+     "code": "F.8.1.2.1",
+     "text": "F.8.1.2.1. İklim ve hava olayları arasındaki farkı açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Mevsimler ve İklim DNA ve Genetik Kod",
+   "start": "2026-10-05",
+   "end": "2026-10-09",
+   "outcomes": [
+    {
+     "code": "F.8.1.2.2",
+     "text": "F.8.1.2.2. İklim biliminin (klimatoloji) bir bilim dalı olduğunu ve bu alanda çalışan uzmanlara iklim bilimci (klimatolog) adı verildiğini söyler."
+    },
+    {
+     "code": "F.8.2.1.1",
+     "text": "F.8.2.1.1. Nükleotid, gen, DNA ve kromozom kavramlarını açıklayarak bu kavramlar arasında ilişki kurar."
+    },
+    {
+     "code": "F.8.2.3.1",
+     "text": "F.8.2.3.1. Örneklerden yola çıkarak mutasyonu açıklar."
+    },
+    {
+     "code": "F.8.2.3.2",
+     "text": "F.8.2.3.2. Örneklerden yola çıkarak modifikasyonu açıklar."
+    },
+    {
+     "code": "F.8.2.3.3",
+     "text": "F.8.2.3.3. Mutasyonla modifikasyon arasındaki farklar ile ilgili çıkarımda bulunur."
+    },
+    {
+     "code": "F.8.2.4.1",
+     "text": "F.8.2.4.1. Canlıların yaşadıkları çevreye uyumlarını gözlem yaparak açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "DNA ve Genetik Kod",
+   "start": "2026-10-12",
+   "end": "2026-10-16",
+   "outcomes": [
+    {
+     "code": "F.8.2.1.2",
+     "text": "F.8.2.1.2. DNA’nın yapısını model üzerinde gösterir."
+    },
+    {
+     "code": "F.8.2.1.3",
+     "text": "F.8.2.1.3. DNA’nın kendini nasıl eşlediğini ifade eder."
+    },
+    {
+     "code": "F.8.2.2.1",
+     "text": "F.8.2.2.1. Kalıtım ile ilgili kavramları tanımlar."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "DNA ve Genetik Kod",
+   "start": "2026-10-19",
+   "end": "2026-10-23",
+   "outcomes": [
+    {
+     "code": "F.8.2.2.2",
+     "text": "F.8.2.2.2. Tek karakter çaprazlamaları ile ilgili problemler çözerek sonuçlar hakkında yorum yapar."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "DNA ve Genetik Kod",
+   "start": "2026-10-26",
+   "end": "2026-10-30",
+   "outcomes": [
+    {
+     "code": "F.8.2.2.3",
+     "text": "F.8.2.2.3. Akraba evliliklerinin genetik sonuçlarını tartışır."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "DNA ve Genetik Kod",
+   "start": "2026-11-02",
+   "end": "2026-11-06",
+   "outcomes": [
+    {
+     "code": "F.8.2.5.1",
+     "text": "F.8.2.5.1. Genetik mühendisliğini ve biyoteknolojiyi ilişkilendirir."
+    },
+    {
+     "code": "F.8.2.5.2",
+     "text": "F.8.2.5.2. Biyoteknolojik uygulamalar kapsamında oluşturulan ikilemlerle bu uygulamaların insanlık için yararlı ve zararlı yönlerini tartışır."
+    },
+    {
+     "code": "F.8.2.5.3",
+     "text": "F.8.2.5.3. Gelecekteki genetik mühendisliği ve biyoteknoloji uygulamalarının neler olabileceği hakkında tahminde bulunur."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Basınç",
+   "start": "2026-11-09",
+   "end": "2026-11-13",
+   "outcomes": [
+    {
+     "code": "F.8.3.1.1",
+     "text": "F.8.3.1.1. Katı basıncını etkileyen değişkenleri deneyerek keşfeder."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Basınç",
+   "start": "2026-11-23",
+   "end": "2026-11-27",
+   "outcomes": [
+    {
+     "code": "F.8.3.1.2",
+     "text": "F.8.3.1.2. Sıvı basıncını etkileyen değişkenleri tahmin eder ve tahminlerini test eder."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Basınç Madde ve Endüstri",
+   "start": "2026-11-30",
+   "end": "2026-12-04",
+   "outcomes": [
+    {
+     "code": "F.8.3.1.3",
+     "text": "F.8.3.1.3. Katı, sıvı ve gazların basınç özelliklerinin günlük yaşam ve teknolojideki uygulamalarına örnekler verir."
+    },
+    {
+     "code": "F.8.4.1.1",
+     "text": "F.8.4.1.1. Periyodik sistemde, grup ve periyotların nasıl oluşturulduğunu açıklar."
+    },
+    {
+     "code": "F.8.4.4.4",
+     "text": "F.8.4.4.4. Maddelerin asitlik ve bazlık durumlarına ilişkin pH değerlerini kullanarak çıkarımda bulunur."
+    },
+    {
+     "code": "F.8.4.4.5",
+     "text": "F.8.4.4.5. Asit ve bazların çeşitli maddeler üzerindeki etkilerini gözlemler."
+    },
+    {
+     "code": "F.8.4.4.6",
+     "text": "F.8.4.4.6. Asit ve bazların temizlik malzemesi olarak kullanılması esnasında oluşabilecek tehlikelerle ilgili gerekli tedbirleri alır."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Madde ve Endüstri",
+   "start": "2026-12-07",
+   "end": "2026-12-11",
+   "outcomes": [
+    {
+     "code": "F.8.4.1.2",
+     "text": "F.8.4.1.2. Elementleri periyodik tablo üzerinde metal, yarımetal ve ametal olarak sınıflandırır."
+    },
+    {
+     "code": "F.8.4.2.1",
+     "text": "F.8.4.2.1. Fiziksel ve kimyasal değişim arasındaki farkları, çeşitli olayları gözlemleyerek açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Madde ve Endüstri",
+   "start": "2026-12-14",
+   "end": "2026-12-18",
+   "outcomes": [
+    {
+     "code": "F.8.4.3.1",
+     "text": "F.8.4.3.1. Bileşiklerin kimyasal tepkime sonucunda oluştuğunu bilir."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Madde ve Endüstri",
+   "start": "2026-12-21",
+   "end": "2026-12-25",
+   "outcomes": [
+    {
+     "code": "F.8.4.4.1",
+     "text": "F.8.4.4.1. Asit ve bazların genel özelliklerini ifade eder."
+    },
+    {
+     "code": "F.8.4.4.2",
+     "text": "F.8.4.4.2. Asit ve bazlara günlük yaşamdan örnekler verir."
+    },
+    {
+     "code": "F.8.4.4.3",
+     "text": "F.8.4.4.3. Günlük hayatta ulaşılabilecek malzemeleri asit-baz ayracı olarak kullanır."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Madde ve Endüstri",
+   "start": "2026-12-28",
+   "end": "2027-01-01",
+   "outcomes": [
+    {
+     "code": "F.8.4.4.7",
+     "text": "F.8.4.4.7. Asit yağmurlarının önlenmesine yönelik çözüm önerileri sunar."
+    },
+    {
+     "code": "F.8.4.5.1",
+     "text": "F.8.4.5.1. Isınmanın maddenin cinsine, kütlesine ve/veya sıcaklık değişimine bağlı olduğunu deney yaparak keşfeder."
+    },
+    {
+     "code": "F.8.4.5.2",
+     "text": "F.8.4.5.2. Hâl değiştirmek için gerekli ısının maddenin cinsi ve kütlesiyle ilişkili olduğunu deney yaparak keşfeder."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Madde ve Endüstri",
+   "start": "2027-01-04",
+   "end": "2027-01-08",
+   "outcomes": [
+    {
+     "code": "F.8.4.5.3",
+     "text": "F.8.4.5.3. Maddelerin hâl değişimi ve ısınma grafiğini çizerek yorumlar."
+    },
+    {
+     "code": "F.8.4.5.4",
+     "text": "F.8.4.5.4. Günlük yaşamda meydana gelen hâl değişimleri ile ısı alışverişini ilişkilendirir."
+    },
+    {
+     "code": "F.8.4.6.1",
+     "text": "F.8.4.6.1. Geçmişten günümüze Türkiye’deki kimya endüstrisinin gelişimini araştırır."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Madde ve Endüstri Basit Makineler",
+   "start": "2027-01-11",
+   "end": "2027-01-15",
+   "outcomes": [
+    {
+     "code": "F.8.4.6.2",
+     "text": "F.8.4.6.2. Kimya endüstrisinde meslek dallarını araştırır ve gelecekteki yeni meslek alanları hakkında öneriler sunar."
+    },
+    {
+     "code": "F.8.5.1.1",
+     "text": "F.8.5.1.1. Basit makinelerin sağladığı avantajları örnekler üzerinden açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Basit Makineler",
+   "start": "2027-01-18",
+   "end": "2027-01-22",
+   "outcomes": []
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Basit Makineler",
+   "start": "2027-02-08",
+   "end": "2027-02-12",
+   "outcomes": [
+    {
+     "code": "F.8.5.1.2",
+     "text": "F.8.5.1.2. Basit makinelerden yararlanarak günlük yaşamda iş kolaylığı sağlayacak bir düzenek tasarlar."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Basit Makineler",
+   "start": "2027-02-15",
+   "end": "2027-02-19",
+   "outcomes": [
+    {
+     "code": "F.8.6.1.1",
+     "text": "F.8.6.1.1. Besin zincirindeki üretici, tüketici, ayrıştırıcılara örnekler verir."
+    },
+    {
+     "code": "F.8.6.2.1",
+     "text": "F.8.6.2.1. Bitkilerde besin üretiminde fotosentezin önemini fark eder."
+    },
+    {
+     "code": "F.8.6.3.2",
+     "text": "F.8.6.3.2. Madde döngülerinin yaşam açısından önemini sorgular."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Enerji Dönüşümleri ve Çevre Bilimi",
+   "start": "2027-02-22",
+   "end": "2027-02-26",
+   "outcomes": [
+    {
+     "code": "F.8.6.2.2",
+     "text": "F.8.6.2.2. Fotosentez hızını etkileyen faktörler ile ilgili çıkarımlarda bulunur."
+    },
+    {
+     "code": "F.8.6.2.3",
+     "text": "F.8.6.2.3. Canlılarda solunumun önemini belirtir."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Enerji Dönüşümleri ve Çevre Bilimi",
+   "start": "2027-03-01",
+   "end": "2027-03-05",
+   "outcomes": [
+    {
+     "code": "F.8.6.3.1",
+     "text": "F.8.6.3.1. Madde döngülerini şema üzerinde göstererek açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Enerji Dönüşümleri ve Çevre Bilimi",
+   "start": "2027-03-15",
+   "end": "2027-03-19",
+   "outcomes": [
+    {
+     "code": "F.8.6.3.3",
+     "text": "F.8.6.3.3. Küresel iklim değişikliklerinin nedenlerini ve olası sonuçlarını tartışır."
+    },
+    {
+     "code": "F.8.6.4.1",
+     "text": "F.8.6.4.1. Kaynakların kullanımında tasarruflu davranmaya özen gösterir."
+    },
+    {
+     "code": "F.8.6.4.2",
+     "text": "F.8.6.4.2. Kaynakların tasarruflu kullanımına yönelik proje tasarlar."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Enerji Dönüşümleri ve Çevre Bilimi",
+   "start": "2027-03-22",
+   "end": "2027-03-26",
+   "outcomes": [
+    {
+     "code": "F.8.6.4.3",
+     "text": "F.8.6.4.3. Geri dönüşüm için katı atıkların ayrıştırılmasının önemini açıklar."
+    },
+    {
+     "code": "F.8.6.4.4",
+     "text": "F.8.6.4.4. Geri dönüşümün ülke ekonomisine katkısına ilişkin araştırma verilerini kullanarak çözüm önerileri sunar."
+    },
+    {
+     "code": "F.8.6.4.5",
+     "text": "F.8.6.4.5. Kaynakların tasarruflu kullanılmaması durumunda gelecekte karşılaşılabilecek problemleri belirterek çözüm önerileri sunar."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Elektrik Yükleri ve Elektrik Enerjisi",
+   "start": "2027-03-29",
+   "end": "2027-04-02",
+   "outcomes": [
+    {
+     "code": "F.8.7.1.1",
+     "text": "F.8.7.1.1. Elektriklenmeyi, bazı doğa olayları ve teknolojideki uygulama örnekleri ile açıklar."
+    },
+    {
+     "code": "F.8.7.1.2",
+     "text": "F.8.7.1.2. Elektrik yüklerini sınıflandırarak aynı ve farklı cins elektrik yüklerinin birbirlerine etkisini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Elektrik Yükleri ve Elektrik Enerjisi",
+   "start": "2027-04-05",
+   "end": "2027-04-09",
+   "outcomes": [
+    {
+     "code": "F.8.7.1.3",
+     "text": "F.8.7.1.3. Deneyler yaparak elektriklenme çeşitlerini fark eder."
+    },
+    {
+     "code": "F.8.7.2.1",
+     "text": "F.8.7.2.1. Cisimleri, sahip oldukları elektrik yükleri bakımından sınıflandırır."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Elektrik Yükleri ve Elektrik Enerjisi",
+   "start": "2027-04-12",
+   "end": "2027-04-16",
+   "outcomes": [
+    {
+     "code": "F.8.7.2.2",
+     "text": "F.8.7.2.2. Topraklamayı açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Elektrik Yükleri ve Elektrik Enerjisi",
+   "start": "2027-04-19",
+   "end": "2027-04-23",
+   "outcomes": [
+    {
+     "code": "F.8.7.3.1",
+     "text": "F.8.7.3.1. Elektrik enerjisinin ısı, ışık ve hareket enerjisine dönüştüğü uygulamalara örnekler verir."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Elektrik Yükleri ve Elektrik Enerjisi",
+   "start": "2027-04-26",
+   "end": "2027-04-30",
+   "outcomes": [
+    {
+     "code": "F.8.7.3.2",
+     "text": "F.8.7.3.2. Elektirik enerjisinin ısı, ışık veya hareket enerjisine dönüşümü temel alan bir model tasarlar."
+    },
+    {
+     "code": "F.8.7.3.3",
+     "text": "F.8.7.3.3. Güç santrallerinde elektrik enerjisinin nasıl üretildiğini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Elektrik Yükleri ve Elektrik Enerjisi",
+   "start": "2027-05-03",
+   "end": "2027-05-07",
+   "outcomes": [
+    {
+     "code": "F.8.7.3.4",
+     "text": "F.8.7.3.4. Güç santrallerinin avantaj ve dezavantajları konusunda fikirler üretir."
+    },
+    {
+     "code": "F.8.7.3.5",
+     "text": "F.8.7.3.5. Elektrik enerjisinin bilinçli ve tasarruflu kullanılmasının aile ve ülke ekonomisi bakımından önemini tartışır."
+    },
+    {
+     "code": "F.8.7.3.6",
+     "text": "F.8.7.3.6. Evlerde elektriği tasarruflu kullanmaya özen gösterir."
+    }
+   ]
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Yıl Sonu Bilim Şenliği",
+   "start": "2027-05-10",
+   "end": "2027-05-14",
+   "outcomes": []
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Fen, Mühendislik ve Girişimcilik Uygulamaları:",
+   "start": "2027-05-17",
+   "end": "2027-05-21",
+   "outcomes": []
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Genel Tekrar ve Değerlendirme",
+   "start": "2027-05-24",
+   "end": "2027-05-28",
+   "outcomes": []
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Genel Tekrar ve Değerlendirme",
+   "start": "2027-05-31",
+   "end": "2027-06-04",
+   "outcomes": []
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Genel Tekrar ve Değerlendirme",
+   "start": "2027-06-07",
+   "end": "2027-06-11",
+   "outcomes": []
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Genel Tekrar ve Değerlendirme",
+   "start": "2027-06-14",
+   "end": "2027-06-18",
+   "outcomes": []
+  },
+  {
+   "name": "Fen Bilimleri",
+   "konu": "Sosyal Etkinlik / Yıl Sonu Değerlendirme",
+   "start": "2027-06-21",
+   "end": "2027-06-25",
+   "outcomes": []
+  }
+ ]
+}

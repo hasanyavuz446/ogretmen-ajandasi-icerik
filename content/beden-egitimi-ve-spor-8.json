@@ -1,0 +1,410 @@
+{
+ "grade": 8,
+ "subject": "Beden Eğitimi ve Spor",
+ "themes": [
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2026-09-14",
+   "end": "2026-09-18",
+   "outcomes": [
+    {
+     "code": "BE.8.2.2.4",
+     "text": "BE.8.2.2.4. Spor ortamlarında gerekli güvenlik önlemleri alır."
+    },
+    {
+     "code": "BE.8.2.3.3",
+     "text": "BE.8.2.3.3. Diğer kültürlere ait halk danslarını araştırır."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-09-21",
+   "end": "2026-09-25",
+   "outcomes": [
+    {
+     "code": "BE.8.1.1.1",
+     "text": "BE.8.1.1.1. Çeşitli sporlara özgü hareket becerilerini geliştirir."
+    },
+    {
+     "code": "BE.8.1.1.2",
+     "text": "BE.8.1.1.2. Hazırladığı jimnastik serisini artan bir doğrulukla uygular."
+    },
+    {
+     "code": "BE.8.1.1.3",
+     "text": "BE.8.1.1.3. Belli bir temada hazırladığı koreografisini sunar."
+    },
+    {
+     "code": "BE.8.1.3.1",
+     "text": "BE.8.1.3.1. Spor dallarına özgü strateji ve taktikleri uygular."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-09-28",
+   "end": "2026-10-02",
+   "outcomes": []
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-10-05",
+   "end": "2026-10-09",
+   "outcomes": [
+    {
+     "code": "BE.8.1.2.11",
+     "text": "BE.8.1.2.11. Katıldığı spor dallarında performansına yönelik öz değerlendirme yapar."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-10-12",
+   "end": "2026-10-16",
+   "outcomes": [
+    {
+     "code": "BE.8.1.2.2",
+     "text": "BE.8.1.2.2. Spor becerilerinin hareket evrelerini analiz eder."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-10-19",
+   "end": "2026-10-23",
+   "outcomes": [
+    {
+     "code": "BE.8.1.2.3",
+     "text": "BE.8.1.2.3. Spor dallarına ait oyun kurallarını bilir."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-10-26",
+   "end": "2026-10-30",
+   "outcomes": []
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-11-02",
+   "end": "2026-11-06",
+   "outcomes": [
+    {
+     "code": "BE.8.1.2.1",
+     "text": "BE.8.1.2.1. Spor dallarına özgü kavramları açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-11-09",
+   "end": "2026-11-13",
+   "outcomes": [
+    {
+     "code": "BE.8.1.2.5",
+     "text": "BE.8.1.2.5. Spor ortamlarında sorumluluk alır."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-11-23",
+   "end": "2026-11-27",
+   "outcomes": [
+    {
+     "code": "BE.8.1.2.8",
+     "text": "BE.8.1.2.8. Adil oyun anlayışına uygun davranmayı alışkanlık hâline getirir."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-11-30",
+   "end": "2026-12-04",
+   "outcomes": [
+    {
+     "code": "BE.8.1.2.6",
+     "text": "BE.8.1.2.6. Spor ortamında iletişim yollarını etkili olarak kullanır."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-12-07",
+   "end": "2026-12-11",
+   "outcomes": [
+    {
+     "code": "BE.8.1.2.4",
+     "text": "BE.8.1.2.4. Spor ortamlarında yaşadığı stresli durumlarla başa çıkma yollarını söyler."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-12-14",
+   "end": "2026-12-18",
+   "outcomes": [
+    {
+     "code": "BE.8.1.2.7",
+     "text": "BE.8.1.2.7. Sporda takım hedeflerine ulaşmak için iş birliği yapar."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-12-21",
+   "end": "2026-12-25",
+   "outcomes": [
+    {
+     "code": "BE.8.1.2.10",
+     "text": "BE.8.1.2.10. Spor ve etkinliklere katılımda bireysel farklılığı olanlarla çalışmaya değer verir."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2026-12-28",
+   "end": "2027-01-01",
+   "outcomes": [
+    {
+     "code": "BE.8.2.1.1",
+     "text": "BE.8.2.1.1. Fiziksel etkinliklere katılımı alışkanlık hâline getirir."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2027-01-04",
+   "end": "2027-01-08",
+   "outcomes": [
+    {
+     "code": "BE.8.2.1.2",
+     "text": "BE.8.2.1.2. Yakın çevresindeki spor imkânlarını etkili kullanır."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ",
+   "start": "2027-01-11",
+   "end": "2027-01-15",
+   "outcomes": []
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ",
+   "start": "2027-01-18",
+   "end": "2027-01-22",
+   "outcomes": [
+    {
+     "code": "BE.8.1.2.9",
+     "text": "BE.8.1.2.9. Spor dallarına katılımı artıracak liderlik becerileri gösterir."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2027-02-08",
+   "end": "2027-02-12",
+   "outcomes": [
+    {
+     "code": "BE.8.2.2.1",
+     "text": "BE.8.2.2.1. Fiziksel etkinlik düzeyini korumak için çeşitli motivasyon tekniklerini kullanır."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2027-02-15",
+   "end": "2027-02-19",
+   "outcomes": [
+    {
+     "code": "BE.8.2.2.5",
+     "text": "BE.8.2.2.5. Spor sakatlıklarından korunma yöntemlerini bilir."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2027-02-22",
+   "end": "2027-02-26",
+   "outcomes": [
+    {
+     "code": "BE.8.2.2.3",
+     "text": "BE.8.2.2.3. Fiziksel etkinliklerde yiyecek ve içecek seçiminde bilinçli tüketici davranışları sergiler."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2027-03-01",
+   "end": "2027-03-05",
+   "outcomes": []
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2027-03-15",
+   "end": "2027-03-19",
+   "outcomes": [
+    {
+     "code": "BE.8.2.2.2",
+     "text": "BE.8.2.2.2. Düzenli olarak yaptığı spor etkinliklerinin, fiziksel uygunluğuna etkilerini değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ",
+   "start": "2027-03-22",
+   "end": "2027-03-26",
+   "outcomes": [
+    {
+     "code": "BE.8.1.1.4",
+     "text": "BE.8.1.1.4. Diğer kültürlere ait geleneksel oyunları oynar."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ",
+   "start": "2027-03-29",
+   "end": "2027-04-02",
+   "outcomes": []
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ",
+   "start": "2027-04-05",
+   "end": "2027-04-09",
+   "outcomes": []
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2027-04-12",
+   "end": "2027-04-16",
+   "outcomes": [
+    {
+     "code": "BE.8.2.2.6",
+     "text": "BE.8.2.2.6. Fiziksel etkinlikler ve spor konusunda medyada çıkan haberleri takip eder."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ",
+   "start": "2027-04-19",
+   "end": "2027-04-23",
+   "outcomes": []
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ",
+   "start": "2027-04-26",
+   "end": "2027-04-30",
+   "outcomes": []
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ",
+   "start": "2027-05-03",
+   "end": "2027-05-07",
+   "outcomes": []
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ  8.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2027-05-10",
+   "end": "2027-05-14",
+   "outcomes": [
+    {
+     "code": "BE.8.1.1.5",
+     "text": "BE.8.1.1.5. Diğer kültürlere ait halk danslarını uygular."
+    },
+    {
+     "code": "BE.8.2.3.1",
+     "text": "BE.8.2.3.1. Bayram, kutlama ve törenlerde sorumluluk alır."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ",
+   "start": "2027-05-17",
+   "end": "2027-05-21",
+   "outcomes": []
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2027-05-24",
+   "end": "2027-05-28",
+   "outcomes": [
+    {
+     "code": "BE.8.2.3.2",
+     "text": "BE.8.2.3.2. Atatürk’ün spora ve sporcuya verdiği önemi inceleyerek çıkarımlarda bulunur."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2027-05-31",
+   "end": "2027-06-04",
+   "outcomes": [
+    {
+     "code": "BE.8.2.3.4",
+     "text": "BE.8.2.3.4. Olimpik ve Paralimpik okul günleri hazırlar."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2027-06-07",
+   "end": "2027-06-11",
+   "outcomes": []
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "8.1. HAREKET YETKİNLİĞİ",
+   "start": "2027-06-14",
+   "end": "2027-06-18",
+   "outcomes": [
+    {
+     "code": "BE.8.1.2.12",
+     "text": "BE.8.1.2.12. Beden eğitimi ve spor alanı ile ilgili meslekleri araştırır."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "Serbest Etkinlik",
+   "start": "2027-06-21",
+   "end": "2027-06-25",
+   "outcomes": []
+  }
+ ]
+}

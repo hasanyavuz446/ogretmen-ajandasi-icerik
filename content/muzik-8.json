@@ -1,0 +1,386 @@
+{
+ "grade": 8,
+ "subject": "Müzik",
+ "themes": [
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. A. DİNLEME - SÖYLEME    -Milli Marşımız",
+   "start": "2026-09-14",
+   "end": "2026-09-18",
+   "outcomes": [
+    {
+     "code": "Mü.8.A.1",
+     "text": "Mü.8.A.1. İstiklâl Marşı’nı doğru söyler."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. A. DİNLEME - SÖYLEME    -Milli Marşımız",
+   "start": "2026-09-21",
+   "end": "2026-09-25",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. B. MÜZİKSEL ALGI VE BİLGİLENME    -9/8’lik Aksak Ölçü",
+   "start": "2026-09-28",
+   "end": "2026-10-02",
+   "outcomes": [
+    {
+     "code": "Mü.8.B.1",
+     "text": "Mü.8.B.1. Temel müzik yazı ve ögelerini kullanır."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. B. MÜZİKSEL ALGI VE BİLGİLENME    -9/8’lik Aksak Ölçü",
+   "start": "2026-10-05",
+   "end": "2026-10-09",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. B. MÜZİKSEL ALGI VE BİLGİLENME    -Aksatım (Senkop)",
+   "start": "2026-10-12",
+   "end": "2026-10-16",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. B. MÜZİKSEL ALGI VE BİLGİLENME    -Aksatım (Senkop)",
+   "start": "2026-10-19",
+   "end": "2026-10-23",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. D. MÜZİK KÜLTÜRÜ    -Atatürk ve Müzik",
+   "start": "2026-10-26",
+   "end": "2026-10-30",
+   "outcomes": [
+    {
+     "code": "Mü.8.A.2",
+     "text": "Mü.8.A.2. Toplum hayatımızda önemli yer tutan marşlarımızı doğru söyler."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. A. DİNLEME - SÖYLEME    -Marşlarımız",
+   "start": "2026-11-02",
+   "end": "2026-11-06",
+   "outcomes": [
+    {
+     "code": "Mü.8.D.6",
+     "text": "Mü.8.D.6. Atatürk’ün güzel sanatlar içinde müziğe verdiği yeri ve önemi kavrar."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. A. DİNLEME - SÖYLEME    -Atatürk ve Müzik",
+   "start": "2026-11-09",
+   "end": "2026-11-13",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. A. DİNLEME - SÖYLEME    -Hız Belirtici(Metronom)",
+   "start": "2026-11-23",
+   "end": "2026-11-27",
+   "outcomes": [
+    {
+     "code": "Mü.8.A.6",
+     "text": "Mü.8.A.6. Müzik eserlerini hız belirteci (metronom) kullanarak uygun hızlarda seslendirir."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. A. DİNLEME - SÖYLEME    -Söyleyelim",
+   "start": "2026-11-30",
+   "end": "2026-12-04",
+   "outcomes": [
+    {
+     "code": "Mü.8.A.7",
+     "text": "Mü.8.A.7. Ses grupları oluşturur."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. C. MÜZİKSEL YARATICILIK    -Benim Ritmim",
+   "start": "2026-12-07",
+   "end": "2026-12-11",
+   "outcomes": [
+    {
+     "code": "Mü.8.C.2",
+     "text": "Mü.8.C.2. Farklı ve tekrarlanan bölümlerden oluşan ritim kalıpları oluşturur."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. C. MÜZİKSEL YARATICILIK    -Benim Ezgim",
+   "start": "2026-12-14",
+   "end": "2026-12-18",
+   "outcomes": [
+    {
+     "code": "Mü.8.C.3",
+     "text": "Mü.8.C.3. Kendi oluşturduğu ezgileri seslendirir."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. D. MÜZİK KÜLTÜRÜ    -Sanat ve Müzik",
+   "start": "2026-12-21",
+   "end": "2026-12-25",
+   "outcomes": [
+    {
+     "code": "Mü.8.D.3",
+     "text": "Mü.8.D.3. Müziğin diğer sanatlarla ilişkisini kavrar."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. B. MÜZİKSEL ALGI VE BİLGİLENME    -Müzikte Diziler ve Makamlar",
+   "start": "2026-12-28",
+   "end": "2027-01-01",
+   "outcomes": [
+    {
+     "code": "Mü.8.B.2",
+     "text": "Mü.8.B.2. Müzikte dizileri tanır."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. B. MÜZİKSEL ALGI VE BİLGİLENME    -Müzikte Diziler ve Makamlar",
+   "start": "2027-01-04",
+   "end": "2027-01-08",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. A. DİNLEME - SÖYLEME    -Müzikte Diziler ve Makamlar",
+   "start": "2027-01-11",
+   "end": "2027-01-15",
+   "outcomes": [
+    {
+     "code": "Mü.8.A.4",
+     "text": "Mü.8.A.4. Türk müziğinin makamsal bir yapıda olduğunu fark eder."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. A. DİNLEME - SÖYLEME    -Müzikte Diziler ve Makamlar",
+   "start": "2027-01-18",
+   "end": "2027-01-22",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. D. MÜZİK KÜLTÜRÜ    -Geleneksel Türk Müziği Biçimleri",
+   "start": "2027-02-08",
+   "end": "2027-02-12",
+   "outcomes": [
+    {
+     "code": "Mü.8.D.1",
+     "text": "Mü.8.D.1. Türk müziği biçimlerini tanır."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. D. MÜZİK KÜLTÜRÜ    -Geleneksel Türk Müziği Biçimleri",
+   "start": "2027-02-15",
+   "end": "2027-02-19",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. D. MÜZİK KÜLTÜRÜ    -Geleneksel Türk Müziği Biçimleri",
+   "start": "2027-02-22",
+   "end": "2027-02-26",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. A. DİNLEME - SÖYLEME    -Müzik Kültürümüze Ses Verenler",
+   "start": "2027-03-01",
+   "end": "2027-03-05",
+   "outcomes": [
+    {
+     "code": "Mü.8.A.5",
+     "text": "Mü.8.A.5. Yurdumuza ait müzik türlerinden eserler seslendirir."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. A. DİNLEME - SÖYLEME    -Müzik Kültürümüze Ses Verenler",
+   "start": "2027-03-15",
+   "end": "2027-03-19",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. A. DİNLEME - SÖYLEME    -Milli Marşımız",
+   "start": "2027-03-22",
+   "end": "2027-03-26",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. A. DİNLEME - SÖYLEME    -Marşlarımız",
+   "start": "2027-03-29",
+   "end": "2027-04-02",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. A. DİNLEME - SÖYLEME  Mü. 8. D. MÜZİK KÜLTÜRÜ    -Müzik Kültürümüze Ses Verenler",
+   "start": "2027-04-05",
+   "end": "2027-04-09",
+   "outcomes": [
+    {
+     "code": "Mü.8.A.8",
+     "text": "Mü.8.A.8. Türk kültürüne ait müzikleri dinler."
+    },
+    {
+     "code": "Mü.8.D.2",
+     "text": "Mü.8.D.2. Dinlediği farklı türlerdeki müziklerle ilgili duygu ve düşüncelerini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. A. DİNLEME - SÖYLEME  Mü. 8. D. MÜZİK KÜLTÜRÜ    -Müzik Kültürümüze Ses Verenler",
+   "start": "2027-04-12",
+   "end": "2027-04-16",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. D. MÜZİK KÜLTÜRÜ  Mü. 8. C. MÜZİKSEL YARATICILIK    -Türkü Hikâyeleri",
+   "start": "2027-04-19",
+   "end": "2027-04-23",
+   "outcomes": [
+    {
+     "code": "Mü.8.C.4",
+     "text": "Mü.8.C.4. Müzikle ilgili araştırma ve çalışmalarında bilişim teknolojilerinden yararlanır."
+    },
+    {
+     "code": "Mü.8.D.4",
+     "text": "Mü.8.D.4. Türkülerin yaşanmış öykülerini araştırır."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. A. DİNLEME - SÖYLEME    -Marşlarımız",
+   "start": "2027-04-26",
+   "end": "2027-04-30",
+   "outcomes": [
+    {
+     "code": "Mü.8.C.1",
+     "text": "Mü.8.C.1. Türkülerin yaşanmış öykülerini canlandırır."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. C. MÜZİKSEL YARATICILIK    -Türkü Hikâyeleri",
+   "start": "2027-05-03",
+   "end": "2027-05-07",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. A. DİNLEME – SÖYLEME  Mü. 8. C. MÜZİKSEL YARATICILIK    -Mahalli Sanatçılar",
+   "start": "2027-05-10",
+   "end": "2027-05-14",
+   "outcomes": [
+    {
+     "code": "Mü.8.A.10",
+     "text": "Mü.8.A.10. Mahallî sanatçıları araştırır."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. A. DİNLEME – SÖYLEME  Mü. 8. D. MÜZİK KÜLTÜRÜ    -Türk Toplum ve Topluluklarının Müzikleri",
+   "start": "2027-05-17",
+   "end": "2027-05-21",
+   "outcomes": [
+    {
+     "code": "Mü.8.A.3",
+     "text": "Mü.8.A.3. Türk toplum ve topluluklarının müzik kültürlerinden uygun örnekleri dinler."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. D. MÜZİK KÜLTÜRÜ    -Müzik ve Sağlık",
+   "start": "2027-05-24",
+   "end": "2027-05-28",
+   "outcomes": [
+    {
+     "code": "Mü.8.D.7",
+     "text": "Mü.8.D.7. Müziğin terapi yöntemi olarak da kullanıldığını bilir."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. D. MÜZİK KÜLTÜRÜ    -Atatürk ve Müzik",
+   "start": "2027-05-31",
+   "end": "2027-06-04",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. D. MÜZİK KÜLTÜRÜ    -Müzik ile İlgili Meslekler",
+   "start": "2027-06-07",
+   "end": "2027-06-11",
+   "outcomes": [
+    {
+     "code": "Mü.8.D.8",
+     "text": "Mü.8.D.8. Sanat, sanatçı ve sanat eseri kavramlarını açıklar."
+    },
+    {
+     "code": "Mü.8.D.9",
+     "text": "Mü.8.D.9. Müzik alanına ait ana ve yan meslekleri tanır."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 8. D. MÜZİK KÜLTÜRÜ    -Türk Toplum ve Topluluklarının Müzikleri",
+   "start": "2027-06-14",
+   "end": "2027-06-18",
+   "outcomes": [
+    {
+     "code": "Mü.8.A.9",
+     "text": "Mü.8.A.9. Müzik çalışmalarını sergiler."
+    },
+    {
+     "code": "Mü.8.D.5",
+     "text": "Mü.8.D.5. Dinlediği farklı türlerdeki müziklerden hem bireysel hem de ortak sınıf arşivini geliştirir."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Sosyal  Etkinlik",
+   "start": "2027-06-21",
+   "end": "2027-06-25",
+   "outcomes": []
+  }
+ ]
+}

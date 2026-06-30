@@ -1,5 +1,5 @@
 {
- "version": "2026-2027.13",
+ "version": "2026-2027.23",
  "year": "2025-2026",
  "plans": [
   {
@@ -206,6 +206,56 @@
    "grade": 8,
    "subject": "Almanca",
    "file": "almanca-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Fen Bilimleri",
+   "file": "fen-bilimleri-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Türkçe",
+   "file": "turkce-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Matematik",
+   "file": "matematik-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "T.C. İnkılap Tarihi ve Atatürkçülük",
+   "file": "inkilap-tarihi-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Din Kültürü ve Ahlak Bilgisi",
+   "file": "din-kulturu-ve-ahlak-bilgisi-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Görsel Sanatlar",
+   "file": "gorsel-sanatlar-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Müzik",
+   "file": "muzik-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Beden Eğitimi ve Spor",
+   "file": "beden-egitimi-ve-spor-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Teknoloji ve Tasarım",
+   "file": "teknoloji-ve-tasarim-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Rehberlik ve Kariyer Planlama",
+   "file": "rehberlik-ve-kariyer-planlama-8.json"
   }
  ]
 }
