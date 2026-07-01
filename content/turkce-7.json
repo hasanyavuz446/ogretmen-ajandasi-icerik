@@ -1,0 +1,665 @@
+{
+ "grade": 7,
+ "subject": "Türkçe",
+ "themes": [
+  {
+   "name": "1. Tema: HAYAT BOYU GELİŞİM",
+   "konu": "Dinleme/İzleme · Okuma · Konuşma · Yazma",
+   "start": "2026-09-14",
+   "end": "2026-10-25",
+   "outcomes": [
+    {
+     "code": "T.D.7.1",
+     "text": "Dinlemede/izlemede materyal seçimini yönetebilme"
+    },
+    {
+     "code": "T.D.7.2",
+     "text": "Dinlemede/izlemede strateji ve yöntem seçimlerini yönetebilme"
+    },
+    {
+     "code": "T.D.7.4",
+     "text": "Dinlediğinde/izlediğinde geçen anlamını bilmediği söz varlığı unsurlarının anlamını tahmin edebilme"
+    },
+    {
+     "code": "T.D.7.5",
+     "text": "Dinlediğinin/izlediğinin yüzey anlamını belirleyebilme"
+    },
+    {
+     "code": "T.D.7.16",
+     "text": "Metnin bölümlerini belirlemeye yönelik çözümleme yapabilme"
+    },
+    {
+     "code": "T.D.7.27",
+     "text": "Dinleme/izleme sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    },
+    {
+     "code": "T.O.7.1",
+     "text": "Okumada materyal seçimini yönetebilme"
+    },
+    {
+     "code": "T.O.7.2",
+     "text": "Okumada strateji ve yöntem seçimlerini yönetebilme"
+    },
+    {
+     "code": "T.O.7.3",
+     "text": "Okuyacağı metnin içeriğine yönelik tahminde bulunabilme"
+    },
+    {
+     "code": "T.O.7.4",
+     "text": "Metinde geçen anlamını bilmediği söz varlığı unsurlarının anlamını tahmin edebilme"
+    },
+    {
+     "code": "T.O.7.5",
+     "text": "Metnin yüzey anlamını belirleyebilme"
+    },
+    {
+     "code": "T.O.7.21",
+     "text": "Metinden hareketle söz varlığını geliştirmeye yönelik çözümleme yapabilme"
+    },
+    {
+     "code": "T.O.7.28",
+     "text": "Okuma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    },
+    {
+     "code": "T.K.7.1",
+     "text": "Konuşma sürecini yönetebilme"
+    },
+    {
+     "code": "T.K.7.2",
+     "text": "Konuşma yöntem ve tekniklerine yönelik seçimlerini yönetebilme"
+    },
+    {
+     "code": "T.K.7.3",
+     "text": "Konuşmasında amaç ve içeriğe yönelik seçimlerini yönetebilme"
+    },
+    {
+     "code": "T.K.7.4",
+     "text": "Konuşmasında ön bilgilerinden yararlanabilme"
+    },
+    {
+     "code": "T.K.7.26",
+     "text": "Konuşma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    },
+    {
+     "code": "T.Y.7.1",
+     "text": "Yazma sürecini yönetebilme"
+    },
+    {
+     "code": "T.Y.7.2",
+     "text": "Yazma strateji, yöntem ve tekniklerine yönelik seçimlerini yönetebilme"
+    },
+    {
+     "code": "T.Y.7.3",
+     "text": "Yazısında içerik ve yapıya yönelik seçimlerini yönetebilme"
+    },
+    {
+     "code": "T.Y.7.18",
+     "text": "Yazısını zenginleştirecek biçimde söz varlığını kullanabilme"
+    },
+    {
+     "code": "T.Y.7.21",
+     "text": "Yazım kuralları ve noktalama işaretlerini uygulayabilme"
+    },
+    {
+     "code": "T.Y.7.22",
+     "text": "Yazma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "2. Tema: BİR HİLAL UĞRUNA",
+   "konu": "Dinleme/İzleme · Okuma · Konuşma · Yazma",
+   "start": "2026-10-26",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "T.D.7.2",
+     "text": "Dinlemede/izlemede strateji ve yöntem seçimlerini yönetebilme"
+    },
+    {
+     "code": "T.D.7.3",
+     "text": "Dinleyeceğinin/izleyeceğinin içeriğine yönelik tahminde bulunabilme"
+    },
+    {
+     "code": "T.D.7.14",
+     "text": "Bilgilendirici metinlerde metin yapılarından hareketle önemli bilgileri belirlemeye yönelik çözümleme yapabilme"
+    },
+    {
+     "code": "T.D.7.17",
+     "text": "Bilgilendirici metinde düşünceyi geliştirme yollarını belirlemeye yönelik çözümleme yapabilme"
+    },
+    {
+     "code": "T.D.7.18",
+     "text": "Dinlediğindeki/izlediğindeki söz sanatlarını belirlemeye yönelik çözümleme yapabilme"
+    },
+    {
+     "code": "T.D.7.20",
+     "text": "Dinlediğinden/izlediğinden hareketle söz varlığını geliştirmeye yönelik çözümleme yapabilme"
+    },
+    {
+     "code": "T.D.7.24",
+     "text": "Medya içeriğini değerlendirebilme"
+    },
+    {
+     "code": "T.D.7.27",
+     "text": "Dinleme/izleme sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    },
+    {
+     "code": "T.O.7.2",
+     "text": "Okumada strateji ve yöntem seçimlerini yönetebilme"
+    },
+    {
+     "code": "T.O.7.6",
+     "text": "Görselle iletilen anlamı belirleyebilme"
+    },
+    {
+     "code": "T.O.7.7",
+     "text": "Metnin derin anlamını belirlemeye yönelik basit çıkarımlar yapabilme"
+    },
+    {
+     "code": "T.O.7.8",
+     "text": "Metnin derin anlamını belirlemeye yönelik üst düzey çıkarımlar yapabilme"
+    },
+    {
+     "code": "T.O.7.14",
+     "text": "Bilgilendirici metinlerde metin yapılarından hareketle önemli bilgileri belirlemeye yönelik çözümleme yapabilme"
+    },
+    {
+     "code": "T.O.7.15",
+     "text": "Bilgilendirici metinde anahtar kelimeleri belirlemeye yönelik çözümleme yapabilme"
+    },
+    {
+     "code": "T.O.7.20",
+     "text": "Metinde kullanılan ikna etme tekniklerini belirlemeye yönelik çözümleme yapabilme"
+    },
+    {
+     "code": "T.O.7.28",
+     "text": "Okuma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    },
+    {
+     "code": "T.K.7.1",
+     "text": "Konuşma sürecini yönetebilme"
+    },
+    {
+     "code": "T.K.7.5",
+     "text": "Konuşmasında uygun tepki verebilme"
+    },
+    {
+     "code": "T.K.7.7",
+     "text": "Yaratıcı konuşma yapabilme"
+    },
+    {
+     "code": "T.K.7.8",
+     "text": "Hazırlıksız konuşma yapabilme"
+    },
+    {
+     "code": "T.K.7.9",
+     "text": "Konuşmasında sesini uygun şekilde kullanabilme"
+    },
+    {
+     "code": "T.K.7.13",
+     "text": "Konuşmasında sınıflandırma yapabilme"
+    },
+    {
+     "code": "T.K.7.22",
+     "text": "Konuşmasını zenginleştirecek biçimde söz varlığını kullanabilme"
+    },
+    {
+     "code": "T.K.7.26",
+     "text": "Konuşma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    },
+    {
+     "code": "T.Y.7.3",
+     "text": "Yazısında içerik ve yapıya yönelik seçimlerini yönetebilme"
+    },
+    {
+     "code": "T.Y.7.4",
+     "text": "Yazılı üretim ve yazılı etkileşiminde ön bilgilerinden yararlanabilme"
+    },
+    {
+     "code": "T.Y.7.5",
+     "text": "Yazılı etkileşiminde uygun tepki verebilme"
+    },
+    {
+     "code": "T.Y.7.10",
+     "text": "Yazısında sınıflandırma yapabilme"
+    },
+    {
+     "code": "T.Y.7.21",
+     "text": "Yazım kuralları ve noktalama işaretlerini uygulayabilme"
+    },
+    {
+     "code": "T.Y.7.22",
+     "text": "Yazma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. Tema: İLETİŞİM VE SOSYAL İLİŞKİLER",
+   "konu": "Dinleme/İzleme · Okuma · Konuşma · Yazma",
+   "start": "2026-12-14",
+   "end": "2027-01-24",
+   "outcomes": [
+    {
+     "code": "T.D.7.1",
+     "text": "Dinlemede/izlemede materyal seçimini yönetebilme"
+    },
+    {
+     "code": "T.D.7.7",
+     "text": "Dinlediğinin/izlediğinin derin anlamını belirlemeye yönelik basit çıkarımlar yapabilme"
+    },
+    {
+     "code": "T.D.7.8",
+     "text": "Dinlediğinin/izlediğinin derin anlamını belirlemeye yönelik üst düzey çıkarımlar yapabilme"
+    },
+    {
+     "code": "T.D.7.19",
+     "text": "Dinlediğinde/izlediğinde kullanılan ikna etme tekniklerini belirlemeye yönelik çözümleme yapabilme"
+    },
+    {
+     "code": "T.D.7.23",
+     "text": "Dinlediğini/izlediğini değerlendirebilme"
+    },
+    {
+     "code": "T.D.7.25",
+     "text": "Dinlediğini/izlediğini eleştirebilme"
+    },
+    {
+     "code": "T.D.7.27",
+     "text": "Dinleme/izleme sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    },
+    {
+     "code": "T.O.7.1",
+     "text": "Okumada materyal seçimini yönetebilme"
+    },
+    {
+     "code": "T.O.7.16",
+     "text": "Metnin bölümlerini belirlemeye yönelik çözümleme yapabilme"
+    },
+    {
+     "code": "T.O.7.17",
+     "text": "Şiirin biçim özelliklerini belirlemeye yönelik çözümleme yapabilme"
+    },
+    {
+     "code": "T.O.7.18",
+     "text": "Bilgilendirici metinde düşünceyi geliştirme yollarını belirlemeye yönelik çözümleme yapabilme"
+    },
+    {
+     "code": "T.O.7.19",
+     "text": "Metindeki söz sanatlarını belirlemeye yönelik çözümleme yapabilme"
+    },
+    {
+     "code": "T.O.7.23",
+     "text": "Okuduğunu özetleyebilme"
+    },
+    {
+     "code": "T.O.7.28",
+     "text": "Okuma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    },
+    {
+     "code": "T.K.7.1",
+     "text": "Konuşma sürecini yönetebilme"
+    },
+    {
+     "code": "T.K.7.15",
+     "text": "Sözlü olarak özetleyebilme"
+    },
+    {
+     "code": "T.K.7.17",
+     "text": "Sözlü olarak tartışmaya katılabilme"
+    },
+    {
+     "code": "T.K.7.21",
+     "text": "Konuşmasında düşünceyi geliştirme yollarını kullanabilme"
+    },
+    {
+     "code": "T.K.7.25",
+     "text": "Konuşmasında beden dilini ve mekânı etkili kullanabilme"
+    },
+    {
+     "code": "T.K.7.26",
+     "text": "Konuşma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    },
+    {
+     "code": "T.Y.7.1",
+     "text": "Yazma sürecini yönetebilme"
+    },
+    {
+     "code": "T.Y.7.9",
+     "text": "Yazısında karşılaştırma yapabilme"
+    },
+    {
+     "code": "T.Y.7.17",
+     "text": "Yazısında düşünceyi geliştirme yollarını kullanabilme"
+    },
+    {
+     "code": "T.Y.7.21",
+     "text": "Yazım kuralları ve noktalama işaretlerini uygulayabilme"
+    },
+    {
+     "code": "T.Y.7.22",
+     "text": "Yazma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "4. Tema: TÜRK SANATI",
+   "konu": "Dinleme/İzleme · Okuma · Konuşma · Yazma",
+   "start": "2027-02-08",
+   "end": "2027-03-28",
+   "outcomes": [
+    {
+     "code": "T.D.7.1",
+     "text": "Dinlemede/izlemede materyal seçimini yönetebilme"
+    },
+    {
+     "code": "T.D.7.2",
+     "text": "Dinlemede/izlemede strateji ve yöntem seçimlerini yönetebilme"
+    },
+    {
+     "code": "T.D.7.6",
+     "text": "Görselle iletilen anlamı belirleyebilme"
+    },
+    {
+     "code": "T.D.7.11",
+     "text": "Dinlediğindeki/izlediğindeki unsurları sınıflandırabilme"
+    },
+    {
+     "code": "T.D.7.12",
+     "text": "Dinlediğini/izlediğini yorumlayabilme"
+    },
+    {
+     "code": "T.D.7.27",
+     "text": "Dinleme/izleme sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    },
+    {
+     "code": "T.D.7.26",
+     "text": "Dinlediğindeki/izlediğindeki probleme çözüm üretebilme"
+    },
+    {
+     "code": "T.O.7.1",
+     "text": "Okumada materyal seçimini yönetebilme"
+    },
+    {
+     "code": "T.O.7.2",
+     "text": "Okumada strateji ve yöntem seçimlerini yönetebilme"
+    },
+    {
+     "code": "T.O.7.9",
+     "text": "Metin içi karşılaştırma yapabilme"
+    },
+    {
+     "code": "T.O.7.10",
+     "text": "Metinler arası karşılaştırma yapabilme"
+    },
+    {
+     "code": "T.O.7.11",
+     "text": "Metindeki unsurları sınıflandırabilme"
+    },
+    {
+     "code": "T.O.7.22",
+     "text": "Çoklu ortam ögelerine yönelik çözümleme yapabilme"
+    },
+    {
+     "code": "T.O.7.26",
+     "text": "Metni eleştirebilme"
+    },
+    {
+     "code": "T.O.7.28",
+     "text": "Okuma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    },
+    {
+     "code": "T.K.7.1",
+     "text": "Konuşma sürecini yönetebilme"
+    },
+    {
+     "code": "T.K.7.11",
+     "text": "Konuşmasında tahminlerinden yararlanabilme"
+    },
+    {
+     "code": "T.K.7.12",
+     "text": "Konuşmasında karşılaştırma yapabilme"
+    },
+    {
+     "code": "T.K.7.20",
+     "text": "Hazırlıklı konuşmasını yapılandırabilme"
+    },
+    {
+     "code": "T.K.7.23",
+     "text": "Konuşmasında açık ve örtük ifadeleri kullanabilme"
+    },
+    {
+     "code": "T.K.7.26",
+     "text": "Konuşma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    },
+    {
+     "code": "T.Y.7.3",
+     "text": "Yazısında içerik ve yapıya yönelik seçimlerini yönetebilme"
+    },
+    {
+     "code": "T.Y.7.6",
+     "text": "Yazısında çoklu ortam ögeleriyle içerik oluşturabilme"
+    },
+    {
+     "code": "T.Y.7.7",
+     "text": "Yaratıcı yazı yazabilme"
+    },
+    {
+     "code": "T.Y.7.8",
+     "text": "Yazılı üretim ve yazılı etkileşiminde tahminlerinden yararlanabilme"
+    },
+    {
+     "code": "T.Y.7.12",
+     "text": "Yazılı olarak özetleyebilme"
+    },
+    {
+     "code": "T.Y.7.21",
+     "text": "Yazım kuralları ve noktalama işaretlerini uygulayabilme"
+    },
+    {
+     "code": "T.Y.7.22",
+     "text": "Yazma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "5. Tema: OKUMA KÜLTÜRÜ",
+   "konu": "Dinleme/İzleme · Okuma · Konuşma · Yazma",
+   "start": "2027-03-29",
+   "end": "2027-05-09",
+   "outcomes": [
+    {
+     "code": "T.D.7.1",
+     "text": "Dinlemede/izlemede materyal seçimini yönetebilme"
+    },
+    {
+     "code": "T.D.7.2",
+     "text": "Dinlemede/izlemede strateji ve yöntem seçimlerini yönetebilme"
+    },
+    {
+     "code": "T.D.7.9",
+     "text": "Dinlediğini/izlediğini kendi içinde karşılaştırabilme"
+    },
+    {
+     "code": "T.D.7.15",
+     "text": "Bilgilendirici metinde anahtar kelimeleri belirlemeye yönelik çözümleme yapabilme"
+    },
+    {
+     "code": "T.D.7.22",
+     "text": "Dinlediğini/izlediğini özetleyebilme"
+    },
+    {
+     "code": "T.D.7.27",
+     "text": "Dinleme/izleme sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    },
+    {
+     "code": "T.O.7.1",
+     "text": "Okumada materyal seçimini yönetebilme"
+    },
+    {
+     "code": "T.O.7.12",
+     "text": "Metni yorumlayabilme"
+    },
+    {
+     "code": "T.O.7.24",
+     "text": "Okuduğunu değerlendirebilme"
+    },
+    {
+     "code": "T.O.7.27",
+     "text": "Metindeki probleme çözüm üretebilme"
+    },
+    {
+     "code": "T.O.7.28",
+     "text": "Okuma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    },
+    {
+     "code": "T.K.7.1",
+     "text": "Konuşma sürecini yönetebilme"
+    },
+    {
+     "code": "T.K.7.14",
+     "text": "Yorumunu sözlü olarak ifade edebilme"
+    },
+    {
+     "code": "T.K.7.16",
+     "text": "Değerlendirmesini sözlü olarak ifade edebilme"
+    },
+    {
+     "code": "T.K.7.18",
+     "text": "Eleştirisini sözlü olarak ifade edebilme"
+    },
+    {
+     "code": "T.K.7.19",
+     "text": "Problem çözümüne yönelik konuşma yapabilme"
+    },
+    {
+     "code": "T.K.7.26",
+     "text": "Konuşma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    },
+    {
+     "code": "T.Y.7.3",
+     "text": "Yazısında içerik ve yapıya yönelik seçimlerini yönetebilme"
+    },
+    {
+     "code": "T.Y.7.11",
+     "text": "Yorumunu yazılı olarak ifade edebilme"
+    },
+    {
+     "code": "T.Y.7.13",
+     "text": "Değerlendirmesini yazılı olarak ifade edebilme"
+    },
+    {
+     "code": "T.Y.7.14",
+     "text": "Yazılı üretiminde ve yazılı etkileşiminde tartışabilme"
+    },
+    {
+     "code": "T.Y.7.15",
+     "text": "Eleştirisini yazılı olarak ifade edebilme"
+    },
+    {
+     "code": "T.Y.7.16",
+     "text": "Problem çözümüne yönelik yazabilme"
+    },
+    {
+     "code": "T.Y.7.21",
+     "text": "Yazım kuralları ve noktalama işaretlerini uygulayabilme"
+    },
+    {
+     "code": "T.Y.7.22",
+     "text": "Yazma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "6. Tema: HAK VE SORUMLULUKLAR",
+   "konu": "Dinleme/İzleme · Okuma · Konuşma · Yazma",
+   "start": "2027-05-10",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "T.D.7.1",
+     "text": "Dinlemede/izlemede materyal seçimini yönetebilme"
+    },
+    {
+     "code": "T.D.7.10",
+     "text": "Dinledikleri/izledikleri arasında karşılaştırma yapabilme"
+    },
+    {
+     "code": "T.D.7.13",
+     "text": "Öyküleyici metinlerdeki hikâye unsurlarını belirlemeye yönelik çözümleme yapabilme"
+    },
+    {
+     "code": "T.D.7.21",
+     "text": "Çoklu ortam ögelerine yönelik çözümleme yapabilme"
+    },
+    {
+     "code": "T.D.7.27",
+     "text": "Dinleme/izleme sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    },
+    {
+     "code": "T.O.7.1",
+     "text": "Okumada materyal seçimini yönetebilme"
+    },
+    {
+     "code": "T.O.7.13",
+     "text": "Öyküleyici metinlerdeki hikâye unsurlarını belirlemeye yönelik çözümleme yapabilme"
+    },
+    {
+     "code": "T.O.7.25",
+     "text": "Basılı ve dijital medya metinlerini değerlendirebilme"
+    },
+    {
+     "code": "T.O.7.28",
+     "text": "Okuma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    },
+    {
+     "code": "T.K.7.1",
+     "text": "Konuşma sürecini yönetebilme"
+    },
+    {
+     "code": "T.K.7.6",
+     "text": "Konuşmasında çoklu ortam ögeleriyle içerik oluşturabilme"
+    },
+    {
+     "code": "T.K.7.10",
+     "text": "Sözlü sunum yapabilme"
+    },
+    {
+     "code": "T.K.7.24",
+     "text": "Uygun geçiş ve bağlantı ifadelerini kullanabilme"
+    },
+    {
+     "code": "T.K.7.26",
+     "text": "Konuşma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    },
+    {
+     "code": "T.Y.7.1",
+     "text": "Yazma sürecini yönetebilme"
+    },
+    {
+     "code": "T.Y.7.19",
+     "text": "Yazısında açık ve örtük ifade etmeye yönelik yapıları kullanabilme"
+    },
+    {
+     "code": "T.Y.7.20",
+     "text": "Uygun geçiş ve bağlantı ifadelerini kullanabilme"
+    },
+    {
+     "code": "T.Y.7.21",
+     "text": "Yazım kuralları ve noktalama işaretlerini uygulayabilme"
+    },
+    {
+     "code": "T.Y.7.22",
+     "text": "Yazma sürecine yönelik öz yansıtma yapabilme/kendini uyarlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Etkinlik ve Yıl Sonu Değerlendirme",
+   "konu": "Proje sunumları, sosyal/kültürel etkinlikler ve yıl sonu değerlendirmesi",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": []
+  }
+ ]
+}

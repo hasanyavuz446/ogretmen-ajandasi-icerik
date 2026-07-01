@@ -1,0 +1,477 @@
+{
+ "grade": 7,
+ "subject": "Matematik",
+ "themes": [
+  {
+   "name": "MAT.7.1. SAYILAR VE NİCELİKLER (1)",
+   "konu": "Rasyonel Sayılar ve Rasyonel Sayılarla İşlemler",
+   "start": "2026-09-14",
+   "end": "2026-09-20",
+   "outcomes": [
+    {
+     "code": "MAT.7.1.1",
+     "text": "Gerçek yaşam ya da matematiksel durumlarda doğal sayı, tam sayı ve rasyonel sayıları yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.1. SAYILAR VE NİCELİKLER (1)",
+   "konu": "Rasyonel Sayılar ve Rasyonel Sayılarla İşlemler",
+   "start": "2026-09-21",
+   "end": "2026-09-27",
+   "outcomes": [
+    {
+     "code": "MAT.7.1.1",
+     "text": "Gerçek yaşam ya da matematiksel durumlarda doğal sayı, tam sayı ve rasyonel sayıları yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.1. SAYILAR VE NİCELİKLER (1)",
+   "konu": "Rasyonel Sayılar ve Rasyonel Sayılarla İşlemler",
+   "start": "2026-09-28",
+   "end": "2026-10-04",
+   "outcomes": [
+    {
+     "code": "MAT.7.1.2",
+     "text": "Gerçek yaşam durumlarında rasyonel sayıların ondalık gösterimlerini yansıtabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.1. SAYILAR VE NİCELİKLER (1)",
+   "konu": "Rasyonel Sayılar ve Rasyonel Sayılarla İşlemler",
+   "start": "2026-10-05",
+   "end": "2026-10-11",
+   "outcomes": [
+    {
+     "code": "MAT.7.1.2",
+     "text": "Gerçek yaşam durumlarında rasyonel sayıların ondalık gösterimlerini yansıtabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.1. SAYILAR VE NİCELİKLER (1)",
+   "konu": "Rasyonel Sayılar ve Rasyonel Sayılarla İşlemler",
+   "start": "2026-10-12",
+   "end": "2026-10-18",
+   "outcomes": [
+    {
+     "code": "MAT.7.1.3",
+     "text": "Rasyonel sayıların sıralama ve karşılaştırma ilişkilerini yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.1. SAYILAR VE NİCELİKLER (1)",
+   "konu": "Rasyonel Sayılar ve Rasyonel Sayılarla İşlemler",
+   "start": "2026-10-19",
+   "end": "2026-10-25",
+   "outcomes": [
+    {
+     "code": "MAT.7.1.3",
+     "text": "Rasyonel sayıların sıralama ve karşılaştırma ilişkilerini yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.1. SAYILAR VE NİCELİKLER (1)",
+   "konu": "Rasyonel Sayılar ve Rasyonel Sayılarla İşlemler",
+   "start": "2026-10-26",
+   "end": "2026-11-01",
+   "outcomes": [
+    {
+     "code": "MAT.7.1.4",
+     "text": "Rasyonel sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.1. SAYILAR VE NİCELİKLER (1)",
+   "konu": "Rasyonel Sayılar ve Rasyonel Sayılarla İşlemler",
+   "start": "2026-11-02",
+   "end": "2026-11-08",
+   "outcomes": [
+    {
+     "code": "MAT.7.1.4",
+     "text": "Rasyonel sayılar ve işlemler içeren gerçek yaşam problemlerini çözebilme"
+    },
+    {
+     "code": "MAT.7.4.1",
+     "text": "Eş küplerle oluşturulan yapılar ile görünümleri arasındaki ilişkiyi çözümleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.4. GEOMETRİK NİCELİKLER (1)",
+   "konu": "Cisimlerin Farklı Yönlerden Görünümleri Dikdörtgenler Prizmasının Hacmi ve Yüzey Alanı Hacim Ölçme Birimleri Genellemeler/ · Anahtar Kavramlar",
+   "start": "2026-11-09",
+   "end": "2026-11-15",
+   "outcomes": [
+    {
+     "code": "MAT.7.4.2",
+     "text": "Dikdörtgenler prizmasının yüzey alanını yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.4. GEOMETRİK NİCELİKLER (1)",
+   "konu": "Cisimlerin Farklı Yönlerden Görünümleri Dikdörtgenler Prizmasının Hacmi ve Yüzey Alanı Hacim Ölçme Birimleri Genellemeler/ · Anahtar Kavramlar",
+   "start": "2026-11-23",
+   "end": "2026-11-29",
+   "outcomes": [
+    {
+     "code": "MAT.7.4.3",
+     "text": "Dikdörtgenler prizmasının hacmini eş nesneler aracılığıyla yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.4. GEOMETRİK NİCELİKLER (1)",
+   "konu": "Cisimlerin Farklı Yönlerden Görünümleri Dikdörtgenler Prizmasının Hacmi ve Yüzey Alanı Hacim Ölçme Birimleri Genellemeler/ · Anahtar Kavramlar",
+   "start": "2026-11-30",
+   "end": "2026-12-06",
+   "outcomes": [
+    {
+     "code": "MAT.7.4.4",
+     "text": "Dikdörtgenler prizmasının hacim bağıntısını değerlendirebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.4. GEOMETRİK NİCELİKLER (1)",
+   "konu": "Cisimlerin Farklı Yönlerden Görünümleri Dikdörtgenler Prizmasının Hacmi ve Yüzey Alanı Hacim Ölçme Birimleri Genellemeler/ · Anahtar Kavramlar",
+   "start": "2026-12-07",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "MAT.7.4.5",
+     "text": "Hacim ölçme birimleri arasındaki ilişkileri değerlendirebilme"
+    },
+    {
+     "code": "MAT.7.4.6",
+     "text": "Günlük hayat durumlarında dikdörtgenler prizmaları ile modellenen cisimlerin yüzey alanı ve hacmine yönelik problem çözebilme"
+    },
+    {
+     "code": "MAT.7.6.1",
+     "text": "Kategorik veya nicel (sürekli) veri ile çalışabilme ve veriye dayalı karar verebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.6. İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+   "konu": "Kategorik ve Nicel (Sürekli) Veri Dağılımları Genellemeler/ Genellemeler · Anahtar Kavramlar",
+   "start": "2026-12-14",
+   "end": "2026-12-20",
+   "outcomes": [
+    {
+     "code": "MAT.7.6.1",
+     "text": "Kategorik veya nicel (sürekli) veri ile çalışabilme ve veriye dayalı karar verebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.6. İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+   "konu": "Kategorik ve Nicel (Sürekli) Veri Dağılımları Genellemeler/ Genellemeler · Anahtar Kavramlar",
+   "start": "2026-12-21",
+   "end": "2026-12-27",
+   "outcomes": [
+    {
+     "code": "MAT.7.6.1",
+     "text": "Kategorik veya nicel (sürekli) veri ile çalışabilme ve veriye dayalı karar verebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.6. İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+   "konu": "Kategorik ve Nicel (Sürekli) Veri Dağılımları Genellemeler/ Genellemeler · Anahtar Kavramlar",
+   "start": "2026-12-28",
+   "end": "2027-01-03",
+   "outcomes": [
+    {
+     "code": "MAT.7.6.2",
+     "text": "Başkaları tarafından oluşturulan kategorik veya nicel (sürekli) veriye dayalı istatistiksel sonuç veya yorumları tartışabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.6. İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+   "konu": "Kategorik ve Nicel (Sürekli) Veri Dağılımları Genellemeler/ Genellemeler · Anahtar Kavramlar",
+   "start": "2027-01-04",
+   "end": "2027-01-10",
+   "outcomes": [
+    {
+     "code": "MAT.7.6.2",
+     "text": "Başkaları tarafından oluşturulan kategorik veya nicel (sürekli) veriye dayalı istatistiksel sonuç veya yorumları tartışabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.6. İSTATİSTİKSEL ARAŞTIRMA SÜRECİ",
+   "konu": "Kategorik ve Nicel (Sürekli) Veri Dağılımları Genellemeler/ Genellemeler · Anahtar Kavramlar",
+   "start": "2027-01-11",
+   "end": "2027-01-17",
+   "outcomes": [
+    {
+     "code": "MAT.7.6.2",
+     "text": "Başkaları tarafından oluşturulan kategorik veya nicel (sürekli) veriye dayalı istatistiksel sonuç veya yorumları tartışabilme"
+    },
+    {
+     "code": "MAT.7.3.1",
+     "text": "Şekillerin yansıma dönüşümü altındaki görüntülerinin oluşturulmasına dair VE SÜREÇ BİLEŞENLERİ çıkarım yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.3. DÖNÜŞÜM",
+   "konu": "Yansıma Dönüşümü Orta Dikme ve Açıortay İnşası Genellemeler/ · Anahtar Kavramlar",
+   "start": "2027-01-18",
+   "end": "2027-01-24",
+   "outcomes": [
+    {
+     "code": "MAT.7.3.2",
+     "text": "Yansıma dönüşümündeki deneyimlerini orta dikme ve açıortay inşasına yansıtabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.5. GEOMETRİK ŞEKİLLER",
+   "konu": "Üçgenlerde Kenarortay ve İnşası, Açıortay, Yükseklik Genellemeler/ · Anahtar Kavramlar",
+   "start": "2027-02-08",
+   "end": "2027-02-14",
+   "outcomes": [
+    {
+     "code": "MAT.7.5.1",
+     "text": "Matematiksel araç ve teknolojiden yararlanarak üçgende kenarortayı, açıortayı ve yüksekliği çözümleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.5. GEOMETRİK ŞEKİLLER",
+   "konu": "Üçgenlerde Kenarortay ve İnşası, Açıortay, Yükseklik Genellemeler/ · Anahtar Kavramlar",
+   "start": "2027-02-15",
+   "end": "2027-02-21",
+   "outcomes": [
+    {
+     "code": "MAT.7.5.2",
+     "text": "Orta dikme inşasına yönelik deneyimlerini üçgende kenarortay inşasına yansıtabilme"
+    },
+    {
+     "code": "MAT.7.1.5",
+     "text": "Gerçek yaşam durumları üzerinden oran ilişkileri hakkında muhakeme yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.1. SAYILAR VE NİCELİKLER (2)",
+   "konu": "Oran ve Orantı",
+   "start": "2027-02-22",
+   "end": "2027-02-28",
+   "outcomes": [
+    {
+     "code": "MAT.7.1.5",
+     "text": "Gerçek yaşam durumları üzerinden oran ilişkileri hakkında muhakeme yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.1. SAYILAR VE NİCELİKLER (2)",
+   "konu": "Oran ve Orantı",
+   "start": "2027-03-01",
+   "end": "2027-03-07",
+   "outcomes": [
+    {
+     "code": "MAT.7.1.6",
+     "text": "Gerçek yaşam durumları üzerinden orantılı durumları yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.1. SAYILAR VE NİCELİKLER (2)",
+   "konu": "Oran ve Orantı",
+   "start": "2027-03-15",
+   "end": "2027-03-21",
+   "outcomes": [
+    {
+     "code": "MAT.7.1.7",
+     "text": "Gerçek yaşam durumları üzerinden doğru orantılı durumlara ilişkin problemleri çözebilme"
+    },
+    {
+     "code": "MAT.7.7.1",
+     "text": "Bir olayın ve tümleyeninin olasılığına ilişkin tümevarımsal akıl yürütebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.7. VERİDEN OLASILIĞA",
+   "konu": "Teorik Olasılık Genellemeler/ Genellemeler · Anahtar Kavramlar",
+   "start": "2027-03-22",
+   "end": "2027-03-28",
+   "outcomes": [
+    {
+     "code": "MAT.7.7.2",
+     "text": "Aynı deneye ait olayların eşit olasılıklı olma durumlarını değerlendirebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.7. VERİDEN OLASILIĞA",
+   "konu": "Teorik Olasılık Genellemeler/ Genellemeler · Anahtar Kavramlar",
+   "start": "2027-03-29",
+   "end": "2027-04-04",
+   "outcomes": [
+    {
+     "code": "MAT.7.7.3",
+     "text": "Olayları ayrık olma ve ayrık olmama durumlarına göre sınıflandırabilme"
+    },
+    {
+     "code": "MAT.7.2.1",
+     "text": "Gerçek yaşam durumları ya da matematiksel durumlar üzerinden cebirsel ifadelerle toplama, çıkarma ve bir rasyonel sayıyla çarpma işlemlerini yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.2. İŞLEMLERLE CEBİRSEL DÜŞÜNME VE DEĞİŞİMLER",
+   "konu": "Cebirsel İfadelerle İşlemler Denklem ve Eşitsizlikler İspat Cebirsel İfadelerle İşlemler ve Algoritma Genellemeler/ Genellemeler · Anahtar Kavramlar",
+   "start": "2027-04-05",
+   "end": "2027-04-11",
+   "outcomes": [
+    {
+     "code": "MAT.7.2.1",
+     "text": "Gerçek yaşam durumları ya da matematiksel durumlar üzerinden cebirsel ifadelerle toplama, çıkarma ve bir rasyonel sayıyla çarpma işlemlerini yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.2. İŞLEMLERLE CEBİRSEL DÜŞÜNME VE DEĞİŞİMLER",
+   "konu": "Cebirsel İfadelerle İşlemler Denklem ve Eşitsizlikler İspat Cebirsel İfadelerle İşlemler ve Algoritma Genellemeler/ Genellemeler · Anahtar Kavramlar",
+   "start": "2027-04-12",
+   "end": "2027-04-18",
+   "outcomes": [
+    {
+     "code": "MAT.7.2.1",
+     "text": "Gerçek yaşam durumları ya da matematiksel durumlar üzerinden cebirsel ifadelerle toplama, çıkarma ve bir rasyonel sayıyla çarpma işlemlerini yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.2. İŞLEMLERLE CEBİRSEL DÜŞÜNME VE DEĞİŞİMLER",
+   "konu": "Cebirsel İfadelerle İşlemler Denklem ve Eşitsizlikler İspat Cebirsel İfadelerle İşlemler ve Algoritma Genellemeler/ Genellemeler · Anahtar Kavramlar",
+   "start": "2027-04-19",
+   "end": "2027-04-25",
+   "outcomes": [
+    {
+     "code": "MAT.7.2.2",
+     "text": "Birinci dereceden bir bilinmeyenli denklem ve birinci dereceden bir bilinmeyenli eşitsizlik içeren gerçek yaşam problemlerini çözebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.2. İŞLEMLERLE CEBİRSEL DÜŞÜNME VE DEĞİŞİMLER",
+   "konu": "Cebirsel İfadelerle İşlemler Denklem ve Eşitsizlikler İspat Cebirsel İfadelerle İşlemler ve Algoritma Genellemeler/ Genellemeler · Anahtar Kavramlar",
+   "start": "2027-04-26",
+   "end": "2027-05-02",
+   "outcomes": [
+    {
+     "code": "MAT.7.2.2",
+     "text": "Birinci dereceden bir bilinmeyenli denklem ve birinci dereceden bir bilinmeyenli eşitsizlik içeren gerçek yaşam problemlerini çözebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.2. İŞLEMLERLE CEBİRSEL DÜŞÜNME VE DEĞİŞİMLER",
+   "konu": "Cebirsel İfadelerle İşlemler Denklem ve Eşitsizlikler İspat Cebirsel İfadelerle İşlemler ve Algoritma Genellemeler/ Genellemeler · Anahtar Kavramlar",
+   "start": "2027-05-03",
+   "end": "2027-05-09",
+   "outcomes": [
+    {
+     "code": "MAT.7.2.3",
+     "text": "Sayılar ve özelliklerini içeren ispatlara ilişkin matematiksel muhakeme yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.2. İŞLEMLERLE CEBİRSEL DÜŞÜNME VE DEĞİŞİMLER",
+   "konu": "Cebirsel İfadelerle İşlemler Denklem ve Eşitsizlikler İspat Cebirsel İfadelerle İşlemler ve Algoritma Genellemeler/ Genellemeler · Anahtar Kavramlar",
+   "start": "2027-05-10",
+   "end": "2027-05-16",
+   "outcomes": [
+    {
+     "code": "MAT.7.2.3",
+     "text": "Sayılar ve özelliklerini içeren ispatlara ilişkin matematiksel muhakeme yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.2. İŞLEMLERLE CEBİRSEL DÜŞÜNME VE DEĞİŞİMLER",
+   "konu": "Cebirsel İfadelerle İşlemler Denklem ve Eşitsizlikler İspat Cebirsel İfadelerle İşlemler ve Algoritma Genellemeler/ Genellemeler · Anahtar Kavramlar",
+   "start": "2027-05-17",
+   "end": "2027-05-23",
+   "outcomes": [
+    {
+     "code": "MAT.7.2.4",
+     "text": "Temel aritmetik ve cebirsel ifadelerle işlem içeren durumlardaki süreci algoritma ifade yöntemlerini kullanarak yapılandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.2. İŞLEMLERLE CEBİRSEL DÜŞÜNME VE DEĞİŞİMLER",
+   "konu": "Cebirsel İfadelerle İşlemler Denklem ve Eşitsizlikler İspat Cebirsel İfadelerle İşlemler ve Algoritma Genellemeler/ Genellemeler · Anahtar Kavramlar",
+   "start": "2027-05-24",
+   "end": "2027-05-30",
+   "outcomes": [
+    {
+     "code": "MAT.7.2.4",
+     "text": "Temel aritmetik ve cebirsel ifadelerle işlem içeren durumlardaki süreci algoritma ifade yöntemlerini kullanarak yapılandırabilme"
+    },
+    {
+     "code": "MAT.7.4.7",
+     "text": "Dikdörtgenin, paralelkenarın alanına ve çemberin uzunluğuna ilişkin deneyimlerini dairenin alan bağıntısına yansıtabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.4. GEOMETRİK NİCELİKLER (2)",
+   "konu": "Eşkenar Dörtgen ve Yamuk Daire ve Daire Diliminin Alanı Genellemeler/ Genellemeler • Dairenin alanı yarıçap uzunluğunun karesi ile pi sayısının çarpımıdır. · Anahtar Kavramlar",
+   "start": "2027-05-31",
+   "end": "2027-06-06",
+   "outcomes": [
+    {
+     "code": "MAT.7.4.8",
+     "text": "Çemberde merkez açı ve gördüğü yay uzunluğu arasındaki ilişkiden yola çıkarak daire ve daire diliminin alanları arasındaki ilişkiye yönelik analojik akıl yürütebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.4. GEOMETRİK NİCELİKLER (2)",
+   "konu": "Eşkenar Dörtgen ve Yamuk Daire ve Daire Diliminin Alanı Genellemeler/ Genellemeler • Dairenin alanı yarıçap uzunluğunun karesi ile pi sayısının çarpımıdır. · Anahtar Kavramlar",
+   "start": "2027-06-07",
+   "end": "2027-06-13",
+   "outcomes": [
+    {
+     "code": "MAT.7.4.9",
+     "text": "Eşkenar dörtgen ve yamuğun alan bağıntılarına dair çıkarım yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.7.4. GEOMETRİK NİCELİKLER (2)",
+   "konu": "Eşkenar Dörtgen ve Yamuk Daire ve Daire Diliminin Alanı Genellemeler/ Genellemeler • Dairenin alanı yarıçap uzunluğunun karesi ile pi sayısının çarpımıdır. · Anahtar Kavramlar",
+   "start": "2027-06-14",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "MAT.7.4.10",
+     "text": "Günlük hayat durumlarında daire, daire dilimi, eşkenar dörtgen ve yamuğun alanına ilişkin problem çözebilme"
+    }
+   ]
+  },
+  {
+   "name": "SOSYAL ETKİNLİK VE YIL SONU DEĞERLENDİRME",
+   "konu": "Proje sunumları, sosyal/kültürel etkinlikler ve yıl sonu genel değerlendirme",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": []
+  }
+ ]
+}

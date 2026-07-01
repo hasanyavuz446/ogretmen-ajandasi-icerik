@@ -1,5 +1,5 @@
 {
- "version": "2026-2027.24",
+ "version": "2026-2027.31",
  "year": "2025-2026",
  "plans": [
   {
@@ -261,6 +261,26 @@
    "grade": 7,
    "subject": "Fen Bilimleri",
    "file": "fen-bilimleri-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Matematik",
+   "file": "matematik-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Türkçe",
+   "file": "turkce-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Sosyal Bilgiler",
+   "file": "sosyal-bilgiler-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Din Kültürü ve Ahlak Bilgisi",
+   "file": "din-kulturu-ve-ahlak-bilgisi-7.json"
   }
  ]
 }

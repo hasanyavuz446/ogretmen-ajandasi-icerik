@@ -1,0 +1,461 @@
+{
+ "grade": 7,
+ "subject": "Sosyal Bilgiler",
+ "themes": [
+  {
+   "name": "1. ÖĞRENME ALANI: BİRLİKTE YAŞAMAK",
+   "konu": "Gruplarda ve Sosyal Hayatta İletişimin Önemi Özel Gereksinimli Bireyler İçin Fırsat Eşitliği Millî Meseleler Karşısında Türk Toplumunun Tutum ve Davranışları · Anahtar Kavramlar",
+   "start": "2026-09-14",
+   "end": "2026-09-20",
+   "outcomes": [
+    {
+     "code": "SB.7.1.1",
+     "text": "Dâhil olduğu gruplarda ve sosyal hayatta etkili iletişimin önemini sorgulayabilme"
+    }
+   ]
+  },
+  {
+   "name": "1. ÖĞRENME ALANI: BİRLİKTE YAŞAMAK",
+   "konu": "Gruplarda ve Sosyal Hayatta İletişimin Önemi Özel Gereksinimli Bireyler İçin Fırsat Eşitliği Millî Meseleler Karşısında Türk Toplumunun Tutum ve Davranışları · Anahtar Kavramlar",
+   "start": "2026-09-21",
+   "end": "2026-09-27",
+   "outcomes": [
+    {
+     "code": "SB.7.1.1",
+     "text": "Dâhil olduğu gruplarda ve sosyal hayatta etkili iletişimin önemini sorgulayabilme"
+    }
+   ]
+  },
+  {
+   "name": "1. ÖĞRENME ALANI: BİRLİKTE YAŞAMAK",
+   "konu": "Gruplarda ve Sosyal Hayatta İletişimin Önemi Özel Gereksinimli Bireyler İçin Fırsat Eşitliği Millî Meseleler Karşısında Türk Toplumunun Tutum ve Davranışları · Anahtar Kavramlar",
+   "start": "2026-09-28",
+   "end": "2026-10-04",
+   "outcomes": [
+    {
+     "code": "SB.7.1.2",
+     "text": "Özel gereksinimli bireyler için fırsat eşitliğini sürdürmeye yönelik fikir üretebilme"
+    }
+   ]
+  },
+  {
+   "name": "1. ÖĞRENME ALANI: BİRLİKTE YAŞAMAK",
+   "konu": "Gruplarda ve Sosyal Hayatta İletişimin Önemi Özel Gereksinimli Bireyler İçin Fırsat Eşitliği Millî Meseleler Karşısında Türk Toplumunun Tutum ve Davranışları · Anahtar Kavramlar",
+   "start": "2026-10-05",
+   "end": "2026-10-11",
+   "outcomes": [
+    {
+     "code": "SB.7.1.2",
+     "text": "Özel gereksinimli bireyler için fırsat eşitliğini sürdürmeye yönelik fikir üretebilme"
+    }
+   ]
+  },
+  {
+   "name": "1. ÖĞRENME ALANI: BİRLİKTE YAŞAMAK",
+   "konu": "Gruplarda ve Sosyal Hayatta İletişimin Önemi Özel Gereksinimli Bireyler İçin Fırsat Eşitliği Millî Meseleler Karşısında Türk Toplumunun Tutum ve Davranışları · Anahtar Kavramlar",
+   "start": "2026-10-12",
+   "end": "2026-10-18",
+   "outcomes": [
+    {
+     "code": "SB.7.1.3",
+     "text": "Türk toplumunun millî meseleler karşısında gösterdiği tutum ve davranışlara ilişkin çıkarım yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "1. ÖĞRENME ALANI: BİRLİKTE YAŞAMAK",
+   "konu": "Gruplarda ve Sosyal Hayatta İletişimin Önemi Özel Gereksinimli Bireyler İçin Fırsat Eşitliği Millî Meseleler Karşısında Türk Toplumunun Tutum ve Davranışları · Anahtar Kavramlar",
+   "start": "2026-10-19",
+   "end": "2026-10-25",
+   "outcomes": [
+    {
+     "code": "SB.7.1.3",
+     "text": "Türk toplumunun millî meseleler karşısında gösterdiği tutum ve davranışlara ilişkin çıkarım yapabilme"
+    },
+    {
+     "code": "SB.7.2.1",
+     "text": "Küreselleşmenin insan ve toplum hayatında meydana getirdiği değişimi yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "2. ÖĞRENME ALANI: EVİMİZ DÜNYA",
+   "konu": "Küreselleşmenin İnsan ve Toplum Hayatına Etkisi Bölgesel ve Küresel Sorunların Çözümünde Ülkemizin Rolü · Anahtar Kavramlar",
+   "start": "2026-10-26",
+   "end": "2026-11-01",
+   "outcomes": [
+    {
+     "code": "SB.7.2.1",
+     "text": "Küreselleşmenin insan ve toplum hayatında meydana getirdiği değişimi yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "2. ÖĞRENME ALANI: EVİMİZ DÜNYA",
+   "konu": "Küreselleşmenin İnsan ve Toplum Hayatına Etkisi Bölgesel ve Küresel Sorunların Çözümünde Ülkemizin Rolü · Anahtar Kavramlar",
+   "start": "2026-11-02",
+   "end": "2026-11-08",
+   "outcomes": [
+    {
+     "code": "SB.7.2.2",
+     "text": "Bölgesel ve küresel sorunların çözümünde ülkemizin rolünü özetleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "2. ÖĞRENME ALANI: EVİMİZ DÜNYA",
+   "konu": "Küreselleşmenin İnsan ve Toplum Hayatına Etkisi Bölgesel ve Küresel Sorunların Çözümünde Ülkemizin Rolü · Anahtar Kavramlar",
+   "start": "2026-11-09",
+   "end": "2026-11-15",
+   "outcomes": [
+    {
+     "code": "SB.7.2.2",
+     "text": "Bölgesel ve küresel sorunların çözümünde ülkemizin rolünü özetleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÖĞRENME ALANI: ORTAK MİRASIMIZ",
+   "konu": "Osmanlı Devleti’nin Cihan Devleti Hâline Gelmesini Sağlayan Politikalar Osmanlı Devleti’nin Uygulamaya Koyduğu Yenilikler Osmanlı Kültür ve Medeniyeti · Anahtar Kavramlar",
+   "start": "2026-11-23",
+   "end": "2026-11-29",
+   "outcomes": [
+    {
+     "code": "SB.7.3.1",
+     "text": "Osmanlı Devleti’nin cihan devleti hâline gelmesini sağlayan politikaları sorgulayabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÖĞRENME ALANI: ORTAK MİRASIMIZ",
+   "konu": "Osmanlı Devleti’nin Cihan Devleti Hâline Gelmesini Sağlayan Politikalar Osmanlı Devleti’nin Uygulamaya Koyduğu Yenilikler Osmanlı Kültür ve Medeniyeti · Anahtar Kavramlar",
+   "start": "2026-11-30",
+   "end": "2026-12-06",
+   "outcomes": [
+    {
+     "code": "SB.7.3.1",
+     "text": "Osmanlı Devleti’nin cihan devleti hâline gelmesini sağlayan politikaları sorgulayabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÖĞRENME ALANI: ORTAK MİRASIMIZ",
+   "konu": "Osmanlı Devleti’nin Cihan Devleti Hâline Gelmesini Sağlayan Politikalar Osmanlı Devleti’nin Uygulamaya Koyduğu Yenilikler Osmanlı Kültür ve Medeniyeti · Anahtar Kavramlar",
+   "start": "2026-12-07",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "SB.7.3.1",
+     "text": "Osmanlı Devleti’nin cihan devleti hâline gelmesini sağlayan politikaları sorgulayabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÖĞRENME ALANI: ORTAK MİRASIMIZ",
+   "konu": "Osmanlı Devleti’nin Cihan Devleti Hâline Gelmesini Sağlayan Politikalar Osmanlı Devleti’nin Uygulamaya Koyduğu Yenilikler Osmanlı Kültür ve Medeniyeti · Anahtar Kavramlar",
+   "start": "2026-12-14",
+   "end": "2026-12-20",
+   "outcomes": [
+    {
+     "code": "SB.7.3.2",
+     "text": "Değişen dünya dengeleri karşısında Osmanlı Devleti’nin uyguladığı yenilikleri neden ve sonuçlarıyla yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÖĞRENME ALANI: ORTAK MİRASIMIZ",
+   "konu": "Osmanlı Devleti’nin Cihan Devleti Hâline Gelmesini Sağlayan Politikalar Osmanlı Devleti’nin Uygulamaya Koyduğu Yenilikler Osmanlı Kültür ve Medeniyeti · Anahtar Kavramlar",
+   "start": "2026-12-21",
+   "end": "2026-12-27",
+   "outcomes": [
+    {
+     "code": "SB.7.3.2",
+     "text": "Değişen dünya dengeleri karşısında Osmanlı Devleti’nin uyguladığı yenilikleri neden ve sonuçlarıyla yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÖĞRENME ALANI: ORTAK MİRASIMIZ",
+   "konu": "Osmanlı Devleti’nin Cihan Devleti Hâline Gelmesini Sağlayan Politikalar Osmanlı Devleti’nin Uygulamaya Koyduğu Yenilikler Osmanlı Kültür ve Medeniyeti · Anahtar Kavramlar",
+   "start": "2026-12-28",
+   "end": "2027-01-03",
+   "outcomes": [
+    {
+     "code": "SB.7.3.2",
+     "text": "Değişen dünya dengeleri karşısında Osmanlı Devleti’nin uyguladığı yenilikleri neden ve sonuçlarıyla yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÖĞRENME ALANI: ORTAK MİRASIMIZ",
+   "konu": "Osmanlı Devleti’nin Cihan Devleti Hâline Gelmesini Sağlayan Politikalar Osmanlı Devleti’nin Uygulamaya Koyduğu Yenilikler Osmanlı Kültür ve Medeniyeti · Anahtar Kavramlar",
+   "start": "2027-01-04",
+   "end": "2027-01-10",
+   "outcomes": [
+    {
+     "code": "SB.7.3.3",
+     "text": "Osmanlı kültür ve medeniyet unsurlarına ilişkin oluşturduğu ürünü paylaşabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÖĞRENME ALANI: ORTAK MİRASIMIZ",
+   "konu": "Osmanlı Devleti’nin Cihan Devleti Hâline Gelmesini Sağlayan Politikalar Osmanlı Devleti’nin Uygulamaya Koyduğu Yenilikler Osmanlı Kültür ve Medeniyeti · Anahtar Kavramlar",
+   "start": "2027-01-11",
+   "end": "2027-01-17",
+   "outcomes": [
+    {
+     "code": "SB.7.3.3",
+     "text": "Osmanlı kültür ve medeniyet unsurlarına ilişkin oluşturduğu ürünü paylaşabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÖĞRENME ALANI: ORTAK MİRASIMIZ",
+   "konu": "Osmanlı Devleti’nin Cihan Devleti Hâline Gelmesini Sağlayan Politikalar Osmanlı Devleti’nin Uygulamaya Koyduğu Yenilikler Osmanlı Kültür ve Medeniyeti · Anahtar Kavramlar",
+   "start": "2027-01-18",
+   "end": "2027-01-24",
+   "outcomes": [
+    {
+     "code": "SB.7.3.3",
+     "text": "Osmanlı kültür ve medeniyet unsurlarına ilişkin oluşturduğu ürünü paylaşabilme"
+    },
+    {
+     "code": "SB.7.4.1",
+     "text": "Türkiye Cumhuriyeti’nin temel niteliklerini özetleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "4. ÖĞRENME ALANI: YAŞAYAN DEMOKRASİMİZ",
+   "konu": "Türkiye Cumhuriyeti’nin Nitelikleri Türkiye Cumhuriyeti’nin Yönetim Yapısı Ülkemizde Demokrasinin Gelişimi Demokrasinin Uygulanma Sürecinde Karşılaşılan Sorunlar · Anahtar Kavramlar",
+   "start": "2027-02-08",
+   "end": "2027-02-14",
+   "outcomes": [
+    {
+     "code": "SB.7.4.1",
+     "text": "Türkiye Cumhuriyeti’nin temel niteliklerini özetleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "4. ÖĞRENME ALANI: YAŞAYAN DEMOKRASİMİZ",
+   "konu": "Türkiye Cumhuriyeti’nin Nitelikleri Türkiye Cumhuriyeti’nin Yönetim Yapısı Ülkemizde Demokrasinin Gelişimi Demokrasinin Uygulanma Sürecinde Karşılaşılan Sorunlar · Anahtar Kavramlar",
+   "start": "2027-02-15",
+   "end": "2027-02-21",
+   "outcomes": [
+    {
+     "code": "SB.7.4.1",
+     "text": "Türkiye Cumhuriyeti’nin temel niteliklerini özetleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "4. ÖĞRENME ALANI: YAŞAYAN DEMOKRASİMİZ",
+   "konu": "Türkiye Cumhuriyeti’nin Nitelikleri Türkiye Cumhuriyeti’nin Yönetim Yapısı Ülkemizde Demokrasinin Gelişimi Demokrasinin Uygulanma Sürecinde Karşılaşılan Sorunlar · Anahtar Kavramlar",
+   "start": "2027-02-22",
+   "end": "2027-02-28",
+   "outcomes": [
+    {
+     "code": "SB.7.4.2",
+     "text": "Türkiye Cumhuriyeti Devleti’nin yönetim yapısını çözümleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "4. ÖĞRENME ALANI: YAŞAYAN DEMOKRASİMİZ",
+   "konu": "Türkiye Cumhuriyeti’nin Nitelikleri Türkiye Cumhuriyeti’nin Yönetim Yapısı Ülkemizde Demokrasinin Gelişimi Demokrasinin Uygulanma Sürecinde Karşılaşılan Sorunlar · Anahtar Kavramlar",
+   "start": "2027-03-01",
+   "end": "2027-03-07",
+   "outcomes": [
+    {
+     "code": "SB.7.4.2",
+     "text": "Türkiye Cumhuriyeti Devleti’nin yönetim yapısını çözümleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "4. ÖĞRENME ALANI: YAŞAYAN DEMOKRASİMİZ",
+   "konu": "Türkiye Cumhuriyeti’nin Nitelikleri Türkiye Cumhuriyeti’nin Yönetim Yapısı Ülkemizde Demokrasinin Gelişimi Demokrasinin Uygulanma Sürecinde Karşılaşılan Sorunlar · Anahtar Kavramlar",
+   "start": "2027-03-15",
+   "end": "2027-03-21",
+   "outcomes": [
+    {
+     "code": "SB.7.4.3",
+     "text": "Ülkemizdeki demokrasinin gelişimini, demokrasinin temel ilkeleri açısından yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "4. ÖĞRENME ALANI: YAŞAYAN DEMOKRASİMİZ",
+   "konu": "Türkiye Cumhuriyeti’nin Nitelikleri Türkiye Cumhuriyeti’nin Yönetim Yapısı Ülkemizde Demokrasinin Gelişimi Demokrasinin Uygulanma Sürecinde Karşılaşılan Sorunlar · Anahtar Kavramlar",
+   "start": "2027-03-22",
+   "end": "2027-03-28",
+   "outcomes": [
+    {
+     "code": "SB.7.4.3",
+     "text": "Ülkemizdeki demokrasinin gelişimini, demokrasinin temel ilkeleri açısından yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "4. ÖĞRENME ALANI: YAŞAYAN DEMOKRASİMİZ",
+   "konu": "Türkiye Cumhuriyeti’nin Nitelikleri Türkiye Cumhuriyeti’nin Yönetim Yapısı Ülkemizde Demokrasinin Gelişimi Demokrasinin Uygulanma Sürecinde Karşılaşılan Sorunlar · Anahtar Kavramlar",
+   "start": "2027-03-29",
+   "end": "2027-04-04",
+   "outcomes": [
+    {
+     "code": "SB.7.4.4",
+     "text": "Demokrasinin uygulama sürecinde karşılaşılan sorunları özetleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "4. ÖĞRENME ALANI: YAŞAYAN DEMOKRASİMİZ",
+   "konu": "Türkiye Cumhuriyeti’nin Nitelikleri Türkiye Cumhuriyeti’nin Yönetim Yapısı Ülkemizde Demokrasinin Gelişimi Demokrasinin Uygulanma Sürecinde Karşılaşılan Sorunlar · Anahtar Kavramlar",
+   "start": "2027-04-05",
+   "end": "2027-04-11",
+   "outcomes": [
+    {
+     "code": "SB.7.4.4",
+     "text": "Demokrasinin uygulama sürecinde karşılaşılan sorunları özetleyebilme"
+    },
+    {
+     "code": "SB.7.5.1",
+     "text": "Millî kalkınma hamlelerini neden ve sonuçlarıyla yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "5. ÖĞRENME ALANI: HAYATIMIZDAKİ EKONOMİ",
+   "konu": "Millî Kalkınma Hamleleri Ekonomik Gelişmişlik ile Üretim, Dağıtım ve Tüketim Arasındaki Döngü · Anahtar Kavramlar",
+   "start": "2027-04-12",
+   "end": "2027-04-18",
+   "outcomes": [
+    {
+     "code": "SB.7.5.1",
+     "text": "Millî kalkınma hamlelerini neden ve sonuçlarıyla yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "5. ÖĞRENME ALANI: HAYATIMIZDAKİ EKONOMİ",
+   "konu": "Millî Kalkınma Hamleleri Ekonomik Gelişmişlik ile Üretim, Dağıtım ve Tüketim Arasındaki Döngü · Anahtar Kavramlar",
+   "start": "2027-04-19",
+   "end": "2027-04-25",
+   "outcomes": [
+    {
+     "code": "SB.7.5.1",
+     "text": "Millî kalkınma hamlelerini neden ve sonuçlarıyla yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "5. ÖĞRENME ALANI: HAYATIMIZDAKİ EKONOMİ",
+   "konu": "Millî Kalkınma Hamleleri Ekonomik Gelişmişlik ile Üretim, Dağıtım ve Tüketim Arasındaki Döngü · Anahtar Kavramlar",
+   "start": "2027-04-26",
+   "end": "2027-05-02",
+   "outcomes": [
+    {
+     "code": "SB.7.5.2",
+     "text": "Ekonomik gelişmişlik ile üretim, dağıtım ve tüketim döngüsü arasındaki ilişkiyi çözümleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "5. ÖĞRENME ALANI: HAYATIMIZDAKİ EKONOMİ",
+   "konu": "Millî Kalkınma Hamleleri Ekonomik Gelişmişlik ile Üretim, Dağıtım ve Tüketim Arasındaki Döngü · Anahtar Kavramlar",
+   "start": "2027-05-03",
+   "end": "2027-05-09",
+   "outcomes": [
+    {
+     "code": "SB.7.5.2",
+     "text": "Ekonomik gelişmişlik ile üretim, dağıtım ve tüketim döngüsü arasındaki ilişkiyi çözümleyebilme"
+    },
+    {
+     "code": "SB.7.6.1",
+     "text": "Bilimsel ve teknolojik gelişmelerin gelecekteki toplum hayatına etkilerine ilişkin öngörüde bulunabilme"
+    }
+   ]
+  },
+  {
+   "name": "6. ÖĞRENME ALANI: TEKNOLOJİ VE SOSYAL BİLİMLER",
+   "konu": "Bilimsel ve Teknolojik Gelişmelerin Gelecekteki Hayata Etkisi Sosyal Bilimlerin Çalışma Alanları Toplumsal Hayatta Karşılaşılabilecek Problemlere Çözüm Üretme · Anahtar Kavramlar",
+   "start": "2027-05-10",
+   "end": "2027-05-16",
+   "outcomes": [
+    {
+     "code": "SB.7.6.1",
+     "text": "Bilimsel ve teknolojik gelişmelerin gelecekteki toplum hayatına etkilerine ilişkin öngörüde bulunabilme"
+    }
+   ]
+  },
+  {
+   "name": "6. ÖĞRENME ALANI: TEKNOLOJİ VE SOSYAL BİLİMLER",
+   "konu": "Bilimsel ve Teknolojik Gelişmelerin Gelecekteki Hayata Etkisi Sosyal Bilimlerin Çalışma Alanları Toplumsal Hayatta Karşılaşılabilecek Problemlere Çözüm Üretme · Anahtar Kavramlar",
+   "start": "2027-05-17",
+   "end": "2027-05-23",
+   "outcomes": [
+    {
+     "code": "SB.7.6.1",
+     "text": "Bilimsel ve teknolojik gelişmelerin gelecekteki toplum hayatına etkilerine ilişkin öngörüde bulunabilme"
+    }
+   ]
+  },
+  {
+   "name": "6. ÖĞRENME ALANI: TEKNOLOJİ VE SOSYAL BİLİMLER",
+   "konu": "Bilimsel ve Teknolojik Gelişmelerin Gelecekteki Hayata Etkisi Sosyal Bilimlerin Çalışma Alanları Toplumsal Hayatta Karşılaşılabilecek Problemlere Çözüm Üretme · Anahtar Kavramlar",
+   "start": "2027-05-24",
+   "end": "2027-05-30",
+   "outcomes": [
+    {
+     "code": "SB.7.6.2",
+     "text": "Örnek metinler üzerinden sosyal bilimlerin çalışma alanlarına dair genelleme yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "6. ÖĞRENME ALANI: TEKNOLOJİ VE SOSYAL BİLİMLER",
+   "konu": "Bilimsel ve Teknolojik Gelişmelerin Gelecekteki Hayata Etkisi Sosyal Bilimlerin Çalışma Alanları Toplumsal Hayatta Karşılaşılabilecek Problemlere Çözüm Üretme · Anahtar Kavramlar",
+   "start": "2027-05-31",
+   "end": "2027-06-06",
+   "outcomes": [
+    {
+     "code": "SB.7.6.2",
+     "text": "Örnek metinler üzerinden sosyal bilimlerin çalışma alanlarına dair genelleme yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "6. ÖĞRENME ALANI: TEKNOLOJİ VE SOSYAL BİLİMLER",
+   "konu": "Bilimsel ve Teknolojik Gelişmelerin Gelecekteki Hayata Etkisi Sosyal Bilimlerin Çalışma Alanları Toplumsal Hayatta Karşılaşılabilecek Problemlere Çözüm Üretme · Anahtar Kavramlar",
+   "start": "2027-06-07",
+   "end": "2027-06-13",
+   "outcomes": [
+    {
+     "code": "SB.7.6.3",
+     "text": "Toplumsal hayatta karşılaşabileceği bir probleme yönelik bilimsel sorgulama yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "6. ÖĞRENME ALANI: TEKNOLOJİ VE SOSYAL BİLİMLER",
+   "konu": "Bilimsel ve Teknolojik Gelişmelerin Gelecekteki Hayata Etkisi Sosyal Bilimlerin Çalışma Alanları Toplumsal Hayatta Karşılaşılabilecek Problemlere Çözüm Üretme · Anahtar Kavramlar",
+   "start": "2027-06-14",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "SB.7.6.3",
+     "text": "Toplumsal hayatta karşılaşabileceği bir probleme yönelik bilimsel sorgulama yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "SOSYAL ETKİNLİK VE YIL SONU DEĞERLENDİRME",
+   "konu": "Proje sunumları, sosyal/kültürel etkinlikler ve yıl sonu genel değerlendirme",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": []
+  }
+ ]
+}
