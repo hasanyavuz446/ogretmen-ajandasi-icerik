@@ -1,5 +1,5 @@
 {
- "version": "2026-2027.23",
+ "version": "2026-2027.24",
  "year": "2025-2026",
  "plans": [
   {
@@ -256,6 +256,11 @@
    "grade": 8,
    "subject": "Rehberlik ve Kariyer Planlama",
    "file": "rehberlik-ve-kariyer-planlama-8.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Fen Bilimleri",
+   "file": "fen-bilimleri-7.json"
   }
  ]
 }

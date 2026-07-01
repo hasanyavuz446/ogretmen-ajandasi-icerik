@@ -1,0 +1,469 @@
+{
+ "grade": 7,
+ "subject": "Fen Bilimleri",
+ "themes": [
+  {
+   "name": "1. ÜNİTE: UZAY ÇAĞI",
+   "konu": "Türkiye ve Uzay Araştırmaları",
+   "start": "2026-09-14",
+   "end": "2026-09-20",
+   "outcomes": [
+    {
+     "code": "FB.7.1.1.1",
+     "text": "Uzay araştırmaları için geliştirilen teknolojileri karşılaştırabilme"
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: UZAY ÇAĞI",
+   "konu": "Türkiye ve Uzay Araştırmaları",
+   "start": "2026-09-21",
+   "end": "2026-09-27",
+   "outcomes": [
+    {
+     "code": "FB.7.1.1.2",
+     "text": "Uzay gözlem araçları ile ilgili bilimsel model oluşturabilme"
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: UZAY ÇAĞI",
+   "konu": "Türkiye ve Uzay Araştırmaları",
+   "start": "2026-09-28",
+   "end": "2026-10-04",
+   "outcomes": [
+    {
+     "code": "FB.7.1.1.3",
+     "text": "Uzay araştırmalarının yol açabileceği problemleri çözebilme"
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: UZAY ÇAĞI",
+   "konu": "Uzayda Neler Var?",
+   "start": "2026-10-05",
+   "end": "2026-10-11",
+   "outcomes": [
+    {
+     "code": "FB.7.1.2.1",
+     "text": "Yıldızların yaşamını açıklayarak yapılandırabilme"
+    },
+    {
+     "code": "FB.7.1.2.2",
+     "text": "Yıldız, galaksi ve evren kavramlarını açıklayarak yapılandırabilme"
+    },
+    {
+     "code": "FB.7.2.1.1",
+     "text": "Fiziksel anlamda yapılan işin bağlı olduğu faktörlere ilişkin bilimsel çıkarım yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: KUVVET VE ENERJİYİ KEŞFEDELİM",
+   "konu": "Kuvvet, İş ve Enerji İlişkisi",
+   "start": "2026-10-12",
+   "end": "2026-10-18",
+   "outcomes": [
+    {
+     "code": "FB.7.2.1.1",
+     "text": "Fiziksel anlamda yapılan işin bağlı olduğu faktörlere ilişkin bilimsel çıkarım yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: KUVVET VE ENERJİYİ KEŞFEDELİM",
+   "konu": "Kuvvet, İş ve Enerji İlişkisi",
+   "start": "2026-10-19",
+   "end": "2026-10-25",
+   "outcomes": [
+    {
+     "code": "FB.7.2.1.2",
+     "text": "Enerji çeşitlerinden kinetik ve potansiyel enerjiyi karşılaştırabilme"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: KUVVET VE ENERJİYİ KEŞFEDELİM",
+   "konu": "Kuvvet, İş ve Enerji İlişkisi",
+   "start": "2026-10-26",
+   "end": "2026-11-01",
+   "outcomes": [
+    {
+     "code": "FB.7.2.1.2",
+     "text": "Enerji çeşitlerinden kinetik ve potansiyel enerjiyi karşılaştırabilme"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: KUVVET VE ENERJİYİ KEŞFEDELİM",
+   "konu": "Enerji Dönüşümleri",
+   "start": "2026-11-02",
+   "end": "2026-11-08",
+   "outcomes": [
+    {
+     "code": "FB.7.2.2.1",
+     "text": "Enerji dönüşümünden hareketle enerjinin korunduğu tümevarımsal akıl yürütebilme"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: KUVVET VE ENERJİYİ KEŞFEDELİM",
+   "konu": "Enerji Dönüşümleri",
+   "start": "2026-11-09",
+   "end": "2026-11-15",
+   "outcomes": [
+    {
+     "code": "FB.7.2.2.1",
+     "text": "Enerji dönüşümünden hareketle enerjinin korunduğu tümevarımsal akıl yürütebilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: VÜCUDUMUZDAKİ SİSTEMLER",
+   "konu": "Sindirim Sistemi",
+   "start": "2026-11-23",
+   "end": "2026-11-29",
+   "outcomes": [
+    {
+     "code": "FB.7.3.1.1",
+     "text": "Sindirim sistemini oluşturan yapı ve organların görevlerini model üzerinde gözlemleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: VÜCUDUMUZDAKİ SİSTEMLER",
+   "konu": "Sindirim Sistemi",
+   "start": "2026-11-30",
+   "end": "2026-12-06",
+   "outcomes": [
+    {
+     "code": "FB.7.3.1.2",
+     "text": "Sindirim sisteminin sağlığı için yapılması gerekenler konusunda bilgi toplayabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: VÜCUDUMUZDAKİ SİSTEMLER",
+   "konu": "Dolaşım Sistemi",
+   "start": "2026-12-07",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "FB.7.3.2.1",
+     "text": "Dolaşım sistemini oluşturan yapı ve organların görevlerini model üzerinde gözlemleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: VÜCUDUMUZDAKİ SİSTEMLER",
+   "konu": "Dolaşım Sistemi",
+   "start": "2026-12-14",
+   "end": "2026-12-20",
+   "outcomes": [
+    {
+     "code": "FB.7.3.2.2",
+     "text": "Kan bağışının toplumsal dayanışma açısından önemini tartışabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: VÜCUDUMUZDAKİ SİSTEMLER",
+   "konu": "Dolaşım Sistemi",
+   "start": "2026-12-21",
+   "end": "2026-12-27",
+   "outcomes": [
+    {
+     "code": "FB.7.3.2.3",
+     "text": "Dolaşım sisteminin sağlığı için yapılması gerekenler konusunda bilgi toplayabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: VÜCUDUMUZDAKİ SİSTEMLER",
+   "konu": "Solunum Sistemi",
+   "start": "2026-12-28",
+   "end": "2027-01-03",
+   "outcomes": [
+    {
+     "code": "FB.7.3.3.1",
+     "text": "Solunum sistemini oluşturan yapı ve organların görevlerini model üzerinde gözlemleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: VÜCUDUMUZDAKİ SİSTEMLER",
+   "konu": "Solunum Sistemi",
+   "start": "2027-01-04",
+   "end": "2027-01-10",
+   "outcomes": [
+    {
+     "code": "FB.7.3.3.2",
+     "text": "Solunum sisteminin sağlığı için yapılması gerekenler konusunda bilgi toplayabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: VÜCUDUMUZDAKİ SİSTEMLER",
+   "konu": "Boşaltım Sistemi",
+   "start": "2027-01-11",
+   "end": "2027-01-17",
+   "outcomes": [
+    {
+     "code": "FB.7.3.4.1",
+     "text": "Boşaltım sistemini oluşturan yapı ve organları model üzerinde gözlemleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: VÜCUDUMUZDAKİ SİSTEMLER",
+   "konu": "Boşaltım Sistemi",
+   "start": "2027-01-18",
+   "end": "2027-01-24",
+   "outcomes": [
+    {
+     "code": "FB.7.3.4.2",
+     "text": "Boşaltım sisteminin sağlığı için yapılması gerekenler konusunda bilgi toplayabilme"
+    },
+    {
+     "code": "FB.7.4.1.1",
+     "text": "Ortam değiştiren ışığın izlediği yolu gözlemleyerek kırılma olayına yönelik bilimsel çıkarım yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: IŞIĞIN KIRILMASI VE MERCEKLER",
+   "konu": "Işığın Kırılması",
+   "start": "2027-02-08",
+   "end": "2027-02-14",
+   "outcomes": [
+    {
+     "code": "FB.7.4.1.1",
+     "text": "Ortam değiştiren ışığın izlediği yolu gözlemleyerek kırılma olayına yönelik bilimsel çıkarım yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: IŞIĞIN KIRILMASI VE MERCEKLER",
+   "konu": "Mercekler",
+   "start": "2027-02-15",
+   "end": "2027-02-21",
+   "outcomes": [
+    {
+     "code": "FB.7.4.2.1",
+     "text": "Mercek çeşitlerine yönelik bilimsel çıkarım yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: IŞIĞIN KIRILMASI VE MERCEKLER",
+   "konu": "Mercekler",
+   "start": "2027-02-22",
+   "end": "2027-02-28",
+   "outcomes": [
+    {
+     "code": "FB.7.4.2.2",
+     "text": "Merceklerin günlük hayatta kullanım alanlarını örneklerle sınıflandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MADDENİN DOĞASINA YOLCULUK",
+   "konu": "Maddenin Tanecikli Yapısı",
+   "start": "2027-03-01",
+   "end": "2027-03-07",
+   "outcomes": [
+    {
+     "code": "FB.7.5.1.1",
+     "text": "Atomun yapısını ve yapısındaki temel parçacıkları çözümleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MADDENİN DOĞASINA YOLCULUK",
+   "konu": "Maddenin Tanecikli Yapısı",
+   "start": "2027-03-15",
+   "end": "2027-03-21",
+   "outcomes": [
+    {
+     "code": "FB.7.5.1.2",
+     "text": "Geçmişten günümüze atom kavramı ile ilgili bilimsel bilgilerin değişebileceğini sorgulayabilme"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MADDENİN DOĞASINA YOLCULUK",
+   "konu": "Maddenin Tanecikli Yapısı",
+   "start": "2027-03-22",
+   "end": "2027-03-28",
+   "outcomes": [
+    {
+     "code": "FB.7.5.1.3",
+     "text": "Farklı molekül modelleri oluşturabilme"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MADDENİN DOĞASINA YOLCULUK",
+   "konu": "Maddenin Tanecikli Yapısı",
+   "start": "2027-03-29",
+   "end": "2027-04-04",
+   "outcomes": [
+    {
+     "code": "FB.7.5.1.4",
+     "text": "Atomların elektron dizilimlerini yapılandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MADDENİN DOĞASINA YOLCULUK",
+   "konu": "Saf Maddeler",
+   "start": "2027-04-05",
+   "end": "2027-04-11",
+   "outcomes": [
+    {
+     "code": "FB.7.5.2.1",
+     "text": "Saf maddeleri element ve bileşik olarak sınıflandırabilme"
+    },
+    {
+     "code": "FB.7.5.2.2",
+     "text": "Periyodik tablodaki ilk 18 elementin isimlerini sembolleriyle ifade edebilme"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MADDENİN DOĞASINA YOLCULUK",
+   "konu": "Saf Maddeler",
+   "start": "2027-04-12",
+   "end": "2027-04-18",
+   "outcomes": [
+    {
+     "code": "FB.7.5.2.3",
+     "text": "Periyodik tabloda grup ve periyotları karşılaştırabilme"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MADDENİN DOĞASINA YOLCULUK",
+   "konu": "Saf Maddeler",
+   "start": "2027-04-19",
+   "end": "2027-04-25",
+   "outcomes": [
+    {
+     "code": "FB.7.5.2.4",
+     "text": "Bileşiklerin isimlerini formülleriyle yapılandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MADDENİN DOĞASINA YOLCULUK",
+   "konu": "Karışımlar",
+   "start": "2027-04-26",
+   "end": "2027-05-02",
+   "outcomes": [
+    {
+     "code": "FB.7.5.3.1",
+     "text": "Karışımları homojen ve heterojen olarak sınıﬂandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MADDENİN DOĞASINA YOLCULUK",
+   "konu": "Karışımlar",
+   "start": "2027-05-03",
+   "end": "2027-05-09",
+   "outcomes": [
+    {
+     "code": "FB.7.5.3.2",
+     "text": "Çözünme hızına etki eden faktörler ile ilgili hipotez oluşturabilme"
+    },
+    {
+     "code": "FB.7.5.4.1",
+     "text": "Karışımları ayırmak için çeşitli deneyler yapabilme"
+    },
+    {
+     "code": "FB.7.6.1.1",
+     "text": "Elektriklenme ile ilgili bilgi toplayabilme"
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: ELEKTRİKLENME",
+   "konu": "Elektrik Yükleri ve Elektriklenme",
+   "start": "2027-05-10",
+   "end": "2027-05-16",
+   "outcomes": [
+    {
+     "code": "FB.7.6.1.1",
+     "text": "Elektriklenme ile ilgili bilgi toplayabilme"
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: ELEKTRİKLENME",
+   "konu": "Elektrik Yükleri ve Elektriklenme",
+   "start": "2027-05-17",
+   "end": "2027-05-23",
+   "outcomes": [
+    {
+     "code": "FB.7.6.1.2",
+     "text": "Elektriklenme çeşitlerini belirlemeye yönelik deney yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: ELEKTRİKLENME",
+   "konu": "Elektrik Yükleri ve Elektriklenme",
+   "start": "2027-05-24",
+   "end": "2027-05-30",
+   "outcomes": [
+    {
+     "code": "FB.7.6.1.3",
+     "text": "Cisimlerin elektrik yüklerini sınıflandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "7. ÜNİTE: SÜRDÜRÜLEBİLİR YAŞAM VE ENERJİ",
+   "konu": "Besin Zinciri ve Enerji Akışı",
+   "start": "2027-05-31",
+   "end": "2027-06-06",
+   "outcomes": [
+    {
+     "code": "FB.7.7.1.1",
+     "text": "Besin zincirindeki canlıları arasındaki ilişkileri yapılandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "7. ÜNİTE: SÜRDÜRÜLEBİLİR YAŞAM VE ENERJİ",
+   "konu": "Besin Zinciri ve Enerji Akışı",
+   "start": "2027-06-07",
+   "end": "2027-06-13",
+   "outcomes": [
+    {
+     "code": "FB.7.7.1.1",
+     "text": "Besin zincirindeki canlıları arasındaki ilişkileri yapılandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "7. ÜNİTE: SÜRDÜRÜLEBİLİR YAŞAM VE ENERJİ",
+   "konu": "Sürdürülebilir Yaşam",
+   "start": "2027-06-14",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "FB.7.7.2.1",
+     "text": "Kaynakların tasarruflu kullanımının önemini sorgulayabilme"
+    }
+   ]
+  },
+  {
+   "name": "SOSYAL ETKİNLİK VE YIL SONU DEĞERLENDİRME",
+   "konu": "Proje sunumları, sosyal/kültürel etkinlikler ve yıl sonu genel değerlendirme",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": []
+  }
+ ]
+}
