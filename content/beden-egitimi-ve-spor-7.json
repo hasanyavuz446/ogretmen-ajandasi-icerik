@@ -1,0 +1,412 @@
+{
+ "grade": 7,
+ "subject": "Beden Eğitimi ve Spor",
+ "themes": [
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-09-14",
+   "end": "2026-09-18",
+   "outcomes": [
+    {
+     "code": "BE.7.1.2.4",
+     "text": "Sporlara hazırlayıcı oyun ve etkinliklerde etkili iletişim yolları kullanır."
+    },
+    {
+     "code": "BE.7.1.1.5",
+     "text": "Su sporları/etkinlikleri ile ilgili hareket becerilerini geliştirir.* * Bu kazanım imkânları uygun olan veya uygun ortam oluşturulabilen okullarda yapılmalıdır."
+    },
+    {
+     "code": "BE.7.1.1.6",
+     "text": "Hazırladığı jimnastik serisini uygular."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-09-21",
+   "end": "2026-09-25",
+   "outcomes": [
+    {
+     "code": "BE.7.1.1.1",
+     "text": "Bireysel sporlara hazırlayıcı oyun ve etkinliklerdeki hareket becerilerini artan bir doğrulukla sergiler."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-09-28",
+   "end": "2026-10-02",
+   "outcomes": [
+    {
+     "code": "BE.7.1.2.2",
+     "text": "Sporlara hazırlayıcı oyun ve etkinliklerde kendi performansını analiz eder."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-10-05",
+   "end": "2026-10-09",
+   "outcomes": [
+    {
+     "code": "BE.7.1.2.10",
+     "text": "Akranının performansını değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-10-12",
+   "end": "2026-10-16",
+   "outcomes": [
+    {
+     "code": "BE.7.1.1.2",
+     "text": "Takım sporlarına hazırlayıcı oyun ve etkinliklerdeki hareket becerilerini artan bir doğrulukla sergiler."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-10-19",
+   "end": "2026-10-23",
+   "outcomes": []
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2026-10-26",
+   "end": "2026-10-30",
+   "outcomes": [
+    {
+     "code": "BE.7.2.2.5",
+     "text": "Fiziksel etkinlikler ve sporla ilgili güvenilir bilgi kaynaklarını kullanır."
+    },
+    {
+     "code": "BE.7.2.3.4",
+     "text": "Ülkemizin olimpiyat tarihini araştırır."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-11-02",
+   "end": "2026-11-06",
+   "outcomes": []
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-11-09",
+   "end": "2026-11-13",
+   "outcomes": [
+    {
+     "code": "BE.7.1.3.1",
+     "text": "Sporlara hazırlayıcı oyunlardaki strateji ve taktikleri çözümler."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-11-23",
+   "end": "2026-11-27",
+   "outcomes": [
+    {
+     "code": "BE.7.1.2.3",
+     "text": "Sporlara hazırlayıcı oyun ve etkinliklerde karşılaştığı problemlere grupla çözümler üretir."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-11-30",
+   "end": "2026-12-04",
+   "outcomes": [
+    {
+     "code": "BE.7.1.1.3",
+     "text": "Raket ve uzun saplı araçlarla yapılan sporlara hazırlayıcı oyun ve etkinliklerde hareket becerilerini artan bir doğrulukla sergiler."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-12-07",
+   "end": "2026-12-11",
+   "outcomes": [
+    {
+     "code": "BE.7.1.2.5",
+     "text": "Sporlara hazırlayıcı oyun ve etkinliklerde iş birliğine dayalı davranışlar gösterir."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-12-14",
+   "end": "2026-12-18",
+   "outcomes": [
+    {
+     "code": "BE.7.1.2.8",
+     "text": "Sporlara hazırlayıcı oyun ve etkinliklerde bireysel farklılığı olanlarla çalışmaya istekli olur."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-12-21",
+   "end": "2026-12-25",
+   "outcomes": [
+    {
+     "code": "BE.7.1.2.6",
+     "text": "Sporlara hazırlayıcı oyun ve etkinliklerde adil oyun anlayışına uygun davranır."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2026-12-28",
+   "end": "2027-01-01",
+   "outcomes": []
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2027-01-04",
+   "end": "2027-01-08",
+   "outcomes": []
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2027-01-11",
+   "end": "2027-01-15",
+   "outcomes": []
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2027-01-18",
+   "end": "2027-01-22",
+   "outcomes": [
+    {
+     "code": "BE.7.1.1.4",
+     "text": "Doğada yapılan etkinliklerle ilgili becerileri geliştirir."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2027-02-08",
+   "end": "2027-02-12",
+   "outcomes": [
+    {
+     "code": "BE.7.1.2.7",
+     "text": "Sporlara hazırlayıcı oyun ve etkinliklerde liderlik becerileri gösterir."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2027-02-15",
+   "end": "2027-02-19",
+   "outcomes": [
+    {
+     "code": "BE.7.2.2.4",
+     "text": "Temel ilk yardım uygulamalarını gösterir."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2027-02-22",
+   "end": "2027-02-26",
+   "outcomes": [
+    {
+     "code": "BE.7.2.2.2",
+     "text": "Fiziksel etkinliklerde uygulayabileceği kişisel beslenme programını hazırlar."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2027-03-01",
+   "end": "2027-03-05",
+   "outcomes": []
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2027-03-15",
+   "end": "2027-03-19",
+   "outcomes": [
+    {
+     "code": "BE.7.1.2.1",
+     "text": "Spor ve etkinliklere hazırlayıcı oyunlara katılırken ilgili hareket kavramlarını yerinde kullanır."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2027-03-22",
+   "end": "2027-03-26",
+   "outcomes": [
+    {
+     "code": "BE.7.2.2.1",
+     "text": "Fiziksel etkinliğe katılımda kendini motive edecek teknikleri tanır."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2027-03-29",
+   "end": "2027-04-02",
+   "outcomes": [
+    {
+     "code": "BE.7.1.2.9",
+     "text": "Geliştirdiği materyali spor ve etkinliklerde kullanır."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2027-04-05",
+   "end": "2027-04-09",
+   "outcomes": [
+    {
+     "code": "BE.7.2.1.1",
+     "text": "Uyguladığı planın etkilerini gözleyerek fiziksel etkinliklere katılır."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2027-04-12",
+   "end": "2027-04-16",
+   "outcomes": [
+    {
+     "code": "BE.7.2.2.3",
+     "text": "Fiziksel etkinlikler sırasında, kendisinin ve başkalarının güvenliğini sağlayacak davranışlar sergiler."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2027-04-19",
+   "end": "2027-04-23",
+   "outcomes": [
+    {
+     "code": "BE.7.1.1.7",
+     "text": "Seçtiği müzikle uyumlu özgün koreografi sergiler."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2027-04-26",
+   "end": "2027-04-30",
+   "outcomes": [
+    {
+     "code": "BE.7.1.1.8",
+     "text": "Halk danslarına özgü hareket becerilerini artan bir doğrulukla sergiler."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2027-05-03",
+   "end": "2027-05-07",
+   "outcomes": [
+    {
+     "code": "BE.7.2.3.3",
+     "text": "Farklı yörelere ait halk danslarını araştırır."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2027-05-10",
+   "end": "2027-05-14",
+   "outcomes": [
+    {
+     "code": "BE.7.2.3.1",
+     "text": "Bayram, kutlama ve törenler için etkinlikler hazırlar."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2027-05-17",
+   "end": "2027-05-21",
+   "outcomes": []
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.1. HAREKET YETKİNLİĞİ",
+   "start": "2027-05-24",
+   "end": "2027-05-28",
+   "outcomes": []
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2027-05-31",
+   "end": "2027-06-04",
+   "outcomes": [
+    {
+     "code": "BE.7.2.3.2",
+     "text": "Cumhuriyet Döneminde spora ve sporcuya verilen önem üzerinde durulur."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2027-06-07",
+   "end": "2027-06-11",
+   "outcomes": []
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "7.2. AKTİF VE SAĞLIKLI HAYAT",
+   "start": "2027-06-14",
+   "end": "2027-06-18",
+   "outcomes": [
+    {
+     "code": "BE.7.2.1.2",
+     "text": "Yakın çevresindeki fiziksel etkinlik ve spor imkânlarını kullanır."
+    }
+   ]
+  },
+  {
+   "name": "Beden Eğitimi ve Spor",
+   "konu": "Sosyal Etkinlik / Yıl Sonu Değerlendirme",
+   "start": "2027-06-21",
+   "end": "2027-06-25",
+   "outcomes": []
+  }
+ ]
+}

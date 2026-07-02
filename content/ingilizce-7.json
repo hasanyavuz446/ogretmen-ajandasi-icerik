@@ -1,0 +1,519 @@
+{
+ "grade": 7,
+ "subject": "İngilizce",
+ "themes": [
+  {
+   "name": "İngilizce",
+   "konu": "Appearance and Personality",
+   "start": "2026-09-14",
+   "end": "2026-09-18",
+   "outcomes": [
+    {
+     "code": "E7.1.W1",
+     "text": "Students will be able to write simple pieces to compare people."
+    },
+    {
+     "code": "E7.1.R1",
+     "text": "Students will be able to understand a simple text about appearances, personalities, and comparisons including explanations and reasons."
+    },
+    {
+     "code": "E7.1.SP1",
+     "text": "Students will be able to report on apperances and personalities of other people."
+    },
+    {
+     "code": "E7.1.SI1",
+     "text": "Students will be able to talk about other people’s appearances and personalities."
+    },
+    {
+     "code": "E7.1.L1",
+     "text": "Students will be able to understand clear, standard speech on appearances and personalities."
+    }
+   ]
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Appearance and Personality",
+   "start": "2026-09-21",
+   "end": "2026-09-25",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Appearance and Personality",
+   "start": "2026-09-28",
+   "end": "2026-10-02",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Appearance and Personality",
+   "start": "2026-10-05",
+   "end": "2026-10-09",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 2: Sports",
+   "start": "2026-10-12",
+   "end": "2026-10-16",
+   "outcomes": [
+    {
+     "code": "E7.2.W1",
+     "text": "Students will be able to write pieces about routines/daily activities by using frequency adverbs."
+    },
+    {
+     "code": "E7.2.R1",
+     "text": "Students will be able to understand short and simple texts on sports."
+    },
+    {
+     "code": "E7.2.SP1",
+     "text": "Students will be able to talk about routines/daily activities by using frequency adverbs and giving explanations and reasons."
+    },
+    {
+     "code": "E7.2.SI1",
+     "text": "Students will be able to ask questions related to the frequency of events."
+    },
+    {
+     "code": "E7.2.L1",
+     "text": "Students will be able to recognize frequency adverbs in simple oral texts."
+    }
+   ]
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 2: Sports",
+   "start": "2026-10-19",
+   "end": "2026-10-23",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 2: Sports",
+   "start": "2026-10-26",
+   "end": "2026-10-30",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 2: Sports",
+   "start": "2026-11-02",
+   "end": "2026-11-06",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 3: Biographies",
+   "start": "2026-11-09",
+   "end": "2026-11-13",
+   "outcomes": [
+    {
+     "code": "E7.3.L1",
+     "text": "Students will be able to recognize specific information in oral texts dealing with past events and dates."
+    },
+    {
+     "code": "E7.3.W1",
+     "text": "Students will be able to write a short and simple report about past events."
+    },
+    {
+     "code": "E7.3.R1",
+     "text": "Students will be able to spot specific information about names and dates in past events in written texts."
+    },
+    {
+     "code": "E7.3.SP1",
+     "text": "Students will be able to describe past events and experiences."
+    },
+    {
+     "code": "E7.3.SI1",
+     "text": "Students will be able to talk about past events with definite time."
+    }
+   ]
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 3: Biographies",
+   "start": "2026-11-23",
+   "end": "2026-11-27",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 3: Biographies",
+   "start": "2026-11-30",
+   "end": "2026-12-04",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 3: Biographies",
+   "start": "2026-12-07",
+   "end": "2026-12-11",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 4: Wild Animals",
+   "start": "2026-12-14",
+   "end": "2026-12-18",
+   "outcomes": [
+    {
+     "code": "E7.4.L1",
+     "text": "Students will be able to understand past and present events in oral texts."
+    },
+    {
+     "code": "E7.4.L2",
+     "text": "Students will be able to identify the names of wild animals in simple oral texts. Spoken Interaction"
+    },
+    {
+     "code": "E7.4.SI1",
+     "text": "Students will be able to ask people questions about characteristics of wild animals."
+    },
+    {
+     "code": "E7.4.W1",
+     "text": "Students will be able to write pieces describing wildlife."
+    },
+    {
+     "code": "E7.4.R2",
+     "text": "Students will be able to spot the names of wild animals in simple texts."
+    },
+    {
+     "code": "E7.4.R1",
+     "text": "Students will be able to understand past and present events in simple texts including explanations and reasons."
+    },
+    {
+     "code": "E7.4.SP1",
+     "text": "Students will be able to make simple Some animals became extinct because people hunted them for different reasons. suggestions."
+    },
+    {
+     "code": "E7.4.SP2",
+     "text": "Students will be able to report on past People always harmed wild animals because they were afraid of them. and present events."
+    }
+   ]
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 4: Wild Animals",
+   "start": "2026-12-21",
+   "end": "2026-12-25",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 4: Wild Animals",
+   "start": "2026-12-28",
+   "end": "2027-01-01",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 4: Wild Animals",
+   "start": "2027-01-04",
+   "end": "2027-01-08",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 5: Television",
+   "start": "2027-01-11",
+   "end": "2027-01-15",
+   "outcomes": [
+    {
+     "code": "E7.5.L1",
+     "text": "Students will be able to understand simple oral texts about daily routines and preferences."
+    },
+    {
+     "code": "E7.5.W1",
+     "text": "Students will be able to write pieces about daily routines and preferences."
+    },
+    {
+     "code": "E7.5.R1",
+     "text": "Students will be able to understand simple texts about daily routines and preferences."
+    },
+    {
+     "code": "E7.5.R2",
+     "text": "Students will be able to understand simple texts about past events."
+    },
+    {
+     "code": "E7.5.SI2",
+     "text": "Students will be able to talk about past Stating personal opinions events and personal experiences. Talk shows are usually amusing, but I think reality shows are pretty boring. Spoken Production Talking about past events"
+    },
+    {
+     "code": "E7.5.SP1",
+     "text": "Students will be able to state their Did you watch the wild life documentary preferences. last night? —I watched it last night, and it was"
+    },
+    {
+     "code": "E7.5.SP2",
+     "text": "Students will be able to describe past fantastic. events in a simple way."
+    }
+   ]
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 5: Television",
+   "start": "2027-01-18",
+   "end": "2027-01-22",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 5: Television",
+   "start": "2027-02-08",
+   "end": "2027-02-12",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 5: Television",
+   "start": "2027-02-15",
+   "end": "2027-02-19",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 6: Celebrations",
+   "start": "2027-02-22",
+   "end": "2027-02-26",
+   "outcomes": [
+    {
+     "code": "E7.6.SI1",
+     "text": "Students will be able to talk about arrangements and sequences of actions."
+    },
+    {
+     "code": "E7.6.L1",
+     "text": "Students will be able to recognize utterances related to suggestions, needs and quantity of things."
+    },
+    {
+     "code": "E7.6.W1",
+     "text": "Students will be able to write invitation cards."
+    },
+    {
+     "code": "E7.6.R1",
+     "text": "Students will be able to understand texts about celebrations."
+    },
+    {
+     "code": "E7.6.SP1",
+     "text": "Students will be able to make suggestions. Expressing needs and quantity Students will be able to express needs We need some/a lot of balloons. I have E7.6.SP2. and quantity. a lot of/many/one or two/some presents."
+    }
+   ]
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 6: Celebrations",
+   "start": "2027-03-01",
+   "end": "2027-03-05",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 6: Celebrations",
+   "start": "2027-03-15",
+   "end": "2027-03-19",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 6: Celebrations",
+   "start": "2027-03-22",
+   "end": "2027-03-26",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 7: Dreams",
+   "start": "2027-03-29",
+   "end": "2027-04-02",
+   "outcomes": [
+    {
+     "code": "E7.7.W1",
+     "text": "Students will be able to write pieces about predictions and future events."
+    },
+    {
+     "code": "E7.7.R1",
+     "text": "Students will be able to understand short and simple texts about predictions."
+    },
+    {
+     "code": "E7.7.SP1",
+     "text": "Students will be able to report on simple predictions."
+    },
+    {
+     "code": "E7.7.SI1",
+     "text": "Students will be able to talk about simple predictions."
+    },
+    {
+     "code": "E7.7.L1",
+     "text": "Students will be able to understand utterances about predictions and future events in simple oral texts."
+    }
+   ]
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 7: Dreams",
+   "start": "2027-04-05",
+   "end": "2027-04-09",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 7: Dreams",
+   "start": "2027-04-12",
+   "end": "2027-04-16",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 8: Public Buildings",
+   "start": "2027-04-19",
+   "end": "2027-04-23",
+   "outcomes": [
+    {
+     "code": "E7.8.W1",
+     "text": "Students will be able to write pieces about explanations with reasons."
+    },
+    {
+     "code": "E7.8.R1",
+     "text": "Students will be able to understand simple expressions and recognize familiar words about explanations with reasons."
+    },
+    {
+     "code": "E7.8.SP1",
+     "text": "Students will be able to report on explanations with reasons."
+    },
+    {
+     "code": "E7.8.SI1",
+     "text": "Students will be able to give explanations with reasons."
+    },
+    {
+     "code": "E7.8.L1",
+     "text": "Students will be able to recognize the names of the public buildings."
+    },
+    {
+     "code": "E7.8.L2",
+     "text": "Students will be able to understand explanations with reasons."
+    }
+   ]
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 8: Public Buildings",
+   "start": "2027-04-26",
+   "end": "2027-04-30",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 8: Public Buildings",
+   "start": "2027-05-03",
+   "end": "2027-05-07",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 9: Environment",
+   "start": "2027-05-10",
+   "end": "2027-05-14",
+   "outcomes": [
+    {
+     "code": "E7.9.SI1",
+     "text": "Students will be able to talk about obligations."
+    },
+    {
+     "code": "E7.9.SI2",
+     "text": "Students will be able to give simple instructions for a specific process."
+    },
+    {
+     "code": "E7.9.L1",
+     "text": "Students will be able to understand phrases and the highest frequency vocabulary about environment."
+    },
+    {
+     "code": "E7.9.L2",
+     "text": "Students will be able to follow how a simple process is described in clear oral texts."
+    },
+    {
+     "code": "E7.9.W1",
+     "text": "Students will be able to write short, simple messages about environment."
+    },
+    {
+     "code": "E7.9.W2",
+     "text": "Students will be able to write short description of a process."
+    },
+    {
+     "code": "E7.9.R1",
+     "text": "Students will be able to identify specific information in various texts about environment."
+    },
+    {
+     "code": "E7.9.SP1",
+     "text": "Students will be able to give a simple because they are important for the description or presentation of a process. balance of the nature."
+    }
+   ]
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 9: Environment",
+   "start": "2027-05-17",
+   "end": "2027-05-21",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 9: Environment",
+   "start": "2027-05-24",
+   "end": "2027-05-28",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 10: Planets",
+   "start": "2027-05-31",
+   "end": "2027-06-04",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 10: Planets",
+   "start": "2027-06-07",
+   "end": "2027-06-11",
+   "outcomes": []
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Unit 10: Planets",
+   "start": "2027-06-14",
+   "end": "2027-06-18",
+   "outcomes": [
+    {
+     "code": "E7.10.W1",
+     "text": "Students will be able to write short and basic descriptions of facts and general truths."
+    },
+    {
+     "code": "E7.10.R1",
+     "text": "Students will be able to identify specific information in various texts about facts and general truths."
+    },
+    {
+     "code": "E7.10.R2",
+     "text": "Students will be able to identify specific information about past events."
+    },
+    {
+     "code": "E7.10.SP1",
+     "text": "Students will be able to report on general truths in various ways."
+    },
+    {
+     "code": "E7.10.SI1",
+     "text": "Students will be able to make simple comparisons."
+    },
+    {
+     "code": "E7.10.SI2",
+     "text": "Students will be able to talk about past events."
+    },
+    {
+     "code": "E7.10.L1",
+     "text": "Students will be able to identify the discussion topic about popular science in simple oral texts."
+    }
+   ]
+  },
+  {
+   "name": "İngilizce",
+   "konu": "Sosyal Etkinlik / Yıl Sonu Değerlendirme",
+   "start": "2027-06-21",
+   "end": "2027-06-25",
+   "outcomes": []
+  }
+ ]
+}

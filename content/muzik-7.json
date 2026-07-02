@@ -1,0 +1,372 @@
+{
+ "grade": 7,
+ "subject": "Müzik",
+ "themes": [
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. A. DİNLEME - SÖYLEME    İstiklâl Marşı’mız",
+   "start": "2026-09-14",
+   "end": "2026-09-18",
+   "outcomes": [
+    {
+     "code": "Mü.7.A.1",
+     "text": "İstiklâl Marşı’nı doğru söyler."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. A. DİNLEME - SÖYLEME    İstiklâl Marşı’mız",
+   "start": "2026-09-21",
+   "end": "2026-09-25",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. B. MÜZİKSEL ALGI VE BİLGİLENME    Müziği Öğreniyorum",
+   "start": "2026-09-28",
+   "end": "2026-10-02",
+   "outcomes": [
+    {
+     "code": "Mü.7.B.1",
+     "text": "Temel müzik yazı ve ögelerini kullanır."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. B. MÜZİKSEL ALGI VE BİLGİLENME    Müziği Öğreniyorum",
+   "start": "2026-10-05",
+   "end": "2026-10-09",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. B. MÜZİKSEL ALGI VE BİLGİLENME    Müziği Öğreniyorum",
+   "start": "2026-10-12",
+   "end": "2026-10-16",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. B. MÜZİKSEL ALGI VE BİLGİLENME    Müziği Öğreniyorum",
+   "start": "2026-10-19",
+   "end": "2026-10-23",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. A. DİNLEME - SÖYLEME    Marşlarımız",
+   "start": "2026-10-26",
+   "end": "2026-10-30",
+   "outcomes": [
+    {
+     "code": "Mü.7.A.2",
+     "text": "Millî birlik ve beraberlik duygusunu güçlendiren marşlarımızı doğru söyler."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. A. DİNLEME - SÖYLEME    Marşlarımız",
+   "start": "2026-11-02",
+   "end": "2026-11-06",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. D. MÜZİK KÜLTÜRÜ    Atatürk ve Müzik",
+   "start": "2026-11-09",
+   "end": "2026-11-13",
+   "outcomes": [
+    {
+     "code": "Mü.7.D.1",
+     "text": "Atatürk’ün müziğin geliştirilmesine verdiği önemi açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. B. MÜZİKSEL ALGI VE BİLGİLENME    Müziği Öğreniyorum",
+   "start": "2026-11-23",
+   "end": "2026-11-27",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. B. MÜZİKSEL ALGI VE BİLGİLENME    Müziği Öğreniyorum",
+   "start": "2026-11-30",
+   "end": "2026-12-04",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. A. DİNLEME - SÖYLEME    Müziği Çözümlüyorum",
+   "start": "2026-12-07",
+   "end": "2026-12-11",
+   "outcomes": [
+    {
+     "code": "Mü.7.A.3",
+     "text": "Müzikte hız ve gürlük basamaklarını uygular."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. A. DİNLEME - SÖYLEME    Müziği Çözümlüyorum",
+   "start": "2026-12-14",
+   "end": "2026-12-18",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. C. MÜZİKSEL YARATICILIK    Benim Ritmim",
+   "start": "2026-12-21",
+   "end": "2026-12-25",
+   "outcomes": [
+    {
+     "code": "Mü.7.C.1",
+     "text": "Müziklere kendi oluşturduğu ritim kalıbı ile eşlik eder."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. C. MÜZİKSEL YARATICILIK    Benim Ritmim",
+   "start": "2026-12-28",
+   "end": "2027-01-01",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. B. MÜZİKSEL ALGI VE BİLGİLENME    Çalgı türleri ve Toplulukları",
+   "start": "2027-01-04",
+   "end": "2027-01-08",
+   "outcomes": [
+    {
+     "code": "Mü.7.B.4",
+     "text": "Çalgı türleri ve çalgı topluluklarını ayırt eder."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. B. MÜZİKSEL ALGI VE BİLGİLENME    Çalgı türleri ve Toplulukları",
+   "start": "2027-01-11",
+   "end": "2027-01-15",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. B. MÜZİKSEL ALGI VE BİLGİLENME    İnsan Sesi ve Ses Toplulukları",
+   "start": "2027-01-18",
+   "end": "2027-01-22",
+   "outcomes": [
+    {
+     "code": "Mü.7.B.3",
+     "text": "İnsan sesi ve ses topluluklarını ayırt eder."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. B. MÜZİKSEL ALGI VE BİLGİLENME    İnsan Sesi ve Ses Toplulukları",
+   "start": "2027-02-08",
+   "end": "2027-02-12",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. A. DİNLEME – SÖYLEME  Mü. 7. B. MÜZİKSEL ALGI VE BİLGİLENME    Müzikte Diziler ve Makamlar",
+   "start": "2027-02-15",
+   "end": "2027-02-19",
+   "outcomes": [
+    {
+     "code": "Mü.7.A.6",
+     "text": "Ses grupları oluşturmaya istekli olur."
+    },
+    {
+     "code": "Mü.7.B.2",
+     "text": "Müzikte dizileri tanır."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. A. DİNLEME – SÖYLEME  Mü. 7. B. MÜZİKSEL ALGI VE BİLGİLENME",
+   "start": "2027-02-22",
+   "end": "2027-02-26",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. A. DİNLEME – SÖYLEME    Müzikte Diziler ve Makamlar",
+   "start": "2027-03-01",
+   "end": "2027-03-05",
+   "outcomes": [
+    {
+     "code": "Mü.7.A.4",
+     "text": "Türk müziğinin makamsal bir yapıda olduğunu fark eder."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. A. DİNLEME – SÖYLEME    Müzikte Diziler ve Makamlar",
+   "start": "2027-03-15",
+   "end": "2027-03-19",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. A. DİNLEME - SÖYLEME    İstiklâl Marşı’mız",
+   "start": "2027-03-22",
+   "end": "2027-03-26",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. A. DİNLEME - SÖYLEME    Türkülerimizin Yaşanmış Öyküleri",
+   "start": "2027-03-29",
+   "end": "2027-04-02",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. D. MÜZİK KÜLTÜRÜ    Dünyada Müzik",
+   "start": "2027-04-05",
+   "end": "2027-04-09",
+   "outcomes": [
+    {
+     "code": "Mü.7.D.2",
+     "text": "Dünya müziklerini tanır."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. A. DİNLEME - SÖYLEME  Mü. 7. D. MÜZİK KÜLTÜRÜ    Dünya Müziğine Yolculuk",
+   "start": "2027-04-12",
+   "end": "2027-04-16",
+   "outcomes": [
+    {
+     "code": "Mü.7.D.4",
+     "text": "Dinlediği uluslararası müzikleri türlerine göre ayırt eder."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. A. DİNLEME - SÖYLEME    Yurdumuzda Müzik",
+   "start": "2027-04-19",
+   "end": "2027-04-23",
+   "outcomes": [
+    {
+     "code": "Mü.7.A.5",
+     "text": "Yurdumuza ait müzik türlerinden eserler seslendirir."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. A. DİNLEME - SÖYLEME  Mü. 7. D. MÜZİK KÜLTÜRÜ    Yurdumuzda Müzik",
+   "start": "2027-04-26",
+   "end": "2027-04-30",
+   "outcomes": [
+    {
+     "code": "Mü.7.D.6",
+     "text": "Türk müziği kültürünü tanır."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. A. DİNLEME - SÖYLEME    Marşlarımız",
+   "start": "2027-05-03",
+   "end": "2027-05-07",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. C. MÜZİKSEL YARATICILIK    Yurdumuzda Müzik",
+   "start": "2027-05-10",
+   "end": "2027-05-14",
+   "outcomes": [
+    {
+     "code": "Mü.7.C.3",
+     "text": "Dinlediği farklı türdeki müziklerle ilgili duygu ve düşüncelerini ifade eder."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. C. MÜZİKSEL YARATICILIK    Benim Ezgim",
+   "start": "2027-05-17",
+   "end": "2027-05-21",
+   "outcomes": [
+    {
+     "code": "Mü.7.C.2",
+     "text": "Kendi oluşturduğu ezgileri seslendirir."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. D. MÜZİK KÜLTÜRÜ  Mü. 7. C. MÜZİKSEL YARATICILIK      Türkülerimizin Yaşanmış Öyküleri",
+   "start": "2027-05-24",
+   "end": "2027-05-28",
+   "outcomes": [
+    {
+     "code": "Mü.7.C.5",
+     "text": "Müzikle ilgili araştırma ve çalışmalarında bilişim teknolojilerinden yararlanır."
+    },
+    {
+     "code": "Mü.7.D.5",
+     "text": "Türkülerin yaşanmış öykülerini araştırır."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. D. MÜZİK KÜLTÜRÜ    Atatürk ve Müzik",
+   "start": "2027-05-31",
+   "end": "2027-06-04",
+   "outcomes": []
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. C. MÜZİKSEL YARATICILIK    Türkülerimizin Yaşanmış Öyküleri",
+   "start": "2027-06-07",
+   "end": "2027-06-11",
+   "outcomes": [
+    {
+     "code": "Mü.7.C.4",
+     "text": "Türkülerin yaşanmış öykülerini canlandırır."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Mü. 7. A. DİNLEME – SÖYLEME Mü. 7. D. MÜZİK KÜLTÜRÜ Müziğimize Ses Verenler  Benim Ezgim",
+   "start": "2027-06-14",
+   "end": "2027-06-18",
+   "outcomes": [
+    {
+     "code": "Mü.7.A.7",
+     "text": "Müzik çalışmalarını sergiler."
+    },
+    {
+     "code": "Mü.7.D.3",
+     "text": "Dinlediği çeşitli türlerdeki müziklerden hem bireysel hem de ortak sınıf arşivini geliştirir."
+    }
+   ]
+  },
+  {
+   "name": "Müzik",
+   "konu": "Sosyal Etkinlik / Yıl Sonu Değerlendirme",
+   "start": "2027-06-21",
+   "end": "2027-06-25",
+   "outcomes": []
+  }
+ ]
+}

@@ -1,5 +1,5 @@
 {
- "version": "2026-2027.31",
+ "version": "2026-2027.37",
  "year": "2025-2026",
  "plans": [
   {
@@ -281,6 +281,36 @@
    "grade": 7,
    "subject": "Din Kültürü ve Ahlak Bilgisi",
    "file": "din-kulturu-ve-ahlak-bilgisi-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "İngilizce",
+   "file": "ingilizce-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Görsel Sanatlar",
+   "file": "gorsel-sanatlar-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Müzik",
+   "file": "muzik-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Beden Eğitimi ve Spor",
+   "file": "beden-egitimi-ve-spor-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Teknoloji ve Tasarım",
+   "file": "teknoloji-ve-tasarim-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Çoklu Yabancı Dil Eğitim Modeli Almanca",
+   "file": "almanca-7.json"
   }
  ]
 }

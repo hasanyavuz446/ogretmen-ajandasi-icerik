@@ -1,0 +1,499 @@
+{
+ "grade": 7,
+ "subject": "Teknoloji ve Tasarım",
+ "themes": [
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. A. TEKNOLOJİ VE TASARIMIN TEMELLERİ",
+   "start": "2026-09-14",
+   "end": "2026-09-18",
+   "outcomes": [
+    {
+     "code": "TT.7.A.1.1",
+     "text": "Teknoloji ve tasarım ile ilişkili kavramları tanımlar."
+    },
+    {
+     "code": "TT.7.A.1.2",
+     "text": "Teknoloji ve tasarım arasındaki ilişkiyi ifade eder."
+    },
+    {
+     "code": "TT.7.A.1.3",
+     "text": "Teknoloji ve tasarım ürünlerine günlük hayattan örnekler verir."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. A. TEKNOLOJİ VE TASARIMIN TEMELLERİ",
+   "start": "2026-09-21",
+   "end": "2026-09-25",
+   "outcomes": [
+    {
+     "code": "TT.7.A.1.4",
+     "text": "Ülkemizdeki teknolojik gelişmeleri değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. A. TEKNOLOJİ VE TASARIMIN TEMELLERİ",
+   "start": "2026-09-28",
+   "end": "2026-10-02",
+   "outcomes": [
+    {
+     "code": "TT.7.A.2.1",
+     "text": "Sanat/tasarım elemanlarını ifade eder."
+    },
+    {
+     "code": "TT.7.A.2.2",
+     "text": "Sanat/tasarım elemanlarını bir ürün üzerinde gösterir."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. A. TEKNOLOJİ VE TASARIMIN TEMELLERİ",
+   "start": "2026-10-05",
+   "end": "2026-10-09",
+   "outcomes": [
+    {
+     "code": "TT.7.A.2.3",
+     "text": "Tasarım ilkelerini bir ürün üzerinde göstererek açıklar."
+    },
+    {
+     "code": "TT.7.A.2.4",
+     "text": "Çevresindeki bir tasarım ürününü yeniden yorumlar."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. A. TEKNOLOJİ VE TASARIMIN TEMELLERİ",
+   "start": "2026-10-12",
+   "end": "2026-10-16",
+   "outcomes": [
+    {
+     "code": "TT.7.A.2.5",
+     "text": "Sanat/tasarım elemanlarını ve tasarım ilkelerini kullanarak bir tasarım oluşturur."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. A. TEKNOLOJİ VE TASARIMIN TEMELLERİ",
+   "start": "2026-10-19",
+   "end": "2026-10-23",
+   "outcomes": []
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. B. TASARIM SÜRECİ VE TANITIM",
+   "start": "2026-10-26",
+   "end": "2026-10-30",
+   "outcomes": [
+    {
+     "code": "TT.7.B.1.1",
+     "text": "Tasarım sürecinin bir problem tanımlama ve çözüm önerme süreci olduğunu söyler."
+    },
+    {
+     "code": "TT.7.B.1.2",
+     "text": "Günlük hayatta karşılaşılan bir sorun, ihtiyaç veya gerçekleştirebileceği hayalini “tasarım problemi” şeklinde ifade eder."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. B. TASARIM SÜRECİ VE TANITIM",
+   "start": "2026-11-02",
+   "end": "2026-11-06",
+   "outcomes": [
+    {
+     "code": "TT.7.B.1.3",
+     "text": "Belirlediği probleme yönelik geliştirdiği çözüm önerisini paylaşır."
+    },
+    {
+     "code": "TT.7.B.1.4",
+     "text": "Tasarım sürecinin araştırma basamaklarını söyler."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. B. TASARIM SÜRECİ VE TANITIM",
+   "start": "2026-11-09",
+   "end": "2026-11-13",
+   "outcomes": [
+    {
+     "code": "TT.7.B.1.5",
+     "text": "Tasarım geliştirme kriterlerini söyler."
+    },
+    {
+     "code": "TT.7.B.1.6",
+     "text": "Tasarım oluşturulurken kullanıcı, malzeme, uygulama ve çevre faktörlerinin önemini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. B. TASARIM SÜRECİ VE TANITIM",
+   "start": "2026-11-23",
+   "end": "2026-11-27",
+   "outcomes": [
+    {
+     "code": "TT.7.B.1.7",
+     "text": "Tasarımı oluşturmak için gerekli aşamaları açıklar."
+    },
+    {
+     "code": "TT.7.B.1.8",
+     "text": "Teknoloji ve tasarım uygulamalarında alınması gereken güvenlik önlemlerini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. B. TASARIM SÜRECİ VE TANITIM",
+   "start": "2026-11-30",
+   "end": "2026-12-04",
+   "outcomes": [
+    {
+     "code": "TT.7.B.1.9",
+     "text": "Tasarım ürünlerinin üretim süreçlerini açıklar."
+    },
+    {
+     "code": "TT.7.B.1.10",
+     "text": "Taslak, model, maket ve prototip kavramlarını örnekleyerek açıklar."
+    },
+    {
+     "code": "TT.7.B.1.11",
+     "text": "Kullanımı tamamlanmış ürünlerin geri dönüşümüne yönelik imkanlarını değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. B. TASARIM SÜRECİ VE TANITIM",
+   "start": "2026-12-07",
+   "end": "2026-12-11",
+   "outcomes": [
+    {
+     "code": "TT.7.B.1.12",
+     "text": "Tasarımı değerlendirme kriterlerini sınıflandırır."
+    },
+    {
+     "code": "TT.7.B.1.13",
+     "text": "Tasarımı değerlendirdikten sonra elde ettiği verilerden hareketle tasarımını yeniden yapılandırır."
+    },
+    {
+     "code": "TT.7.B.1.14",
+     "text": "Tasarımını kullanıcıya ulaştırmak üzere tanıtım ve pazarlama imkânlarını değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. B. TASARIM SÜRECİ VE TANITIM",
+   "start": "2026-12-14",
+   "end": "2026-12-18",
+   "outcomes": [
+    {
+     "code": "TT.7.B.2.1",
+     "text": "Tasarımı için taslak çizimler yapar."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. B. TASARIM SÜRECİ VE TANITIM",
+   "start": "2026-12-21",
+   "end": "2026-12-25",
+   "outcomes": [
+    {
+     "code": "TT.7.B.2.2",
+     "text": "Taslak çizimlerini bilgisayar yardımıyla iki boyutlu görsellere dönüştürür."
+    },
+    {
+     "code": "TT.7.B.2.3",
+     "text": "Tasarım fikrini açıklamak için çoklu ortam sunusu hazırlar."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. B. TASARIM SÜRECİ VE TANITIM",
+   "start": "2026-12-28",
+   "end": "2027-01-01",
+   "outcomes": []
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. C. YAPILI ÇEVRE VE ÜRÜN",
+   "start": "2027-01-04",
+   "end": "2027-01-08",
+   "outcomes": [
+    {
+     "code": "TT.7.C.1.1",
+     "text": "İşlevsel farklılıkların mimari tasarımda yapısal farklılıklara yol açtığını söyler."
+    },
+    {
+     "code": "TT.7.C.1.2",
+     "text": "Yakın çevresindeki mimari yapıları işlevsel farklılıklarına göre karşılaştırır."
+    },
+    {
+     "code": "TT.7.C.1.3",
+     "text": "Mimari yapılarla hayat biçimi arasındaki ilişkiyi açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. C. YAPILI ÇEVRE VE ÜRÜN",
+   "start": "2027-01-11",
+   "end": "2027-01-15",
+   "outcomes": [
+    {
+     "code": "TT.7.C.1.4",
+     "text": "Yaşamak istediği konutu farklı coğrafi alan ve şartlara uygun olarak tasarlar."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. C. YAPILI ÇEVRE VE ÜRÜN",
+   "start": "2027-01-18",
+   "end": "2027-01-22",
+   "outcomes": []
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. C. YAPILI ÇEVRE VE ÜRÜN",
+   "start": "2027-02-08",
+   "end": "2027-02-12",
+   "outcomes": [
+    {
+     "code": "TT.7.C.2.1",
+     "text": "Tasarımın kullanıcının ihtiyacına ve beğenisine göre şekillendirildiğini ifade eder."
+    },
+    {
+     "code": "TT.7.C.2.2",
+     "text": "Tasarımda ergonominin önemini örnekler üzerinden açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. C. YAPILI ÇEVRE VE ÜRÜN",
+   "start": "2027-02-15",
+   "end": "2027-02-19",
+   "outcomes": [
+    {
+     "code": "TT.7.C.2.3",
+     "text": "Ergonomik bir ürün tasarlar."
+    },
+    {
+     "code": "TT.7.C.2.4",
+     "text": "Tasarladığı eşyayı ergonomi kriterlerine göre değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. C. YAPILI ÇEVRE VE ÜRÜN",
+   "start": "2027-02-22",
+   "end": "2027-02-26",
+   "outcomes": [
+    {
+     "code": "TT.7.C.2.5",
+     "text": "Bir ürünün temel işlevinin gerektirdiği mekanik özellikleri sınıflandırır."
+    },
+    {
+     "code": "TT.7.C.2.6",
+     "text": "Günlük hayatta kullanılan bir ürünü mekanik tasarım özelliklerini dikkate alarak yeniden tasarlar."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. C. YAPILI ÇEVRE VE ÜRÜN",
+   "start": "2027-03-01",
+   "end": "2027-03-05",
+   "outcomes": [
+    {
+     "code": "TT.7.C.2.7",
+     "text": "Bir tasarım için gerekli yapısal özellikleri açıklar."
+    },
+    {
+     "code": "TT.7.C.2.8",
+     "text": "Yapısal özellikleri dikkate alarak bir tasarım yapar."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. C. YAPILI ÇEVRE VE ÜRÜN",
+   "start": "2027-03-15",
+   "end": "2027-03-19",
+   "outcomes": []
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. Ç. İHTİYAÇLAR VE YENİLİKÇİLİK",
+   "start": "2027-03-22",
+   "end": "2027-03-26",
+   "outcomes": [
+    {
+     "code": "TT.7.Ç.1.1",
+     "text": "Su, rüzgâr ve güneş gibi doğal kaynakları kullanarak temiz ve sürdürülebilir enerji elde etme teknolojilerini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. Ç. İHTİYAÇLAR VE YENİLİKÇİLİK",
+   "start": "2027-03-29",
+   "end": "2027-04-02",
+   "outcomes": [
+    {
+     "code": "TT.7.Ç.1.2",
+     "text": "Doğal kaynaklar yoluyla enerji elde edilebilen bir ürün tasarlar."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. Ç. İHTİYAÇLAR VE YENİLİKÇİLİK",
+   "start": "2027-04-05",
+   "end": "2027-04-09",
+   "outcomes": [
+    {
+     "code": "TT.7.Ç.1.3",
+     "text": "Tasarladığı enerji dönüşümü ürününü sunar."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. Ç. İHTİYAÇLAR VE YENİLİKÇİLİK",
+   "start": "2027-04-12",
+   "end": "2027-04-16",
+   "outcomes": []
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. Ç. İHTİYAÇLAR VE YENİLİKÇİLİK",
+   "start": "2027-04-19",
+   "end": "2027-04-23",
+   "outcomes": [
+    {
+     "code": "TT.7.Ç.2.1",
+     "text": "Özel gereksinimli bireylerin yaşama zorluklarını ifade eder."
+    },
+    {
+     "code": "TT.7.Ç.2.2",
+     "text": "Özel gereksinimli bireylerin yaşama kolaylığı için geliştirilen ürünlerin tasarım özelliklerini araştırır."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. Ç. İHTİYAÇLAR VE YENİLİKÇİLİK",
+   "start": "2027-04-26",
+   "end": "2027-04-30",
+   "outcomes": [
+    {
+     "code": "TT.7.Ç.2.3",
+     "text": "Özel gereksinimli bireyler için yaşama kolaylığı sağlayacak bir ürün çizerek tasarlar."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. D. TASARIM VE TEKNOLOJİK ÇÖZÜM",
+   "start": "2027-05-03",
+   "end": "2027-05-07",
+   "outcomes": [
+    {
+     "code": "TT.7.D.1.1",
+     "text": "Tasarım problemini söyler."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. D. TASARIM VE TEKNOLOJİK ÇÖZÜM",
+   "start": "2027-05-10",
+   "end": "2027-05-14",
+   "outcomes": [
+    {
+     "code": "TT.7.D.1.2",
+     "text": "Tasarım probleminin çözümüne yönelik araştırma basamaklarını uygular."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. D. TASARIM VE TEKNOLOJİK ÇÖZÜM",
+   "start": "2027-05-17",
+   "end": "2027-05-21",
+   "outcomes": [
+    {
+     "code": "TT.7.D.1.3",
+     "text": "Tasarım planı hazırlar."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. D. TASARIM VE TEKNOLOJİK ÇÖZÜM",
+   "start": "2027-05-24",
+   "end": "2027-05-28",
+   "outcomes": [
+    {
+     "code": "TT.7.D.1.4",
+     "text": "Tasarımın modelini veya prototipini oluşturur."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. D. TASARIM VE TEKNOLOJİK ÇÖZÜM",
+   "start": "2027-05-31",
+   "end": "2027-06-04",
+   "outcomes": []
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. D. TASARIM VE TEKNOLOJİK ÇÖZÜM",
+   "start": "2027-06-07",
+   "end": "2027-06-11",
+   "outcomes": [
+    {
+     "code": "TT.7.D.1.5",
+     "text": "Tasarımını belirlenen kriterlere göre değerlendirir."
+    },
+    {
+     "code": "TT.7.D.1.6",
+     "text": "Tasarladığı ürünü değerlendirme sonuçlarına göre yeniden yapılandırır."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "7. D. TASARIM VE TEKNOLOJİK ÇÖZÜM",
+   "start": "2027-06-14",
+   "end": "2027-06-18",
+   "outcomes": [
+    {
+     "code": "TT.7.D.2.1",
+     "text": "Sergileyeceği ürün veya ürünlerini sunar."
+    }
+   ]
+  },
+  {
+   "name": "Teknoloji ve Tasarım",
+   "konu": "Sosyal Etkinlik / Yıl Sonu Değerlendirme",
+   "start": "2027-06-21",
+   "end": "2027-06-25",
+   "outcomes": []
+  }
+ ]
+}
