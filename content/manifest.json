@@ -1,5 +1,5 @@
 {
- "version": "2026-2027.37",
+ "version": "2026-2027.38",
  "year": "2025-2026",
  "plans": [
   {
@@ -311,6 +311,16 @@
    "grade": 7,
    "subject": "Çoklu Yabancı Dil Eğitim Modeli Almanca",
    "file": "almanca-7.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Türkçe",
+   "file": "turkce-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Çoklu Yabancı Dil Eğitim Modeli Almanca",
+   "file": "almanca-6.json"
   }
  ]
 }

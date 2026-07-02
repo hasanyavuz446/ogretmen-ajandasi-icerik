@@ -1,0 +1,541 @@
+{
+ "grade": 6,
+ "subject": "Çoklu Yabancı Dil Eğitim Modeli Almanca",
+ "themes": [
+  {
+   "name": "1. ÜNİTE: MEINE HOBBYS",
+   "konu": "Die Freizeitaktivitäten; Die Hobbys; Mein Lieblingshobby",
+   "start": "2026-09-14",
+   "end": "2026-09-20",
+   "outcomes": [
+    {
+     "code": "DE.6.1.H1.1",
+     "text": "Vorbereitung auf das Hör- und Sehverstehen"
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: MEINE HOBBYS",
+   "konu": "Die Freizeitaktivitäten; Die Hobbys; Mein Lieblingshobby",
+   "start": "2026-09-21",
+   "end": "2026-09-27",
+   "outcomes": [
+    {
+     "code": "DE.6.1.H1.2",
+     "text": "Informationen zusammenführen durch bedeutende Details"
+    },
+    {
+     "code": "DE.6.1.P3.1",
+     "text": "Phonologische Elemente erkennen und anwenden"
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: MEINE HOBBYS",
+   "konu": "Die Freizeitaktivitäten; Die Hobbys; Mein Lieblingshobby",
+   "start": "2026-09-28",
+   "end": "2026-10-04",
+   "outcomes": [
+    {
+     "code": "DE.6.1.L2.1",
+     "text": "Vorbereitung auf das Leseverstehen"
+    },
+    {
+     "code": "DE.6.1.L2.3",
+     "text": "Bedeutung erschließen und Gedanken zum Leseprozess ausdrücken"
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: MEINE HOBBYS",
+   "konu": "Die Freizeitaktivitäten; Die Hobbys; Mein Lieblingshobby",
+   "start": "2026-10-05",
+   "end": "2026-10-11",
+   "outcomes": [
+    {
+     "code": "DE.6.1.W2.1",
+     "text": "Zielwortschatz erkennen und anwenden"
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: MEINE HOBBYS",
+   "konu": "Die Freizeitaktivitäten; Die Hobbys; Mein Lieblingshobby",
+   "start": "2026-10-12",
+   "end": "2026-10-18",
+   "outcomes": [
+    {
+     "code": "DE.6.1.G1.1",
+     "text": "Zielgrammatik erkennen und anwenden"
+    },
+    {
+     "code": "DE.6.1.S4.1",
+     "text": "Vorbereitung auf den Schreibprozess"
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: MEINE HOBBYS",
+   "konu": "Die Freizeitaktivitäten; Die Hobbys; Mein Lieblingshobby",
+   "start": "2026-10-19",
+   "end": "2026-10-25",
+   "outcomes": [
+    {
+     "code": "DE.6.1.SP3.1",
+     "text": "Vorbereitung auf den Sprechprozess"
+    },
+    {
+     "code": "DE.6.1.SP3.3",
+     "text": "Inhalt für das Sprechen organisieren und anwenden"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: MEIN TAG",
+   "konu": "Die Zahlen; Die Uhrzeiten; Mein Alltag",
+   "start": "2026-10-26",
+   "end": "2026-11-01",
+   "outcomes": [
+    {
+     "code": "DE.6.2.H1.1",
+     "text": "Vorbereitung auf das Hör-und Sehverstehen"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: MEIN TAG",
+   "konu": "Die Zahlen; Die Uhrzeiten; Mein Alltag",
+   "start": "2026-11-02",
+   "end": "2026-11-08",
+   "outcomes": [
+    {
+     "code": "DE.6.2.H1.2",
+     "text": "Informationen zusammenführen durch bedeutende Details"
+    },
+    {
+     "code": "DE.6.2.P3.1",
+     "text": "Phonologische Elemente erkennen und anwenden"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: MEIN TAG",
+   "konu": "Die Zahlen; Die Uhrzeiten; Mein Alltag",
+   "start": "2026-11-09",
+   "end": "2026-11-15",
+   "outcomes": [
+    {
+     "code": "DE.6.2.L2.1",
+     "text": "Vorbereitung auf das Leseverstehen"
+    },
+    {
+     "code": "DE.6.2.L2.3",
+     "text": "Bedeutung erschließen und Gedanken zum Leseprozess ausdrücken"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: MEIN TAG",
+   "konu": "Die Zahlen; Die Uhrzeiten; Mein Alltag",
+   "start": "2026-11-23",
+   "end": "2026-11-29",
+   "outcomes": [
+    {
+     "code": "DE.6.2.W2.1",
+     "text": "Zielwortschatz erkennen und anwenden"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: MEIN TAG",
+   "konu": "Die Zahlen; Die Uhrzeiten; Mein Alltag",
+   "start": "2026-11-30",
+   "end": "2026-12-06",
+   "outcomes": [
+    {
+     "code": "DE.6.2.G1.1",
+     "text": "Zielgrammatik erkennen und anwenden"
+    },
+    {
+     "code": "DE.6.2.S4.1",
+     "text": "Vorbereitung auf den Schreibprozess"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: MEIN TAG",
+   "konu": "Die Zahlen; Die Uhrzeiten; Mein Alltag",
+   "start": "2026-12-07",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "DE.6.2.SP3.1",
+     "text": "Vorbereitung auf den Sprechprozess"
+    },
+    {
+     "code": "DE.6.2.SP3.3",
+     "text": "Inhalt für das Sprechen organisieren und anwenden"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: DIE JAHRESZEITEN UND DAS WETTER",
+   "konu": "Die Monate und die Jahreszeiten; Das Wetter und die Kleidungen",
+   "start": "2026-12-14",
+   "end": "2026-12-20",
+   "outcomes": [
+    {
+     "code": "DE.6.3.H1.1",
+     "text": "Vorbereitung auf das Hör- und Sehverstehen"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: DIE JAHRESZEITEN UND DAS WETTER",
+   "konu": "Die Monate und die Jahreszeiten; Das Wetter und die Kleidungen",
+   "start": "2026-12-21",
+   "end": "2026-12-27",
+   "outcomes": [
+    {
+     "code": "DE.6.3.H1.2",
+     "text": "Informationen zusammenführen durch bedeutende Details"
+    },
+    {
+     "code": "DE.6.3.P3.1",
+     "text": "Phonologische Elemente erkennen und anwenden"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: DIE JAHRESZEITEN UND DAS WETTER",
+   "konu": "Die Monate und die Jahreszeiten; Das Wetter und die Kleidungen",
+   "start": "2026-12-28",
+   "end": "2027-01-03",
+   "outcomes": [
+    {
+     "code": "DE.6.3.L2.1",
+     "text": "Vorbereitung auf das Leseverstehen"
+    },
+    {
+     "code": "DE.6.3.L2.3",
+     "text": "Bedeutung erschließen und Gedanken zum Leseprozess ausdrücken"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: DIE JAHRESZEITEN UND DAS WETTER",
+   "konu": "Die Monate und die Jahreszeiten; Das Wetter und die Kleidungen",
+   "start": "2027-01-04",
+   "end": "2027-01-10",
+   "outcomes": [
+    {
+     "code": "DE.6.3.W2.1",
+     "text": "Zielwortschatz erkennen und anwenden"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: DIE JAHRESZEITEN UND DAS WETTER",
+   "konu": "Die Monate und die Jahreszeiten; Das Wetter und die Kleidungen",
+   "start": "2027-01-11",
+   "end": "2027-01-17",
+   "outcomes": [
+    {
+     "code": "DE.6.3.G1.1",
+     "text": "Zielgrammatik erkennen und anwenden"
+    },
+    {
+     "code": "DE.6.3.S4.1",
+     "text": "Vorbereitung auf den Schreibprozess"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: DIE JAHRESZEITEN UND DAS WETTER",
+   "konu": "Die Monate und die Jahreszeiten; Das Wetter und die Kleidungen",
+   "start": "2027-01-18",
+   "end": "2027-01-24",
+   "outcomes": [
+    {
+     "code": "DE.6.3.SP3.1",
+     "text": "Vorbereitung auf den Sprechprozess"
+    },
+    {
+     "code": "DE.6.3.SP3.3",
+     "text": "Inhalt für das Sprechen organisieren und anwenden"
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: MEIN ZUHAUSE",
+   "konu": "Die Wohnräume; Die Möbel und die Gegenstände",
+   "start": "2027-02-08",
+   "end": "2027-02-14",
+   "outcomes": [
+    {
+     "code": "DE.6.4.H1.1",
+     "text": "Vorbereitung auf das Hör- und Sehverstehen"
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: MEIN ZUHAUSE",
+   "konu": "Die Wohnräume; Die Möbel und die Gegenstände",
+   "start": "2027-02-15",
+   "end": "2027-02-21",
+   "outcomes": [
+    {
+     "code": "DE.6.4.H1.2",
+     "text": "Informationen zusammenführen durch bedeutende Details"
+    },
+    {
+     "code": "DE.6.4.P3.1",
+     "text": "Phonologische Elemente erkennen und anwenden"
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: MEIN ZUHAUSE",
+   "konu": "Die Wohnräume; Die Möbel und die Gegenstände",
+   "start": "2027-02-22",
+   "end": "2027-02-28",
+   "outcomes": [
+    {
+     "code": "DE.6.4.L2.1",
+     "text": "Vorbereitung auf das Leseverstehen"
+    },
+    {
+     "code": "DE.6.4.L2.3",
+     "text": "Bedeutung erschließen und Gedanken zum Leseprozess ausdrücken"
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: MEIN ZUHAUSE",
+   "konu": "Die Wohnräume; Die Möbel und die Gegenstände",
+   "start": "2027-03-01",
+   "end": "2027-03-07",
+   "outcomes": [
+    {
+     "code": "DE.6.4.W2.1",
+     "text": "Zielwortschatz erkennen und anwenden"
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: MEIN ZUHAUSE",
+   "konu": "Die Wohnräume; Die Möbel und die Gegenstände",
+   "start": "2027-03-15",
+   "end": "2027-03-21",
+   "outcomes": [
+    {
+     "code": "DE.6.4.G1.1",
+     "text": "Zielgrammatik erkennen und anwenden"
+    },
+    {
+     "code": "DE.6.4.S4.1",
+     "text": "Vorbereitung auf den Schreibprozess"
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: MEIN ZUHAUSE",
+   "konu": "Die Wohnräume; Die Möbel und die Gegenstände",
+   "start": "2027-03-22",
+   "end": "2027-03-28",
+   "outcomes": [
+    {
+     "code": "DE.6.4.SP3.1",
+     "text": "Vorbereitung auf den Sprechprozess"
+    },
+    {
+     "code": "DE.6.4.SP3.3",
+     "text": "Inhalt für das Sprechen organisieren und anwenden"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MEINE UMGEBUNG",
+   "konu": "Die Geschäfte in der Stadt; Die Orientierung in der Stadt; Die Wegbeschreibung",
+   "start": "2027-03-29",
+   "end": "2027-04-04",
+   "outcomes": [
+    {
+     "code": "DE.6.5.H1.1",
+     "text": "Vorbereitung auf das Hör-und Sehverstehen"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MEINE UMGEBUNG",
+   "konu": "Die Geschäfte in der Stadt; Die Orientierung in der Stadt; Die Wegbeschreibung",
+   "start": "2027-04-05",
+   "end": "2027-04-11",
+   "outcomes": [
+    {
+     "code": "DE.6.5.H1.2",
+     "text": "Informationen zusammenführen durch bedeutende Details"
+    },
+    {
+     "code": "DE.6.5.P3.1",
+     "text": "Phonologische Elemente erkennen und anwenden"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MEINE UMGEBUNG",
+   "konu": "Die Geschäfte in der Stadt; Die Orientierung in der Stadt; Die Wegbeschreibung",
+   "start": "2027-04-12",
+   "end": "2027-04-18",
+   "outcomes": [
+    {
+     "code": "DE.6.5.L2.1",
+     "text": "Vorbereitung auf das Leseverstehen"
+    },
+    {
+     "code": "DE.6.5.L2.3",
+     "text": "Bedeutung erschließen und Gedanken zum Leseprozess ausdrücken"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MEINE UMGEBUNG",
+   "konu": "Die Geschäfte in der Stadt; Die Orientierung in der Stadt; Die Wegbeschreibung",
+   "start": "2027-04-19",
+   "end": "2027-04-25",
+   "outcomes": [
+    {
+     "code": "DE.6.5.W2.1",
+     "text": "Zielwortschatz erkennen und anwenden"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MEINE UMGEBUNG",
+   "konu": "Die Geschäfte in der Stadt; Die Orientierung in der Stadt; Die Wegbeschreibung",
+   "start": "2027-04-26",
+   "end": "2027-05-02",
+   "outcomes": [
+    {
+     "code": "DE.6.5.G1.1",
+     "text": "Zielgrammatik erkennen und anwenden"
+    },
+    {
+     "code": "DE.6.5.S4.1",
+     "text": "Vorbereitung auf den Schreibprozess"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MEINE UMGEBUNG",
+   "konu": "Die Geschäfte in der Stadt; Die Orientierung in der Stadt; Die Wegbeschreibung",
+   "start": "2027-05-03",
+   "end": "2027-05-09",
+   "outcomes": [
+    {
+     "code": "DE.6.5.SP3.1",
+     "text": "Vorbereitung auf den Sprechprozess"
+    },
+    {
+     "code": "DE.6.5.SP3.3",
+     "text": "Inhalte für das Sprechen organisieren und anwenden"
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: DIE TIERE",
+   "konu": "Die Tiere und ihre Eigenschaften; Die Haustiere; Die Bauernhoftiere; Die Wildtiere",
+   "start": "2027-05-10",
+   "end": "2027-05-16",
+   "outcomes": [
+    {
+     "code": "DE.6.6.H1.1",
+     "text": "Vorbereitung auf das Hör-und Sehverstehen"
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: DIE TIERE",
+   "konu": "Die Tiere und ihre Eigenschaften; Die Haustiere; Die Bauernhoftiere; Die Wildtiere",
+   "start": "2027-05-17",
+   "end": "2027-05-23",
+   "outcomes": [
+    {
+     "code": "DE.6.6.H1.2",
+     "text": "Informationen zusammenführen durch bedeutende Details"
+    },
+    {
+     "code": "DE.6.6.P3.1",
+     "text": "Phonologische Elemente erkennen und anwenden"
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: DIE TIERE",
+   "konu": "Die Tiere und ihre Eigenschaften; Die Haustiere; Die Bauernhoftiere; Die Wildtiere",
+   "start": "2027-05-24",
+   "end": "2027-05-30",
+   "outcomes": [
+    {
+     "code": "DE.6.6.L2.1",
+     "text": "Vorbereitung auf das Leseverstehen"
+    },
+    {
+     "code": "DE.6.6.L2.3",
+     "text": "Bedeutung erschließen und Gedanken zum Leseprozess ausdrücken"
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: DIE TIERE",
+   "konu": "Die Tiere und ihre Eigenschaften; Die Haustiere; Die Bauernhoftiere; Die Wildtiere",
+   "start": "2027-05-31",
+   "end": "2027-06-06",
+   "outcomes": [
+    {
+     "code": "DE.6.6.W2.1",
+     "text": "Zielwortschatz erkennen und anwenden"
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: DIE TIERE",
+   "konu": "Die Tiere und ihre Eigenschaften; Die Haustiere; Die Bauernhoftiere; Die Wildtiere",
+   "start": "2027-06-07",
+   "end": "2027-06-13",
+   "outcomes": [
+    {
+     "code": "DE.6.6.G1.1",
+     "text": "Zielgrammatik erkennen und anwenden"
+    },
+    {
+     "code": "DE.6.6.S4.1",
+     "text": "Vorbereitung auf den Schreibprozess"
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: DIE TIERE",
+   "konu": "Die Tiere und ihre Eigenschaften; Die Haustiere; Die Bauernhoftiere; Die Wildtiere",
+   "start": "2027-06-14",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "DE.6.6.SP3.1",
+     "text": "Vorbereitung auf den Sprechprozess"
+    },
+    {
+     "code": "DE.6.6.SP3.3",
+     "text": "Inhalte für das Sprechen organisieren und anwenden"
+    }
+   ]
+  },
+  {
+   "name": "SOSYAL ETKİNLİK VE YIL SONU DEĞERLENDİRME",
+   "konu": "Proje sunumları, sosyal/kültürel etkinlikler ve yıl sonu genel değerlendirme",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": []
+  }
+ ]
+}

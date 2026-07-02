@@ -1,469 +1,477 @@
 {
-  "grade": 6,
-  "subject": "Fen Bilimleri",
-  "themes": [
+ "grade": 6,
+ "subject": "Fen Bilimleri",
+ "themes": [
+  {
+   "name": "1. ÜNİTE: GÜNEŞ SİSTEMİ VE TUTULMALAR",
+   "konu": "Güneş Sistemi",
+   "start": "2026-09-14",
+   "end": "2026-09-20",
+   "outcomes": [
     {
-      "name": "1. ÜNİTE: GÜNEŞ SİSTEMİ",
-      "konu": "Güneş Sistemi",
-      "start": "2026-09-14",
-      "end": "2026-09-20",
-      "outcomes": [
-        {
-          "code": "FB.6.1.1",
-          "text": "2. Güneş sistemi ile ilgili bilimsel model oluşturabilme"
-        }
-      ]
-    },
-    {
-      "name": "1. ÜNİTE: GÜNEŞ SİSTEMİ",
-      "konu": "Güneş Sistemi",
-      "start": "2026-09-21",
-      "end": "2026-09-27",
-      "outcomes": [
-        {
-          "code": "FB.6.1.1",
-          "text": "2. Güneş sistemi ile ilgili bilimsel model oluşturabilme"
-        },
-        {
-          "code": "FB.6.1.2",
-          "text": "2. Güneş ve Ay tutulması ile ilgili bilimsel model oluşturabilme"
-        }
-      ]
-    },
-    {
-      "name": "1. ÜNİTE: GÜNEŞ SİSTEMİ",
-      "konu": "Güneş ve Ay Tutulmaları",
-      "start": "2026-09-28",
-      "end": "2026-10-04",
-      "outcomes": [
-        {
-          "code": "FB.6.1.2",
-          "text": "2. Güneş ve Ay tutulması ile ilgili bilimsel model oluşturabilme"
-        }
-      ]
-    },
-    {
-      "name": "2. ÜNİTE: KUVVETİN ETKİSİNDE HAREKET",
-      "konu": "Bileşke Kuvvet",
-      "start": "2026-10-05",
-      "end": "2026-10-11",
-      "outcomes": [
-        {
-          "code": "FB.6.2.1",
-          "text": "1. Bir cisme etki eden aynı doğrultudaki kuvvetler arasındaki ilişkileri açıklayarak bileşke kuvveti yapılandırabilme"
-        }
-      ]
-    },
-    {
-      "name": "2. ÜNİTE: KUVVETİN ETKİSİNDE HAREKET",
-      "konu": "Bileşke Kuvvet",
-      "start": "2026-10-12",
-      "end": "2026-10-18",
-      "outcomes": [
-        {
-          "code": "FB.6.2.1",
-          "text": "1. Bir cisme etki eden aynı doğrultudaki kuvvetler arasındaki ilişkileri açıklayarak bileşke kuvveti yapılandırabilme"
-        }
-      ]
-    },
-    {
-      "name": "2. ÜNİTE: KUVVETİN ETKİSİNDE HAREKET",
-      "konu": "Sabit Süratli ve Sabit Hızlı Hareket",
-      "start": "2026-10-19",
-      "end": "2026-10-25",
-      "outcomes": [
-        {
-          "code": "FB.6.2.2",
-          "text": "1. Sürat ve hız kavramlarını karşılaştırabilme"
-        }
-      ]
-    },
-    {
-      "name": "2. ÜNİTE: KUVVETİN ETKİSİNDE HAREKET",
-      "konu": "Sabit Süratli ve Sabit Hızlı Hareket",
-      "start": "2026-10-26",
-      "end": "2026-11-01",
-      "outcomes": [
-        {
-          "code": "FB.6.2.2",
-          "text": "1. Sürat ve hız kavramlarını karşılaştırabilme"
-        },
-        {
-          "code": "FB.6.3.1",
-          "text": "5. İnsanda üremeyi sağlayan yapı ve organlar arasındaki ilişkileri çözümleyebilme"
-        }
-      ]
-    },
-    {
-      "name": "3. ÜNİTE: CANLILARDA SİSTEMLER",
-      "konu": "Bitki ve Hayvanlarda Üreme, Büyüme ve Gelişme",
-      "start": "2026-11-02",
-      "end": "2026-11-08",
-      "outcomes": [
-        {
-          "code": "FB.6.3.1",
-          "text": "5. İnsanda üremeyi sağlayan yapı ve organlar arasındaki ilişkileri çözümleyebilme"
-        }
-      ]
-    },
-    {
-      "name": "3. ÜNİTE: CANLILARDA SİSTEMLER",
-      "konu": "Bitki ve Hayvanlarda Üreme, Büyüme ve Gelişme",
-      "start": "2026-11-09",
-      "end": "2026-11-15",
-      "outcomes": [
-        {
-          "code": "FB.6.3.1",
-          "text": "5. İnsanda üremeyi sağlayan yapı ve organlar arasındaki ilişkileri çözümleyebilme"
-        }
-      ]
-    },
-    {
-      "name": "3. ÜNİTE: CANLILARDA SİSTEMLER",
-      "konu": "Bitki ve Hayvanlarda Üreme, Büyüme ve Gelişme",
-      "start": "2026-11-23",
-      "end": "2026-11-29",
-      "outcomes": [
-        {
-          "code": "FB.6.3.1",
-          "text": "5. İnsanda üremeyi sağlayan yapı ve organlar arasındaki ilişkileri çözümleyebilme"
-        }
-      ]
-    },
-    {
-      "name": "3. ÜNİTE: CANLILARDA SİSTEMLER",
-      "konu": "Denetleyici ve Düzenleyici Sistemler",
-      "start": "2026-11-30",
-      "end": "2026-12-06",
-      "outcomes": [
-        {
-          "code": "FB.6.3.2",
-          "text": "4. Denetleyici ve düzenleyici sistemlerin sağlığı için yapılması gerekenlerle ilgili bilgi toplayabilme"
-        }
-      ]
-    },
-    {
-      "name": "3. ÜNİTE: CANLILARDA SİSTEMLER",
-      "konu": "Denetleyici ve Düzenleyici Sistemler",
-      "start": "2026-12-07",
-      "end": "2026-12-13",
-      "outcomes": [
-        {
-          "code": "FB.6.3.2",
-          "text": "4. Denetleyici ve düzenleyici sistemlerin sağlığı için yapılması gerekenlerle ilgili bilgi toplayabilme"
-        }
-      ]
-    },
-    {
-      "name": "3. ÜNİTE: CANLILARDA SİSTEMLER",
-      "konu": "Denetleyici ve Düzenleyici Sistemler",
-      "start": "2026-12-14",
-      "end": "2026-12-20",
-      "outcomes": [
-        {
-          "code": "FB.6.3.2",
-          "text": "4. Denetleyici ve düzenleyici sistemlerin sağlığı için yapılması gerekenlerle ilgili bilgi toplayabilme"
-        },
-        {
-          "code": "FB.6.4.1",
-          "text": "2. Işığın yansımasında gelen ışın, yansıyan ışın ve yüzeyin normali arasındaki ilişkiyi kanıt kullanarak açıklayabilme"
-        }
-      ]
-    },
-    {
-      "name": "4. ÜNİTE: IŞIĞIN YANSIMASI VE RENKLER",
-      "konu": "Işığın Yansıması",
-      "start": "2026-12-21",
-      "end": "2026-12-27",
-      "outcomes": [
-        {
-          "code": "FB.6.4.1",
-          "text": "2. Işığın yansımasında gelen ışın, yansıyan ışın ve yüzeyin normali arasındaki ilişkiyi kanıt kullanarak açıklayabilme"
-        }
-      ]
-    },
-    {
-      "name": "4. ÜNİTE: IŞIĞIN YANSIMASI VE RENKLER",
-      "konu": "Aynalar",
-      "start": "2026-12-28",
-      "end": "2027-01-03",
-      "outcomes": [
-        {
-          "code": "FB.6.4.2",
-          "text": "1. Günlük hayattaki ayna çeşitlerine ilişkin bilimsel çıkarım yapabilme"
-        }
-      ]
-    },
-    {
-      "name": "OCAK",
-      "konu": "Işığın Soğurulması",
-      "start": "2027-01-04",
-      "end": "2027-01-10",
-      "outcomes": [
-        {
-          "code": "FB.6.4.3",
-          "text": "4. Güneş enerjisinin günlük hayat ve teknolojideki yenilikçi uygulamalarına ilişkin eleştirel düşünebilme"
-        }
-      ]
-    },
-    {
-      "name": "4. ÜNİTE: IŞIĞIN YANSIMASI VE RENKLER",
-      "konu": "Işığın Soğurulması",
-      "start": "2027-01-11",
-      "end": "2027-01-17",
-      "outcomes": [
-        {
-          "code": "FB.6.4.3",
-          "text": "4. Güneş enerjisinin günlük hayat ve teknolojideki yenilikçi uygulamalarına ilişkin eleştirel düşünebilme"
-        }
-      ]
-    },
-    {
-      "name": "4. ÜNİTE: IŞIĞIN YANSIMASI VE RENKLER",
-      "konu": "Işığın Soğurulması",
-      "start": "2027-01-18",
-      "end": "2027-01-24",
-      "outcomes": [
-        {
-          "code": "FB.6.4.3",
-          "text": "4. Güneş enerjisinin günlük hayat ve teknolojideki yenilikçi uygulamalarına ilişkin eleştirel düşünebilme"
-        }
-      ]
-    },
-    {
-      "name": "4. ÜNİTE: IŞIĞIN YANSIMASI VE RENKLERİ",
-      "konu": "Işığın Soğurulması",
-      "start": "2027-02-08",
-      "end": "2027-02-14",
-      "outcomes": [
-        {
-          "code": "FB.6.4.3",
-          "text": "4. Güneş enerjisinin günlük hayat ve teknolojideki yenilikçi uygulamalarına ilişkin eleştirel düşünebilme"
-        },
-        {
-          "code": "FB.6.5.1",
-          "text": "1. Isı etkisiyle maddelerin genleşip büzüleceğine yönelik bilimsel gözleme dayalı tahmin edebilme"
-        }
-      ]
-    },
-    {
-      "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
-      "konu": "Genleşme ve Büzülme",
-      "start": "2027-02-15",
-      "end": "2027-02-21",
-      "outcomes": [
-        {
-          "code": "FB.6.5.1",
-          "text": "1. Isı etkisiyle maddelerin genleşip büzüleceğine yönelik bilimsel gözleme dayalı tahmin edebilme"
-        }
-      ]
-    },
-    {
-      "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
-      "konu": "Maddenin Hâl Değişim Noktaları",
-      "start": "2027-02-22",
-      "end": "2027-02-28",
-      "outcomes": [
-        {
-          "code": "FB.6.5.2",
-          "text": "1. Maddelerin erime, donma ve kaynama noktasını gösteren deney yapabilme"
-        }
-      ]
-    },
-    {
-      "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
-      "konu": "Maddenin Hâl Değişim Noktaları",
-      "start": "2027-03-01",
-      "end": "2027-03-07",
-      "outcomes": [
-        {
-          "code": "FB.6.5.2",
-          "text": "1. Maddelerin erime, donma ve kaynama noktasını gösteren deney yapabilme"
-        }
-      ]
-    },
-    {
-      "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
-      "konu": "Yoğunluk",
-      "start": "2027-03-08",
-      "end": "2027-03-14",
-      "outcomes": [
-        {
-          "code": "FB.6.5.3",
-          "text": "3. Suyun katı ve sıvı hâllerine ait yoğunlukları karşılaştırarak bu durumun canlılar için önemi hakkında bilimsel çıkarımlar yapabilme"
-        }
-      ]
-    },
-    {
-      "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
-      "konu": "Yoğunluk",
-      "start": "2027-03-15",
-      "end": "2027-03-21",
-      "outcomes": [
-        {
-          "code": "FB.6.5.3",
-          "text": "3. Suyun katı ve sıvı hâllerine ait yoğunlukları karşılaştırarak bu durumun canlılar için önemi hakkında bilimsel çıkarımlar yapabilme"
-        }
-      ]
-    },
-    {
-      "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
-      "konu": "Yoğunluk",
-      "start": "2027-03-29",
-      "end": "2027-04-04",
-      "outcomes": [
-        {
-          "code": "FB.6.5.3",
-          "text": "3. Suyun katı ve sıvı hâllerine ait yoğunlukları karşılaştırarak bu durumun canlılar için önemi hakkında bilimsel çıkarımlar yapabilme"
-        }
-      ]
-    },
-    {
-      "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
-      "konu": "Yoğunluk",
-      "start": "2027-04-05",
-      "end": "2027-04-11",
-      "outcomes": [
-        {
-          "code": "FB.6.5.3",
-          "text": "3. Suyun katı ve sıvı hâllerine ait yoğunlukları karşılaştırarak bu durumun canlılar için önemi hakkında bilimsel çıkarımlar yapabilme"
-        }
-      ]
-    },
-    {
-      "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
-      "konu": "Yoğunluk",
-      "start": "2027-04-12",
-      "end": "2027-04-18",
-      "outcomes": [
-        {
-          "code": "FB.6.5.3",
-          "text": "3. Suyun katı ve sıvı hâllerine ait yoğunlukları karşılaştırarak bu durumun canlılar için önemi hakkında bilimsel çıkarımlar yapabilme"
-        },
-        {
-          "code": "FB.6.6.1",
-          "text": "1. Maddelerin elektriği iletme durumlarını gösteren deney yapabilme"
-        }
-      ]
-    },
-    {
-      "name": "6. ÜNİTE: ELEKTRİĞİN İLETİMİ VE DİRENÇ",
-      "konu": "Elektriğin İletimi",
-      "start": "2027-04-19",
-      "end": "2027-04-25",
-      "outcomes": [
-        {
-          "code": "FB.6.6.1",
-          "text": "1. Maddelerin elektriği iletme durumlarını gösteren deney yapabilme"
-        }
-      ]
-    },
-    {
-      "name": "6. ÜNİTE: ELEKTRİĞİN İLETİMİ VE DİRENÇ",
-      "konu": "Elektriksel Direnç ve Bağlı Olduğu Faktörler",
-      "start": "2027-04-26",
-      "end": "2027-05-02",
-      "outcomes": [
-        {
-          "code": "FB.6.6.2",
-          "text": "1. Elektrik devresindeki ampulün parlaklığının bağlı olduğu değişkenleri belirlemeye yönelik deney yapabilme"
-        }
-      ]
-    },
-    {
-      "name": "6. ÜNİTE: ELEKTRİĞİN İLETİMİ VE DİRENÇ",
-      "konu": "Elektriksel Direnç ve Bağlı Olduğu Faktörler",
-      "start": "2027-05-03",
-      "end": "2027-05-09",
-      "outcomes": [
-        {
-          "code": "FB.6.6.2",
-          "text": "1. Elektrik devresindeki ampulün parlaklığının bağlı olduğu değişkenleri belirlemeye yönelik deney yapabilme"
-        }
-      ]
-    },
-    {
-      "name": "6. ÜNİTE: ELEKTRİĞİN İLETİMİ VE DİRENÇ",
-      "konu": "Elektriksel Direnç ve Bağlı Olduğu Faktörler",
-      "start": "2027-05-10",
-      "end": "2027-05-16",
-      "outcomes": [
-        {
-          "code": "FB.6.6.2",
-          "text": "1. Elektrik devresindeki ampulün parlaklığının bağlı olduğu değişkenleri belirlemeye yönelik deney yapabilme"
-        }
-      ]
-    },
-    {
-      "name": "6. ÜNİTE: ELEKTRİĞİN İLETİMİ VE DİRENÇ",
-      "konu": "Elektriksel Direnç ve Bağlı Olduğu Faktörler",
-      "start": "2027-05-17",
-      "end": "2027-05-23",
-      "outcomes": [
-        {
-          "code": "FB.6.6.2",
-          "text": "1. Elektrik devresindeki ampulün parlaklığının bağlı olduğu değişkenleri belirlemeye yönelik deney yapabilme"
-        },
-        {
-          "code": "FB.6.7.1",
-          "text": "2. Biyoçeşitliliği tehdit eden faktörleri araştırma verilerine dayalı tahmin edebilme"
-        }
-      ]
-    },
-    {
-      "name": "7. ÜNİTE: SÜRDÜRÜLEBİLİR YAŞAM VE ETKİLEŞİM",
-      "konu": "Biyoçeşitlilik",
-      "start": "2027-05-24",
-      "end": "2027-05-30",
-      "outcomes": [
-        {
-          "code": "FB.6.7.1",
-          "text": "2. Biyoçeşitliliği tehdit eden faktörleri araştırma verilerine dayalı tahmin edebilme"
-        }
-      ]
-    },
-    {
-      "name": "7. ÜNİTE: SÜRDÜRÜLEBİLİR YAŞAM VE ETKİLEŞİM",
-      "konu": "Biyoçeşitlilik",
-      "start": "2027-06-07",
-      "end": "2027-06-13",
-      "outcomes": [
-        {
-          "code": "FB.6.7.1",
-          "text": "2. Biyoçeşitliliği tehdit eden faktörleri araştırma verilerine dayalı tahmin edebilme"
-        }
-      ]
-    },
-    {
-      "name": "7. ÜNİTE: SÜRDÜRÜLEBİLİR YAŞAM VE ETKİLEŞİM",
-      "konu": "İnsan ve Çevre Etkileşimi",
-      "start": "2027-06-14",
-      "end": "2027-06-20",
-      "outcomes": [
-        {
-          "code": "FB.6.7.2",
-          "text": "2. Yakın çevresindeki veya ülkemizdeki bir çevre problemine ilişkin çözüm üretebilme"
-        }
-      ]
-    },
-    {
-      "name": "7. ÜNİTE: SÜRDÜRÜLEBİLİR YAŞAM VE ETKİLEŞİM",
-      "konu": "İnsan ve Çevre Etkileşimi",
-      "start": "2027-06-21",
-      "end": "2027-06-27",
-      "outcomes": [
-        {
-          "code": "FB.6.7.2",
-          "text": "2. Yakın çevresindeki veya ülkemizdeki bir çevre problemine ilişkin çözüm üretebilme"
-        }
-      ]
-    },
-    {
-      "name": "UYGUNDUR.",
-      "konu": "Farklılaştırma kapsamındaki tüm uygulamalar; öğrencilerin ilgi, ihtiyaç ve istekleri göz önünde bulundurularak öğretmenler tarafından planlanır ve uygulanır.",
-      "start": "2027-06-28",
-      "end": "2027-07-04",
-      "outcomes": []
+     "code": "FB.6.1.1.1",
+     "text": "Güneş sistemindeki gezegenleri niteliklerine göre sınıflandırabilme"
     }
-  ]
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: GÜNEŞ SİSTEMİ VE TUTULMALAR",
+   "konu": "Güneş Sistemi",
+   "start": "2026-09-21",
+   "end": "2026-09-27",
+   "outcomes": [
+    {
+     "code": "FB.6.1.1.2",
+     "text": "Güneş sistemi ile ilgili bilimsel model oluşturabilme"
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: GÜNEŞ SİSTEMİ VE TUTULMALAR",
+   "konu": "Güneş ve Ay Tutulmaları",
+   "start": "2026-09-28",
+   "end": "2026-10-04",
+   "outcomes": [
+    {
+     "code": "FB.6.1.2.1",
+     "text": "Güneş ve Ay tutulması ile ilgili bilimsel çıkarım yapabilme"
+    },
+    {
+     "code": "FB.6.1.2.2",
+     "text": "Güneş ve Ay tutulması ile ilgili bilimsel model oluşturabilme"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: KUVVETİN ETKİSİNDE HAREKET",
+   "konu": "Bileşke Kuvvet",
+   "start": "2026-10-05",
+   "end": "2026-10-11",
+   "outcomes": [
+    {
+     "code": "FB.6.2.1.1",
+     "text": "Bir cisme etki eden aynı doğrultudaki kuvvetler arasındaki ilişkileri açıklayarak"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: KUVVETİN ETKİSİNDE HAREKET",
+   "konu": "Bileşke Kuvvet",
+   "start": "2026-10-12",
+   "end": "2026-10-18",
+   "outcomes": [
+    {
+     "code": "FB.6.2.1.1",
+     "text": "Bir cisme etki eden aynı doğrultudaki kuvvetler arasındaki ilişkileri açıklayarak"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: KUVVETİN ETKİSİNDE HAREKET",
+   "konu": "Bileşke Kuvvet",
+   "start": "2026-10-19",
+   "end": "2026-10-25",
+   "outcomes": [
+    {
+     "code": "FB.6.2.1.2",
+     "text": "Dengelenmiş ve dengelenmemiş kuvvetlerin etkisi altındaki bir cismin"
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: KUVVETİN ETKİSİNDE HAREKET",
+   "konu": "Bileşke Kuvvet",
+   "start": "2026-10-26",
+   "end": "2026-11-01",
+   "outcomes": [
+    {
+     "code": "FB.6.2.2.1",
+     "text": "Sürat ve hız kavramlarını karşılaştırabilme"
+    },
+    {
+     "code": "FB.6.3.1.1",
+     "text": "Eşeyli ve eşeysiz üremeyi karşılaştırabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: CANLILARDA SİSTEMLER",
+   "konu": "Bitki ve Hayvanlarda Üreme, Büyüme ve Gelişme",
+   "start": "2026-11-02",
+   "end": "2026-11-08",
+   "outcomes": [
+    {
+     "code": "FB.6.3.1.2",
+     "text": "Bitkilerde üreme, büyüme ve gelişme hakkında bilimsel çıkarım yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: CANLILARDA SİSTEMLER",
+   "konu": "Bitki ve Hayvanlarda Üreme, Büyüme ve Gelişme",
+   "start": "2026-11-09",
+   "end": "2026-11-15",
+   "outcomes": [
+    {
+     "code": "FB.6.3.1.3",
+     "text": "Tohumun çimlenmesine etki eden faktörlere ilişkin hipotez oluşturabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: CANLILARDA SİSTEMLER",
+   "konu": "Bitki ve Hayvanlarda Üreme, Büyüme ve Gelişme",
+   "start": "2026-11-23",
+   "end": "2026-11-29",
+   "outcomes": [
+    {
+     "code": "FB.6.3.1.4",
+     "text": "Hayvanlarda üreme, büyüme ve gelişme hakkında bilimsel çıkarım yapabilme"
+    },
+    {
+     "code": "FB.6.3.1.5",
+     "text": "İnsanda üremeyi sağlayan yapı ve organlar arasındaki ilişkileri çözümleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: CANLILARDA SİSTEMLER",
+   "konu": "Denetleyici ve Düzenleyici Sistemler",
+   "start": "2026-11-30",
+   "end": "2026-12-06",
+   "outcomes": [
+    {
+     "code": "FB.6.3.2.1",
+     "text": "Sinir sisteminin görevlerini model üzerinde gözlemleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: CANLILARDA SİSTEMLER",
+   "konu": "Denetleyici ve Düzenleyici Sistemler",
+   "start": "2026-12-07",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "FB.6.3.2.2",
+     "text": "İç salgı bezlerinin vücut için önemini yapılandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: CANLILARDA SİSTEMLER",
+   "konu": "Denetleyici ve Düzenleyici Sistemler",
+   "start": "2026-12-14",
+   "end": "2026-12-20",
+   "outcomes": [
+    {
+     "code": "FB.6.3.2.3",
+     "text": "Çocukluktan ergenliğe geçişte oluşan bedensel ve ruhsal değişimleri"
+    },
+    {
+     "code": "FB.6.3.2.4",
+     "text": "Denetleyici ve düzenleyici sistemlerin sağlığı için yapılması gerekenlerle ilgili"
+    },
+    {
+     "code": "FB.6.4.1.1",
+     "text": "Işığın farklı yüzeylerdeki yansıma olaylarına ilişkin bilimsel çıkarım yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: IŞIĞIN YANSIMASI VE RENKLER",
+   "konu": "Işığın Yansıması",
+   "start": "2026-12-21",
+   "end": "2026-12-27",
+   "outcomes": [
+    {
+     "code": "FB.6.4.1.2",
+     "text": "Işığın yansımasında gelen ışın, yansıyan ışın ve yüzeyin normali arasındaki"
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: IŞIĞIN YANSIMASI VE RENKLER",
+   "konu": "Aynalar",
+   "start": "2026-12-28",
+   "end": "2027-01-03",
+   "outcomes": [
+    {
+     "code": "FB.6.4.2.1",
+     "text": "Günlük hayattaki ayna çeşitlerine ilişkin bilimsel çıkarım yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: IŞIĞIN YANSIMASI VE RENKLER",
+   "konu": "Işığın Soğurulması",
+   "start": "2027-01-04",
+   "end": "2027-01-10",
+   "outcomes": [
+    {
+     "code": "FB.6.4.3.1",
+     "text": "Işığın madde ile etkileşimi sonucunda soğurulabileceğini gözlemleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: IŞIĞIN YANSIMASI VE RENKLER",
+   "konu": "Işığın Soğurulması",
+   "start": "2027-01-11",
+   "end": "2027-01-17",
+   "outcomes": [
+    {
+     "code": "FB.6.4.3.2",
+     "text": "Beyaz ışığın tüm ışık renklerinin bileşiminden oluştuğuna ilişkin bilimsel"
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: IŞIĞIN YANSIMASI VE RENKLER",
+   "konu": "Işığın Soğurulması",
+   "start": "2027-01-18",
+   "end": "2027-01-24",
+   "outcomes": [
+    {
+     "code": "FB.6.4.3.3",
+     "text": "Cisimlerin siyah, beyaz ve renkli görünmesinin nedenini gözlem verileriyle"
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: IŞIĞIN YANSIMASI VE RENKLER",
+   "konu": "Işığın Soğurulması",
+   "start": "2027-02-08",
+   "end": "2027-02-14",
+   "outcomes": [
+    {
+     "code": "FB.6.4.3.4",
+     "text": "Güneş enerjisinin günlük hayat ve teknolojideki yenilikçi uygulamalarına ilişkin"
+    },
+    {
+     "code": "FB.6.5.1.1",
+     "text": "Isı etkisiyle maddelerin genleşip büzüleceğine yönelik bilimsel gözleme dayalı"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
+   "konu": "Genleşme ve Büzülme",
+   "start": "2027-02-15",
+   "end": "2027-02-21",
+   "outcomes": [
+    {
+     "code": "FB.6.5.1.1",
+     "text": "Isı etkisiyle maddelerin genleşip büzüleceğine yönelik bilimsel gözleme dayalı"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
+   "konu": "Maddenin Hâl Değişim Noktaları",
+   "start": "2027-02-22",
+   "end": "2027-02-28",
+   "outcomes": [
+    {
+     "code": "FB.6.5.2.1",
+     "text": "Maddelerin erime, donma ve kaynama noktasını gösteren deney yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
+   "konu": "Yoğunluk",
+   "start": "2027-03-01",
+   "end": "2027-03-07",
+   "outcomes": [
+    {
+     "code": "FB.6.5.3.1",
+     "text": "Yoğunluğa ilişkin hesaplamalar yaparak bilimsel veriye dayalı tahmin edebilme"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
+   "konu": "Yoğunluk",
+   "start": "2027-03-15",
+   "end": "2027-03-21",
+   "outcomes": [
+    {
+     "code": "FB.6.5.3.1",
+     "text": "Yoğunluğa ilişkin hesaplamalar yaparak bilimsel veriye dayalı tahmin edebilme"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
+   "konu": "Yoğunluk",
+   "start": "2027-03-22",
+   "end": "2027-03-28",
+   "outcomes": [
+    {
+     "code": "FB.6.5.3.2",
+     "text": "Deneyler sonucunda çeşitli maddelerin yoğunluklarına ilişkin tümdengelimsel"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
+   "konu": "Yoğunluk",
+   "start": "2027-03-29",
+   "end": "2027-04-04",
+   "outcomes": [
+    {
+     "code": "FB.6.5.3.3",
+     "text": "Suyun katı ve sıvı hâllerine ait yoğunlukları karşılaştırarak bu durumun canlılar"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
+   "konu": "Yoğunluk",
+   "start": "2027-04-05",
+   "end": "2027-04-11",
+   "outcomes": [
+    {
+     "code": "FB.6.5.3.3",
+     "text": "Suyun katı ve sıvı hâllerine ait yoğunlukları karşılaştırarak bu durumun canlılar"
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: MADDENİN AYIRT EDİCİ ÖZELLİKLERİ",
+   "konu": "Yoğunluk",
+   "start": "2027-04-12",
+   "end": "2027-04-18",
+   "outcomes": [
+    {
+     "code": "FB.6.5.3.4",
+     "text": "Yoğunluk ile ilgili bilimsel model oluşturabilme"
+    },
+    {
+     "code": "FB.6.6.1.1",
+     "text": "Maddelerin elektriği iletme durumlarını gösteren deney yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: ELEKTRİĞİN İLETİMİ VE DİRENÇ",
+   "konu": "Elektriğin İletimi",
+   "start": "2027-04-19",
+   "end": "2027-04-25",
+   "outcomes": [
+    {
+     "code": "FB.6.6.1.1",
+     "text": "Maddelerin elektriği iletme durumlarını gösteren deney yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: ELEKTRİĞİN İLETİMİ VE DİRENÇ",
+   "konu": "Elektriksel Direnç ve Bağlı Olduğu Faktörler",
+   "start": "2027-04-26",
+   "end": "2027-05-02",
+   "outcomes": [
+    {
+     "code": "FB.6.6.2.1",
+     "text": "Elektrik devresindeki ampulün parlaklığının bağlı olduğu değişkenleri"
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: ELEKTRİĞİN İLETİMİ VE DİRENÇ",
+   "konu": "Elektriksel Direnç ve Bağlı Olduğu Faktörler",
+   "start": "2027-05-03",
+   "end": "2027-05-09",
+   "outcomes": [
+    {
+     "code": "FB.6.6.2.1",
+     "text": "Elektrik devresindeki ampulün parlaklığının bağlı olduğu değişkenleri"
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: ELEKTRİĞİN İLETİMİ VE DİRENÇ",
+   "konu": "Elektriksel Direnç ve Bağlı Olduğu Faktörler",
+   "start": "2027-05-10",
+   "end": "2027-05-16",
+   "outcomes": [
+    {
+     "code": "FB.6.6.2.2",
+     "text": "Ayarlanabilir direncin ampulün parlaklığına etkilerine yönelik bilimsel çıkarım"
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: ELEKTRİĞİN İLETİMİ VE DİRENÇ",
+   "konu": "Elektriksel Direnç ve Bağlı Olduğu Faktörler",
+   "start": "2027-05-17",
+   "end": "2027-05-23",
+   "outcomes": [
+    {
+     "code": "FB.6.6.2.2",
+     "text": "Ayarlanabilir direncin ampulün parlaklığına etkilerine yönelik bilimsel çıkarım"
+    },
+    {
+     "code": "FB.6.7.1.1",
+     "text": "Biyoçeşitliliğin doğal yaşam için önemini sorgulayabilme"
+    }
+   ]
+  },
+  {
+   "name": "7. ÜNİTE: SÜRDÜRÜLEBİLİR YAŞAM VE ETKİLEŞİM",
+   "konu": "Biyoçeşitlilik",
+   "start": "2027-05-24",
+   "end": "2027-05-30",
+   "outcomes": [
+    {
+     "code": "FB.6.7.1.1",
+     "text": "Biyoçeşitliliğin doğal yaşam için önemini sorgulayabilme"
+    }
+   ]
+  },
+  {
+   "name": "7. ÜNİTE: SÜRDÜRÜLEBİLİR YAŞAM VE ETKİLEŞİM",
+   "konu": "Biyoçeşitlilik",
+   "start": "2027-05-31",
+   "end": "2027-06-06",
+   "outcomes": [
+    {
+     "code": "FB.6.7.1.2",
+     "text": "Biyoçeşitliliği tehdit eden faktörleri araştırma verilerine dayalı tahmin edebilme"
+    }
+   ]
+  },
+  {
+   "name": "7. ÜNİTE: SÜRDÜRÜLEBİLİR YAŞAM VE ETKİLEŞİM",
+   "konu": "İnsan ve Çevre Etkileşimi",
+   "start": "2027-06-07",
+   "end": "2027-06-13",
+   "outcomes": [
+    {
+     "code": "FB.6.7.2.1",
+     "text": "Isınma amaçlı yakıt kullanımının insan ve çevre üzerine etkilerini tartışabilme"
+    }
+   ]
+  },
+  {
+   "name": "7. ÜNİTE: SÜRDÜRÜLEBİLİR YAŞAM VE ETKİLEŞİM",
+   "konu": "İnsan ve Çevre Etkileşimi",
+   "start": "2027-06-14",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "FB.6.7.2.2",
+     "text": "Yakın çevresindeki veya ülkemizdeki bir çevre problemine ilişkin çözüm"
+    }
+   ]
+  },
+  {
+   "name": "SOSYAL ETKİNLİK VE YIL SONU DEĞERLENDİRME",
+   "konu": "Proje sunumları, sosyal/kültürel etkinlikler ve yıl sonu genel değerlendirme",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": []
+  }
+ ]
 }
