@@ -10,7 +10,7 @@
    "outcomes": [
     {
      "code": "MAT.6.1.1",
-     "text": "Karşılaştığı problem durumlarında bir doğal sayının çarpan ve katlarına yöne-"
+     "text": "Karşılaştığı problem durumlarında bir doğal sayının çarpan ve katlarına yönelik muhakeme yapabilme"
     }
    ]
   },
@@ -86,7 +86,7 @@
    "outcomes": [
     {
      "code": "MAT.6.5.2",
-     "text": "Başkaları tarafından oluşturulan kategorik veya nicel (kesikli) veriye dayalı is-"
+     "text": "Başkaları tarafından oluşturulan kategorik veya nicel (kesikli) veriye dayalı istatistiksel sonuç veya yorumları tartışabilme"
     }
    ]
   },
@@ -98,7 +98,7 @@
    "outcomes": [
     {
      "code": "MAT.6.5.2",
-     "text": "Başkaları tarafından oluşturulan kategorik veya nicel (kesikli) veriye dayalı is-"
+     "text": "Başkaları tarafından oluşturulan kategorik veya nicel (kesikli) veriye dayalı istatistiksel sonuç veya yorumları tartışabilme"
     }
    ]
   },
@@ -110,11 +110,11 @@
    "outcomes": [
     {
      "code": "MAT.6.5.2",
-     "text": "Başkaları tarafından oluşturulan kategorik veya nicel (kesikli) veriye dayalı is-"
+     "text": "Başkaları tarafından oluşturulan kategorik veya nicel (kesikli) veriye dayalı istatistiksel sonuç veya yorumları tartışabilme"
     },
     {
      "code": "MAT.6.1.5",
-     "text": "Gerçek yaşam durumlarında ondalık gösterimlerin basamak değerlerini kesir-"
+     "text": "Gerçek yaşam durumlarında ondalık gösterimlerin basamak değerlerini kesirlerden yararlanarak yorumlayabilme"
     }
    ]
   },
@@ -126,7 +126,7 @@
    "outcomes": [
     {
      "code": "MAT.6.1.5",
-     "text": "Gerçek yaşam durumlarında ondalık gösterimlerin basamak değerlerini kesir-"
+     "text": "Gerçek yaşam durumlarında ondalık gösterimlerin basamak değerlerini kesirlerden yararlanarak yorumlayabilme"
     }
    ]
   },
@@ -138,7 +138,7 @@
    "outcomes": [
     {
      "code": "MAT.6.1.5",
-     "text": "Gerçek yaşam durumlarında ondalık gösterimlerin basamak değerlerini kesir-"
+     "text": "Gerçek yaşam durumlarında ondalık gösterimlerin basamak değerlerini kesirlerden yararlanarak yorumlayabilme"
     }
    ]
   },
@@ -266,7 +266,7 @@
    "outcomes": [
     {
      "code": "MAT.6.3.2",
-     "text": "Matematiksel araç ve teknolojiden yararlanarak iki paralel doğrunun iki ke-"
+     "text": "Matematiksel araç ve teknolojiden yararlanarak iki paralel doğrunun iki kesenle oluşturduğu şekillerin özelliklerine dair çıkarım yapabilme"
     }
    ]
   },
@@ -382,7 +382,7 @@
     },
     {
      "code": "MAT.6.4.1",
-     "text": "Uzunluk ve alan ölçme birimleri arasındaki ilişkilerle ilgili analojik akıl yürüte-"
+     "text": "Uzunluk ve alan ölçme birimleri arasındaki ilişkilerle ilgili analojik akıl yürütebilme"
     }
    ]
   },
@@ -394,7 +394,7 @@
    "outcomes": [
     {
      "code": "MAT.6.4.1",
-     "text": "Uzunluk ve alan ölçme birimleri arasındaki ilişkilerle ilgili analojik akıl yürüte-"
+     "text": "Uzunluk ve alan ölçme birimleri arasındaki ilişkilerle ilgili analojik akıl yürütebilme"
     }
    ]
   },
@@ -418,7 +418,7 @@
    "outcomes": [
     {
      "code": "MAT.6.4.3",
-     "text": "Geometrik şekillerin alanları ile modellenen gerçek yaşam durumlarına yöne-"
+     "text": "Geometrik şekillerin alanları ile modellenen gerçek yaşam durumlarına yönelik problem çözebilme"
     }
    ]
   },
@@ -430,7 +430,7 @@
    "outcomes": [
     {
      "code": "MAT.6.4.4",
-     "text": "Çemberin uzunluğu ile çap uzunluğu arasındaki ilişkiye yönelik çıkarım yapa-"
+     "text": "Çemberin uzunluğu ile çap uzunluğu arasındaki ilişkiye yönelik çıkarım yapabilme"
     }
    ]
   },
@@ -454,7 +454,7 @@
    "outcomes": [
     {
      "code": "MAT.6.4.6",
-     "text": "Çemberde merkez açının ölçüsü ile gördüğü yayın uzunluğu arasındaki ilişki-"
+     "text": "Çemberde merkez açının ölçüsü ile gördüğü yayın uzunluğu arasındaki ilişkiye dair tümevarımsal akıl yürütebilme"
     }
    ]
   },

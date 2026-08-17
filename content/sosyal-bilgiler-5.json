@@ -92,13 +92,13 @@
   },
   {
    "name": "2. TEMA: EVİMİZ DÜNYA",
-   "konu": "Yaşadığı İlde Doğal ve Beşerî Çevredeki Değişim",
+   "konu": "Yaşadığı İlin Göreceli Konumu",
    "start": "2026-11-02",
    "end": "2026-11-08",
    "outcomes": [
     {
-     "code": "SB.5.2.2",
-     "text": "Yaşadığı ilde doğal ve beşerî çevredeki değişimi neden ve sonuçlarıyla yorumlayabilme"
+     "code": "SB.5.2.1",
+     "text": "Yaşadığı ilin göreceli konum özelliklerini belirleyebilme"
     }
    ]
   },
@@ -116,13 +116,13 @@
   },
   {
    "name": "2. TEMA: EVİMİZ DÜNYA",
-   "konu": "Yaşadığı İlde Meydana Gelebilecek Afetlerin Etkileri",
+   "konu": "Yaşadığı İlde Doğal ve Beşerî Çevredeki Değişim",
    "start": "2026-11-23",
    "end": "2026-11-29",
    "outcomes": [
     {
-     "code": "SB.5.2.3",
-     "text": "Yaşadığı ilde meydana gelebilecek afetlerin etkilerini azaltmaya yönelik farkındalık etkinlikleri düzenleyebilme"
+     "code": "SB.5.2.2",
+     "text": "Yaşadığı ilde doğal ve beşerî çevredeki değişimi neden ve sonuçlarıyla yorumlayabilme"
     }
    ]
   },
@@ -140,13 +140,13 @@
   },
   {
    "name": "2. TEMA: EVİMİZ DÜNYA",
-   "konu": "Ülkemize Komşu Devletler",
+   "konu": "Yaşadığı İlde Meydana Gelebilecek Afetlerin Etkileri",
    "start": "2026-12-07",
    "end": "2026-12-13",
    "outcomes": [
     {
-     "code": "SB.5.2.4",
-     "text": "Ülkemize komşu devletler hakkında bilgi toplayabilme"
+     "code": "SB.5.2.3",
+     "text": "Yaşadığı ilde meydana gelebilecek afetlerin etkilerini azaltmaya yönelik farkındalık etkinlikleri düzenleyebilme"
     }
    ]
   },
@@ -159,19 +159,19 @@
     {
      "code": "SB.5.2.4",
      "text": "Ülkemize komşu devletler hakkında bilgi toplayabilme"
-    },
-    {
-     "code": "SB.5.3.1",
-     "text": "Yaşadığı ildeki ortak miras ögelerine ilişkin oluşturduğu ürünü paylaşabilme"
     }
    ]
   },
   {
-   "name": "3. TEMA: ORTAK MİRASIMIZ",
-   "konu": "Ortak Miras Ögeleri",
+   "name": "2. TEMA: EVİMİZ DÜNYA",
+   "konu": "Ülkemize Komşu Devletler",
    "start": "2026-12-21",
    "end": "2026-12-27",
    "outcomes": [
+    {
+     "code": "SB.5.2.4",
+     "text": "Ülkemize komşu devletler hakkında bilgi toplayabilme"
+    },
     {
      "code": "SB.5.3.1",
      "text": "Yaşadığı ildeki ortak miras ögelerine ilişkin oluşturduğu ürünü paylaşabilme"
@@ -192,13 +192,13 @@
   },
   {
    "name": "3. TEMA: ORTAK MİRASIMIZ",
-   "konu": "Somut ve Somut Olmayan Kültürel Miras Ögeleri",
+   "konu": "Ortak Miras Ögeleri",
    "start": "2027-01-04",
    "end": "2027-01-10",
    "outcomes": [
     {
-     "code": "SB.5.3.2",
-     "text": "Anadolu’da ilk yerleşimleri kuran toplumların sosyal hayatlarına yönelik bakış açısı geliştirebilme"
+     "code": "SB.5.3.1",
+     "text": "Yaşadığı ildeki ortak miras ögelerine ilişkin oluşturduğu ürünü paylaşabilme"
     }
    ]
   },
@@ -216,13 +216,13 @@
   },
   {
    "name": "3. TEMA: ORTAK MİRASIMIZ",
-   "konu": "Anadolu’nun İlk Yerleşim Yerlerinde Sosyal Hayat",
+   "konu": "Somut ve Somut Olmayan Kültürel Miras Ögeleri",
    "start": "2027-01-18",
    "end": "2027-01-24",
    "outcomes": [
     {
-     "code": "SB.5.3.3",
-     "text": "Mezopotamya ve Anadolu medeniyetlerinin ortak mirasa katkılarını karşılaştırabilme"
+     "code": "SB.5.3.2",
+     "text": "Anadolu’da ilk yerleşimleri kuran toplumların sosyal hayatlarına yönelik bakış açısı geliştirebilme"
     }
    ]
   },
@@ -235,19 +235,19 @@
     {
      "code": "SB.5.3.3",
      "text": "Mezopotamya ve Anadolu medeniyetlerinin ortak mirasa katkılarını karşılaştırabilme"
-    },
-    {
-     "code": "SB.5.4.1",
-     "text": "Demokrasi ve cumhuriyet kavramları arasındaki ilişkiyi çözümleyebilme"
     }
    ]
   },
   {
-   "name": "4. TEMA: YAŞAYAN DEMOKRASİMİZ",
-   "konu": "Demokrasi ve Cumhuriyet Kavramının Temel Nitelikleri",
+   "name": "3. TEMA: ORTAK MİRASIMIZ",
+   "konu": "Anadolu’nun İlk Yerleşim Yerlerinde Sosyal Hayat",
    "start": "2027-02-15",
    "end": "2027-02-21",
    "outcomes": [
+    {
+     "code": "SB.5.3.3",
+     "text": "Mezopotamya ve Anadolu medeniyetlerinin ortak mirasa katkılarını karşılaştırabilme"
+    },
     {
      "code": "SB.5.4.1",
      "text": "Demokrasi ve cumhuriyet kavramları arasındaki ilişkiyi çözümleyebilme"
@@ -268,13 +268,13 @@
   },
   {
    "name": "4. TEMA: YAŞAYAN DEMOKRASİMİZ",
-   "konu": "Etkin Vatandaşın Özellikleri ve Önemi",
+   "konu": "Demokrasi ve Cumhuriyet Kavramının Temel Nitelikleri",
    "start": "2027-03-01",
    "end": "2027-03-07",
    "outcomes": [
     {
-     "code": "SB.5.4.2",
-     "text": "Toplum düzenine etkisi bakımından etkin vatandaş olmanın önemine yönelik çıkarımda bulunabilme"
+     "code": "SB.5.4.1",
+     "text": "Demokrasi ve cumhuriyet kavramları arasındaki ilişkiyi çözümleyebilme"
     }
    ]
   },
@@ -292,13 +292,13 @@
   },
   {
    "name": "4. TEMA: YAŞAYAN DEMOKRASİMİZ",
-   "konu": "Temel Haklar, Sorumluluklar ve Önemi",
+   "konu": "Etkin Vatandaşın Özellikleri ve Önemi",
    "start": "2027-03-22",
    "end": "2027-03-28",
    "outcomes": [
     {
-     "code": "SB.5.4.3",
-     "text": "Temel insan hak ve sorumluluklarının önemini sorgulayabilme"
+     "code": "SB.5.4.2",
+     "text": "Toplum düzenine etkisi bakımından etkin vatandaş olmanın önemine yönelik çıkarımda bulunabilme"
     }
    ]
   },
@@ -316,13 +316,13 @@
   },
   {
    "name": "4. TEMA: YAŞAYAN DEMOKRASİMİZ",
-   "konu": "İhtiyaç Durumunda veya Sorunların Çözümünde Başvurulabilecek Kurumlar",
+   "konu": "Temel Haklar, Sorumluluklar ve Önemi",
    "start": "2027-04-05",
    "end": "2027-04-11",
    "outcomes": [
     {
-     "code": "SB.5.4.4",
-     "text": "Bir ihtiyaç hâlinde veya sorun karşısında başvuru yapılabilecek kurumlar hakkında bilgi toplayabilme"
+     "code": "SB.5.4.3",
+     "text": "Temel insan hak ve sorumluluklarının önemini sorgulayabilme"
     }
    ]
   },
@@ -335,19 +335,19 @@
     {
      "code": "SB.5.4.4",
      "text": "Bir ihtiyaç hâlinde veya sorun karşısında başvuru yapılabilecek kurumlar hakkında bilgi toplayabilme"
-    },
-    {
-     "code": "SB.5.5.1",
-     "text": "Kaynakları verimli kullanmanın doğa ve insanlar üzerindeki etkisini yorumlayabilme"
     }
    ]
   },
   {
-   "name": "5. TEMA: HAYATIMIZDAKİ EKONOMİ",
-   "konu": "Kaynakların Verimli Kullanımı",
+   "name": "4. TEMA: YAŞAYAN DEMOKRASİMİZ",
+   "konu": "İhtiyaç Durumunda veya Sorunların Çözümünde Başvurulabilecek Kurumlar",
    "start": "2027-04-19",
    "end": "2027-04-25",
    "outcomes": [
+    {
+     "code": "SB.5.4.4",
+     "text": "Bir ihtiyaç hâlinde veya sorun karşısında başvuru yapılabilecek kurumlar hakkında bilgi toplayabilme"
+    },
     {
      "code": "SB.5.5.1",
      "text": "Kaynakları verimli kullanmanın doğa ve insanlar üzerindeki etkisini yorumlayabilme"
@@ -368,13 +368,13 @@
   },
   {
    "name": "5. TEMA: HAYATIMIZDAKİ EKONOMİ",
-   "konu": "Bütçe Oluşturma",
+   "konu": "Kaynakların Verimli Kullanımı",
    "start": "2027-05-03",
    "end": "2027-05-09",
    "outcomes": [
     {
-     "code": "SB.5.5.2",
-     "text": "İhtiyaç ve isteklerini karşılamak için gerekli bütçeyi planlayabilme"
+     "code": "SB.5.5.1",
+     "text": "Kaynakları verimli kullanmanın doğa ve insanlar üzerindeki etkisini yorumlayabilme"
     }
    ]
   },
@@ -392,13 +392,13 @@
   },
   {
    "name": "5. TEMA: HAYATIMIZDAKİ EKONOMİ",
-   "konu": "Yaşadığım İldeki Ekonomik Faaliyetler",
+   "konu": "Bütçe Oluşturma",
    "start": "2027-05-17",
    "end": "2027-05-23",
    "outcomes": [
     {
-     "code": "SB.5.5.3",
-     "text": "Yaşadığı ildeki ekonomik faaliyetleri özetleyebilme"
+     "code": "SB.5.5.2",
+     "text": "İhtiyaç ve isteklerini karşılamak için gerekli bütçeyi planlayabilme"
     }
    ]
   },
@@ -411,18 +411,26 @@
     {
      "code": "SB.5.5.3",
      "text": "Yaşadığı ildeki ekonomik faaliyetleri özetleyebilme"
-    },
+    }
+   ]
+  },
+  {
+   "name": "5. TEMA: HAYATIMIZDAKİ EKONOMİ",
+   "konu": "Yaşadığım İldeki Ekonomik Faaliyetler",
+   "start": "2027-05-31",
+   "end": "2027-06-06",
+   "outcomes": [
     {
-     "code": "SB.5.6.1",
-     "text": "Teknolojik gelişmelerin toplum hayatına etkilerini tartışabilme"
+     "code": "SB.5.5.3",
+     "text": "Yaşadığı ildeki ekonomik faaliyetleri özetleyebilme"
     }
    ]
   },
   {
    "name": "6. TEMA: TEKNOLOJİ VE SOSYAL BİLİMLER",
    "konu": "Teknolojik Gelişmelerin Toplum Hayatına Etkileri",
-   "start": "2027-05-31",
-   "end": "2027-06-06",
+   "start": "2027-06-07",
+   "end": "2027-06-13",
    "outcomes": [
     {
      "code": "SB.5.6.1",
@@ -433,8 +441,8 @@
   {
    "name": "6. TEMA: TEKNOLOJİ VE SOSYAL BİLİMLER",
    "konu": "Teknolojik Ürünlerin Bilinçli Kullanımı",
-   "start": "2027-06-07",
-   "end": "2027-06-13",
+   "start": "2027-06-14",
+   "end": "2027-06-20",
    "outcomes": [
     {
      "code": "SB.5.6.2",
@@ -443,15 +451,8 @@
    ]
   },
   {
-   "name": "OKUL TEMELLİ PLANLAMA (OBP)",
-   "konu": "Okul dışı öğrenme etkinlikleri, proje ve araştırma çalışmaları, yıl sonu genel değerlendirme",
-   "start": "2027-06-14",
-   "end": "2027-06-20",
-   "outcomes": []
-  },
-  {
-   "name": "GENEL DEĞERLENDİRME VE TELAFİ",
-   "konu": "Kısa haftalarda aksayan konuların telafisi, yıl sonu genel değerlendirme",
+   "name": "SOSYAL ETKİNLİK VE YIL SONU DEĞERLENDİRME",
+   "konu": "Proje sunumları, sosyal/kültürel etkinlikler ve yıl sonu genel değerlendirme",
    "start": "2027-06-21",
    "end": "2027-06-27",
    "outcomes": []
