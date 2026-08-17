@@ -1,5 +1,537 @@
 {
-  "grade": 2,
-  "subject": "Türkçe",
-  "themes": []
+ "grade": 2,
+ "subject": "Türkçe",
+ "themes": [
+  {
+   "name": "HATIRLATMA HAFTASI",
+   "konu": "Dinleme/İzleme · Okuma · Konuşma · Yazma",
+   "start": "2026-09-14",
+   "end": "2026-09-20",
+   "outcomes": []
+  },
+  {
+   "name": "1. Tema: DEĞERLERİMİZLE VARIZ",
+   "konu": "Dinleme/İzleme · Okuma · Konuşma · Yazma",
+   "start": "2026-09-21",
+   "end": "2026-10-18",
+   "outcomes": [
+    {
+     "code": "T.D.2.1",
+     "text": "Dinleme/izlemeyi yönetebilme"
+    },
+    {
+     "code": "T.D.2.2",
+     "text": "Dinledikleri/izledikleri ile ilgili anlam oluşturabilme"
+    },
+    {
+     "code": "T.D.2.3",
+     "text": "Dinlediklerini/izlediklerini çözümleyebilme"
+    },
+    {
+     "code": "T.O.2.1",
+     "text": "Okuma sürecini yönetebilme"
+    },
+    {
+     "code": "T.O.2.2",
+     "text": "Okudukları ile ilgili anlam oluşturabilme"
+    },
+    {
+     "code": "T.O.2.3",
+     "text": "Okuduklarını çözümleyebilme"
+    },
+    {
+     "code": "T.K.2.1",
+     "text": "Konuşmalarını yönetebilme"
+    },
+    {
+     "code": "T.K.2.2",
+     "text": "Konuşmalarında içerik oluşturabilme"
+    },
+    {
+     "code": "T.K.2.3",
+     "text": "Konuşma kurallarını uygulayabilme"
+    },
+    {
+     "code": "T.Y.2.1",
+     "text": "Yazılı anlatım becerilerini yönetebilme"
+    },
+    {
+     "code": "T.Y.2.2",
+     "text": "Yazılarında içerik oluşturabilme"
+    },
+    {
+     "code": "T.Y.2.3",
+     "text": "Yazma kurallarını uygulayabilme"
+    }
+   ]
+  },
+  {
+   "name": "2. Tema: ATATÜRK VE ÇOCUK",
+   "konu": "Dinleme/İzleme · Okuma · Konuşma · Yazma",
+   "start": "2026-10-19",
+   "end": "2026-11-15",
+   "outcomes": [
+    {
+     "code": "T.D.2.1",
+     "text": "Dinleme/izlemeyi yönetebilme"
+    },
+    {
+     "code": "T.D.2.2",
+     "text": "Dinledikleri/izledikleri ile ilgili anlam oluşturabilme"
+    },
+    {
+     "code": "T.D.2.3",
+     "text": "Dinlediklerini/izlediklerini çözümleyebilme"
+    },
+    {
+     "code": "T.O.2.1",
+     "text": "Okuma sürecini yönetebilme"
+    },
+    {
+     "code": "T.O.2.2",
+     "text": "Okudukları ile ilgili anlam oluşturabilme"
+    },
+    {
+     "code": "T.O.2.3",
+     "text": "Okuduklarını çözümleyebilme"
+    },
+    {
+     "code": "T.K.2.1",
+     "text": "Konuşmalarını yönetebilme"
+    },
+    {
+     "code": "T.K.2.2",
+     "text": "Konuşmalarında içerik oluşturabilme"
+    },
+    {
+     "code": "T.K.2.3",
+     "text": "Konuşma kurallarını uygulayabilme"
+    },
+    {
+     "code": "T.Y.2.1",
+     "text": "Yazılı anlatım becerilerini yönetebilme"
+    },
+    {
+     "code": "T.Y.2.2",
+     "text": "Yazılarında içerik oluşturabilme"
+    },
+    {
+     "code": "T.Y.2.3",
+     "text": "Yazma kurallarını uygulayabilme"
+    }
+   ]
+  },
+  {
+   "name": "3. Tema: DOĞADA NELER OLUYOR?",
+   "konu": "Dinleme/İzleme · Okuma · Konuşma · Yazma",
+   "start": "2026-11-23",
+   "end": "2026-12-20",
+   "outcomes": [
+    {
+     "code": "T.D.2.1",
+     "text": "Dinleme/izlemeyi yönetebilme"
+    },
+    {
+     "code": "T.D.2.2",
+     "text": "Dinledikleri/izledikleri ile ilgili anlam oluşturabilme"
+    },
+    {
+     "code": "T.D.2.3",
+     "text": "Dinlediklerini/izlediklerini çözümleyebilme"
+    },
+    {
+     "code": "T.O.2.1",
+     "text": "Okuma sürecini yönetebilme"
+    },
+    {
+     "code": "T.O.2.2",
+     "text": "Okudukları ile ilgili anlam oluşturabilme"
+    },
+    {
+     "code": "T.O.2.3",
+     "text": "Okuduklarını çözümleyebilme"
+    },
+    {
+     "code": "T.K.2.1",
+     "text": "Konuşmalarını yönetebilme"
+    },
+    {
+     "code": "T.K.2.2",
+     "text": "Konuşmalarında içerik oluşturabilme"
+    },
+    {
+     "code": "T.K.2.3",
+     "text": "Konuşma kurallarını uygulayabilme"
+    },
+    {
+     "code": "T.K.2.5",
+     "text": "Konuşma sürecini değerlendirebilme"
+    },
+    {
+     "code": "T.Y.2.1",
+     "text": "Yazılı anlatım becerilerini yönetebilme"
+    },
+    {
+     "code": "T.Y.2.2",
+     "text": "Yazılarında içerik oluşturabilme"
+    },
+    {
+     "code": "T.Y.2.3",
+     "text": "Yazma kurallarını uygulayabilme"
+    }
+   ]
+  },
+  {
+   "name": "4. Tema: OKUMA SERÜVENİMİZ",
+   "konu": "Dinleme/İzleme · Okuma · Konuşma · Yazma",
+   "start": "2026-12-21",
+   "end": "2027-01-17",
+   "outcomes": [
+    {
+     "code": "T.D.2.1",
+     "text": "Dinleme/izlemeyi yönetebilme"
+    },
+    {
+     "code": "T.D.2.2",
+     "text": "Dinledikleri/izledikleri ile ilgili anlam oluşturabilme"
+    },
+    {
+     "code": "T.D.2.3",
+     "text": "Dinlediklerini/izlediklerini çözümleyebilme"
+    },
+    {
+     "code": "T.D.2.4",
+     "text": "Dinleme/izleme sürecine etki eden durumları gözden geçirebilme"
+    },
+    {
+     "code": "T.D.2.5",
+     "text": "Dinleme/izleme sürecini değerlendirebilme"
+    },
+    {
+     "code": "T.O.2.1",
+     "text": "Okuma sürecini yönetebilme"
+    },
+    {
+     "code": "T.O.2.2",
+     "text": "Okudukları ile ilgili anlam oluşturabilme"
+    },
+    {
+     "code": "T.O.2.3",
+     "text": "Okuduklarını çözümleyebilme"
+    },
+    {
+     "code": "T.O.2.4",
+     "text": "Okuma sürecine etki eden durumları gözden geçirebilme"
+    },
+    {
+     "code": "T.K.2.1",
+     "text": "Konuşmalarını yönetebilme"
+    },
+    {
+     "code": "T.K.2.2",
+     "text": "Konuşmalarında içerik oluşturabilme"
+    },
+    {
+     "code": "T.K.2.3",
+     "text": "Konuşma kurallarını uygulayabilme"
+    },
+    {
+     "code": "T.Y.2.1",
+     "text": "Yazılı anlatım becerilerini yönetebilme"
+    },
+    {
+     "code": "T.Y.2.2",
+     "text": "Yazılarında içerik oluşturabilme"
+    },
+    {
+     "code": "T.Y.2.3",
+     "text": "Yazma kurallarını uygulayabilme"
+    },
+    {
+     "code": "T.Y.2.5",
+     "text": "Yazma sürecini değerlendirebilme"
+    }
+   ]
+  },
+  {
+   "name": "PEKİŞTİRME HAFTASI",
+   "konu": "Dinleme/İzleme · Okuma · Konuşma · Yazma",
+   "start": "2027-01-18",
+   "end": "2027-01-24",
+   "outcomes": []
+  },
+  {
+   "name": "HATIRLATMA HAFTASI",
+   "konu": "Dinleme/İzleme · Okuma · Konuşma · Yazma",
+   "start": "2027-02-08",
+   "end": "2027-02-14",
+   "outcomes": []
+  },
+  {
+   "name": "5. Tema: YETENEKLERİMİZİ TANIYORUZ",
+   "konu": "Dinleme/İzleme · Okuma · Konuşma · Yazma",
+   "start": "2027-02-15",
+   "end": "2027-03-21",
+   "outcomes": [
+    {
+     "code": "T.D.2.1",
+     "text": "Dinleme/izlemeyi yönetebilme"
+    },
+    {
+     "code": "T.D.2.2",
+     "text": "Dinledikleri/izledikleri ile ilgili anlam oluşturabilme"
+    },
+    {
+     "code": "T.D.2.3",
+     "text": "Dinlediklerini/izlediklerini çözümleyebilme"
+    },
+    {
+     "code": "T.O.2.1",
+     "text": "Okuma sürecini yönetebilme"
+    },
+    {
+     "code": "T.O.2.2",
+     "text": "Okudukları ile ilgili anlam oluşturabilme"
+    },
+    {
+     "code": "T.O.2.3",
+     "text": "Okuduklarını çözümleyebilme"
+    },
+    {
+     "code": "T.K.2.1",
+     "text": "Konuşmalarını yönetebilme"
+    },
+    {
+     "code": "T.K.2.2",
+     "text": "Konuşmalarında içerik oluşturabilme"
+    },
+    {
+     "code": "T.K.2.3",
+     "text": "Konuşma kurallarını uygulayabilme"
+    },
+    {
+     "code": "T.Y.2.1",
+     "text": "Yazılı anlatım becerilerini yönetebilme"
+    },
+    {
+     "code": "T.Y.2.2",
+     "text": "Yazılarında içerik oluşturabilme"
+    },
+    {
+     "code": "T.Y.2.3",
+     "text": "Yazma kurallarını uygulayabilme"
+    },
+    {
+     "code": "T.Y.2.4",
+     "text": "Yazma sürecine etki eden durumları gözden geçirebilme"
+    }
+   ]
+  },
+  {
+   "name": "6. Tema: MUCİT ÇOCUK",
+   "konu": "Dinleme/İzleme · Okuma · Konuşma · Yazma",
+   "start": "2027-03-22",
+   "end": "2027-04-18",
+   "outcomes": [
+    {
+     "code": "T.D.2.1",
+     "text": "Dinleme/izlemeyi yönetebilme"
+    },
+    {
+     "code": "T.D.2.2",
+     "text": "Dinledikleri/izledikleri ile ilgili anlam oluşturabilme"
+    },
+    {
+     "code": "T.D.2.3",
+     "text": "Dinlediklerini/izlediklerini çözümleyebilme"
+    },
+    {
+     "code": "T.O.2.1",
+     "text": "Okuma sürecini yönetebilme"
+    },
+    {
+     "code": "T.O.2.2",
+     "text": "Okudukları ile ilgili anlam oluşturabilme"
+    },
+    {
+     "code": "T.O.2.3",
+     "text": "Okuduklarını çözümleyebilme"
+    },
+    {
+     "code": "T.K.2.1",
+     "text": "Konuşmalarını yönetebilme"
+    },
+    {
+     "code": "T.K.2.2",
+     "text": "Konuşmalarında içerik oluşturabilme"
+    },
+    {
+     "code": "T.K.2.3",
+     "text": "Konuşma kurallarını uygulayabilme"
+    },
+    {
+     "code": "T.K.2.4",
+     "text": "Konuşma sürecine etki eden durumları gözden geçirebilme"
+    },
+    {
+     "code": "T.Y.2.1",
+     "text": "Yazılı anlatım becerilerini yönetebilme"
+    },
+    {
+     "code": "T.Y.2.2",
+     "text": "Yazılarında içerik oluşturabilme"
+    },
+    {
+     "code": "T.Y.2.3",
+     "text": "Yazma kurallarını uygulayabilme"
+    }
+   ]
+  },
+  {
+   "name": "7. Tema: KÜLTÜR HAZİNEMİZ",
+   "konu": "Dinleme/İzleme · Okuma · Konuşma · Yazma",
+   "start": "2027-04-19",
+   "end": "2027-05-16",
+   "outcomes": [
+    {
+     "code": "T.D.2.1",
+     "text": "Dinleme/izlemeyi yönetebilme"
+    },
+    {
+     "code": "T.D.2.2",
+     "text": "Dinledikleri/izledikleri ile ilgili anlam oluşturabilme"
+    },
+    {
+     "code": "T.D.2.3",
+     "text": "Dinlediklerini/izlediklerini çözümleyebilme"
+    },
+    {
+     "code": "T.O.2.1",
+     "text": "Okuma sürecini yönetebilme"
+    },
+    {
+     "code": "T.O.2.2",
+     "text": "Okudukları ile ilgili anlam oluşturabilme"
+    },
+    {
+     "code": "T.O.2.3",
+     "text": "Okuduklarını çözümleyebilme"
+    },
+    {
+     "code": "T.O.2.5",
+     "text": "Okuma sürecini değerlendirebilme"
+    },
+    {
+     "code": "T.K.2.1",
+     "text": "Konuşmalarını yönetebilme"
+    },
+    {
+     "code": "T.K.2.2",
+     "text": "Konuşmalarında içerik oluşturabilme"
+    },
+    {
+     "code": "T.K.2.3",
+     "text": "Konuşma kurallarını uygulayabilme"
+    },
+    {
+     "code": "T.Y.2.1",
+     "text": "Yazılı anlatım becerilerini yönetebilme"
+    },
+    {
+     "code": "T.Y.2.2",
+     "text": "Yazılarında içerik oluşturabilme"
+    },
+    {
+     "code": "T.Y.2.3",
+     "text": "Yazma kurallarını uygulayabilme"
+    }
+   ]
+  },
+  {
+   "name": "8. Tema: HAKLARIMIZI BİLİYORUZ",
+   "konu": "Dinleme/İzleme · Okuma · Konuşma · Yazma",
+   "start": "2027-05-17",
+   "end": "2027-06-13",
+   "outcomes": [
+    {
+     "code": "T.D.2.1",
+     "text": "Dinleme/izlemeyi yönetebilme"
+    },
+    {
+     "code": "T.D.2.2",
+     "text": "Dinledikleri/izledikleri ile ilgili anlam oluşturabilme"
+    },
+    {
+     "code": "T.D.2.3",
+     "text": "Dinlediklerini/izlediklerini çözümleyebilme"
+    },
+    {
+     "code": "T.D.2.5",
+     "text": "Dinleme/izleme sürecini değerlendirebilme"
+    },
+    {
+     "code": "T.O.2.1",
+     "text": "Okuma sürecini yönetebilme"
+    },
+    {
+     "code": "T.O.2.2",
+     "text": "Okudukları ile ilgili anlam oluşturabilme"
+    },
+    {
+     "code": "T.O.2.3",
+     "text": "Okuduklarını çözümleyebilme"
+    },
+    {
+     "code": "T.O.2.4",
+     "text": "Okuma sürecine etki eden durumları gözden geçirebilme"
+    },
+    {
+     "code": "T.O.2.5",
+     "text": "Okuma sürecini değerlendirebilme"
+    },
+    {
+     "code": "T.K.2.1",
+     "text": "Konuşmalarını yönetebilme"
+    },
+    {
+     "code": "T.K.2.2",
+     "text": "Konuşmalarında içerik oluşturabilme"
+    },
+    {
+     "code": "T.K.2.3",
+     "text": "Konuşma kurallarını uygulayabilme"
+    },
+    {
+     "code": "T.K.2.5",
+     "text": "Konuşma sürecini değerlendirebilme"
+    },
+    {
+     "code": "T.Y.2.1",
+     "text": "Yazılı anlatım becerilerini yönetebilme"
+    },
+    {
+     "code": "T.Y.2.2",
+     "text": "Yazılarında içerik oluşturabilme"
+    },
+    {
+     "code": "T.Y.2.3",
+     "text": "Yazma kurallarını uygulayabilme"
+    }
+   ]
+  },
+  {
+   "name": "PEKİŞTİRME HAFTASI",
+   "konu": "Dinleme/İzleme · Okuma · Konuşma · Yazma",
+   "start": "2027-06-14",
+   "end": "2027-06-20",
+   "outcomes": []
+  },
+  {
+   "name": "Sosyal Etkinlik ve Yıl Sonu Değerlendirme",
+   "konu": "Proje sunumları, sosyal/kültürel etkinlikler ve yıl sonu değerlendirmesi",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": []
+  }
+ ]
 }
