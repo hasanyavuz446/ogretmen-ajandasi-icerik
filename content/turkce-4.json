@@ -1,0 +1,614 @@
+{
+ "grade": 4,
+ "subject": "Türkçe",
+ "themes": [
+  {
+   "name": "1. ÜNİTE: DİNLEME",
+   "konu": "DİNLEME",
+   "start": "2026-09-14",
+   "end": "2026-09-18",
+   "outcomes": [
+    {
+     "code": "T.4.1.1",
+     "text": "Görselden/görsellerden hareketle dinleyeceği/izleyeceği metnin konusunu tahmin eder."
+    },
+    {
+     "code": "T.4.1.2",
+     "text": "Dinlediklerinde/izlediklerinde geçen olayların gelişimi ve sonucu hakkında tahminde bulunur."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: DİNLEME",
+   "konu": "DİNLEME",
+   "start": "2026-09-21",
+   "end": "2026-09-25",
+   "outcomes": [
+    {
+     "code": "T.4.1.3",
+     "text": "Dinlediği/izlediği metni ana hatlarıyla anlatır."
+    },
+    {
+     "code": "T.4.1.4",
+     "text": "Dinlediklerinde/izlediklerinde geçen, bilmediği kelimelerin anlamını tahmin eder."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: DİNLEME",
+   "konu": "DİNLEME",
+   "start": "2026-09-28",
+   "end": "2026-10-02",
+   "outcomes": [
+    {
+     "code": "T.4.1.5",
+     "text": "Dinlediklerinin/izlediklerinin konusunu belirler."
+    },
+    {
+     "code": "T.4.1.6",
+     "text": "Dinlediklerinin/izlediklerinin ana fikrini/ana duygusunu belirler."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: DİNLEME",
+   "konu": "DİNLEME",
+   "start": "2026-10-05",
+   "end": "2026-10-09",
+   "outcomes": [
+    {
+     "code": "T.4.1.7",
+     "text": "Dinlediklerine/izlediklerine yönelik sorulara cevap verir."
+    },
+    {
+     "code": "T.4.1.8",
+     "text": "Dinlediklerine/izlediklerine farklı başlıklar önerir."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: DİNLEME",
+   "konu": "DİNLEME",
+   "start": "2026-10-12",
+   "end": "2026-10-16",
+   "outcomes": [
+    {
+     "code": "T.4.1.9",
+     "text": "Dinledikleriyle/izledikleriyle ilgili görüşlerini ifade eder."
+    },
+    {
+     "code": "T.4.1.10",
+     "text": "Dinlediği/izlediği hikâye edici metinleri canlandırır."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: DİNLEME",
+   "konu": "DİNLEME",
+   "start": "2026-10-19",
+   "end": "2026-10-23",
+   "outcomes": [
+    {
+     "code": "T.4.1.11",
+     "text": "Dinlediklerinin/izlediklerinin içeriğini değerlendirir."
+    },
+    {
+     "code": "T.4.1.12",
+     "text": "Dinleme stratejilerini uygular."
+    },
+    {
+     "code": "T.4.1.13",
+     "text": "Konuşmacının sözlü olmayan mesajlarını kavrar."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: KONUŞMA",
+   "konu": "KONUŞMA",
+   "start": "2026-10-26",
+   "end": "2026-10-30",
+   "outcomes": [
+    {
+     "code": "T.4.2.1",
+     "text": "Kelimeleri anlamlarına uygun kullanır."
+    },
+    {
+     "code": "T.4.2.2",
+     "text": "Hazırlıksız konuşmalar yapar."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: KONUŞMA",
+   "konu": "KONUŞMA",
+   "start": "2026-11-02",
+   "end": "2026-11-06",
+   "outcomes": [
+    {
+     "code": "T.4.2.3",
+     "text": "Hazırlıklı konuşmalar yapar."
+    },
+    {
+     "code": "T.4.2.4",
+     "text": "Konuşma stratejilerini uygular."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: KONUŞMA",
+   "konu": "KONUŞMA",
+   "start": "2026-11-09",
+   "end": "2026-11-13",
+   "outcomes": [
+    {
+     "code": "T.4.2.5",
+     "text": "Sınıf içindeki tartışma ve konuşmalara katılır."
+    },
+    {
+     "code": "T.4.2.6",
+     "text": "Konuşmalarında yabancı dillerden alınmış, dilimize henüz yerleşmemiş kelimelerin Türkçelerini kullanır."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: OKUMA",
+   "konu": "OKUMA",
+   "start": "2026-11-23",
+   "end": "2026-11-27",
+   "outcomes": [
+    {
+     "code": "T.4.3.1",
+     "text": "Noktalama işaretlerine dikkat ederek sesli ve sessiz okur."
+    },
+    {
+     "code": "T.4.3.2",
+     "text": "Vurgu, tonlama ve telaffuza dikkat ederek okur."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: OKUMA",
+   "konu": "OKUMA",
+   "start": "2026-11-30",
+   "end": "2026-12-04",
+   "outcomes": [
+    {
+     "code": "T.4.3.3",
+     "text": "Şiir okur."
+    },
+    {
+     "code": "T.4.3.4",
+     "text": "Metinleri türün özelliklerine uygun biçimde okur."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: OKUMA",
+   "konu": "OKUMA",
+   "start": "2026-12-07",
+   "end": "2026-12-11",
+   "outcomes": [
+    {
+     "code": "T.4.3.5",
+     "text": "Farklı yazı karakterleri ile yazılmış yazıları okur."
+    },
+    {
+     "code": "T.4.3.6",
+     "text": "Okuma stratejilerini uygular."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: OKUMA",
+   "konu": "OKUMA",
+   "start": "2026-12-14",
+   "end": "2026-12-18",
+   "outcomes": [
+    {
+     "code": "T.4.3.7",
+     "text": "Kelimelerin zıt anlamlılarını bulur."
+    },
+    {
+     "code": "T.4.3.8",
+     "text": "Kelimelerin eş anlamlılarını bulur."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: OKUMA",
+   "konu": "OKUMA",
+   "start": "2026-12-21",
+   "end": "2026-12-25",
+   "outcomes": [
+    {
+     "code": "T.4.3.9",
+     "text": "Eş sesli kelimelerin anlamlarını ayırt eder."
+    },
+    {
+     "code": "T.4.3.10",
+     "text": "Okuduğu metindeki gerçek, mecaz ve terim anlamlı sözcükleri belirler."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: OKUMA",
+   "konu": "OKUMA",
+   "start": "2026-12-28",
+   "end": "2027-01-01",
+   "outcomes": [
+    {
+     "code": "T.4.3.11",
+     "text": "Deyim ve atasözlerinin metnin anlamına katkısını kavrar."
+    },
+    {
+     "code": "T.4.3.12",
+     "text": "Bağlamdan yararlanarak bilmediği kelime ve kelime gruplarının anlamını tahmin eder."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: OKUMA",
+   "konu": "OKUMA",
+   "start": "2027-01-04",
+   "end": "2027-01-08",
+   "outcomes": [
+    {
+     "code": "T.4.3.13",
+     "text": "Görsellerle ilgili soruları cevaplar."
+    },
+    {
+     "code": "T.4.3.14",
+     "text": "Görsellerden ve başlıktan hareketle okuyacağı metnin konusunu tahmin eder."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: OKUMA",
+   "konu": "OKUMA",
+   "start": "2027-01-11",
+   "end": "2027-01-15",
+   "outcomes": [
+    {
+     "code": "T.4.3.15",
+     "text": "Okuduklarını ana hatlarıyla anlatır."
+    },
+    {
+     "code": "T.4.3.16",
+     "text": "Okuduğu metnin konusunu belirler."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: OKUMA",
+   "konu": "OKUMA",
+   "start": "2027-01-18",
+   "end": "2027-01-22",
+   "outcomes": [
+    {
+     "code": "T.4.3.17",
+     "text": "Metnin ana fikri/ana duygusunu belirler."
+    },
+    {
+     "code": "T.4.3.18",
+     "text": "Okuduğu metinle ilgili soruları cevaplar."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: OKUMA",
+   "konu": "OKUMA",
+   "start": "2027-02-08",
+   "end": "2027-02-12",
+   "outcomes": [
+    {
+     "code": "T.4.3.19",
+     "text": "Metinle ilgili sorular sorar."
+    },
+    {
+     "code": "T.4.3.20",
+     "text": "Okuduğu metinlerdeki hikâye unsurlarını belirler."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: OKUMA",
+   "konu": "OKUMA",
+   "start": "2027-02-15",
+   "end": "2027-02-19",
+   "outcomes": [
+    {
+     "code": "T.4.3.21",
+     "text": "Okuduğu metnin içeriğine uygun başlık belirler."
+    },
+    {
+     "code": "T.4.3.22",
+     "text": "Şekil, sembol ve işaretlerin anlamlarını kavrar."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: OKUMA",
+   "konu": "OKUMA",
+   "start": "2027-02-22",
+   "end": "2027-02-26",
+   "outcomes": [
+    {
+     "code": "T.4.3.23",
+     "text": "Metin türlerini ayırt eder."
+    },
+    {
+     "code": "T.4.3.24",
+     "text": "Hikâye edici ve bilgilendirici metinleri oluşturan ögeleri tanır."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: OKUMA",
+   "konu": "OKUMA",
+   "start": "2027-03-01",
+   "end": "2027-03-05",
+   "outcomes": [
+    {
+     "code": "T.4.3.25",
+     "text": "Yönergeleri kavrar."
+    },
+    {
+     "code": "T.4.3.26",
+     "text": "Metindeki gerçek ve hayalî ögeleri ayırt eder."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: OKUMA",
+   "konu": "OKUMA",
+   "start": "2027-03-15",
+   "end": "2027-03-19",
+   "outcomes": [
+    {
+     "code": "T.4.3.27",
+     "text": "Okuduğu metindeki kahramanların özelliklerini karşılaştırır."
+    },
+    {
+     "code": "T.4.3.28",
+     "text": "Okudukları ile ilgili çıkarımlar yapar."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: OKUMA",
+   "konu": "OKUMA",
+   "start": "2027-03-22",
+   "end": "2027-03-26",
+   "outcomes": [
+    {
+     "code": "T.4.3.29",
+     "text": "Görsellerle okuduğu metnin içeriğini ilişkilendirir."
+    },
+    {
+     "code": "T.4.3.30",
+     "text": "Metindeki renkli, altı çizili, koyu ifadelerin önemli noktaları vurguladığını kavrar."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: OKUMA",
+   "konu": "OKUMA",
+   "start": "2027-03-29",
+   "end": "2027-04-02",
+   "outcomes": [
+    {
+     "code": "T.4.3.31",
+     "text": "Metinler arasında karşılaştırma yapar."
+    },
+    {
+     "code": "T.4.3.32",
+     "text": "Kısa ve basit dijital metinlerdeki mesajı kavrar."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: OKUMA",
+   "konu": "OKUMA",
+   "start": "2027-04-05",
+   "end": "2027-04-09",
+   "outcomes": [
+    {
+     "code": "T.4.3.33",
+     "text": "Medya metinlerini değerlendirir."
+    },
+    {
+     "code": "T.4.3.34",
+     "text": "Grafik, tablo ve çizelgelerle ilgili soruları cevaplar."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: OKUMA",
+   "konu": "OKUMA",
+   "start": "2027-04-12",
+   "end": "2027-04-16",
+   "outcomes": [
+    {
+     "code": "T.4.3.35",
+     "text": "Bilgi kaynaklarını etkili bir şekilde kullanır."
+    },
+    {
+     "code": "T.4.3.36",
+     "text": "Bilgi kaynaklarının güvenilirliğini sorgular."
+    },
+    {
+     "code": "T.4.3.37",
+     "text": "Okuduğu metindeki olaylara ilişkin düşüncelerini ifade eder."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: YAZMA",
+   "konu": "YAZMA",
+   "start": "2027-04-19",
+   "end": "2027-04-23",
+   "outcomes": [
+    {
+     "code": "T.4.4.1",
+     "text": "Şiir yazar."
+    },
+    {
+     "code": "T.4.4.2",
+     "text": "Bir işin işlem basamaklarına ilişkin yönergeler yazar."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: YAZMA",
+   "konu": "YAZMA",
+   "start": "2027-04-26",
+   "end": "2027-04-30",
+   "outcomes": [
+    {
+     "code": "T.4.4.3",
+     "text": "Hikâye edici metin yazar."
+    },
+    {
+     "code": "T.4.4.4",
+     "text": "Bilgilendirici metin yazar."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: YAZMA",
+   "konu": "YAZMA",
+   "start": "2027-05-03",
+   "end": "2027-05-07",
+   "outcomes": [
+    {
+     "code": "T.4.4.5",
+     "text": "Hayalî ögeler barındıran kısa metin yazar."
+    },
+    {
+     "code": "T.4.4.6",
+     "text": "Görselleri ilişkilendirerek bir olayı anlatır."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: YAZMA",
+   "konu": "YAZMA",
+   "start": "2027-05-10",
+   "end": "2027-05-14",
+   "outcomes": [
+    {
+     "code": "T.4.4.7",
+     "text": "Yazdıklarının içeriğine uygun başlık belirler."
+    },
+    {
+     "code": "T.4.4.8",
+     "text": "Yazdıklarında yabancı dillerden alınmış, dilimize henüz yerleşmemiş kelimelerin Türkçelerini kullanır."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: YAZMA",
+   "konu": "YAZMA",
+   "start": "2027-05-17",
+   "end": "2027-05-21",
+   "outcomes": [
+    {
+     "code": "T.4.4.9",
+     "text": "Formları yönergelerine uygun doldurur."
+    },
+    {
+     "code": "T.4.4.10",
+     "text": "Büyük harfleri ve noktalama işaretlerini uygun yerlerde kullanır."
+    },
+    {
+     "code": "T.4.4.11",
+     "text": "Yazdıklarını düzenler."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: YAZMA",
+   "konu": "YAZMA",
+   "start": "2027-05-24",
+   "end": "2027-05-28",
+   "outcomes": [
+    {
+     "code": "T.4.4.12",
+     "text": "Yazdıklarını paylaşır."
+    },
+    {
+     "code": "T.4.4.13",
+     "text": "Yazılarında eş sesli kelimeleri anlamlarına uygun kullanır."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: YAZMA",
+   "konu": "YAZMA",
+   "start": "2027-05-31",
+   "end": "2027-06-04",
+   "outcomes": [
+    {
+     "code": "T.4.4.14",
+     "text": "Yazdıklarını zenginleştirmek için çizim, grafik ve görseller kullanır."
+    },
+    {
+     "code": "T.4.4.15",
+     "text": "İmza atar."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: YAZMA",
+   "konu": "YAZMA",
+   "start": "2027-06-07",
+   "end": "2027-06-11",
+   "outcomes": [
+    {
+     "code": "T.4.4.16",
+     "text": "Kısaltmaları ve kısaltmalara gelen ekleri doğru yazar."
+    },
+    {
+     "code": "T.4.4.17",
+     "text": "Sayıları doğru yazar."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: YAZMA",
+   "konu": "YAZMA",
+   "start": "2027-06-14",
+   "end": "2027-06-18",
+   "outcomes": [
+    {
+     "code": "T.4.4.18",
+     "text": "Yazılarında bağlaçları kuralına uygun kullanır."
+    },
+    {
+     "code": "T.4.4.19",
+     "text": "Yazılarında kelimeleri gerçek, mecaz ve terim anlamları ile kullanır."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: YAZMA",
+   "konu": "YAZMA",
+   "start": "2027-06-21",
+   "end": "2027-06-25",
+   "outcomes": [
+    {
+     "code": "T.4.4.20",
+     "text": "Harflerin yapısal özelliklerine uygun metin yazar."
+    },
+    {
+     "code": "T.4.4.21",
+     "text": "Yazma stratejilerini uygular."
+    },
+    {
+     "code": "T.4.4.22",
+     "text": "Pekiştirmeli sözcükleri doğru yazar. 5."
+    }
+   ]
+  }
+ ]
+}

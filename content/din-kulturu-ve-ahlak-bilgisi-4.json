@@ -1,0 +1,450 @@
+{
+ "grade": 4,
+ "subject": "Din Kültürü ve Ahlak Bilgisi",
+ "themes": [
+  {
+   "name": "1. ÜNİTE: Günlük Hayattaki Dinî İfadeler",
+   "konu": "Günlük Konuşmalarda Dinî İfadeler",
+   "start": "2026-09-14",
+   "end": "2026-09-18",
+   "outcomes": [
+    {
+     "code": "4.1.1",
+     "text": "Dinî ifadeleri, günlük konuşmalarda doğru ve yerinde kullanır."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Günlük Hayattaki Dinî İfadeler",
+   "konu": "Günlük Konuşmalarda Dinî İfadeler",
+   "start": "2026-09-21",
+   "end": "2026-09-25",
+   "outcomes": [
+    {
+     "code": "4.1.1",
+     "text": "Dinî ifadeleri, günlük konuşmalarda doğru ve yerinde kullanır."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Günlük Hayattaki Dinî İfadeler",
+   "konu": "Günlük Konuşmalarda Dinî İfadeler",
+   "start": "2026-09-28",
+   "end": "2026-10-02",
+   "outcomes": [
+    {
+     "code": "4.1.1",
+     "text": "Dinî ifadeleri, günlük konuşmalarda doğru ve yerinde kullanır."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Günlük Hayattaki Dinî İfadeler",
+   "konu": "Dilek ve Dualarda Geçen Dinî İfadeler",
+   "start": "2026-10-05",
+   "end": "2026-10-09",
+   "outcomes": [
+    {
+     "code": "4.1.2",
+     "text": "Tekbir ve salavatı söyler."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Günlük Hayattaki Dinî İfadeler",
+   "konu": "Dilek ve Dualarda Geçen Dinî İfadeler",
+   "start": "2026-10-12",
+   "end": "2026-10-16",
+   "outcomes": [
+    {
+     "code": "4.1.2",
+     "text": "Tekbir ve salavatı söyler."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Günlük Hayattaki Dinî İfadeler",
+   "konu": "Dilek ve Dualarda Geçen Dinî İfadeler",
+   "start": "2026-10-19",
+   "end": "2026-10-23",
+   "outcomes": [
+    {
+     "code": "4.1.3",
+     "text": "Dilek ve dualarda kullanılan dinî ifadelere örnekler verir."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Günlük Hayattaki Dinî İfadeler",
+   "konu": "Bir Dua Tanıyorum: Sübhaneke Duası ve Anlamı",
+   "start": "2026-10-26",
+   "end": "2026-10-30",
+   "outcomes": [
+    {
+     "code": "4.1.3",
+     "text": "Dilek ve dualarda kullanılan dinî ifadelere örnekler verir."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Günlük Hayattaki Dinî İfadeler",
+   "konu": "Bir Dua Tanıyorum: Sübhaneke Duası ve Anlamı",
+   "start": "2026-11-02",
+   "end": "2026-11-06",
+   "outcomes": [
+    {
+     "code": "4.1.4",
+     "text": "Sübhaneke duasını okur, anlamını söyler."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Günlük Hayattaki Dinî İfadeler",
+   "konu": "Bir Dua Tanıyorum: Sübhaneke Duası ve Anlamı",
+   "start": "2026-11-09",
+   "end": "2026-11-13",
+   "outcomes": [
+    {
+     "code": "4.1.4",
+     "text": "Sübhaneke duasını okur, anlamını söyler."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: İslam’ı Tanıyalım",
+   "konu": "İslam’ın İnanç Esasları",
+   "start": "2026-11-23",
+   "end": "2026-11-27",
+   "outcomes": [
+    {
+     "code": "4.2.1",
+     "text": "İslam’ın inanç esaslarını sıralar."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: İslam’ı Tanıyalım",
+   "konu": "İslam’ın İnanç Esasları",
+   "start": "2026-11-30",
+   "end": "2026-12-04",
+   "outcomes": [
+    {
+     "code": "4.2.1",
+     "text": "İslam’ın inanç esaslarını sıralar."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: İslam’ı Tanıyalım",
+   "konu": "İslam’ın Şartları",
+   "start": "2026-12-07",
+   "end": "2026-12-11",
+   "outcomes": [
+    {
+     "code": "4.2.2",
+     "text": "İslam’ın şartlarını söyler."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: İslam’ı Tanıyalım",
+   "konu": "İslam’ın Şartları",
+   "start": "2026-12-14",
+   "end": "2026-12-18",
+   "outcomes": [
+    {
+     "code": "4.2.2",
+     "text": "İslam’ın şartlarını söyler."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: İslam’ı Tanıyalım",
+   "konu": "Kur’an-ı Kerim",
+   "start": "2026-12-21",
+   "end": "2026-12-25",
+   "outcomes": [
+    {
+     "code": "4.2.3",
+     "text": "Kur’an-ı Kerim’in iç düzeni ile ilgili kavramları tanımlar."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: İslam’ı Tanıyalım",
+   "konu": "Kur’an-ı Kerim",
+   "start": "2026-12-28",
+   "end": "2027-01-01",
+   "outcomes": [
+    {
+     "code": "4.2.3",
+     "text": "Kur’an-ı Kerim’in iç düzeni ile ilgili kavramları tanımlar."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: İslam’ı Tanıyalım",
+   "konu": "Bir Dua Tanıyorum: Âmentü Duası ve Anlamı",
+   "start": "2027-01-04",
+   "end": "2027-01-08",
+   "outcomes": [
+    {
+     "code": "4.2.4",
+     "text": "Âmentü duasını okur, anlamını söyler."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: İslam’ı Tanıyalım",
+   "konu": "Bir Dua Tanıyorum: Âmentü Duası ve Anlamı",
+   "start": "2027-01-11",
+   "end": "2027-01-15",
+   "outcomes": [
+    {
+     "code": "4.2.4",
+     "text": "Âmentü duasını okur, anlamını söyler."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: Güzel Ahlak",
+   "konu": "Din Güzel Ahlaktır",
+   "start": "2027-01-18",
+   "end": "2027-01-22",
+   "outcomes": [
+    {
+     "code": "4.3.1",
+     "text": "Bireyin güzel ahlaklı olmasında dinin rolünü fark eder."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: Güzel Ahlak",
+   "konu": "Din Güzel Ahlaktır",
+   "start": "2027-02-08",
+   "end": "2027-02-12",
+   "outcomes": [
+    {
+     "code": "4.3.1",
+     "text": "Bireyin güzel ahlaklı olmasında dinin rolünü fark eder."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: Güzel Ahlak",
+   "konu": "İnsani İlişkilerin Temeli: Sevgi ve Saygı",
+   "start": "2027-02-15",
+   "end": "2027-02-19",
+   "outcomes": [
+    {
+     "code": "4.3.2",
+     "text": "İnsani ilişkilerin gelişmesinde sevgi ve saygının önemini ve gerekliliğini savunur."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: Güzel Ahlak",
+   "konu": "İnsani İlişkilerin Temeli: Sevgi ve Saygı",
+   "start": "2027-02-22",
+   "end": "2027-02-26",
+   "outcomes": [
+    {
+     "code": "4.3.2",
+     "text": "İnsani ilişkilerin gelişmesinde sevgi ve saygının önemini ve gerekliliğini savunur."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: Güzel Ahlak",
+   "konu": "Bir Sure Tanıyorum: Fâtiha Suresi ve Anlamı",
+   "start": "2027-03-01",
+   "end": "2027-03-05",
+   "outcomes": [
+    {
+     "code": "4.3.3",
+     "text": "Fâtiha suresini okur, anlamını söyler."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: Güzel Ahlak",
+   "konu": "Bir Sure Tanıyorum: Fâtiha Suresi ve Anlamı",
+   "start": "2027-03-15",
+   "end": "2027-03-19",
+   "outcomes": [
+    {
+     "code": "4.3.3",
+     "text": "Fâtiha suresini okur, anlamını söyler."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Hz. Muhammed’i Tanıyalım",
+   "konu": "Hz. Muhammed’in (s.a.v.) Doğduğu Çevre",
+   "start": "2027-03-22",
+   "end": "2027-03-26",
+   "outcomes": [
+    {
+     "code": "4.4.1",
+     "text": "Hz. Muhammed’in (s.a.v.) doğduğu çevrenin genel özelliklerini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Hz. Muhammed’i Tanıyalım",
+   "konu": "Hz. Muhammed’in (s.a.v.) Doğduğu Çevre",
+   "start": "2027-03-29",
+   "end": "2027-04-02",
+   "outcomes": [
+    {
+     "code": "4.4.1",
+     "text": "Hz. Muhammed’in (s.a.v.) doğduğu çevrenin genel özelliklerini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Hz. Muhammed’i Tanıyalım",
+   "konu": "Hz. Muhammed’in (s.a.v.) Ailesi",
+   "start": "2027-04-05",
+   "end": "2027-04-09",
+   "outcomes": [
+    {
+     "code": "4.4.2",
+     "text": "Hz."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Hz. Muhammed’i Tanıyalım",
+   "konu": "Hz. Muhammed’in (s.a.v.) Ailesi",
+   "start": "2027-04-12",
+   "end": "2027-04-16",
+   "outcomes": [
+    {
+     "code": "4.4.3",
+     "text": "Hz. Muhammed’in (s.a.v.) doğumu, çocukluk ve gençlik yıllarını özetler."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Hz. Muhammed’i Tanıyalım",
+   "konu": "Hz. Muhammed’in (s.a.v.) Doğumu, Çocukluk ve Gençlik Yılları",
+   "start": "2027-04-19",
+   "end": "2027-04-23",
+   "outcomes": [
+    {
+     "code": "4.4.4",
+     "text": "Hz. Muhammed’in (s.a.v.) çocukluk ve gençlik yıllarındaki davranışlarını kendi hayatı ile ilişkilendirir."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Hz. Muhammed’i Tanıyalım",
+   "konu": "Hz. Muhammed’in (s.a.v.) Mekke ve Medine Yılları",
+   "start": "2027-04-26",
+   "end": "2027-04-30",
+   "outcomes": [
+    {
+     "code": "4.4.4",
+     "text": "Hz. Muhammed’in (s.a.v.) çocukluk ve gençlik yıllarındaki davranışlarını kendi hayatı ile ilişkilendirir."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Hz. Muhammed’i Tanıyalım",
+   "konu": "Hz. Muhammed’in (s.a.v.) Mekke ve Medine Yılları",
+   "start": "2027-05-03",
+   "end": "2027-05-07",
+   "outcomes": [
+    {
+     "code": "4.4.5",
+     "text": "Hz. Muhammed’in (s.a.v.) Mekke ve Medine yıllarını özetler."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Hz. Muhammed’i Tanıyalım",
+   "konu": "Bir Dua Tanıyorum: Salli ve Barik Duaları ve Anlamları",
+   "start": "2027-05-10",
+   "end": "2027-05-14",
+   "outcomes": [
+    {
+     "code": "4.4.6",
+     "text": "Salli ve Barik dualarını okur, anlamını söyler."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: Din ve Temizlik",
+   "konu": "İslam Dini ve Temizlik",
+   "start": "2027-05-17",
+   "end": "2027-05-21",
+   "outcomes": [
+    {
+     "code": "4.5.1",
+     "text": "İslam dininin temizliğe verdiği öneme örnekler verir."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: Din ve Temizlik",
+   "konu": "İslam Dini ve Temizlik",
+   "start": "2027-05-24",
+   "end": "2027-05-28",
+   "outcomes": [
+    {
+     "code": "4.5.1",
+     "text": "İslam dininin temizliğe verdiği öneme örnekler verir."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: Din ve Temizlik",
+   "konu": "Bedenimi ve Giysilerimi Temiz Tutarım",
+   "start": "2027-05-31",
+   "end": "2027-06-04",
+   "outcomes": [
+    {
+     "code": "4.5.1",
+     "text": "İslam dininin temizliğe verdiği öneme örnekler verir."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: Din ve Temizlik",
+   "konu": "Evimi ve Okulumu Temiz Tutarım",
+   "start": "2027-06-07",
+   "end": "2027-06-11",
+   "outcomes": [
+    {
+     "code": "4.5.2",
+     "text": "Temiz ve düzenli olmaya özen gösterir."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: Din ve Temizlik",
+   "konu": "Evimi ve Okulumu Temiz Tutarım",
+   "start": "2027-06-14",
+   "end": "2027-06-18",
+   "outcomes": [
+    {
+     "code": "4.5.2",
+     "text": "Temiz ve düzenli olmaya özen gösterir."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: Din ve Temizlik",
+   "konu": "Çevremi Temiz Tutarım",
+   "start": "2027-06-21",
+   "end": "2027-06-25",
+   "outcomes": [
+    {
+     "code": "4.5.2",
+     "text": "Temiz ve düzenli olmaya özen gösterir."
+    }
+   ]
+  }
+ ]
+}

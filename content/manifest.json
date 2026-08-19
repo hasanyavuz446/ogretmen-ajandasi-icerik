@@ -1,5 +1,5 @@
 {
- "version": "2026-2027.45",
+ "version": "2026-2027.47",
  "year": "2025-2026",
  "plans": [
   {
@@ -126,6 +126,61 @@
    "grade": 3,
    "subject": "Türkçe",
    "file": "turkce-3.json"
+  },
+  {
+   "grade": 4,
+   "subject": "Beden Eğitimi ve Oyun",
+   "file": "beden-egitimi-ve-oyun-4.json"
+  },
+  {
+   "grade": 4,
+   "subject": "Din Kültürü ve Ahlak Bilgisi",
+   "file": "din-kulturu-ve-ahlak-bilgisi-4.json"
+  },
+  {
+   "grade": 4,
+   "subject": "Fen Bilimleri",
+   "file": "fen-bilimleri-4.json"
+  },
+  {
+   "grade": 4,
+   "subject": "Görsel Sanatlar",
+   "file": "gorsel-sanatlar-4.json"
+  },
+  {
+   "grade": 4,
+   "subject": "Matematik",
+   "file": "matematik-4.json"
+  },
+  {
+   "grade": 4,
+   "subject": "Müzik",
+   "file": "muzik-4.json"
+  },
+  {
+   "grade": 4,
+   "subject": "Sosyal Bilgiler",
+   "file": "sosyal-bilgiler-4.json"
+  },
+  {
+   "grade": 4,
+   "subject": "Trafik Güvenliği",
+   "file": "trafik-guvenligi-4.json"
+  },
+  {
+   "grade": 4,
+   "subject": "Türkçe",
+   "file": "turkce-4.json"
+  },
+  {
+   "grade": 4,
+   "subject": "İngilizce",
+   "file": "ingilizce-4.json"
+  },
+  {
+   "grade": 4,
+   "subject": "İnsan Hakları, Yurttaşlık ve Demokrasi",
+   "file": "insan-haklari-yurttaslik-ve-demokrasi-4.json"
   },
   {
    "grade": 5,

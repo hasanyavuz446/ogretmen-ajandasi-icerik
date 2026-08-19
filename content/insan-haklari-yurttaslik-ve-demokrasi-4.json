@@ -1,0 +1,450 @@
+{
+ "grade": 4,
+ "subject": "İnsan Hakları, Yurttaşlık ve Demokrasi",
+ "themes": [
+  {
+   "name": "1. ÜNİTE: İnsan Olmak",
+   "konu": "İnsan Olmak",
+   "start": "2026-09-14",
+   "end": "2026-09-18",
+   "outcomes": [
+    {
+     "code": "Y.4.1.1",
+     "text": "İnsan olmanın niteliklerini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: İnsan Olmak",
+   "konu": "İnsan Olmak",
+   "start": "2026-09-21",
+   "end": "2026-09-25",
+   "outcomes": [
+    {
+     "code": "Y.4.1.1",
+     "text": "İnsan olmanın niteliklerini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: İnsan Olmak",
+   "konu": "İnsan Olmak",
+   "start": "2026-09-28",
+   "end": "2026-10-02",
+   "outcomes": [
+    {
+     "code": "Y.4.1.2",
+     "text": "İnsanın doğuştan gelen temel ve vazgeçilmez hakları olduğunu bilir."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: İnsan Olmak",
+   "konu": "İnsan Olmak",
+   "start": "2026-10-05",
+   "end": "2026-10-09",
+   "outcomes": [
+    {
+     "code": "Y.4.1.3",
+     "text": "Haklarına kendi yaşamından örnekler verir."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: İnsan Olmak",
+   "konu": "İnsan Olmak",
+   "start": "2026-10-12",
+   "end": "2026-10-16",
+   "outcomes": [
+    {
+     "code": "Y.4.1.4",
+     "text": "Çocuk ile yetişkin arasındaki farkları açıklar."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: Hak, Özgürlük ve Sorumluluk",
+   "konu": "Hak, Özgürlük ve Sorumluluk",
+   "start": "2026-10-19",
+   "end": "2026-10-23",
+   "outcomes": [
+    {
+     "code": "Y.4.2.1",
+     "text": "Hak, özgürlük ve sorumluluk arasındaki ilişkiyi fark eder."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: Hak, Özgürlük ve Sorumluluk",
+   "konu": "Hak, Özgürlük ve Sorumluluk",
+   "start": "2026-10-26",
+   "end": "2026-10-30",
+   "outcomes": [
+    {
+     "code": "Y.4.2.1",
+     "text": "Hak, özgürlük ve sorumluluk arasındaki ilişkiyi fark eder."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: Hak, Özgürlük ve Sorumluluk",
+   "konu": "Hak, Özgürlük ve Sorumluluk",
+   "start": "2026-11-02",
+   "end": "2026-11-06",
+   "outcomes": [
+    {
+     "code": "Y.4.2.2",
+     "text": "İnsan olma sorumluluğunu taşımanın yollarını açıklar."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: Hak, Özgürlük ve Sorumluluk",
+   "konu": "Hak, Özgürlük ve Sorumluluk",
+   "start": "2026-11-09",
+   "end": "2026-11-13",
+   "outcomes": [
+    {
+     "code": "Y.4.2.3",
+     "text": "Hak ve özgürlüklerini kullanabilen ve kullanamayan çocukların yaşantılarını karşılaştırır."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: Hak, Özgürlük ve Sorumluluk",
+   "konu": "Hak, Özgürlük ve Sorumluluk",
+   "start": "2026-11-23",
+   "end": "2026-11-27",
+   "outcomes": [
+    {
+     "code": "Y.4.2.3",
+     "text": "Hak ve özgürlüklerini kullanabilen ve kullanamayan çocukların yaşantılarını karşılaştırır."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: Hak, Özgürlük ve Sorumluluk",
+   "konu": "Hak, Özgürlük ve Sorumluluk",
+   "start": "2026-11-30",
+   "end": "2026-12-04",
+   "outcomes": [
+    {
+     "code": "Y.4.2.4",
+     "text": "Hak ve özgürlüklerinin ihlal edildiği veya kısıtlandığı durumlarda hissettiklerini ifade eder."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: Hak, Özgürlük ve Sorumluluk",
+   "konu": "Hak, Özgürlük ve Sorumluluk",
+   "start": "2026-12-07",
+   "end": "2026-12-11",
+   "outcomes": [
+    {
+     "code": "Y.4.2.5",
+     "text": "Hak ve özgürlüklerin ihlal edildiği veya kısıtlandığı durumların çözümünde ne tür sorumluluklar üstlenebileceğine ilişkin örnekler verir."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: Hak, Özgürlük ve Sorumluluk",
+   "konu": "Hak, Özgürlük ve Sorumluluk",
+   "start": "2026-12-14",
+   "end": "2026-12-18",
+   "outcomes": [
+    {
+     "code": "Y.4.2.5",
+     "text": "Hak ve özgürlüklerin ihlal edildiği veya kısıtlandığı durumların çözümünde ne tür sorumluluklar üstlenebileceğine ilişkin örnekler verir."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: Hak, Özgürlük ve Sorumluluk",
+   "konu": "Hak, Özgürlük ve Sorumluluk",
+   "start": "2026-12-21",
+   "end": "2026-12-25",
+   "outcomes": [
+    {
+     "code": "Y.4.2.6",
+     "text": "Hak ve özgürlüklere saygı gösterir."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: Hak, Özgürlük ve Sorumluluk",
+   "konu": "Hak, Özgürlük ve Sorumluluk",
+   "start": "2026-12-28",
+   "end": "2027-01-01",
+   "outcomes": [
+    {
+     "code": "Y.4.2.7",
+     "text": "Hak ve özgürlüklerin kullanılmasının birlikte yaşama kültürüne etkisini değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: Adalet ve Eşitlik",
+   "konu": "Adalet ve Eşitlik",
+   "start": "2027-01-04",
+   "end": "2027-01-08",
+   "outcomes": [
+    {
+     "code": "Y.4.3.1",
+     "text": "İnsanların farklılıklarına saygı gösterir."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: Adalet ve Eşitlik",
+   "konu": "Adalet ve Eşitlik",
+   "start": "2027-01-11",
+   "end": "2027-01-15",
+   "outcomes": [
+    {
+     "code": "Y.4.3.1",
+     "text": "İnsanların farklılıklarına saygı gösterir."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: Adalet ve Eşitlik",
+   "konu": "Adalet ve Eşitlik",
+   "start": "2027-01-18",
+   "end": "2027-01-22",
+   "outcomes": [
+    {
+     "code": "Y.4.3.2",
+     "text": "Adalet ve eşitlik kavramlarını birbiriyle ilişkili olarak açıklar."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: Adalet ve Eşitlik",
+   "konu": "Adalet ve Eşitlik",
+   "start": "2027-02-08",
+   "end": "2027-02-12",
+   "outcomes": [
+    {
+     "code": "Y.4.3.3",
+     "text": "İnsanların hak ve özgürlükler bakımından eşit olduğunu bilir."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: Adalet ve Eşitlik",
+   "konu": "Adalet ve Eşitlik",
+   "start": "2027-02-15",
+   "end": "2027-02-19",
+   "outcomes": [
+    {
+     "code": "Y.4.3.4",
+     "text": "Adaletin veya eşitliğin sağlandığı ve sağlanamadığı durumları karşılaştırır."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: Adalet ve Eşitlik",
+   "konu": "Adalet ve Eşitlik",
+   "start": "2027-02-22",
+   "end": "2027-02-26",
+   "outcomes": [
+    {
+     "code": "Y.4.3.5",
+     "text": "Adil veya eşit davranılmadığında insanlarda oluşabilecek duyguları açıklar."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Uzlaşı",
+   "konu": "Uzlaşı",
+   "start": "2027-03-01",
+   "end": "2027-03-05",
+   "outcomes": [
+    {
+     "code": "Y.4.4.1",
+     "text": "İnsanlar arasındaki anlaşmazlıkların nedenlerini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Uzlaşı",
+   "konu": "Uzlaşı",
+   "start": "2027-03-15",
+   "end": "2027-03-19",
+   "outcomes": [
+    {
+     "code": "Y.4.4.1",
+     "text": "İnsanlar arasındaki anlaşmazlıkların nedenlerini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Uzlaşı",
+   "konu": "Uzlaşı",
+   "start": "2027-03-22",
+   "end": "2027-03-26",
+   "outcomes": [
+    {
+     "code": "Y.4.4.2",
+     "text": "Uzlaşı gerektiren ve gerektirmeyen durumları karşılaştırır."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Uzlaşı",
+   "konu": "Uzlaşı",
+   "start": "2027-03-29",
+   "end": "2027-04-02",
+   "outcomes": [
+    {
+     "code": "Y.4.4.3",
+     "text": "Anlaşmazlıkları çözmek için uzlaşı yolları arar."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Uzlaşı",
+   "konu": "Uzlaşı",
+   "start": "2027-04-05",
+   "end": "2027-04-09",
+   "outcomes": [
+    {
+     "code": "Y.4.4.4",
+     "text": "Anlaşmazlık ve uzlaşı durumlarının sonuçlarını örneklerle karşılaştırır."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: Kurallar",
+   "konu": "Kurallar",
+   "start": "2027-04-12",
+   "end": "2027-04-16",
+   "outcomes": [
+    {
+     "code": "Y.4.5.1",
+     "text": "Kural kavramını sorgular."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: Kurallar",
+   "konu": "Kurallar",
+   "start": "2027-04-19",
+   "end": "2027-04-23",
+   "outcomes": [
+    {
+     "code": "Y.4.5.1",
+     "text": "Kural kavramını sorgular."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: Kurallar",
+   "konu": "Kurallar",
+   "start": "2027-04-26",
+   "end": "2027-04-30",
+   "outcomes": [
+    {
+     "code": "Y.4.5.2",
+     "text": "Kuralın, özgürlük ve hak arasındaki ilişkiye etkisini değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: Kurallar",
+   "konu": "Kurallar",
+   "start": "2027-05-03",
+   "end": "2027-05-07",
+   "outcomes": [
+    {
+     "code": "Y.4.5.3",
+     "text": "Kurallara uymanın toplumsal ahenge ve birlikte yaşamaya olan katkısını değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: Kurallar",
+   "konu": "Kurallar",
+   "start": "2027-05-10",
+   "end": "2027-05-14",
+   "outcomes": [
+    {
+     "code": "Y.4.5.4",
+     "text": "Kuralların uygulanmasına katkı sağlar."
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: Birlikte Yaşama",
+   "konu": "Birlikte Yaşama",
+   "start": "2027-05-17",
+   "end": "2027-05-21",
+   "outcomes": [
+    {
+     "code": "Y.4.6.1",
+     "text": "Birlikte yaşamak için bir yurda ihtiyaç olduğunu bilir."
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: Birlikte Yaşama",
+   "konu": "Birlikte Yaşama",
+   "start": "2027-05-24",
+   "end": "2027-05-28",
+   "outcomes": [
+    {
+     "code": "Y.4.6.1",
+     "text": "Birlikte yaşamak için bir yurda ihtiyaç olduğunu bilir."
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: Birlikte Yaşama",
+   "konu": "Birlikte Yaşama",
+   "start": "2027-05-31",
+   "end": "2027-06-04",
+   "outcomes": [
+    {
+     "code": "Y.4.6.2",
+     "text": "Birlikte yaşayabilmek için düzenleyici bir kuruma ihtiyaç olduğunu kavrar."
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: Birlikte Yaşama",
+   "konu": "Birlikte Yaşama",
+   "start": "2027-06-07",
+   "end": "2027-06-11",
+   "outcomes": [
+    {
+     "code": "Y.4.6.3",
+     "text": "Devletin yurttaşlarına karşı sorumluluklarını açıklar."
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: Birlikte Yaşama",
+   "konu": "Birlikte Yaşama",
+   "start": "2027-06-14",
+   "end": "2027-06-18",
+   "outcomes": [
+    {
+     "code": "Y.4.6.4",
+     "text": "Yurttaş olmanın sorumluluklarını açıklar."
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: Birlikte Yaşama",
+   "konu": "Birlikte Yaşama",
+   "start": "2027-06-21",
+   "end": "2027-06-25",
+   "outcomes": [
+    {
+     "code": "Y.4.6.5",
+     "text": "Birlikte yaşama kültürünün günlük hayattaki yansımalarına örnekler verir."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,450 @@
+{
+ "grade": 4,
+ "subject": "Müzik",
+ "themes": [
+  {
+   "name": "1. ÜNİTE: Dinleme-Söyleme",
+   "konu": "Dinleme-Söyleme",
+   "start": "2026-09-14",
+   "end": "2026-09-18",
+   "outcomes": [
+    {
+     "code": "Mü.4.A.1",
+     "text": "Birlikte söyleme kurallarına uyar."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Dinleme-Söyleme",
+   "konu": "Dinleme-Söyleme",
+   "start": "2026-09-21",
+   "end": "2026-09-25",
+   "outcomes": [
+    {
+     "code": "Mü.4.A.1",
+     "text": "Birlikte söyleme kurallarına uyar."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Dinleme-Söyleme",
+   "konu": "Dinleme-Söyleme",
+   "start": "2026-09-28",
+   "end": "2026-10-02",
+   "outcomes": [
+    {
+     "code": "Mü.4.A.1",
+     "text": "Birlikte söyleme kurallarına uyar."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Dinleme-Söyleme",
+   "konu": "Dinleme-Söyleme",
+   "start": "2026-10-05",
+   "end": "2026-10-09",
+   "outcomes": [
+    {
+     "code": "Mü.4.A.1",
+     "text": "Birlikte söyleme kurallarına uyar."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Dinleme-Söyleme",
+   "konu": "Dinleme-Söyleme",
+   "start": "2026-10-12",
+   "end": "2026-10-16",
+   "outcomes": [
+    {
+     "code": "Mü.4.A.2",
+     "text": "İstiklâl Marşı’nı doğru söylemeye özen gösterir."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Dinleme-Söyleme",
+   "konu": "Dinleme-Söyleme",
+   "start": "2026-10-19",
+   "end": "2026-10-23",
+   "outcomes": [
+    {
+     "code": "Mü.4.A.2",
+     "text": "İstiklâl Marşı’nı doğru söylemeye özen gösterir."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Dinleme-Söyleme",
+   "konu": "Dinleme-Söyleme",
+   "start": "2026-10-26",
+   "end": "2026-10-30",
+   "outcomes": [
+    {
+     "code": "Mü.4.A.2",
+     "text": "İstiklâl Marşı’nı doğru söylemeye özen gösterir."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Dinleme-Söyleme",
+   "konu": "Dinleme-Söyleme",
+   "start": "2026-11-02",
+   "end": "2026-11-06",
+   "outcomes": [
+    {
+     "code": "Mü.4.A.2",
+     "text": "İstiklâl Marşı’nı doğru söylemeye özen gösterir."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Dinleme-Söyleme",
+   "konu": "Dinleme-Söyleme",
+   "start": "2026-11-09",
+   "end": "2026-11-13",
+   "outcomes": [
+    {
+     "code": "Mü.4.A.3",
+     "text": "Farklı ritmik yapıdaki ezgileri seslendirir."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Dinleme-Söyleme",
+   "konu": "Dinleme-Söyleme",
+   "start": "2026-11-23",
+   "end": "2026-11-27",
+   "outcomes": [
+    {
+     "code": "Mü.4.A.3",
+     "text": "Farklı ritmik yapıdaki ezgileri seslendirir."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Dinleme-Söyleme",
+   "konu": "Dinleme-Söyleme",
+   "start": "2026-11-30",
+   "end": "2026-12-04",
+   "outcomes": [
+    {
+     "code": "Mü.4.A.3",
+     "text": "Farklı ritmik yapıdaki ezgileri seslendirir."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Dinleme-Söyleme",
+   "konu": "Dinleme-Söyleme",
+   "start": "2026-12-07",
+   "end": "2026-12-11",
+   "outcomes": [
+    {
+     "code": "Mü.4.A.4",
+     "text": "Belirli gün ve haftaların anlamına uygun müzikler söyler."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Dinleme-Söyleme",
+   "konu": "Dinleme-Söyleme",
+   "start": "2026-12-14",
+   "end": "2026-12-18",
+   "outcomes": [
+    {
+     "code": "Mü.4.A.4",
+     "text": "Belirli gün ve haftaların anlamına uygun müzikler söyler."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Dinleme-Söyleme",
+   "konu": "Dinleme-Söyleme",
+   "start": "2026-12-21",
+   "end": "2026-12-25",
+   "outcomes": [
+    {
+     "code": "Mü.4.A.4",
+     "text": "Belirli gün ve haftaların anlamına uygun müzikler söyler."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Dinleme-Söyleme",
+   "konu": "Dinleme-Söyleme",
+   "start": "2026-12-28",
+   "end": "2027-01-01",
+   "outcomes": [
+    {
+     "code": "Mü.4.A.4",
+     "text": "Belirli gün ve haftaların anlamına uygun müzikler söyler."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Dinleme-Söyleme",
+   "konu": "Dinleme-Söyleme",
+   "start": "2027-01-04",
+   "end": "2027-01-08",
+   "outcomes": [
+    {
+     "code": "Mü.4.A.5",
+     "text": "Müzik çalışmalarını sergiler."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Dinleme-Söyleme",
+   "konu": "Dinleme-Söyleme",
+   "start": "2027-01-11",
+   "end": "2027-01-15",
+   "outcomes": [
+    {
+     "code": "Mü.4.A.5",
+     "text": "Müzik çalışmalarını sergiler."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Dinleme-Söyleme",
+   "konu": "Dinleme-Söyleme",
+   "start": "2027-01-18",
+   "end": "2027-01-22",
+   "outcomes": [
+    {
+     "code": "Mü.4.A.5",
+     "text": "Müzik çalışmalarını sergiler."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: Müziksel Algı ve Bilgilenme",
+   "konu": "Müziksel Algı ve Bilgilenme",
+   "start": "2027-02-08",
+   "end": "2027-02-12",
+   "outcomes": [
+    {
+     "code": "Mü.4.B.1",
+     "text": "Temel müzik yazı ve ögelerini tanır."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: Müziksel Algı ve Bilgilenme",
+   "konu": "Müziksel Algı ve Bilgilenme",
+   "start": "2027-02-15",
+   "end": "2027-02-19",
+   "outcomes": [
+    {
+     "code": "Mü.4.B.2",
+     "text": "Müzikteki ses yüksekliklerini grafikle gösterir."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: Müziksel Algı ve Bilgilenme",
+   "konu": "Müziksel Algı ve Bilgilenme",
+   "start": "2027-02-22",
+   "end": "2027-02-26",
+   "outcomes": [
+    {
+     "code": "Mü.4.B.3",
+     "text": "Şarkı, türkü ve oyun müziklerinde hız değişikliklerini fark eder."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: Müziksel Algı ve Bilgilenme",
+   "konu": "Müziksel Algı ve Bilgilenme",
+   "start": "2027-03-01",
+   "end": "2027-03-05",
+   "outcomes": [
+    {
+     "code": "Mü.4.B.4",
+     "text": "Öğrendiği seslerin temel özelliklerini ayırt eder."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: Müziksel Algı ve Bilgilenme",
+   "konu": "Müziksel Algı ve Bilgilenme",
+   "start": "2027-03-15",
+   "end": "2027-03-19",
+   "outcomes": [
+    {
+     "code": "Mü.4.B.5",
+     "text": "Dinlediği müziklerdeki gürlük değişikliklerini fark eder."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: Müziksel Algı ve Bilgilenme",
+   "konu": "Müziksel Algı ve Bilgilenme",
+   "start": "2027-03-22",
+   "end": "2027-03-26",
+   "outcomes": [
+    {
+     "code": "Mü.4.B.6",
+     "text": "Temel müzik yazı ve ögelerini (yükseklik, süre, hız, gürlük) bilişim destekli müzik teknolojilerini kullanarak ayırt eder."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: Müziksel Yaratıcılık",
+   "konu": "Müziksel Yaratıcılık",
+   "start": "2027-03-29",
+   "end": "2027-04-02",
+   "outcomes": [
+    {
+     "code": "Mü.4.C.1",
+     "text": "Dinlediği müziklerle ilgili duygu ve düşüncelerini ifade eder."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: Müziksel Yaratıcılık",
+   "konu": "Müziksel Yaratıcılık",
+   "start": "2027-04-05",
+   "end": "2027-04-09",
+   "outcomes": [
+    {
+     "code": "Mü.4.C.1",
+     "text": "Dinlediği müziklerle ilgili duygu ve düşüncelerini ifade eder."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: Müziksel Yaratıcılık",
+   "konu": "Müziksel Yaratıcılık",
+   "start": "2027-04-12",
+   "end": "2027-04-16",
+   "outcomes": [
+    {
+     "code": "Mü.4.C.2",
+     "text": "Müziklere kendi oluşturduğu ritim kalıpları ile eşlik eder."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: Müziksel Yaratıcılık",
+   "konu": "Müziksel Yaratıcılık",
+   "start": "2027-04-19",
+   "end": "2027-04-23",
+   "outcomes": [
+    {
+     "code": "Mü.4.C.3",
+     "text": "Kendi oluşturduğu ezgileri seslendirir."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: Müziksel Yaratıcılık",
+   "konu": "Müziksel Yaratıcılık",
+   "start": "2027-04-26",
+   "end": "2027-04-30",
+   "outcomes": [
+    {
+     "code": "Mü.4.C.3",
+     "text": "Kendi oluşturduğu ezgileri seslendirir."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: Müziksel Yaratıcılık",
+   "konu": "Müziksel Yaratıcılık",
+   "start": "2027-05-03",
+   "end": "2027-05-07",
+   "outcomes": [
+    {
+     "code": "Mü.4.C.4",
+     "text": "Farklı ritmik yapıdaki ezgilere uygun hareket eder."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: Müziksel Yaratıcılık",
+   "konu": "Müziksel Yaratıcılık",
+   "start": "2027-05-10",
+   "end": "2027-05-14",
+   "outcomes": [
+    {
+     "code": "Mü.4.C.5",
+     "text": "Müziklerde aynı ve farklı ezgi cümlelerini dansa dönüştürür."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Müzik Kültürü",
+   "konu": "Müzik Kültürü",
+   "start": "2027-05-17",
+   "end": "2027-05-21",
+   "outcomes": [
+    {
+     "code": "Mü.4.D.1",
+     "text": "Müzik arşivi oluşturmanın önemini fark eder."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Müzik Kültürü",
+   "konu": "Müzik Kültürü",
+   "start": "2027-05-24",
+   "end": "2027-05-28",
+   "outcomes": [
+    {
+     "code": "Mü.4.D.1",
+     "text": "Müzik arşivi oluşturmanın önemini fark eder."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Müzik Kültürü",
+   "konu": "Müzik Kültürü",
+   "start": "2027-05-31",
+   "end": "2027-06-04",
+   "outcomes": [
+    {
+     "code": "Mü.4.D.2",
+     "text": "Sınıfça ortak müzik arşivi oluşturur."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Müzik Kültürü",
+   "konu": "Müzik Kültürü",
+   "start": "2027-06-07",
+   "end": "2027-06-11",
+   "outcomes": [
+    {
+     "code": "Mü.4.D.3",
+     "text": "Farklı türlerdeki müzikleri dinleyerek müzik kültürünü geliştirir."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Müzik Kültürü",
+   "konu": "Müzik Kültürü",
+   "start": "2027-06-14",
+   "end": "2027-06-18",
+   "outcomes": [
+    {
+     "code": "Mü.4.D.4",
+     "text": "Öğrenilen müzikler aracılığıyla millî ve manevi bilinç kazanır."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Müzik Kültürü",
+   "konu": "Müzik Kültürü",
+   "start": "2027-06-21",
+   "end": "2027-06-25",
+   "outcomes": [
+    {
+     "code": "Mü.4.D.5",
+     "text": "Çevresindeki müzik etkinliklerine katılır."
+    }
+   ]
+  }
+ ]
+}

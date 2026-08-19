@@ -1,0 +1,471 @@
+{
+ "grade": 4,
+ "subject": "Fen Bilimleri",
+ "themes": [
+  {
+   "name": "1. ÜNİTE: Yer Kabuğu ve Dünya’mızın Hareketleri",
+   "konu": "Yer Kabuğu ve Dünya’mızın Hareketleri",
+   "start": "2026-09-14",
+   "end": "2026-09-18",
+   "outcomes": [
+    {
+     "code": "F.4.1.1.1",
+     "text": "Yer kabuğunun kara tabakasının kayaçlardan oluştuğunu belirtir."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Yer Kabuğu ve Dünya’mızın Hareketleri",
+   "konu": "Yer Kabuğu ve Dünya’mızın Hareketleri",
+   "start": "2026-09-21",
+   "end": "2026-09-25",
+   "outcomes": [
+    {
+     "code": "F.4.1.1.2",
+     "text": "Kayaçlarla madenleri ilişkilendirir ve kayaçların ham madde olarak önemini tartışır."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Yer Kabuğu ve Dünya’mızın Hareketleri",
+   "konu": "Yer Kabuğu ve Dünya’mızın Hareketleri",
+   "start": "2026-09-28",
+   "end": "2026-10-02",
+   "outcomes": [
+    {
+     "code": "F.4.1.1.3",
+     "text": "Fosillerin oluşumunu açıklar."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Yer Kabuğu ve Dünya’mızın Hareketleri",
+   "konu": "Yer Kabuğu ve Dünya’mızın Hareketleri",
+   "start": "2026-10-05",
+   "end": "2026-10-09",
+   "outcomes": [
+    {
+     "code": "F.4.1.2.1",
+     "text": "Dünya’nın dönme ve dolanma hareketleri arasındaki farkı açıklar."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: Yer Kabuğu ve Dünya’mızın Hareketleri",
+   "konu": "Yer Kabuğu ve Dünya’mızın Hareketleri",
+   "start": "2026-10-12",
+   "end": "2026-10-16",
+   "outcomes": [
+    {
+     "code": "F.4.1.2.2",
+     "text": "Dünya’nın hareketleri sonucu gerçekleşen olayları açıklar. a."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: Besinlerimiz",
+   "konu": "Besinlerimiz",
+   "start": "2026-10-19",
+   "end": "2026-10-23",
+   "outcomes": [
+    {
+     "code": "F.4.2.1.1",
+     "text": "Canlı yaşamı ve besin içerikleri arasındaki ilişkiyi açıklar. a."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: Besinlerimiz",
+   "konu": "Besinlerimiz",
+   "start": "2026-10-26",
+   "end": "2026-10-30",
+   "outcomes": [
+    {
+     "code": "F.4.2.1.2",
+     "text": "Su ve minerallerin bütün besinlerde bulunduğu çıkarımını yapar."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: Besinlerimiz",
+   "konu": "Besinlerimiz",
+   "start": "2026-11-02",
+   "end": "2026-11-06",
+   "outcomes": [
+    {
+     "code": "F.4.2.1.3",
+     "text": "Sağlıklı bir yaşam için besinlerin tazeliğinin ve doğallığının önemini, araştırma verilerine dayalı olarak tartışır."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: Besinlerimiz",
+   "konu": "Besinlerimiz",
+   "start": "2026-11-09",
+   "end": "2026-11-13",
+   "outcomes": [
+    {
+     "code": "F.4.2.1.4",
+     "text": "İnsan sağlığı ile dengeli beslenmeyi ilişkilendirir."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: Besinlerimiz",
+   "konu": "Besinlerimiz",
+   "start": "2026-11-23",
+   "end": "2026-11-27",
+   "outcomes": [
+    {
+     "code": "F.4.2.1.5",
+     "text": "Alkol ve sigara kullanımının insan sağlığına olan olumsuz etkilerinin farkına varır."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: Besinlerimiz",
+   "konu": "Besinlerimiz",
+   "start": "2026-11-30",
+   "end": "2026-12-04",
+   "outcomes": [
+    {
+     "code": "F.4.2.1.6",
+     "text": "Yakın çevresinde sigara kullanımını azaltmaya yönelik sorumluluk üstlenir."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: Kuvvetin Etkileri",
+   "konu": "Kuvvetin Etkileri",
+   "start": "2026-12-07",
+   "end": "2026-12-11",
+   "outcomes": [
+    {
+     "code": "F.4.3.1.1",
+     "text": "Kuvvetin, cisimlere hareket kazandırmasına ve cisimlerin şekillerini değiştirmesine yönelik deneyler yapar."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: Kuvvetin Etkileri",
+   "konu": "Kuvvetin Etkileri",
+   "start": "2026-12-14",
+   "end": "2026-12-18",
+   "outcomes": [
+    {
+     "code": "F.4.3.2.1",
+     "text": "Mıknatısı tanır ve kutupları olduğunu keşfeder."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: Kuvvetin Etkileri",
+   "konu": "Kuvvetin Etkileri",
+   "start": "2026-12-21",
+   "end": "2026-12-25",
+   "outcomes": [
+    {
+     "code": "F.4.3.2.2",
+     "text": "Mıknatısın etki ettiği maddeleri deney yaparak keşfeder."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: Kuvvetin Etkileri",
+   "konu": "Kuvvetin Etkileri",
+   "start": "2026-12-28",
+   "end": "2027-01-01",
+   "outcomes": [
+    {
+     "code": "F.4.3.2.3",
+     "text": "Mıknatısların günlük yaşamdaki kullanım alanlarına örnekler verir."
+    },
+    {
+     "code": "F.4.3.2.4",
+     "text": "Mıknatısların yeni kullanım alanları konusunda fikirlerini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Maddenin Özellikleri",
+   "konu": "Maddenin Özellikleri",
+   "start": "2027-01-04",
+   "end": "2027-01-08",
+   "outcomes": [
+    {
+     "code": "F.4.4.1.1",
+     "text": "Beş duyu organını kullanarak maddeyi niteleyen temel özellikleri açıklar."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Maddenin Özellikleri",
+   "konu": "Maddenin Özellikleri",
+   "start": "2027-01-11",
+   "end": "2027-01-15",
+   "outcomes": [
+    {
+     "code": "F.4.4.2.1",
+     "text": "Farklı maddelerin kütle ve hacimlerini ölçerek karşılaştırır."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Maddenin Özellikleri",
+   "konu": "Maddenin Özellikleri",
+   "start": "2027-01-18",
+   "end": "2027-01-22",
+   "outcomes": [
+    {
+     "code": "F.4.4.2.2",
+     "text": "Ölçülebilir özelliklerini kullanarak maddeyi tanımlar."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Maddenin Özellikleri",
+   "konu": "Maddenin Özellikleri",
+   "start": "2027-02-08",
+   "end": "2027-02-12",
+   "outcomes": [
+    {
+     "code": "F.4.4.3.1",
+     "text": "Maddelerin hâllerine ait temel özellikleri karşılaştırır."
+    },
+    {
+     "code": "F.4.4.3.2",
+     "text": "Aynı maddenin farklı hâllerine örnekler verir."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Maddenin Özellikleri",
+   "konu": "Maddenin Özellikleri",
+   "start": "2027-02-15",
+   "end": "2027-02-19",
+   "outcomes": [
+    {
+     "code": "F.4.4.4.1",
+     "text": "Maddelerin ısınıp soğumasına yönelik deneyler tasarlar."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Maddenin Özellikleri",
+   "konu": "Maddenin Özellikleri",
+   "start": "2027-02-22",
+   "end": "2027-02-26",
+   "outcomes": [
+    {
+     "code": "F.4.4.4.2",
+     "text": "Maddelerin ısı etkisiyle hâl değiştirebileceğine yönelik deney tasarlar."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Maddenin Özellikleri",
+   "konu": "Maddenin Özellikleri",
+   "start": "2027-03-01",
+   "end": "2027-03-05",
+   "outcomes": [
+    {
+     "code": "F.4.4.5.1",
+     "text": "Günlük yaşamında sıklıkla kullandığı maddeleri saf madde ve karışım şeklinde sınıflandırarak aralarındaki farkları açıklar."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: Maddenin Özellikleri",
+   "konu": "Maddenin Özellikleri",
+   "start": "2027-03-15",
+   "end": "2027-03-19",
+   "outcomes": [
+    {
+     "code": "F.4.4.5.2",
+     "text": "Günlük yaşamda karşılaştığı karışımların ayrılmasında kullanılabilecek yöntemlerden uygun olanı seçer."
+    },
+    {
+     "code": "F.4.4.5.3",
+     "text": "Karışımların ayrılmasını, ülke ekonomisine katkısı ve kaynakların etkili kullanımı bakımından tartışır."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: Aydınlatma ve Ses Teknolojileri",
+   "konu": "Aydınlatma ve Ses Teknolojileri",
+   "start": "2027-03-22",
+   "end": "2027-03-26",
+   "outcomes": [
+    {
+     "code": "F.4.5.1.1",
+     "text": "Geçmişte ve günümüzde kullanılan aydınlatma araçlarını karşılaştırır. a."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: Aydınlatma ve Ses Teknolojileri",
+   "konu": "Aydınlatma ve Ses Teknolojileri",
+   "start": "2027-03-29",
+   "end": "2027-04-02",
+   "outcomes": [
+    {
+     "code": "F.4.5.1.2",
+     "text": "Gelecekte kullanılabilecek aydınlatma araçlarına yönelik tasarım yapar."
+    },
+    {
+     "code": "F.4.5.2.1",
+     "text": "Uygun aydınlatma hakkında araştırma yapar."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: Aydınlatma ve Ses Teknolojileri",
+   "konu": "Aydınlatma ve Ses Teknolojileri",
+   "start": "2027-04-05",
+   "end": "2027-04-09",
+   "outcomes": [
+    {
+     "code": "F.4.5.2.2",
+     "text": "Aydınlatma araçlarının tasarruflu kullanımının aile ve ülke ekonomisi bakımından önemini tartışır."
+    },
+    {
+     "code": "F.4.5.3.1",
+     "text": "Işık kirliliğinin nedenlerini sorgular."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: Aydınlatma ve Ses Teknolojileri",
+   "konu": "Aydınlatma ve Ses Teknolojileri",
+   "start": "2027-04-12",
+   "end": "2027-04-16",
+   "outcomes": [
+    {
+     "code": "F.4.5.3.2",
+     "text": "Işık kirliliğinin, doğal hayata ve gök cisimlerinin gözlenmesine olan olumsuz etkilerini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: Aydınlatma ve Ses Teknolojileri",
+   "konu": "Aydınlatma ve Ses Teknolojileri",
+   "start": "2027-04-19",
+   "end": "2027-04-23",
+   "outcomes": [
+    {
+     "code": "F.4.5.3.3",
+     "text": "Işık kirliliğini azaltmaya yönelik çözümler üretir."
+    },
+    {
+     "code": "F.4.5.4.1",
+     "text": "Geçmişte ve günümüzde kullanılan ses teknolojilerini karşılaştırır. a."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: Aydınlatma ve Ses Teknolojileri",
+   "konu": "Aydınlatma ve Ses Teknolojileri",
+   "start": "2027-04-26",
+   "end": "2027-04-30",
+   "outcomes": [
+    {
+     "code": "F.4.5.4.2",
+     "text": "Şiddetli sese sahip teknolojik araçların olumlu ve olumsuz etkilerini araştırır."
+    },
+    {
+     "code": "F.4.5.5.1",
+     "text": "Ses kirliliğinin nedenlerini sorgular."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: Aydınlatma ve Ses Teknolojileri",
+   "konu": "Aydınlatma ve Ses Teknolojileri",
+   "start": "2027-05-03",
+   "end": "2027-05-07",
+   "outcomes": [
+    {
+     "code": "F.4.5.5.2",
+     "text": "Ses kirliliğinin insan sağlığı ve çevre üzerindeki olumsuz etkilerini açıklar."
+    },
+    {
+     "code": "F.4.5.5.3",
+     "text": "Ses kirliliğini azaltmaya yönelik çözümler üretir."
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: İnsan ve Çevre",
+   "konu": "İnsan ve Çevre",
+   "start": "2027-05-10",
+   "end": "2027-05-14",
+   "outcomes": [
+    {
+     "code": "F.4.6.1.1",
+     "text": "Kaynakların kullanımında tasarruflu davranmaya özen gösterir. a."
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: İnsan ve Çevre",
+   "konu": "İnsan ve Çevre",
+   "start": "2027-05-17",
+   "end": "2027-05-21",
+   "outcomes": [
+    {
+     "code": "F.4.6.1.2",
+     "text": "Yaşam için gerekli olan kaynakların ve geri dönüşümün önemini fark eder."
+    }
+   ]
+  },
+  {
+   "name": "7. ÜNİTE: Basit Elektrik Devreleri",
+   "konu": "Basit Elektrik Devreleri",
+   "start": "2027-05-24",
+   "end": "2027-05-28",
+   "outcomes": [
+    {
+     "code": "F.4.7.1.1",
+     "text": "Basit elektrik devresini oluşturan devre elemanlarını işlevleri ile tanır."
+    }
+   ]
+  },
+  {
+   "name": "7. ÜNİTE: Basit Elektrik Devreleri",
+   "konu": "Basit Elektrik Devreleri",
+   "start": "2027-05-31",
+   "end": "2027-06-04",
+   "outcomes": [
+    {
+     "code": "F.4.7.1.2",
+     "text": "Çalışan bir elektrik devresi kurar."
+    },
+    {
+     "code": "F.4.7.1.3",
+     "text": "Evde ve okuldaki elektrik düğmelerinin ve kabloların birer devre elemanı olduğunu bilir."
+    }
+   ]
+  },
+  {
+   "name": "8. ÜNİTE: Fen, Mühendislik ve Girişimcilik Uygulamaları",
+   "konu": "Yıl Sonu Bilim Şenliği",
+   "start": "2027-06-07",
+   "end": "2027-06-11",
+   "outcomes": []
+  },
+  {
+   "name": "8. ÜNİTE: Fen, Mühendislik ve Girişimcilik Uygulamaları",
+   "konu": "Yıl Sonu Bilim Şenliği",
+   "start": "2027-06-14",
+   "end": "2027-06-18",
+   "outcomes": []
+  },
+  {
+   "name": "8. ÜNİTE: Fen, Mühendislik ve Girişimcilik Uygulamaları",
+   "konu": "Yıl Sonu Bilim Şenliği",
+   "start": "2027-06-21",
+   "end": "2027-06-25",
+   "outcomes": []
+  }
+ ]
+}

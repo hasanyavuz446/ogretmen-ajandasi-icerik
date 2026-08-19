@@ -1,0 +1,490 @@
+{
+ "grade": 4,
+ "subject": "İngilizce",
+ "themes": [
+  {
+   "name": "1. ÜNİTE: 1. Ünite",
+   "konu": "1. Ünite",
+   "start": "2026-09-14",
+   "end": "2026-09-18",
+   "outcomes": [
+    {
+     "code": "E4.1.S1",
+     "text": "Students will be able to interact with their classmates through asking for and giving permission in short utterances."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: 1. Ünite",
+   "konu": "1. Ünite",
+   "start": "2026-09-21",
+   "end": "2026-09-25",
+   "outcomes": [
+    {
+     "code": "E4.2.S1",
+     "text": "Students will be able to talk about nations and nationalities."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: 1. Ünite",
+   "konu": "1. Ünite",
+   "start": "2026-09-28",
+   "end": "2026-10-02",
+   "outcomes": [
+    {
+     "code": "E4.3.S1",
+     "text": "Students will be able to talk about their own and others’ possessions."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: 1. Ünite",
+   "konu": "1. Ünite",
+   "start": "2026-10-05",
+   "end": "2026-10-09",
+   "outcomes": [
+    {
+     "code": "E4.4.S1",
+     "text": "Students will be able to talk about their likes and dislikes."
+    },
+    {
+     "code": "E4.5.S1",
+     "text": "Students will be able to talk about their daily routines."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: 1. Ünite",
+   "konu": "1. Ünite",
+   "start": "2026-10-12",
+   "end": "2026-10-16",
+   "outcomes": [
+    {
+     "code": "E4.6.S1",
+     "text": "Students will be able to give short and basic instructions."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: 1. Ünite",
+   "konu": "1. Ünite",
+   "start": "2026-10-19",
+   "end": "2026-10-23",
+   "outcomes": [
+    {
+     "code": "E4.7.S1",
+     "text": "Students will be able to talk about other people’s jobs and likes in simple conversations."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: 1. Ünite",
+   "konu": "1. Ünite",
+   "start": "2026-10-26",
+   "end": "2026-10-30",
+   "outcomes": [
+    {
+     "code": "E4.8.S1",
+     "text": "Students will be able to describe the weather conditions."
+    }
+   ]
+  },
+  {
+   "name": "1. ÜNİTE: 1. Ünite",
+   "konu": "1. Ünite",
+   "start": "2026-11-02",
+   "end": "2026-11-06",
+   "outcomes": [
+    {
+     "code": "E4.9.S1",
+     "text": "Students will be able to describe their friends and other people (family members, teachers, etc.)."
+    },
+    {
+     "code": "E4.10.S1",
+     "text": "Students will be able to talk about their basic needs and feelings."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: 2. Ünite",
+   "konu": "2. Ünite",
+   "start": "2026-11-09",
+   "end": "2026-11-13",
+   "outcomes": [
+    {
+     "code": "E4.1.S2",
+     "text": "Students will be able to make requests by using simple utterances."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: 2. Ünite",
+   "konu": "2. Ünite",
+   "start": "2026-11-23",
+   "end": "2026-11-27",
+   "outcomes": [
+    {
+     "code": "E4.2.S2",
+     "text": "Students will be able to talk about locations of cities."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: 2. Ünite",
+   "konu": "2. Ünite",
+   "start": "2026-11-30",
+   "end": "2026-12-04",
+   "outcomes": [
+    {
+     "code": "E4.3.S2",
+     "text": "Students will be able to deliver a simple, brief speech about abilities with an initial preparation."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: 2. Ünite",
+   "konu": "2. Ünite",
+   "start": "2026-12-07",
+   "end": "2026-12-11",
+   "outcomes": [
+    {
+     "code": "E4.4.S2",
+     "text": "Students will be able to engage in simple conversations about likes and dislikes."
+    },
+    {
+     "code": "E4.5.S2",
+     "text": "Students will be able to talk about the time."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: 2. Ünite",
+   "konu": "2. Ünite",
+   "start": "2026-12-14",
+   "end": "2026-12-18",
+   "outcomes": [
+    {
+     "code": "E4.6.S2",
+     "text": "Students will be able to talk about locations of objects."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: 2. Ünite",
+   "konu": "2. Ünite",
+   "start": "2026-12-21",
+   "end": "2026-12-25",
+   "outcomes": [
+    {
+     "code": "E4.8.S2",
+     "text": "Students will be able to name the seasons."
+    }
+   ]
+  },
+  {
+   "name": "2. ÜNİTE: 2. Ünite",
+   "konu": "2. Ünite",
+   "start": "2026-12-28",
+   "end": "2027-01-01",
+   "outcomes": [
+    {
+     "code": "E4.9.S2",
+     "text": "Students will be able to ask and answer questions about other people’s physical characteristics."
+    },
+    {
+     "code": "E4.10.S2",
+     "text": "Students will be able to express others’ feelings and their needs."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: 3. Ünite",
+   "konu": "3. Ünite",
+   "start": "2027-01-04",
+   "end": "2027-01-08",
+   "outcomes": [
+    {
+     "code": "E4.1.S3",
+     "text": "Students will be able to give and respond to simple instructions verbally."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: 3. Ünite",
+   "konu": "3. Ünite",
+   "start": "2027-01-11",
+   "end": "2027-01-15",
+   "outcomes": [
+    {
+     "code": "E4.4.S3",
+     "text": "Students will be able to ask for clarification in conversations."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: 3. Ünite",
+   "konu": "3. Ünite",
+   "start": "2027-01-18",
+   "end": "2027-01-22",
+   "outcomes": [
+    {
+     "code": "E4.6.S3",
+     "text": "Students will be able to ask and answer simple clarification questions."
+    }
+   ]
+  },
+  {
+   "name": "3. ÜNİTE: 3. Ünite",
+   "konu": "3. Ünite",
+   "start": "2027-02-08",
+   "end": "2027-02-12",
+   "outcomes": [
+    {
+     "code": "E4.8.S3",
+     "text": "Students will be able to ask and answer simple questions about weather conditions and clothing items in simple conversations."
+    },
+    {
+     "code": "E4.9.S3",
+     "text": "Students will be able to talk about possessions."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: 4. Ünite",
+   "konu": "4. Ünite",
+   "start": "2027-02-15",
+   "end": "2027-02-19",
+   "outcomes": [
+    {
+     "code": "E4.1.S4",
+     "text": "Students will be able to count up to fifty."
+    }
+   ]
+  },
+  {
+   "name": "4. ÜNİTE: 4. Ünite",
+   "konu": "4. Ünite",
+   "start": "2027-02-22",
+   "end": "2027-02-26",
+   "outcomes": [
+    {
+     "code": "E4.8.S4",
+     "text": "Students will be able to make simple request about borrowing."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: 5. Ünite",
+   "konu": "5. Ünite",
+   "start": "2027-03-01",
+   "end": "2027-03-05",
+   "outcomes": [
+    {
+     "code": "E4.1.L1",
+     "text": "Students will be able to understand short and clear utterances about requests."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: 5. Ünite",
+   "konu": "5. Ünite",
+   "start": "2027-03-15",
+   "end": "2027-03-19",
+   "outcomes": [
+    {
+     "code": "E4.2.L1",
+     "text": "Students will be able to recognize information about other people."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: 5. Ünite",
+   "konu": "5. Ünite",
+   "start": "2027-03-22",
+   "end": "2027-03-26",
+   "outcomes": [
+    {
+     "code": "E4.3.L1",
+     "text": "Students will be able to get the main idea of a simple oral text about the abilities of the self and others."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: 5. Ünite",
+   "konu": "5. Ünite",
+   "start": "2027-03-29",
+   "end": "2027-04-02",
+   "outcomes": [
+    {
+     "code": "E4.4.L1",
+     "text": "Students will be able to understand the general information in an oral text about likes and dislikes."
+    },
+    {
+     "code": "E4.5.L1",
+     "text": "Students will be able to understand the general and specific information in a short, oral text about daily routines."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: 5. Ünite",
+   "konu": "5. Ünite",
+   "start": "2027-04-05",
+   "end": "2027-04-09",
+   "outcomes": [
+    {
+     "code": "E4.6.L1",
+     "text": "Students will be able to understand and follow simple instructions."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: 5. Ünite",
+   "konu": "5. Ünite",
+   "start": "2027-04-12",
+   "end": "2027-04-16",
+   "outcomes": [
+    {
+     "code": "E4.7.L1",
+     "text": "Students will be able to identify other people’s jobs and likes in a short, simple oral text."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: 5. Ünite",
+   "konu": "5. Ünite",
+   "start": "2027-04-19",
+   "end": "2027-04-23",
+   "outcomes": [
+    {
+     "code": "E4.8.L1",
+     "text": "Students will be able to understand short oral texts about weather conditions and clothing."
+    }
+   ]
+  },
+  {
+   "name": "5. ÜNİTE: 5. Ünite",
+   "konu": "5. Ünite",
+   "start": "2027-04-26",
+   "end": "2027-04-30",
+   "outcomes": [
+    {
+     "code": "E4.9.L1",
+     "text": "Students will be able to understand the main point in short, clear, simple messages and announcements (e.g., describing people and their features)."
+    },
+    {
+     "code": "E4.10.L1",
+     "text": "Students will be able to recognize simple words and phrases about food and drinks."
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: 6. Ünite",
+   "konu": "6. Ünite",
+   "start": "2027-05-03",
+   "end": "2027-05-07",
+   "outcomes": [
+    {
+     "code": "E4.1.L2",
+     "text": "Students will be able to understand short and clear utterances about permission."
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: 6. Ünite",
+   "konu": "6. Ünite",
+   "start": "2027-05-10",
+   "end": "2027-05-14",
+   "outcomes": [
+    {
+     "code": "E4.2.L2",
+     "text": "Students will be able to identify different people’s nationalities."
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: 6. Ünite",
+   "konu": "6. Ünite",
+   "start": "2027-05-17",
+   "end": "2027-05-21",
+   "outcomes": [
+    {
+     "code": "E4.3.L2",
+     "text": "Students will be able to recognize possessions of others in a clear, short and slow oral text."
+    },
+    {
+     "code": "E4.5.L2",
+     "text": "Students will be able to recognize the time in a short oral text."
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: 6. Ünite",
+   "konu": "6. Ünite",
+   "start": "2027-05-24",
+   "end": "2027-05-28",
+   "outcomes": [
+    {
+     "code": "E4.6.L2",
+     "text": "Students will be able to recognize phrases/descriptions about locations."
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: 6. Ünite",
+   "konu": "6. Ünite",
+   "start": "2027-05-31",
+   "end": "2027-06-04",
+   "outcomes": [
+    {
+     "code": "E4.8.L2",
+     "text": "Students will be able to recognize the names of the seasons and clothes in short oral texts."
+    }
+   ]
+  },
+  {
+   "name": "6. ÜNİTE: 6. Ünite",
+   "konu": "6. Ünite",
+   "start": "2027-06-07",
+   "end": "2027-06-11",
+   "outcomes": [
+    {
+     "code": "E4.9.L2",
+     "text": "Students will be able to understand short, oral texts about possessions."
+    },
+    {
+     "code": "E4.10.L2",
+     "text": "Students will be able to understand the offers about their basic needs."
+    }
+   ]
+  },
+  {
+   "name": "7. ÜNİTE: 7. Ünite",
+   "konu": "7. Ünite",
+   "start": "2027-06-14",
+   "end": "2027-06-18",
+   "outcomes": [
+    {
+     "code": "E4.1.L3",
+     "text": "Students will be able to recognize simple classroom instructions."
+    },
+    {
+     "code": "E4.10.L3",
+     "text": "Students will be able to identify others’ needs and feelings in simple oral texts."
+    }
+   ]
+  },
+  {
+   "name": "8. ÜNİTE: 8. Ünite",
+   "konu": "8. Ünite",
+   "start": "2027-06-21",
+   "end": "2027-06-25",
+   "outcomes": [
+    {
+     "code": "E4.1.L4",
+     "text": "Students will be able to recognize numbers from one to fifty."
+    }
+   ]
+  }
+ ]
+}
