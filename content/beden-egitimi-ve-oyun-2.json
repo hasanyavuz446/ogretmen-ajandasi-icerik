@@ -1,5 +1,457 @@
 {
-  "grade": 2,
-  "subject": "Beden Eğitimi ve Oyun",
-  "themes": []
+ "grade": 2,
+ "subject": "Beden Eğitimi ve Oyun",
+ "themes": [
+  {
+   "name": "BEO.2.1. HAREKETİMİ GELİŞTİRİYORUM",
+   "konu": "Temel Hareket Becerileri Oyunlarda Grupla Hareket",
+   "start": "2026-09-14",
+   "end": "2026-09-20",
+   "outcomes": [
+    {
+     "code": "BEO.2.1.1",
+     "text": "Temel hareket becerilerini sergileyebilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.1. HAREKETİMİ GELİŞTİRİYORUM",
+   "konu": "Temel Hareket Becerileri Oyunlarda Grupla Hareket",
+   "start": "2026-09-21",
+   "end": "2026-09-27",
+   "outcomes": [
+    {
+     "code": "BEO.2.1.1",
+     "text": "Temel hareket becerilerini sergileyebilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.1. HAREKETİMİ GELİŞTİRİYORUM",
+   "konu": "Temel Hareket Becerileri Oyunlarda Grupla Hareket",
+   "start": "2026-09-28",
+   "end": "2026-10-04",
+   "outcomes": [
+    {
+     "code": "BEO.2.1.1",
+     "text": "Temel hareket becerilerini sergileyebilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.1. HAREKETİMİ GELİŞTİRİYORUM",
+   "konu": "Temel Hareket Becerileri Oyunlarda Grupla Hareket",
+   "start": "2026-10-05",
+   "end": "2026-10-11",
+   "outcomes": [
+    {
+     "code": "BEO.2.1.1",
+     "text": "Temel hareket becerilerini sergileyebilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.1. HAREKETİMİ GELİŞTİRİYORUM",
+   "konu": "Temel Hareket Becerileri Oyunlarda Grupla Hareket",
+   "start": "2026-10-12",
+   "end": "2026-10-18",
+   "outcomes": [
+    {
+     "code": "BEO.2.1.1",
+     "text": "Temel hareket becerilerini sergileyebilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.1. HAREKETİMİ GELİŞTİRİYORUM",
+   "konu": "Temel Hareket Becerileri Oyunlarda Grupla Hareket",
+   "start": "2026-10-19",
+   "end": "2026-10-25",
+   "outcomes": [
+    {
+     "code": "BEO.2.1.1",
+     "text": "Temel hareket becerilerini sergileyebilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.1. HAREKETİMİ GELİŞTİRİYORUM",
+   "konu": "Temel Hareket Becerileri Oyunlarda Grupla Hareket",
+   "start": "2026-10-26",
+   "end": "2026-11-01",
+   "outcomes": [
+    {
+     "code": "BEO.2.1.1",
+     "text": "Temel hareket becerilerini sergileyebilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.1. HAREKETİMİ GELİŞTİRİYORUM",
+   "konu": "Temel Hareket Becerileri Oyunlarda Grupla Hareket",
+   "start": "2026-11-02",
+   "end": "2026-11-08",
+   "outcomes": [
+    {
+     "code": "BEO.2.1.2",
+     "text": "Oyunlarda grupla hareket edebilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.1. HAREKETİMİ GELİŞTİRİYORUM",
+   "konu": "Temel Hareket Becerileri Oyunlarda Grupla Hareket",
+   "start": "2026-11-09",
+   "end": "2026-11-15",
+   "outcomes": [
+    {
+     "code": "BEO.2.1.2",
+     "text": "Oyunlarda grupla hareket edebilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.1. HAREKETİMİ GELİŞTİRİYORUM",
+   "konu": "Temel Hareket Becerileri Oyunlarda Grupla Hareket",
+   "start": "2026-11-23",
+   "end": "2026-11-29",
+   "outcomes": [
+    {
+     "code": "BEO.2.1.2",
+     "text": "Oyunlarda grupla hareket edebilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.1. HAREKETİMİ GELİŞTİRİYORUM",
+   "konu": "Temel Hareket Becerileri Oyunlarda Grupla Hareket",
+   "start": "2026-11-30",
+   "end": "2026-12-06",
+   "outcomes": [
+    {
+     "code": "BEO.2.1.2",
+     "text": "Oyunlarda grupla hareket edebilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.1. HAREKETİMİ GELİŞTİRİYORUM",
+   "konu": "Temel Hareket Becerileri Oyunlarda Grupla Hareket",
+   "start": "2026-12-07",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "BEO.2.1.2",
+     "text": "Oyunlarda grupla hareket edebilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.1. HAREKETİMİ GELİŞTİRİYORUM",
+   "konu": "Temel Hareket Becerileri Oyunlarda Grupla Hareket",
+   "start": "2026-12-14",
+   "end": "2026-12-20",
+   "outcomes": [
+    {
+     "code": "BEO.2.1.2",
+     "text": "Oyunlarda grupla hareket edebilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.1. HAREKETİMİ GELİŞTİRİYORUM",
+   "konu": "Temel Hareket Becerileri Oyunlarda Grupla Hareket",
+   "start": "2026-12-21",
+   "end": "2026-12-27",
+   "outcomes": [
+    {
+     "code": "BEO.2.1.2",
+     "text": "Oyunlarda grupla hareket edebilme"
+    },
+    {
+     "code": "BEO.2.2.1",
+     "text": "Oyunlarda hareket kavramlarını uygulayabilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.2. OYUNUN KURALLARINI UYGULUYORUM",
+   "konu": "Oyunlarda Hareket Kavramları Oyun Kuralları Oyunlarda Taktik ve Strateji",
+   "start": "2026-12-28",
+   "end": "2027-01-03",
+   "outcomes": [
+    {
+     "code": "BEO.2.2.1",
+     "text": "Oyunlarda hareket kavramlarını uygulayabilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.2. OYUNUN KURALLARINI UYGULUYORUM",
+   "konu": "Oyunlarda Hareket Kavramları Oyun Kuralları Oyunlarda Taktik ve Strateji",
+   "start": "2027-01-04",
+   "end": "2027-01-10",
+   "outcomes": [
+    {
+     "code": "BEO.2.2.1",
+     "text": "Oyunlarda hareket kavramlarını uygulayabilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.2. OYUNUN KURALLARINI UYGULUYORUM",
+   "konu": "Oyunlarda Hareket Kavramları Oyun Kuralları Oyunlarda Taktik ve Strateji",
+   "start": "2027-01-11",
+   "end": "2027-01-17",
+   "outcomes": [
+    {
+     "code": "BEO.2.2.2",
+     "text": "Oyun kurallarını uygulayabilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.2. OYUNUN KURALLARINI UYGULUYORUM",
+   "konu": "Oyunlarda Hareket Kavramları Oyun Kuralları Oyunlarda Taktik ve Strateji",
+   "start": "2027-01-18",
+   "end": "2027-01-24",
+   "outcomes": [
+    {
+     "code": "BEO.2.2.2",
+     "text": "Oyun kurallarını uygulayabilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.2. OYUNUN KURALLARINI UYGULUYORUM",
+   "konu": "Oyunlarda Hareket Kavramları Oyun Kuralları Oyunlarda Taktik ve Strateji",
+   "start": "2027-02-08",
+   "end": "2027-02-14",
+   "outcomes": [
+    {
+     "code": "BEO.2.2.3",
+     "text": "Oyunlarda belirlenen taktik ve stratejiyi geliştirebilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.2. OYUNUN KURALLARINI UYGULUYORUM",
+   "konu": "Oyunlarda Hareket Kavramları Oyun Kuralları Oyunlarda Taktik ve Strateji",
+   "start": "2027-02-15",
+   "end": "2027-02-21",
+   "outcomes": [
+    {
+     "code": "BEO.2.2.3",
+     "text": "Oyunlarda belirlenen taktik ve stratejiyi geliştirebilme"
+    },
+    {
+     "code": "BEO.2.3.1",
+     "text": "Belirlenen tempodaki müziğe uygun hareket edebilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.3. RİTİMLE HAREKET EDİYORUM",
+   "konu": "Belirlenen Tempodaki Müziğe Uygun Hareket Etme Eşle veya Grupla Ritmik Hareket",
+   "start": "2027-02-22",
+   "end": "2027-02-28",
+   "outcomes": [
+    {
+     "code": "BEO.2.3.1",
+     "text": "Belirlenen tempodaki müziğe uygun hareket edebilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.3. RİTİMLE HAREKET EDİYORUM",
+   "konu": "Belirlenen Tempodaki Müziğe Uygun Hareket Etme Eşle veya Grupla Ritmik Hareket",
+   "start": "2027-03-01",
+   "end": "2027-03-07",
+   "outcomes": [
+    {
+     "code": "BEO.2.3.1",
+     "text": "Belirlenen tempodaki müziğe uygun hareket edebilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.3. RİTİMLE HAREKET EDİYORUM",
+   "konu": "Belirlenen Tempodaki Müziğe Uygun Hareket Etme Eşle veya Grupla Ritmik Hareket",
+   "start": "2027-03-15",
+   "end": "2027-03-21",
+   "outcomes": [
+    {
+     "code": "BEO.2.3.1",
+     "text": "Belirlenen tempodaki müziğe uygun hareket edebilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.3. RİTİMLE HAREKET EDİYORUM",
+   "konu": "Belirlenen Tempodaki Müziğe Uygun Hareket Etme Eşle veya Grupla Ritmik Hareket",
+   "start": "2027-03-22",
+   "end": "2027-03-28",
+   "outcomes": [
+    {
+     "code": "BEO.2.3.2",
+     "text": "Eşle veya grupla ritmik hareket etme becerisini sergileyebilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.3. RİTİMLE HAREKET EDİYORUM",
+   "konu": "Belirlenen Tempodaki Müziğe Uygun Hareket Etme Eşle veya Grupla Ritmik Hareket",
+   "start": "2027-03-29",
+   "end": "2027-04-04",
+   "outcomes": [
+    {
+     "code": "BEO.2.3.2",
+     "text": "Eşle veya grupla ritmik hareket etme becerisini sergileyebilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.3. RİTİMLE HAREKET EDİYORUM",
+   "konu": "Belirlenen Tempodaki Müziğe Uygun Hareket Etme Eşle veya Grupla Ritmik Hareket",
+   "start": "2027-04-05",
+   "end": "2027-04-11",
+   "outcomes": [
+    {
+     "code": "BEO.2.3.2",
+     "text": "Eşle veya grupla ritmik hareket etme becerisini sergileyebilme"
+    },
+    {
+     "code": "BEO.2.4.1",
+     "text": "Fiziksel aktivite sırasında vücudunda meydana gelen değişimleri açıklayabilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.4. SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+   "konu": "Fiziksel Aktiviteye Katılım Sırasında Vücutta Meydana Gelen Değişimler Fiziksel Aktiviteye Katılım Fiziksel Aktiviteye Katılım Hedefleri Fiziksel Aktivite ve Sağlık İlişkisi Oyun ve Fiziksel Aktivitelerde Güvenli Ortam",
+   "start": "2027-04-12",
+   "end": "2027-04-18",
+   "outcomes": [
+    {
+     "code": "BEO.2.4.1",
+     "text": "Fiziksel aktivite sırasında vücudunda meydana gelen değişimleri açıklayabilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.4. SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+   "konu": "Fiziksel Aktiviteye Katılım Sırasında Vücutta Meydana Gelen Değişimler Fiziksel Aktiviteye Katılım Fiziksel Aktiviteye Katılım Hedefleri Fiziksel Aktivite ve Sağlık İlişkisi Oyun ve Fiziksel Aktivitelerde Güvenli Ortam",
+   "start": "2027-04-19",
+   "end": "2027-04-25",
+   "outcomes": [
+    {
+     "code": "BEO.2.4.1",
+     "text": "Fiziksel aktivite sırasında vücudunda meydana gelen değişimleri açıklayabilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.4. SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+   "konu": "Fiziksel Aktiviteye Katılım Sırasında Vücutta Meydana Gelen Değişimler Fiziksel Aktiviteye Katılım Fiziksel Aktiviteye Katılım Hedefleri Fiziksel Aktivite ve Sağlık İlişkisi Oyun ve Fiziksel Aktivitelerde Güvenli Ortam",
+   "start": "2027-04-26",
+   "end": "2027-05-02",
+   "outcomes": [
+    {
+     "code": "BEO.2.4.2",
+     "text": "Kendisinin ve yakın çevresinin fiziksel aktiviteye katılımlarını karşılaştırabilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.4. SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+   "konu": "Fiziksel Aktiviteye Katılım Sırasında Vücutta Meydana Gelen Değişimler Fiziksel Aktiviteye Katılım Fiziksel Aktiviteye Katılım Hedefleri Fiziksel Aktivite ve Sağlık İlişkisi Oyun ve Fiziksel Aktivitelerde Güvenli Ortam",
+   "start": "2027-05-03",
+   "end": "2027-05-09",
+   "outcomes": [
+    {
+     "code": "BEO.2.4.2",
+     "text": "Kendisinin ve yakın çevresinin fiziksel aktiviteye katılımlarını karşılaştırabilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.4. SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+   "konu": "Fiziksel Aktiviteye Katılım Sırasında Vücutta Meydana Gelen Değişimler Fiziksel Aktiviteye Katılım Fiziksel Aktiviteye Katılım Hedefleri Fiziksel Aktivite ve Sağlık İlişkisi Oyun ve Fiziksel Aktivitelerde Güvenli Ortam",
+   "start": "2027-05-10",
+   "end": "2027-05-16",
+   "outcomes": [
+    {
+     "code": "BEO.2.4.3",
+     "text": "Fiziksel aktiviteye katılım hedefleri belirleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.4. SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+   "konu": "Fiziksel Aktiviteye Katılım Sırasında Vücutta Meydana Gelen Değişimler Fiziksel Aktiviteye Katılım Fiziksel Aktiviteye Katılım Hedefleri Fiziksel Aktivite ve Sağlık İlişkisi Oyun ve Fiziksel Aktivitelerde Güvenli Ortam",
+   "start": "2027-05-17",
+   "end": "2027-05-23",
+   "outcomes": [
+    {
+     "code": "BEO.2.4.3",
+     "text": "Fiziksel aktiviteye katılım hedefleri belirleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.4. SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+   "konu": "Fiziksel Aktiviteye Katılım Sırasında Vücutta Meydana Gelen Değişimler Fiziksel Aktiviteye Katılım Fiziksel Aktiviteye Katılım Hedefleri Fiziksel Aktivite ve Sağlık İlişkisi Oyun ve Fiziksel Aktivitelerde Güvenli Ortam",
+   "start": "2027-05-24",
+   "end": "2027-05-30",
+   "outcomes": [
+    {
+     "code": "BEO.2.4.4",
+     "text": "Fiziksel aktivite ve sağlık arasındaki ilişkiyi açıklayabilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.4. SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+   "konu": "Fiziksel Aktiviteye Katılım Sırasında Vücutta Meydana Gelen Değişimler Fiziksel Aktiviteye Katılım Fiziksel Aktiviteye Katılım Hedefleri Fiziksel Aktivite ve Sağlık İlişkisi Oyun ve Fiziksel Aktivitelerde Güvenli Ortam",
+   "start": "2027-05-31",
+   "end": "2027-06-06",
+   "outcomes": [
+    {
+     "code": "BEO.2.4.4",
+     "text": "Fiziksel aktivite ve sağlık arasındaki ilişkiyi açıklayabilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.4. SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+   "konu": "Fiziksel Aktiviteye Katılım Sırasında Vücutta Meydana Gelen Değişimler Fiziksel Aktiviteye Katılım Fiziksel Aktiviteye Katılım Hedefleri Fiziksel Aktivite ve Sağlık İlişkisi Oyun ve Fiziksel Aktivitelerde Güvenli Ortam",
+   "start": "2027-06-07",
+   "end": "2027-06-13",
+   "outcomes": [
+    {
+     "code": "BEO.2.4.5",
+     "text": "Oyun ve fiziksel aktiviteler sırasında güvenli ortam oluşturabilme"
+    }
+   ]
+  },
+  {
+   "name": "BEO.2.4. SAĞLIĞIM İÇİN FİZİKSEL AKTİVİTEYE KATILIYORUM",
+   "konu": "Fiziksel Aktiviteye Katılım Sırasında Vücutta Meydana Gelen Değişimler Fiziksel Aktiviteye Katılım Fiziksel Aktiviteye Katılım Hedefleri Fiziksel Aktivite ve Sağlık İlişkisi Oyun ve Fiziksel Aktivitelerde Güvenli Ortam",
+   "start": "2027-06-14",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "BEO.2.4.5",
+     "text": "Oyun ve fiziksel aktiviteler sırasında güvenli ortam oluşturabilme"
+    }
+   ]
+  },
+  {
+   "name": "SOSYAL ETKİNLİK VE YIL SONU DEĞERLENDİRME",
+   "konu": "Proje sunumları, sosyal/kültürel etkinlikler ve yıl sonu genel değerlendirme",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": []
+  }
+ ]
 }

@@ -1,5 +1,465 @@
 {
-  "grade": 2,
-  "subject": "Matematik",
-  "themes": []
+ "grade": 2,
+ "subject": "Matematik",
+ "themes": [
+  {
+   "name": "MAT.2.3. NESNELERİN GEOMETRİSİ (1)",
+   "konu": "Geometrik Cisimler ve Geometrik Şekiller",
+   "start": "2026-09-14",
+   "end": "2026-09-20",
+   "outcomes": [
+    {
+     "code": "MAT.2.3.1",
+     "text": "Günlük yaşamda kullanılan nesneleri biçimsel özelliklerine göre geometrik cisim olarak sınıflandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.3. NESNELERİN GEOMETRİSİ (1)",
+   "konu": "Geometrik Cisimler ve Geometrik Şekiller",
+   "start": "2026-09-21",
+   "end": "2026-09-27",
+   "outcomes": [
+    {
+     "code": "MAT.2.3.1",
+     "text": "Günlük yaşamda kullanılan nesneleri biçimsel özelliklerine göre geometrik cisim olarak sınıflandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.3. NESNELERİN GEOMETRİSİ (1)",
+   "konu": "Geometrik Cisimler ve Geometrik Şekiller",
+   "start": "2026-09-28",
+   "end": "2026-10-04",
+   "outcomes": [
+    {
+     "code": "MAT.2.3.2",
+     "text": "Geometrik cisim modellerini kullanarak yapılar sentezleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.3. NESNELERİN GEOMETRİSİ (1)",
+   "konu": "Geometrik Cisimler ve Geometrik Şekiller",
+   "start": "2026-10-05",
+   "end": "2026-10-11",
+   "outcomes": [
+    {
+     "code": "MAT.2.3.3",
+     "text": "Geometrik şekiller kullanarak modeller sentezleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.3. NESNELERİN GEOMETRİSİ (1)",
+   "konu": "Geometrik Cisimler ve Geometrik Şekiller",
+   "start": "2026-10-12",
+   "end": "2026-10-18",
+   "outcomes": [
+    {
+     "code": "MAT.2.3.4",
+     "text": "Geometrik cisim ve şekillerin yön, konum veya büyüklükleri değiştiğinde biçimsel özelliklerinin değişmediğini yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.3. NESNELERİN GEOMETRİSİ (1)",
+   "konu": "Geometrik Cisimler ve Geometrik Şekiller",
+   "start": "2026-10-19",
+   "end": "2026-10-25",
+   "outcomes": [
+    {
+     "code": "MAT.2.3.5",
+     "text": "Standart olmayan sıvı ölçme araçları ile sıvı miktarını tahmin edebilme"
+    },
+    {
+     "code": "MAT.2.1.1",
+     "text": "100’e kadar olan niceliklerin büyüklüklerini temsil etmede sayıların sembolik temsillerinden yararlanabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.1. SAYILAR VE NİCELİKLER (1)",
+   "konu": "Sayılar",
+   "start": "2026-10-26",
+   "end": "2026-11-01",
+   "outcomes": [
+    {
+     "code": "MAT.2.1.1",
+     "text": "100’e kadar olan niceliklerin büyüklüklerini temsil etmede sayıların sembolik temsillerinden yararlanabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.1. SAYILAR VE NİCELİKLER (1)",
+   "konu": "Sayılar",
+   "start": "2026-11-02",
+   "end": "2026-11-08",
+   "outcomes": [
+    {
+     "code": "MAT.2.1.2",
+     "text": "İki basamaklı sayıları çözümleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.1. SAYILAR VE NİCELİKLER (1)",
+   "konu": "Sayılar",
+   "start": "2026-11-09",
+   "end": "2026-11-15",
+   "outcomes": [
+    {
+     "code": "MAT.2.1.3",
+     "text": "Sayıların sırasını belirleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.1. SAYILAR VE NİCELİKLER (1)",
+   "konu": "Sayılar",
+   "start": "2026-11-23",
+   "end": "2026-11-29",
+   "outcomes": [
+    {
+     "code": "MAT.2.1.3",
+     "text": "Sayıların sırasını belirleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.1. SAYILAR VE NİCELİKLER (1)",
+   "konu": "Sayılar",
+   "start": "2026-11-30",
+   "end": "2026-12-06",
+   "outcomes": [
+    {
+     "code": "MAT.2.1.4",
+     "text": "İleriye ve geriye doğru ritmik sayabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.1. SAYILAR VE NİCELİKLER (1)",
+   "konu": "Sayılar",
+   "start": "2026-12-07",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "MAT.2.1.5",
+     "text": "Sayı ve sayı temsiline dönüşen şekil örüntülerine dayalı çıkarım yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.1. SAYILAR VE NİCELİKLER (1)",
+   "konu": "Sayılar",
+   "start": "2026-12-14",
+   "end": "2026-12-20",
+   "outcomes": [
+    {
+     "code": "MAT.2.1.5",
+     "text": "Sayı ve sayı temsiline dönüşen şekil örüntülerine dayalı çıkarım yapabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.1. SAYILAR VE NİCELİKLER (1)",
+   "konu": "Sayılar",
+   "start": "2026-12-21",
+   "end": "2026-12-27",
+   "outcomes": [
+    {
+     "code": "MAT.2.1.6",
+     "text": "Bir çokluktaki ilişkilerden yararlanarak 50’ye kadar olan nesnelerin sayısını tahmin edebilme"
+    },
+    {
+     "code": "MAT.2.2.1",
+     "text": "Toplama ve çıkarma işlemleri gerektiren günlük yaşam problemlerini çözebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.2. İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+   "konu": "Toplama ve Çıkarma İşlemi, Çarpma ve Bölme İşlemi, Eşitlik",
+   "start": "2026-12-28",
+   "end": "2027-01-03",
+   "outcomes": [
+    {
+     "code": "MAT.2.2.1",
+     "text": "Toplama ve çıkarma işlemleri gerektiren günlük yaşam problemlerini çözebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.2. İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+   "konu": "Toplama ve Çıkarma İşlemi, Çarpma ve Bölme İşlemi, Eşitlik",
+   "start": "2027-01-04",
+   "end": "2027-01-10",
+   "outcomes": [
+    {
+     "code": "MAT.2.2.1",
+     "text": "Toplama ve çıkarma işlemleri gerektiren günlük yaşam problemlerini çözebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.2. İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+   "konu": "Toplama ve Çıkarma İşlemi, Çarpma ve Bölme İşlemi, Eşitlik",
+   "start": "2027-01-11",
+   "end": "2027-01-17",
+   "outcomes": [
+    {
+     "code": "MAT.2.2.2",
+     "text": "Toplama ve çıkarma işlemlerinin sonuçlarını tahminde bulunarak ve zihinden işlem yaparak muhakeme edebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.2. İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+   "konu": "Toplama ve Çıkarma İşlemi, Çarpma ve Bölme İşlemi, Eşitlik",
+   "start": "2027-01-18",
+   "end": "2027-01-24",
+   "outcomes": [
+    {
+     "code": "MAT.2.2.2",
+     "text": "Toplama ve çıkarma işlemlerinin sonuçlarını tahminde bulunarak ve zihinden işlem yaparak muhakeme edebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.2. İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+   "konu": "Toplama ve Çıkarma İşlemi, Çarpma ve Bölme İşlemi, Eşitlik",
+   "start": "2027-02-08",
+   "end": "2027-02-14",
+   "outcomes": [
+    {
+     "code": "MAT.2.2.3",
+     "text": "Toplama ve çıkarma işlemlerinin ilişkisini yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.2. İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+   "konu": "Toplama ve Çıkarma İşlemi, Çarpma ve Bölme İşlemi, Eşitlik",
+   "start": "2027-02-15",
+   "end": "2027-02-21",
+   "outcomes": [
+    {
+     "code": "MAT.2.2.3",
+     "text": "Toplama ve çıkarma işlemlerinin ilişkisini yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.2. İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+   "konu": "Toplama ve Çıkarma İşlemi, Çarpma ve Bölme İşlemi, Eşitlik",
+   "start": "2027-02-22",
+   "end": "2027-02-28",
+   "outcomes": [
+    {
+     "code": "MAT.2.2.4",
+     "text": "Çarpma ve bölme işlemlerini toplama ve çıkarma işlemlerine dayalı olarak çözümleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.2. İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+   "konu": "Toplama ve Çıkarma İşlemi, Çarpma ve Bölme İşlemi, Eşitlik",
+   "start": "2027-03-01",
+   "end": "2027-03-07",
+   "outcomes": [
+    {
+     "code": "MAT.2.2.4",
+     "text": "Çarpma ve bölme işlemlerini toplama ve çıkarma işlemlerine dayalı olarak çözümleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.2. İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+   "konu": "Toplama ve Çıkarma İşlemi, Çarpma ve Bölme İşlemi, Eşitlik",
+   "start": "2027-03-15",
+   "end": "2027-03-21",
+   "outcomes": [
+    {
+     "code": "MAT.2.2.5",
+     "text": "Çarpma ve bölme işlemlerinin sonuçlarını muhakeme edebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.2. İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+   "konu": "Toplama ve Çıkarma İşlemi, Çarpma ve Bölme İşlemi, Eşitlik",
+   "start": "2027-03-22",
+   "end": "2027-03-28",
+   "outcomes": [
+    {
+     "code": "MAT.2.2.5",
+     "text": "Çarpma ve bölme işlemlerinin sonuçlarını muhakeme edebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.2. İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+   "konu": "Toplama ve Çıkarma İşlemi, Çarpma ve Bölme İşlemi, Eşitlik",
+   "start": "2027-03-29",
+   "end": "2027-04-04",
+   "outcomes": [
+    {
+     "code": "MAT.2.2.6",
+     "text": "Dört işlem bağlamında eşitliğin farklı anlamlarını yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.2. İŞLEMLERDEN CEBİRSEL DÜŞÜNMEYE",
+   "konu": "Toplama ve Çıkarma İşlemi, Çarpma ve Bölme İşlemi, Eşitlik",
+   "start": "2027-04-05",
+   "end": "2027-04-11",
+   "outcomes": [
+    {
+     "code": "MAT.2.2.6",
+     "text": "Dört işlem bağlamında eşitliğin farklı anlamlarını yorumlayabilme"
+    },
+    {
+     "code": "MAT.2.1.7",
+     "text": "Bütün, yarım ve çeyrek arasındaki ilişkiyi çözümleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.1. SAYILAR VE NİCELİKLER (2)",
+   "konu": "Sayılar (Kesirler), Nicelikler (Paralar, Zaman, Uzunluk-Kütle Ölçme)",
+   "start": "2027-04-12",
+   "end": "2027-04-18",
+   "outcomes": [
+    {
+     "code": "MAT.2.1.7",
+     "text": "Bütün, yarım ve çeyrek arasındaki ilişkiyi çözümleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.1. SAYILAR VE NİCELİKLER (2)",
+   "konu": "Sayılar (Kesirler), Nicelikler (Paralar, Zaman, Uzunluk-Kütle Ölçme)",
+   "start": "2027-04-19",
+   "end": "2027-04-25",
+   "outcomes": [
+    {
+     "code": "MAT.2.1.8",
+     "text": "Paraları değerlerine göre ilişkilendirerek çözümleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.1. SAYILAR VE NİCELİKLER (2)",
+   "konu": "Sayılar (Kesirler), Nicelikler (Paralar, Zaman, Uzunluk-Kütle Ölçme)",
+   "start": "2027-04-26",
+   "end": "2027-05-02",
+   "outcomes": [
+    {
+     "code": "MAT.2.1.9",
+     "text": "Zaman ölçü birimlerini okuyabilme ve yazabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.1. SAYILAR VE NİCELİKLER (2)",
+   "konu": "Sayılar (Kesirler), Nicelikler (Paralar, Zaman, Uzunluk-Kütle Ölçme)",
+   "start": "2027-05-03",
+   "end": "2027-05-09",
+   "outcomes": [
+    {
+     "code": "MAT.2.1.9",
+     "text": "Zaman ölçü birimlerini okuyabilme ve yazabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.1. SAYILAR VE NİCELİKLER (2)",
+   "konu": "Sayılar (Kesirler), Nicelikler (Paralar, Zaman, Uzunluk-Kütle Ölçme)",
+   "start": "2027-05-10",
+   "end": "2027-05-16",
+   "outcomes": [
+    {
+     "code": "MAT.2.1.10",
+     "text": "Standart uzunluk ve kütle ölçme araçlarının ve birimlerinin gerekliliğini yansıtabilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.1. SAYILAR VE NİCELİKLER (2)",
+   "konu": "Sayılar (Kesirler), Nicelikler (Paralar, Zaman, Uzunluk-Kütle Ölçme)",
+   "start": "2027-05-17",
+   "end": "2027-05-23",
+   "outcomes": [
+    {
+     "code": "MAT.2.1.11",
+     "text": "Standart uzunluk ve kütle ölçü birimleri cinsinden uzunlukları ve kütleleri tahmin edebilme"
+    },
+    {
+     "code": "MAT.2.3.6",
+     "text": "Mesafe ve yönleri içerecek şekilde hedefe ulaşmak için uygun stratejilere karar verebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.3. NESNELERİN GEOMETRİSİ (2)",
+   "konu": "Uzamsal İlişkiler",
+   "start": "2027-05-24",
+   "end": "2027-05-30",
+   "outcomes": [
+    {
+     "code": "MAT.2.3.6",
+     "text": "Mesafe ve yönleri içerecek şekilde hedefe ulaşmak için uygun stratejilere karar verebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.3. NESNELERİN GEOMETRİSİ (2)",
+   "konu": "Uzamsal İlişkiler",
+   "start": "2027-05-31",
+   "end": "2027-06-06",
+   "outcomes": [
+    {
+     "code": "MAT.2.3.7",
+     "text": "Verilen şekiller arasından simetrik olanları ayırt edebilme"
+    },
+    {
+     "code": "MAT.2.4.1",
+     "text": "Kategorik veriye dayalı en çok iki veri grubu ile çalışabilme ve veriye dayalı karar verebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.4. VERİYE DAYALI ARAŞTIRMA",
+   "konu": "Kategorik Veri",
+   "start": "2027-06-07",
+   "end": "2027-06-13",
+   "outcomes": [
+    {
+     "code": "MAT.2.4.1",
+     "text": "Kategorik veriye dayalı en çok iki veri grubu ile çalışabilme ve veriye dayalı karar verebilme"
+    }
+   ]
+  },
+  {
+   "name": "MAT.2.4. VERİYE DAYALI ARAŞTIRMA",
+   "konu": "Kategorik Veri",
+   "start": "2027-06-14",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "MAT.2.4.1",
+     "text": "Kategorik veriye dayalı en çok iki veri grubu ile çalışabilme ve veriye dayalı karar verebilme"
+    }
+   ]
+  },
+  {
+   "name": "SOSYAL ETKİNLİK VE YIL SONU DEĞERLENDİRME",
+   "konu": "Proje sunumları, sosyal/kültürel etkinlikler ve yıl sonu genel değerlendirme",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": []
+  }
+ ]
 }

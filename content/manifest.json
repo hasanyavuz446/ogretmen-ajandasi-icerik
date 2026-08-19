@@ -1,5 +1,5 @@
 {
- "version": "2026-2027.41",
+ "version": "2026-2027.45",
  "year": "2025-2026",
  "plans": [
   {
@@ -96,6 +96,31 @@
    "grade": 2,
    "subject": "İngilizce",
    "file": "ingilizce-2.json"
+  },
+  {
+   "grade": 3,
+   "subject": "Beden Eğitimi ve Oyun",
+   "file": "beden-egitimi-ve-oyun-3.json"
+  },
+  {
+   "grade": 3,
+   "subject": "Görsel Sanatlar",
+   "file": "gorsel-sanatlar-3.json"
+  },
+  {
+   "grade": 3,
+   "subject": "Hayat Bilgisi",
+   "file": "hayat-bilgisi-3.json"
+  },
+  {
+   "grade": 3,
+   "subject": "Matematik",
+   "file": "matematik-3.json"
+  },
+  {
+   "grade": 3,
+   "subject": "Müzik",
+   "file": "muzik-3.json"
   },
   {
    "grade": 3,
