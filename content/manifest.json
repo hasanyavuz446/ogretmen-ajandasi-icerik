@@ -1,5 +1,5 @@
 {
- "version": "2026-2027.47",
+ "version": "2026-2027.48",
  "year": "2025-2026",
  "plans": [
   {
@@ -126,6 +126,11 @@
    "grade": 3,
    "subject": "Türkçe",
    "file": "turkce-3.json"
+  },
+  {
+   "grade": 3,
+   "subject": "İngilizce",
+   "file": "ingilizce-3.json"
   },
   {
    "grade": 4,
