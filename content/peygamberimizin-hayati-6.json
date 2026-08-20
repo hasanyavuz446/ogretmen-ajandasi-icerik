@@ -1,0 +1,90 @@
+{
+ "grade": 6,
+ "subject": "Peygamberimizin Hayatı (Seçmeli)",
+ "themes": [
+  {
+   "name": "GENÇLİK YILLARINDA PEYGAMBERİMİZ",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "PH.6.1.1",
+     "text": "Peygamberimizin gençlik yıllarındaki ahlaki olgunluğunu idrak edebilme"
+    },
+    {
+     "code": "PH.6.1.2",
+     "text": "Pegamberimizin Hira’daki tefekkür sürecini çözümleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "PEYGAMBERİMİZİN ÇEVRESİNDEKİ GENÇLER",
+   "konu": "",
+   "start": "2026-12-14",
+   "end": "2027-02-28",
+   "outcomes": [
+    {
+     "code": "PH.6.2.1",
+     "text": "Peygamberimizin gençlerle iletişiminde onlara verdiği değeri sentezleyebilme"
+    },
+    {
+     "code": "PH.6.2.2",
+     "text": "Asrısaadet’teki gençlerin Peygamberimize duyduğu sevgiyi çözümleyebilme"
+    },
+    {
+     "code": "PH.6.2.3",
+     "text": "Peygamberimizin yanında yetişen gençlerin ahlaki tutum ve davranışlarını müşahede edebilme"
+    }
+   ]
+  },
+  {
+   "name": "REHBERİM PEYGAMBERİM",
+   "konu": "",
+   "start": "2027-03-01",
+   "end": "2027-05-09",
+   "outcomes": [
+    {
+     "code": "PH.6.3.1",
+     "text": "Peygamberimizin Allah’a (cc) bağlılığını anlayabilme"
+    },
+    {
+     "code": "PH.6.3.2",
+     "text": "Peygamberimizin namaz ibadetiyle ilgili tutumunu yansıtabilme"
+    },
+    {
+     "code": "PH.6.3.3",
+     "text": "Yüce Allah’a şükretmenin Peygamberimizin hayatındaki yerini yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "TOPLUMSAL HAYATTA PEYGAMBERİMİZ",
+   "konu": "",
+   "start": "2027-05-10",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "PH.6.4.1",
+     "text": "Peygamberimizin toplumsal ilişkileri hakkında analitik düşünebilme"
+    },
+    {
+     "code": "PH.6.4.2",
+     "text": "Peygamberimizin çevreye karşı gösterdiği duyarlılığı çözümleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "grade": 7,
+ "subject": "Medya Okuryazarlığı (Seçmeli)",
+ "themes": [
+  {
+   "name": "BİREY, TOPLUM VE MEDYA",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-11-08",
+   "outcomes": [
+    {
+     "code": "SMOY.1.1",
+     "text": "Medyanın, kendi hayatındaki yerini kavrar."
+    },
+    {
+     "code": "SMOY.1.2",
+     "text": "Medya okuryazarlığını kavramını ve bu kavramınkendisi için önemini bilir."
+    },
+    {
+     "code": "SMOY.1.3",
+     "text": "Medya alanındaki meslekleri tanıtır."
+    },
+    {
+     "code": "SMOY.1.4",
+     "text": "Medya ile ilişkilerinde yaşadıkları sorunların çözümüne yönelik özgün, yaratıcı ve yansıtıcı proje fikirleri geliştirir."
+    }
+   ]
+  },
+  {
+   "name": "KATILIM ORTAMI OLARAK MEDYA",
+   "konu": "",
+   "start": "2026-11-09",
+   "end": "2027-01-10",
+   "outcomes": [
+    {
+     "code": "SMOY.2.1",
+     "text": "Medyaya erişirken, medyayı takip ederken ve medya içeriği üretirken bireysel/toplumsal sorumlulukları yerine getirir."
+    },
+    {
+     "code": "SMOY.2.2",
+     "text": "Medyaya erişirken, medyayı takip ederken ve medya içerikleri üretirken haklarını kullanır."
+    },
+    {
+     "code": "SMOY.2.3",
+     "text": "Beğendiği veya sorunlu gördüğü medya içeriklerine ilişkin duyarlı davranır."
+    },
+    {
+     "code": "SMOY.2.4",
+     "text": "Medyanın bireye sunduğu imkânları kullanır."
+    }
+   ]
+  },
+  {
+   "name": "BİLGİ KAYNAĞI OLARAK MEDYA",
+   "konu": "",
+   "start": "2027-01-11",
+   "end": "2027-03-28",
+   "outcomes": [
+    {
+     "code": "SMOY.3.1",
+     "text": "Günümüzde bilgiye yönelik erişim, takip, yararlanma, değerlendirme, üretme, paylaşma gibi imkânları keşfeder."
+    },
+    {
+     "code": "SMOY.3.2",
+     "text": "Doğru ve güvenilir bilgiye ulaşmanın önündeki engelleri fark eder."
+    },
+    {
+     "code": "SMOY.3.3",
+     "text": "Doğru ve güvenilir bilgilere ulaşmak için uygun stratejilerden yararlanır."
+    },
+    {
+     "code": "SMOY.3.4",
+     "text": "Amaç ve hedef kitlesine uygun farklı türde medya iletileri oluşturur."
+    }
+   ]
+  },
+  {
+   "name": "EĞLENCE KAYNAĞI OLARAK MEDYA",
+   "konu": "",
+   "start": "2027-03-29",
+   "end": "2027-05-23",
+   "outcomes": [
+    {
+     "code": "SMOY.4.1",
+     "text": "Eğlence amacı ile seçilen medya iletilerinin içerik ve biçim özelliklerini çözümler."
+    },
+    {
+     "code": "SMOY.4.2",
+     "text": "Farklı izleyici kitlelerine yönelik eğlence medyası üretir."
+    },
+    {
+     "code": "SMOY.4.3",
+     "text": "Kültür endüstrisi olarak medyanın yerini ve işlevlerini tartışır."
+    },
+    {
+     "code": "SMOY.4.4",
+     "text": "Küreselleşme sürecinde medyanın kültürel mücadelenin aracı olduğunu bilerek millî kültürünüöne çıkaracak içerik ve ortamları tasarlar."
+    }
+   ]
+  },
+  {
+   "name": "İKNA ARACI OLARAK MEDYA",
+   "konu": "",
+   "start": "2027-05-24",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "SMOY.5.1",
+     "text": "Medya iletilerinde dilin, yazıların, seslerin ve görsellerin ikna etme amacıyla nasıl kullanıldığını kavrar."
+    },
+    {
+     "code": "SMOY.5.2",
+     "text": "İkna etme tekniklerini göz önüne alarak reklamları çözümler."
+    },
+    {
+     "code": "SMOY.5.3",
+     "text": "Medyada karakterlerin (kahramanların) kullanımını değerlendirir."
+    },
+    {
+     "code": "SMOY.5.4",
+     "text": "İkna tekniklerini kullanarak medya iletileri üretir."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

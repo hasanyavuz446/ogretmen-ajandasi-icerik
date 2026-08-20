@@ -1,0 +1,134 @@
+{
+ "grade": 6,
+ "subject": "Hukuk ve Adalet (Seçmeli)",
+ "themes": [
+  {
+   "name": "Yaşamımızda Hukuk ve Adalet",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "SHA.1.1",
+     "text": "Adaletli olmanın birey ve toplum yaşamına etkilerini tartışır."
+    },
+    {
+     "code": "SHA.1.2",
+     "text": "Adaletin daha etkili gerçekleştirilmesine yönelik özgün öneriler geliştirir."
+    },
+    {
+     "code": "SHA.1.3",
+     "text": "Adaletin sağlanmasında pozitif ayrımcılığın önemini örneklendirir."
+    },
+    {
+     "code": "SHA.1.4",
+     "text": "\"Adalet\", \"Eşitlik\" ve \"Hukuk\" kavramlarını ilişkilendirir."
+    },
+    {
+     "code": "SHA.1.5",
+     "text": "Adaletin sağlanmasında hukukun rolünü kavrar."
+    },
+    {
+     "code": "SHA.1.6",
+     "text": "Hukuk kurallarının toplumsal düzenin sağlanmasındaki önemini tartışır."
+    }
+   ]
+  },
+  {
+   "name": "Haklarımız ve Sorumluluklarımız",
+   "konu": "",
+   "start": "2026-12-14",
+   "end": "2027-03-07",
+   "outcomes": [
+    {
+     "code": "SHA.2.1",
+     "text": "Hak ve sorumluluk kavramlarını ilişkilendirir."
+    },
+    {
+     "code": "SHA.2.2",
+     "text": "Haklarının hukukla güvence altına alındığını örneklendirir."
+    },
+    {
+     "code": "SHA.2.3",
+     "text": "Haklarını hukuki yollarla aramanın gerekliliğini kavrar."
+    },
+    {
+     "code": "SHA.2.4",
+     "text": "Haklarını aramak için gerekli hukuki bilgi ve belgelere erişme yollarını kullanır."
+    },
+    {
+     "code": "SHA.2.5",
+     "text": "Haklarının aranmasında ve adaletin sağlanmasında sorumluluk üstlenir."
+    }
+   ]
+  },
+  {
+   "name": "Hukuki Sorunlarımız",
+   "konu": "",
+   "start": "2027-03-15",
+   "end": "2027-05-09",
+   "outcomes": [
+    {
+     "code": "SHA.3.1",
+     "text": "Hukukla ilgili karşılaşabileceği özel durumları fark eder."
+    },
+    {
+     "code": "SHA.3.2",
+     "text": "Sorumluluklarının bilincinde bir birey olarak hukuka aykırı durumların oluşmaması için özen gösterir."
+    },
+    {
+     "code": "SHA.3.3",
+     "text": "Hukuka aykırı durumların ortaya çıkma nedenlerini analiz eder."
+    },
+    {
+     "code": "SHA.3.4",
+     "text": "Hukuka aykırı durumların bireysel, toplumsal ve ekonomik sonuçlarını değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "Hukuki Çözümlerimiz",
+   "konu": "",
+   "start": "2027-05-10",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "SHA.4.1",
+     "text": "Hukuki uyuşmazlıkları barışçıl yollarla çözer."
+    },
+    {
+     "code": "SHA.4.2",
+     "text": "Hukuki uyuşmazlıkların çözümünde görevli kurum ve kuruluşları tanır."
+    },
+    {
+     "code": "SHA.4.3",
+     "text": "Hukuki uyuşmazlıkların çözümünde görevli kurumların işleyişini açıklar."
+    },
+    {
+     "code": "SHA.4.4",
+     "text": "Yargı sistemiyle ilgili meslekleri araştırır."
+    },
+    {
+     "code": "SHA.4.5",
+     "text": "Yargı sistemindeki kurumları işlevleri açısından karşılaştırır."
+    },
+    {
+     "code": "SHA.4.6",
+     "text": "Yargılama sisteminin adaletin sağlanmasındaki rolünü değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

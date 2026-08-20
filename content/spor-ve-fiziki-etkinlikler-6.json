@@ -1,0 +1,174 @@
+{
+ "grade": 6,
+ "subject": "Spor ve Fizikî Etkinlikler (Seçmeli)",
+ "themes": [
+  {
+   "name": "Hareket Yetkinliği",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-12-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "SSFE 1.1.1. Spor dalı ile ilgili hareket becerileri sergiler."
+    },
+    {
+     "code": "",
+     "text": "SSFE 1.1.2. Spor dalı ile ilgili hareket becerilerini oyun/yarışma/maç içerisinde sergiler."
+    },
+    {
+     "code": "",
+     "text": "SSFE 1.2.1. Spor dalı ile ilgili hareket kavramlarını açıklar."
+    },
+    {
+     "code": "",
+     "text": "SSFE 1.2.2. Spor dalı ile ilgili hareket becerilerinin öğrenme ilkelerini açıklar."
+    },
+    {
+     "code": "",
+     "text": "SSFE 1.2.3. Spor dalı ile ilgili hareket becerilerinin hareket evrelerini açıklar."
+    },
+    {
+     "code": "",
+     "text": "SSFE 1.3.1. Spor dalı ile ilgili temel stratejileri ve taktikleri açıklar."
+    },
+    {
+     "code": "",
+     "text": "SSFE 1.3.2. Spor dalı ile ilgili stratejileri ve taktikleri uygular."
+    },
+    {
+     "code": "",
+     "text": "SSFE 1.3.3. Spor dalı ile ilgili stratejileri ve taktikleri geliştirir."
+    },
+    {
+     "code": "",
+     "text": "SSFE 1.3.4. Spor dalı ile ilgili başkalarının kullandığı stratejileri ve taktikleri değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "Fiziksel ve Psikolojik Uyum",
+   "konu": "",
+   "start": "2026-12-28",
+   "end": "2027-02-14",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "SSFE 2.1.1. Spor dalı ile ilgili fiziksel uygunluk kavramlarını açıklar."
+    },
+    {
+     "code": "",
+     "text": "SSFE 2.1.2. Spor dalı ile ilgili fiziksel uygunluk geliştirme ilkelerini açıklar."
+    },
+    {
+     "code": "",
+     "text": "SSFE 2.1.3. Spor dalı ile ilgili fiziksel uygunluğunu geliştirir."
+    },
+    {
+     "code": "",
+     "text": "SSFE 2.1.4. Spor dalı ile ilgili fiziksel uygunluk gelişimini analiz eder."
+    },
+    {
+     "code": "",
+     "text": "SSFE 2.2.1. Spor dalında etkili performans için gerekli psikolojik özellikleri sergiler."
+    }
+   ]
+  },
+  {
+   "name": "Spor Bilgisi",
+   "konu": "",
+   "start": "2027-02-15",
+   "end": "2027-04-04",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "SSFE 3.1.1. Spor dalı ile ilgili oyun/yarışma kurallarını sıralar."
+    },
+    {
+     "code": "",
+     "text": "SSFE 3.1.2. Spor dalında kullanılan malzemeleri sıralar."
+    },
+    {
+     "code": "",
+     "text": "SSFE 3.1.3. Spor dalının tarihsel gelişim sürecini araştırır."
+    },
+    {
+     "code": "",
+     "text": "SSFE 3.1.4. Spor dalı ile ilgili gelenekleri kavrar."
+    },
+    {
+     "code": "",
+     "text": "SSFE 3.2.1. Spor dalı içindeki farklı rollerin sorumluluklarını açıklar."
+    },
+    {
+     "code": "",
+     "text": "SSFE 3.2.2. Spor dalına özgü organizasyonları inceleyerek sonuçlarını arkadaşları ile paylaşır."
+    }
+   ]
+  },
+  {
+   "name": "Hayat Becerileri",
+   "konu": "",
+   "start": "2027-04-05",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "SSFE 4.1.1. Kendisi ile ilgili riskleri azaltacak sağlık ve güvenlik önlemlerini alır."
+    },
+    {
+     "code": "",
+     "text": "SSFE 4.1.2. Spor ve fizikî etkinlikler ile ilgili aldığı sorumlulukları yerine getirir."
+    },
+    {
+     "code": "",
+     "text": "SSFE 4.1.3. Spor ve fizikî etkinliklerde kişisel bakımını ve temizliğini yapmayı alışkanlık haline getirir."
+    },
+    {
+     "code": "",
+     "text": "SSFE 4.1.4. Okul içinde/dışında sporla ilgili etkinliklere gönüllü olarak katılır."
+    },
+    {
+     "code": "",
+     "text": "SSFE 4.1.5. Spor ve fizikî etkinliklere katılarak yeterli ve dengeli beslenme alışkanlığı sergiler."
+    },
+    {
+     "code": "",
+     "text": "SSFE 4.2.1. Başkaları ile ilgili riskleri azaltacak sağlık ve güvenlik önlemlerini alır."
+    },
+    {
+     "code": "",
+     "text": "SSFE 4.2.2. Takım/grup hedefleri doğrultusunda arkadaşları ile iş birliği yapar."
+    },
+    {
+     "code": "",
+     "text": "SSFE 4.2.3. Spor ve fizikî etkinlikler sırasında çeşitli iletişim becerileri sergiler."
+    },
+    {
+     "code": "",
+     "text": "SSFE 4.2.4. Dürüst oyun davranışı sergiler."
+    },
+    {
+     "code": "",
+     "text": "SSFE 4.2.5. Spor ve fizikî etkinliklerde bireysel farklılıklara saygı gösterir."
+    },
+    {
+     "code": "",
+     "text": "SSFE 4.2.6. Bireysel farklılıkları olan öğrenciler ile birlikte etkili çalışır."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

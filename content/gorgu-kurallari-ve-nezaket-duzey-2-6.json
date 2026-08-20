@@ -1,0 +1,122 @@
+{
+ "grade": 6,
+ "subject": "Görgü Kuralları ve Nezaket — Düzey 2 (Seçmeli)",
+ "themes": [
+  {
+   "name": "GÖRGÜ VE NEZAKET",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-11-15",
+   "outcomes": [
+    {
+     "code": "GKN.2.1.1",
+     "text": "Temel kavramları açıklar."
+    },
+    {
+     "code": "GKN.2.1.2",
+     "text": "İnsan ilişkileri ve iletişimde temel kavramları açıklar."
+    },
+    {
+     "code": "GKN.2.1.3",
+     "text": "Görgü kuralları, zarafet ve nezaket ifadelerinin gündelik hayat üzerindeki etkisini tartışır."
+    }
+   ]
+  },
+  {
+   "name": "KİŞİLER ARASI İLİŞKİLERDE GÖRGÜ KURALLARI VE NEZAKET",
+   "konu": "",
+   "start": "2026-11-23",
+   "end": "2027-02-21",
+   "outcomes": [
+    {
+     "code": "GKN.2.2.1",
+     "text": "Kişiler arası ilişkilerde karşısındaki kişinin duygularını anlamanın görgü ve nezaket açısından önemini açıklar."
+    },
+    {
+     "code": "GKN.2.2.2",
+     "text": "Benzer olaylar karşısında kişilerin farklı duygular yaşayabileceğini fark eder."
+    },
+    {
+     "code": "GKN.2.2.3",
+     "text": "Muhatabının duygularını anladığını belirten ifadeler kullanır."
+    },
+    {
+     "code": "GKN.2.2.4",
+     "text": "Empati becerisine sahip olmanın toplumsal ilişkilere katkısını açıklar."
+    },
+    {
+     "code": "GKN.2.2.5",
+     "text": "Nezaketli davranmanın kişiye hissettirdiği olumlu duyguları açıklar."
+    }
+   ]
+  },
+  {
+   "name": "ÇEVREDE GÖRGÜ KURALLARI VE NEZAKET",
+   "konu": "",
+   "start": "2027-02-22",
+   "end": "2027-04-11",
+   "outcomes": [
+    {
+     "code": "GKN.2.3.1",
+     "text": "Hayvanlara ve bitkilere karşı merhametli olmanın ve onları korumanın önemini açıklar."
+    },
+    {
+     "code": "GKN.2.3.2",
+     "text": "Ortak kullanım alanlarında uyulması gereken görgü kurallarını tartışır."
+    },
+    {
+     "code": "GKN.2.3.3",
+     "text": "Doğal alanlarla ilgili problemlerin çözümüne yönelik sosyal sorumluluk projeleri üretir."
+    }
+   ]
+  },
+  {
+   "name": "DİJİTAL ORTAMLARDA GÖRGÜ KURALLARI VE NEZAKET",
+   "konu": "",
+   "start": "2027-04-12",
+   "end": "2027-05-09",
+   "outcomes": [
+    {
+     "code": "GKN.2.4.1",
+     "text": "Dijital iletişim araçlarını kullanırken ölçülü davranmaya özen gösterir."
+    },
+    {
+     "code": "GKN.2.4.2",
+     "text": "Dijital ortamlarda kişisel bilgilerin ve özel hayatın gizliliğinin önemini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "FARKLI KÜLTÜRLERDE GÖRGÜ KURALLARI VE NEZAKET",
+   "konu": "",
+   "start": "2027-05-10",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "GKN.2.5.1",
+     "text": "Farklı kültürlerdeki görgü kuralları ve nezaket ifadelerini araştırır."
+    },
+    {
+     "code": "GKN.2.5.2",
+     "text": "Çeşitli ülkelerdeki görgü kuralları ve nezaket ifadelerine örnekler verir."
+    },
+    {
+     "code": "GKN.2.5.3",
+     "text": "Farklı kültürlerdeki yaşam biçimlerine saygı gösterir."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

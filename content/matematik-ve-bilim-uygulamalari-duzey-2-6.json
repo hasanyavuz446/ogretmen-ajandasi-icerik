@@ -1,0 +1,242 @@
+{
+ "grade": 6,
+ "subject": "Matematik ve Bilim Uygulamaları — Düzey 2 (Seçmeli)",
+ "themes": [
+  {
+   "name": "EVDE VE ÇEVREMİZDE MATEMATİK",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-10-04",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "MBU.MU 2.1.1. Evde ve çevremizde tam sayıların kullanım alanlarına örnekler verir.\nMBU.MU 2.1.2. Evde ve çevremizde tam sayılarla dört işlem yapmayı gerektiren problemleri çözer."
+    },
+    {
+     "code": "",
+     "text": "MBU.MU 2.1.3. Rasyonel sayıları ev ve çevremizdeki gerçek hayat durumları ile ilişkilendirir."
+    },
+    {
+     "code": "",
+     "text": "MBU.MU 2.1.4. Ev ve çevremizde rasyonel sayılarla dört işlem yapmayı gerektiren problemleri çözer."
+    }
+   ]
+  },
+  {
+   "name": "SAĞLIK VE SPORDA MATEMATİK",
+   "konu": "",
+   "start": "2026-10-05",
+   "end": "2026-10-25",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "MBU.MU 2.2.1. Kümelerle ile ilgili temel kavramları sağlıktaki ve spordaki günlük hayat durumları ile ilişkilendirir.\nMBU.MU 2.2.2. Sağlık sektöründe ve sağlıklı beslenmede sıvı ölçme birimlerinin önemini fark eder."
+    },
+    {
+     "code": "",
+     "text": "MBU.MU 2.2.3. Sağlıklı yaşam ile ilgili araştırmaları analiz eder."
+    },
+    {
+     "code": "",
+     "text": "MBU.MU 2.2.4. Sağlık ve spor ile ilgili günlük hayattan yüzde problemlerini çözer."
+    }
+   ]
+  },
+  {
+   "name": "SANATTA MATEMATİK",
+   "konu": "",
+   "start": "2026-10-26",
+   "end": "2026-11-29",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "MBU.MU 2.3.1. Sanatta yer alan örüntüleri keşfeder.\nMBU.MU 2.3.2. Sanatta oranın kullanım yerini ve önemini açıklar."
+    },
+    {
+     "code": "",
+     "text": "MBU.MU 2.3.3. Çokgen, daire ve çemberi kullanarak oluşturduğu bileşik şekillerin alanlarını bulmayı gerektiren problemleri çözer."
+    },
+    {
+     "code": "",
+     "text": "MBU.MU 2.3.4. Geometrik cisimler kullanarak farklı modeller inşa eder."
+    },
+    {
+     "code": "",
+     "text": "MBU.MU 2.3.5. Sanatta verilerin kullanım alanlarına örnekler verir."
+    }
+   ]
+  },
+  {
+   "name": "DOĞADA MATEMATİK",
+   "konu": "",
+   "start": "2026-11-30",
+   "end": "2027-01-03",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "MBU.MU 2.4.1. Bilim dalları içinde matematiğin önemini açıklar.\nMBU.MU 2.4.2. Doğadaki örüntüleri keşfeder."
+    },
+    {
+     "code": "",
+     "text": "MBU.MU 2.4.3. Açıları veya açıların birbirine göre durumlarını günlük hayatla ilişkilendirir.\nMBU.MU 2.4.4. Doğadaki çokgensel bölgelere örnek verir."
+    },
+    {
+     "code": "",
+     "text": "MBU.MU 2.4.5. Doğada yer alan düzgün çokgensel bölge örneklerini inceleyerek kenar ve açı özelliklerini keşfeder."
+    },
+    {
+     "code": "",
+     "text": "MBU.MU 2.4.6. Doğada alan ile ilgili günlük hayat durumlarını içeren problemleri çözer."
+    },
+    {
+     "code": "",
+     "text": "MBU.MU 2.4.7. Çember ve dairenin özelliklerini doğadaki günlük hayat durumları ile ilişkilendirir."
+    }
+   ]
+  },
+  {
+   "name": "MESLEKLER VE MATEMATİK",
+   "konu": "",
+   "start": "2027-01-04",
+   "end": "2027-02-14",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "MBU.MU 2.5.1. Farklı meslek gruplarında tam sayıların kullanımını açıklar.\nMBU.MU 2.5.2. Günlük hayatta oran ve orantının farklı kullanım alanlarını inceler."
+    },
+    {
+     "code": "",
+     "text": "MBU.MU 2.5.3. Yüzdenin kullanıldığı meslek gruplarına uygun örnekler verir."
+    },
+    {
+     "code": "",
+     "text": "MBU.MU 2.5.4. Geometrik şekil ve cisimleri kullanan meslek gruplarını inceler."
+    },
+    {
+     "code": "",
+     "text": "MBU.MU 2.5.5. Veri toplama, analiz etme ve sonuç çıkarma ile uğraşan meslek gruplarını açıklar."
+    }
+   ]
+  },
+  {
+   "name": "EVDE VE ÇEVREMİZDE BİLİM",
+   "konu": "",
+   "start": "2027-02-15",
+   "end": "2027-03-21",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "MBU.BU 2.1.1. Mutfakta sıkça karşılaştığı malzemelerle bir karışım hazırlar.\nMBU.BU 2.1.2. Gündelik hayat üzerinden doğal ve yapay ses kaynaklarını keşfeder."
+    },
+    {
+     "code": "",
+     "text": "MBU.BU 2.1.3. Çevresinde gözlemlediği hareketli ve hareketsiz varlıklardan yola çıkarak itme ve çekme kuvvetinin varlığını hisseder."
+    },
+    {
+     "code": "",
+     "text": "MBU.BU 2.1.4. Elektriklenme olayının günlük yaşam örneklerinden yola çıkarak bilim ve teknolojideki kullanım alanlarına örnekler verir."
+    },
+    {
+     "code": "",
+     "text": "MBU.BU 2.1.5. Günlük yaşamda tesadüfi keşfedilen buluşların bilime olan katkısını araştırır."
+    }
+   ]
+  },
+  {
+   "name": "SAĞLIK VE SPORDA BİLİM",
+   "konu": "",
+   "start": "2027-03-22",
+   "end": "2027-04-11",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "MBU.BU 2.2.1. Sağlıklı yaşam ile bilim arasındaki ilişkiye örnekler verir.\nMBU.BU 2.2.2. Sağlıkta kullanılan ses ve ışık teknolojilerini tanır."
+    },
+    {
+     "code": "",
+     "text": "MBU.BU 2.2.3. Bilimsel çalışmaların aracılığı ile meydana gelen teknolojik gelişmelerin sporda kullanıldığını ifade eder."
+    },
+    {
+     "code": "",
+     "text": "MBU.BU 2.2.4. Spor tesislerinde kullanılan aydınlatma araçlarının özelliklerini araştırır."
+    }
+   ]
+  },
+  {
+   "name": "SANATTA BİLİM",
+   "konu": "",
+   "start": "2027-04-12",
+   "end": "2027-05-09",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "MBU.BU 2.3.1. Günlük yaşantısında karşılaştığı sanat dallarında bilimin yerini ifade eder.\nMBU.BU 2.3.2. Geleneksel Türk sanatlarının oluşturulmasında ışık, gölge, renk, hacim vb. bilimsel kavramların etkisini yorumlar."
+    },
+    {
+     "code": "",
+     "text": "MBU.BU 2.3.3. Dünyada ve Türkiye’de doğadan esinlenerek yapılan mimari yapıları araştırır.\nMBU.BU 2.3.4. Hayvanların sınıflandırılması ve özelliklerini anlatan bütünleştirilmiş bir oyun tasarlar."
+    },
+    {
+     "code": "",
+     "text": "MBU.BU 2.3.5. Tiyatro, müzikal, opera, tek kişilik gösteri vb. sahne sanatları hazırlanırken faydalanılan bilimsel metot ve teknolojik aletleri belirler."
+    },
+    {
+     "code": "",
+     "text": "MBU.BU 2.3.6. Çevre sorunları, geri dönüşüm, küresel iklim değişikliği vb. konuları içeren kısa metin yazar."
+    }
+   ]
+  },
+  {
+   "name": "DOĞADA BİLİM",
+   "konu": "",
+   "start": "2027-05-10",
+   "end": "2027-06-06",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "MBU.BU 2.4.1. Doğada gözlemlediği durum veya olayları bilimsel olarak tartışır.\nMBU.BU 2.4.2. Doğal sistemlerde döngüler sayesinde çöpün oluşmadığını fark eder."
+    },
+    {
+     "code": "",
+     "text": "MBU.BU 2.4.3. Doğada tekrarlanan örüntülerin bilimin gelişmesine katkıda bulunduğunu kabul eder."
+    },
+    {
+     "code": "",
+     "text": "MBU.BU 2.4.4. Bilim ve uzay araştırmaları arasındaki ilişkiyi açıklar."
+    },
+    {
+     "code": "",
+     "text": "MBU.BU 2.4.5. Astronomi ve uzay bilimlerine katkısı olan Türk bilim insanlarını ve ülkemizde yapılan çalışmaları tanıtır."
+    }
+   ]
+  },
+  {
+   "name": "MESLEKLER VE BİLİM",
+   "konu": "",
+   "start": "2027-06-07",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "MBU.BU 2.5.1. Karşılaştığı mesleklerin fen bilimleri ile ilişkisini gösteren bir sunum hazırlar.\nMBU.BU 2.5.2. Uzay araçlarının yapımında görev alan kişileri araştırarak bu kişilerin aldığı eğitimler hakkında sınıf arkadaşlarına sunum yapar."
+    },
+    {
+     "code": "",
+     "text": "MBU.BU 2.5.3. Bilimsel gelişmeler ışığında geleceğin mesleklerini araştırır."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

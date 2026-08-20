@@ -1,0 +1,86 @@
+{
+ "grade": 6,
+ "subject": "Afet Bilinci — Düzey 2 (Seçmeli)",
+ "themes": [
+  {
+   "name": "DOĞA KAYNAKLI AFET TÜRLERİ",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2027-03-28",
+   "outcomes": [
+    {
+     "code": "AB.2.1.1",
+     "text": "Çığ olayının afete dönüşme nedenlerini açıklar."
+    },
+    {
+     "code": "AB.2.1.2",
+     "text": "Türkiye’de çığ riski yüksek olan yerler hakkında çıkarımlarda bulunur."
+    },
+    {
+     "code": "AB.2.1.3",
+     "text": "Çığ tehlikesine karşı alınacak önlemleri açıklar."
+    },
+    {
+     "code": "AB.2.1.4",
+     "text": "Çığ sonrasında dikkat edilecek hususları açıklar."
+    },
+    {
+     "code": "AB.2.1.5",
+     "text": "Fırtına olayının afete dönüşmesinin nedenlerini açıklar."
+    },
+    {
+     "code": "AB.2.1.7",
+     "text": "Türkiye’de kuraklığın ekonomik, çevresel ve sosyal etkilerini analiz eder."
+    },
+    {
+     "code": "AB.2.1.8",
+     "text": "Erozyon tehlikesinin nedenlerini açıklar."
+    },
+    {
+     "code": "AB.2.1.9",
+     "text": "Salgın hastalıklara ilişkin temel kavramları açıklar."
+    }
+   ]
+  },
+  {
+   "name": "İNSAN KAYNAKLI AFET TÜRLERİ",
+   "konu": "",
+   "start": "2027-03-29",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "AB.2.2.1",
+     "text": "İnsan kaynaklı afetlerin nedenleri hakkında çıkarımlarda bulunur."
+    },
+    {
+     "code": "AB.2.2.2",
+     "text": "Yangın olayının afete dönüşme nedenlerini açıklar."
+    },
+    {
+     "code": "AB.2.2.3",
+     "text": "Ulaşım sistemlerindeki kazalardan kaynaklanan afetleri açıklar."
+    },
+    {
+     "code": "AB.2.2.4",
+     "text": "Endüstriyel kazaların neden olduğu zararı çevresel, sosyal ve ekonomik boyutlarıyla değerlendirir."
+    },
+    {
+     "code": "AB.2.2.5",
+     "text": "Nükleer, biyolojik ve kimyasal kaza tehlikesi durumunda alınacak önlemleri açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

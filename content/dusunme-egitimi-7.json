@@ -1,0 +1,210 @@
+{
+ "grade": 7,
+ "subject": "Düşünme Eğitimi (Seçmeli)",
+ "themes": [
+  {
+   "name": "DÜŞÜNME EVRENİ",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-09-27",
+   "outcomes": [
+    {
+     "code": "7.1.1",
+     "text": "Düşünmenin insana özgü bir faaliyet olduğunu kavrar."
+    },
+    {
+     "code": "7.1.2",
+     "text": "Düşünmenin insan olma niteliğini geliştirdiğini kavrar."
+    }
+   ]
+  },
+  {
+   "name": "DÜŞÜNMEYE ÇAĞRI",
+   "konu": "",
+   "start": "2026-09-28",
+   "end": "2026-10-18",
+   "outcomes": [
+    {
+     "code": "7.2.1",
+     "text": "Merak ve hayret duygularını harekete geçirerek, araştırmaya istek duyar."
+    },
+    {
+     "code": "7.2.2",
+     "text": "Çevresindeki sorunlara ilgi ve duyarlılık gösterir."
+    },
+    {
+     "code": "7.2.3",
+     "text": "Karşılaştığı durumları anlamada sorgulayıcı davranır."
+    }
+   ]
+  },
+  {
+   "name": "DÜŞÜNME: HAYATIN İNŞASI",
+   "konu": "",
+   "start": "2026-10-19",
+   "end": "2026-12-27",
+   "outcomes": [
+    {
+     "code": "7.3.1.1",
+     "text": "Düşünmenin hayata bakışını zenginleştirdiğini fark eder."
+    },
+    {
+     "code": "7.3.1.2",
+     "text": "Düşünmenin empati gücünü geliştirdiğini fark eder."
+    },
+    {
+     "code": "7.3.1.3",
+     "text": "Düşünmenin iletişimi kolaylaştırdığını kavrar."
+    },
+    {
+     "code": "7.3.1.4",
+     "text": "İyimser ve umutlu olmayı düşüncelerine yansıtır."
+    },
+    {
+     "code": "7.3.2.1",
+     "text": "Bilgi üretmede düşünmenin önemini kavrar."
+    },
+    {
+     "code": "7.3.2.2",
+     "text": "Hayatı geliştirmede düşünmenin önemini kavrar."
+    },
+    {
+     "code": "7.3.2.3",
+     "text": "Sorunları çözmede düşünmenin gücünü kavrar."
+    },
+    {
+     "code": "7.3.3.1",
+     "text": "Eleştirinin düşünmeyi geliştirdiğini kavrar."
+    },
+    {
+     "code": "7.3.3.2",
+     "text": "Yaratıcılığın düşünme ile geliştiğini kavrar."
+    }
+   ]
+  },
+  {
+   "name": "DÜŞÜNMENİN BOYUTLARI, DÜŞÜNMENİN ADIMLARI",
+   "konu": "",
+   "start": "2026-12-28",
+   "end": "2027-03-07",
+   "outcomes": [
+    {
+     "code": "7.4.1",
+     "text": "Düşünmenin aşamalı bir zihinsel üretim olduğunu kavrar."
+    },
+    {
+     "code": "7.4.2",
+     "text": "Bilinenden yola çıkarak bilinmeyene ulaşır."
+    },
+    {
+     "code": "7.4.3",
+     "text": "Problemin çözümünde varsayımlar oluşturur."
+    },
+    {
+     "code": "7.4.4",
+     "text": "Dağınık verilerden anlamlı bir bütün oluşturur."
+    },
+    {
+     "code": "7.4.5",
+     "text": "Bir bütünü benzerlik ve farklılıklarına göre sınıflar."
+    },
+    {
+     "code": "7.4.6",
+     "text": "Düşünme faaliyetinin ölçütlere bağlı olarak gerçekleştiğini kavrar."
+    },
+    {
+     "code": "7.4.7",
+     "text": "Bir şeyin değerini ölçerken kıyaslama yapar."
+    },
+    {
+     "code": "7.4.8",
+     "text": "Tek tek olaylardan genel ilkelere ulaşır."
+    }
+   ]
+  },
+  {
+   "name": "DÜŞÜNMENİN RENKLERİ",
+   "konu": "",
+   "start": "2027-03-15",
+   "end": "2027-05-23",
+   "outcomes": [
+    {
+     "code": "7.5.1.1",
+     "text": "Bir durumun problem olup olmadığına karar verir."
+    },
+    {
+     "code": "7.5.1.2",
+     "text": "Sorunların tespiti ve çözümünde kendi bakış açısını geliştirir."
+    },
+    {
+     "code": "7.5.1.3",
+     "text": "Kendi düşüncelerini ifade ederken özgüvenli davranır."
+    },
+    {
+     "code": "7.5.1.4",
+     "text": "Düşünme ve mizah ilişkisini önemser."
+    },
+    {
+     "code": "7.5.2.1",
+     "text": "Bir konu etrafında farklı görüşlerin ortaya çıkabileceğini kabul eder."
+    },
+    {
+     "code": "7.5.2.2",
+     "text": "Farklı düşünceleri saygıyla karşılar."
+    },
+    {
+     "code": "7.5.2.3",
+     "text": "Farklı düşüncelerin bir zenginlik olduğunu kabul eder."
+    },
+    {
+     "code": "7.5.2.4",
+     "text": "Eleştirilere tahammül gösterir."
+    },
+    {
+     "code": "7.5.2.5",
+     "text": "Eleştirilerden yararlanır."
+    },
+    {
+     "code": "7.5.2.6",
+     "text": "Başkalarının düşüncelerinden faydalanmayı öğrenir."
+    }
+   ]
+  },
+  {
+   "name": "DÜŞÜNMENİN DİNAMİZMİ, GELECEĞİN İNŞASI",
+   "konu": "",
+   "start": "2027-05-24",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "7.6.1",
+     "text": "Tarih ve geleneğin zaman içerisinde oluştuğunu kavrar."
+    },
+    {
+     "code": "7.6.2",
+     "text": "İçinde yaşadığı inanç ve kültür ortamının farkına varır."
+    },
+    {
+     "code": "7.6.3",
+     "text": "Yaşam dünyasının oluşumunda düşünmenin önemini kavrar."
+    },
+    {
+     "code": "7.6.4",
+     "text": "Zaman ve tarih bilinci kazanır."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

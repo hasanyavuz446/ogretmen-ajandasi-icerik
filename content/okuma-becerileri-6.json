@@ -1,0 +1,210 @@
+{
+ "grade": 6,
+ "subject": "Okuma Becerileri (Seçmeli)",
+ "themes": [
+  {
+   "name": "Görsel Okuma",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-11-01",
+   "outcomes": [
+    {
+     "code": "OB.1.1",
+     "text": "Metnin görsellerine bakarak içeriği hakkında tahminde bulunur."
+    },
+    {
+     "code": "OB.1.2",
+     "text": "Çeşitli görselleri (resim, fotoğraf, karikatür, şekil, sembol, işaret vb.) okur ve yorumlar."
+    },
+    {
+     "code": "OB.1.3",
+     "text": "Grafik, tablo, çizelge, şema, harita, kroki vb. ile sunulan bilgileri okur ve yorumlar."
+    },
+    {
+     "code": "OB.1.4",
+     "text": "Çoklu medya kaynaklarının güvenilirliğini sorgular."
+    },
+    {
+     "code": "OB.1.5",
+     "text": "Çoklu medya kaynaklarında verilen mesajları sorgular ve değerlendirir."
+    },
+    {
+     "code": "OB.1.6",
+     "text": "Bir bilgiye veya içeriğe erişmek için basit ve dijital içeriklerde içindekiler, sözlük ve kaynakça gibi bölümleri kullanır."
+    },
+    {
+     "code": "OB.1.7",
+     "text": "E-okuma sürecinde amaca uygun stratejiler belirler."
+    }
+   ]
+  },
+  {
+   "name": "Akıcı Okuma",
+   "konu": "",
+   "start": "2026-11-02",
+   "end": "2026-11-29",
+   "outcomes": [
+    {
+     "code": "OB.2.1",
+     "text": "Okuma amacını ve yöntemini belirler."
+    },
+    {
+     "code": "OB.2.2",
+     "text": "Metni tür özelliklerine dikkat ederek okur."
+    },
+    {
+     "code": "OB.2.3",
+     "text": "Vurgu, tonlama ve telaffuza uygun şekilde okur."
+    }
+   ]
+  },
+  {
+   "name": "Söz Varlığını Zenginleştirme",
+   "konu": "",
+   "start": "2026-11-30",
+   "end": "2026-12-27",
+   "outcomes": [
+    {
+     "code": "OB.3.1",
+     "text": "Metinden hareketle anlamını bilmediği sözcük ve sözcük gruplarını tespit eder ve anlamlarını bulur."
+    },
+    {
+     "code": "OB.3.2",
+     "text": "Okuduğu metindeki sözcük ve sözcük gruplarının cümle içinde kazandığı anlamı kavrar."
+    },
+    {
+     "code": "OB.3.3",
+     "text": "Deyim ve atasözlerinin metne katkısını belirler."
+    },
+    {
+     "code": "OB.3.4",
+     "text": "Metni oluşturan özellikli kelime unsurlarının anlama olan katkısını değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "Anlam Kurma",
+   "konu": "",
+   "start": "2026-12-28",
+   "end": "2027-04-04",
+   "outcomes": [
+    {
+     "code": "OB.4.1",
+     "text": "Metinle ilgili sorular sorar ve sorulan sorulara cevap verir."
+    },
+    {
+     "code": "OB.4.2",
+     "text": "Okuduklarının konusunu, ana fikrini/ana duygusunu belirler."
+    },
+    {
+     "code": "OB.4.3",
+     "text": "Okuduğu metni özetler."
+    },
+    {
+     "code": "OB.4.4",
+     "text": "Okuduklarını kendi yaşantısıyla ve günlük hayatla ilişkilendirir."
+    },
+    {
+     "code": "OB.4.5",
+     "text": "Okuduğu metinlerdeki kurgu unsurlarını belirler."
+    },
+    {
+     "code": "OB.4.6",
+     "text": "Bilgilendirici metinleri çözümler."
+    },
+    {
+     "code": "OB.4.7",
+     "text": "Metinde ortaya konan sorunları tespit ederek onlara farklı çözümler bulur."
+    },
+    {
+     "code": "OB.4.8",
+     "text": "Metin içi, metin dışı ve metinler arasında anlam kurar."
+    },
+    {
+     "code": "OB.4.9",
+     "text": "Okuduğunu anlamlandırmada çeşitli görsellerden yararlanır."
+    },
+    {
+     "code": "OB.4.10",
+     "text": "Okuduklarındaki yönlendirici ifadelerin anlam üzerindeki etkisini fark eder."
+    },
+    {
+     "code": "OB.4.11",
+     "text": "Metnin öncesi ve/veya sonrasına ait kurgular yapar."
+    }
+   ]
+  },
+  {
+   "name": "Eleştirel Okuma",
+   "konu": "",
+   "start": "2027-04-05",
+   "end": "2027-05-16",
+   "outcomes": [
+    {
+     "code": "OB.5.1",
+     "text": "Metinlerdeki örnek, ayrıntı ve açıklamalara atıf yaparak metni yorumlar."
+    },
+    {
+     "code": "OB.5.2",
+     "text": "Metinler arasında karşılaştırma ve değerlendirme yapar."
+    },
+    {
+     "code": "OB.5.3",
+     "text": "Yazarın olaylara/konuya bakış açısını tespit eder ve kendi bakış açısını ifade eder."
+    },
+    {
+     "code": "OB.5.4",
+     "text": "Okuduğu metni içerik, dil ve anlatım bakımından değerlendirir."
+    },
+    {
+     "code": "OB.5.5",
+     "text": "Okuduklarıyla ilgili çıkarımlar yapar."
+    },
+    {
+     "code": "OB.5.6",
+     "text": "Metindeki çelişkili ve tutarsız ifadeleri belirler."
+    }
+   ]
+  },
+  {
+   "name": "Okuma Kültürü Edinme",
+   "konu": "",
+   "start": "2027-05-17",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "OB.6.1",
+     "text": "Okudukları ile ilgili duygu ve düşüncelerini başkalarıyla paylaşır."
+    },
+    {
+     "code": "OB.6.2",
+     "text": "Edebî metinleri uygun ortamlarda ezberden paylaşır."
+    },
+    {
+     "code": "OB.6.3",
+     "text": "Kitapla ilgili mekânlardan faydalanır."
+    },
+    {
+     "code": "OB.6.4",
+     "text": "Okuduğu kitaplardan kitaplık oluşturur."
+    },
+    {
+     "code": "OB.6.5",
+     "text": "Düzeyine uygun süreli yayınları takip eder."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

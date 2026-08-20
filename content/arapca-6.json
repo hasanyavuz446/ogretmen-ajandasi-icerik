@@ -1,0 +1,194 @@
+{
+ "grade": 6,
+ "subject": "Arapça (Seçmeli)",
+ "themes": [
+  {
+   "name": "AKRABALARIM",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-11-08",
+   "outcomes": [
+    {
+     "code": "ARP.6.1.1.1",
+     "text": "Geniş aile bireyleri ve mesleklerle ilgili dinlemeye/izlemeye hazırlık yapabilme\nARP.6.1.1.2. Geniş aile bireyleri ve mesleklerle ilgili dinlediği/izlediği içerikte yer alan bilgileri bir araya getirebilme\nARP.6.1.1.3. Geniş aile bireyleri ve mesleklerle ilgili dinlediği/izlediği içeriği anlamlandırabilme"
+    },
+    {
+     "code": "ARP.6.1.2.1",
+     "text": "Geniş aile bireyleri ve mesleklerle ilgili okumaya hazırlık yapabilme\nARP.6.1.2.3. Geniş aile bireyleri ve mesleklerle ilgili okuduğu içeriği anlamlandırabilme\nARP.6.1.3.1. Geniş aile bireyleri ve mesleklerle ilgili dinlediği/izlediği içerikteki hedef dil yapılarını kullanabilme"
+    },
+    {
+     "code": "ARP.6.1.4.1",
+     "text": "Geniş aile bireyleri ve mesleklerle ilgili dinlediği/izlediği içerikteki hedef sözcükleri kullanabilme\nARP.6.1.5.1. Hedef harfleri sesletim unsurlarına uygun olarak seslendirebilme"
+    },
+    {
+     "code": "ARP.6.1.6.1",
+     "text": "Geniş aile bireyleri ve mesleklerle ilgili konuşmaya hazırlık yapabilme\nARP.6.1.6.2. Geniş aile bireyleri ve mesleklerle ilgili konuşma modelini taklit edebilme"
+    },
+    {
+     "code": "ARP.6.1.6.3",
+     "text": "Geniş aile bireyleri ve mesleklerle ilgili konuşmalarında taklit ederek sözlü içerik oluşturabilme\nARP.6.1.6.5. Geniş aile bireyleri ve mesleklerle ilgili bilgilerini kullanarak iletişim kurabilme"
+    },
+    {
+     "code": "ARP.6.1.7.1",
+     "text": "Geniş aile bireyleri ve mesleklerle ilgili yazmaya hazırlık yapabilme\nARP.6.1.7.2. Geniş aile bireyleri ve mesleklerle ilgili yazı modelini kopyalayabilme"
+    },
+    {
+     "code": "ARP.6.1.7.3",
+     "text": "Geniş aile bireyleri ve mesleklerle ilgili yazılarında içerik oluşturabilme\nARP.6.1.7.4. Geniş aile bireyleri ve mesleklerle ilgili yazılarını uygulamaya geçirebilme"
+    },
+    {
+     "code": "ARP.6.1.7.5",
+     "text": "Geniş aile bireyleri ve mesleklerle ilgili bilgilerini yazılarında yeniden yapılandırabilme\nARP.6.1.1.3. Üniteyle ilgili görsel/işitsel materyal tekrar dinletilir/izletilir (OB2). Öğrencilerin ünite içerikleriyle ilgili oluşturduğu ön tahminlerini görselden yararlanma/sesli düşünme, öğretmene sorma vb. yöntemlerle kontrol etmeleri sağlanır. Bu süreçte öğrencilerden grup çalışması yoluyla (SDB2.2) konu içeriğine ilişkin bilgileri görsel materyal üzerinden"
+    }
+   ]
+  },
+  {
+   "name": "HAYDİ OKULA",
+   "konu": "",
+   "start": "2026-11-09",
+   "end": "2027-01-17",
+   "outcomes": [
+    {
+     "code": "ARP.6.2.1.1",
+     "text": "Okul, okulun bölümleri ve okulda bulunan eşyalarla ilgili dinlemeye/izlemeye hazırlık yapabilme\nARP.6.2.1.2. Okul, okulun bölümleri ve okulda bulunan eşyalarla ilgili dinlediği/izlediği içerikte yer alan bilgileri bir araya getirebilme\nARP.6.2.1.3. Okul, okulun bölümleri ve okulda bulunan eşyalarla ilgili dinlediği/izlediği içeriği anlamlandırabilme"
+    },
+    {
+     "code": "ARP.6.2.1.4",
+     "text": "Dönem boyunca dinleme/izleme-anlamlandırma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme\nARP.6.2.2.1. Okul, okulun bölümleri ve okulda bulunan eşyalarla ilgili okumaya hazırlık yapabilme\nARP.6.2.2.2. Okul, okulun bölümleri ve okulda bulunan eşyalarla ilgili okuduğu içerikte yer alan bilgileri bir araya getirebilme"
+    },
+    {
+     "code": "ARP.6.2.2.3",
+     "text": "Okul, okulun bölümleri ve okulda bulunan eşyalarla ilgili okuduğu içeriği anlamlandırabilme\nARP.6.2.2.4. Dönem boyunca okuma-anlamlandırma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme\nARP.6.2.3.1. Okul, okulun bölümleri ve okulda bulunan eşyalarla ilgili dinlediği/izlediği içerikteki hedef dil yapılarını kullanabilme"
+    },
+    {
+     "code": "ARP.6.2.4.1",
+     "text": "Okul, okulun bölümleri ve okulda bulunan eşyalarla ilgili dinlediği/izlediği içerikteki hedef sözcükleri kullanabilme\nARP.6.2.5.1. Okul, okulun bölümleri ve okulda bulunan eşyalarla ilgili konuşmaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.6.2.5.2",
+     "text": "Okul, okulun bölümleri ve okulda bulunan eşyalarla ilgili konuşma modelini taklit edebilme\nARP.6.2.5.3. Okul, okulun bölümleri ve okulda bulunan eşyalarla ilgili konuşmalarında taklit ederek sözlü içerik oluşturabilme"
+    },
+    {
+     "code": "ARP.6.2.5.5",
+     "text": "Üniteyle ilgili bilgilerini kullanarak iletişim kurabilme\nARP.6.2.5.6. Dönem boyunca konuşma-anlatma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme"
+    },
+    {
+     "code": "ARP.6.2.6.1",
+     "text": "Okul, okulun bölümleri ve okulda bulunan eşyalarla ilgili yazmaya hazırlık yapabilme\nARP.6.2.6.2. Okul, okulun bölümleri ve okulda bulunan eşyalarla ilgili yazı modelini kopyalayabilme"
+    },
+    {
+     "code": "ARP.6.2.6.3",
+     "text": "Okul, okulun bölümleri ve okulda bulunan eşyalarla ilgili yazılarında içerik oluşturabilme\nARP.6.2.6.4. Okul, okulun bölümleri ve okulda bulunan eşyalarla ilgili yazılarını uygulamaya geçirebilme"
+    },
+    {
+     "code": "ARP.6.2.6.5",
+     "text": "Okul, okulun bölümleri ve okulda bulunan eşyalarla ilgili bilgilerini yazılarında yeniden yapılandırabilme\nARP.6.2.6.6. Dönem içinde yazma-anlatma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme"
+    }
+   ]
+  },
+  {
+   "name": "VÜCUDUM",
+   "konu": "",
+   "start": "2027-01-18",
+   "end": "2027-04-11",
+   "outcomes": [
+    {
+     "code": "ARP.6.3.1.1",
+     "text": "Organlar ve duyularla ilgili dinlemeye/izlemeye hazırlık yapabilme\nARP.6.3.1.2. Organlar ve duyularla ilgili dinlediği/izlediği içerikte yer alan bilgileri bir araya getirebilme\nARP.6.3.1.3. Organlar ve duyularla ilgili dinlediği/izlediği içeriği anlamlandırabilme"
+    },
+    {
+     "code": "ARP.6.3.2.1",
+     "text": "Organlar ve duyularla ilgili okumaya hazırlık yapabilme\nARP.6.3.2.2. Organlar ve duyularla ilgili okuduğu içerikte yer alan bilgileri bir araya getirebilme"
+    },
+    {
+     "code": "ARP.6.3.2.3",
+     "text": "Organlar ve duyularla ilgili okuduğu içeriği anlamlandırabilme\nARP.6.3.3.1. Organlar ve duyularla ilgili dinlediği/izlediği içerikteki hedef dil yapılarını kullanabilme"
+    },
+    {
+     "code": "ARP.6.3.4.1",
+     "text": "Organlar ve duyularla ilgili dinlediği/izlediği içerikteki hedef sözcükleri kullanabilme\nARP.6.3.5.1. Organlar ve duyularla ilgili konuşmaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.6.3.5.2",
+     "text": "Organlar ve duyularla ilgili konuşma modelini taklit edebilme\nARP.6.3.5.3. Organlar ve duyularla ilgili konuşmalarında taklit ederek sözlü içerik oluşturabilme"
+    },
+    {
+     "code": "ARP.6.3.5.4",
+     "text": "Organlar ve duyularla ilgili konuşmalarını uygulamaya geçirebilme\nARP.6.3.5.5. Organlar ve duyularla ilgili bilgilerini kullanarak iletişim kurabilme"
+    },
+    {
+     "code": "ARP.6.3.6.1",
+     "text": "Organlar ve duyularla ilgili yazmaya hazırlık yapabilme\nARP.6.3.6.2. Organlar ve duyularla ilgili yazı modelini kopyalayabilme"
+    },
+    {
+     "code": "ARP.6.3.6.3",
+     "text": "Organlar ve duyularla ilgili yazılarında içerik oluşturabilme\nARP.6.3.6.4. Organlar ve duyularla ilgili yazılarını uygulamaya geçirebilme"
+    },
+    {
+     "code": "ARP.6.3.6.5",
+     "text": "Organlar ve duyularla ilgili bilgilerini yazılarında yeniden yapılandırabilme\nARP.6.3.2.2. Okuma metni bölümünde yer alan görsel/işitsel materyal (OB4) ve konu başlığı gibi ögelerin sağladığı ipuçları yardımıyla öğrencilerin metnin konusu hakkında basit tahminlerde bulunmaları sağlandıktan (E1.1) sonra metni bütüncül ve hızlı bir şekilde okumaları ve metnin genel konusunu algılamaları beklenir."
+    }
+   ]
+  },
+  {
+   "name": "BU HAFTA HAVA NASIL?",
+   "konu": "",
+   "start": "2027-04-12",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "ARP.6.4.1.1",
+     "text": "Hava durumlarıyla ilgili dinlemeye/izlemeye hazırlık yapabilme\nARP.6.4.1.2. Hava durumlarıyla ilgili dinlediği/izlediği içerikte yer alan bilgileri bir araya getirebilme\nARP.6.4.1.3. Hava durumlarıyla ilgili dinlediği/izlediği içeriği anlamlandırabilme"
+    },
+    {
+     "code": "ARP.6.4.1.4",
+     "text": "Dönem boyunca dinleme/izleme-anlamlandırma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme\nARP.6.4.2.1. Hava durumlarıyla ilgili okumaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.6.4.2.2",
+     "text": "Hava durumlarıyla ilgili okuduğu içerikte yer alan bilgileri bir araya getirebilme\nARP.6.4.2.3. Hava durumlarıyla ilgili okuduğu içeriği anlamlandırabilme"
+    },
+    {
+     "code": "ARP.6.4.2.4",
+     "text": "Dönem boyunca okuma-anlamlandırma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme\nARP.6.4.3.1. Hava durumlarıyla ilgili dinlediği/izlediği içerikteki hedef dil yapılarını kullanabilme"
+    },
+    {
+     "code": "ARP.6.4.4.1",
+     "text": "Hava durumlarıyla ilgili dinlediği/izlediği içerikteki hedef sözcükleri kullanabilme\nARP.6.4.5.1. Hava durumlarıyla ilgili konuşmaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.6.4.5.2",
+     "text": "Hava durumlarıyla ilgili konuşma modelini taklit edebilme\nARP.6.4.5.3. Hava durumlarıyla ilgili konuşmalarında taklit ederek sözlü içerik oluşturabilme"
+    },
+    {
+     "code": "ARP.6.4.5.5",
+     "text": "Hava durumlarıyla ilgili bilgilerini kullanarak iletişim kurabilme\nARP.6.4.5.6. Dönem boyunca konuşma-anlatma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme"
+    },
+    {
+     "code": "ARP.6.4.6.1",
+     "text": "Hava durumlarıyla ilgili yazmaya hazırlık yapabilme\nARP.6.4.6.2. Hava durumlarıyla ilgili yazı modelini kopyalayabilme"
+    },
+    {
+     "code": "ARP.6.4.6.3",
+     "text": "Hava durumlarıyla ilgili yazılarında içerik oluşturabilme\nARP.6.4.6.4. Hava durumlarıyla ilgili yazılarını uygulamaya geçirebilme"
+    },
+    {
+     "code": "ARP.6.4.6.5",
+     "text": "Hava durumlarıyla ilgili bilgilerini yazılarında yeniden yapılandırabilme\nARP.6.4.6.6. Dönem içinde yazma-anlatma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme"
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

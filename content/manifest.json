@@ -1,5 +1,5 @@
 {
- "version": "2026-2027.51",
+ "version": "2026-2027.52",
  "year": "2025-2026",
  "plans": [
   {
@@ -189,6 +189,21 @@
   },
   {
    "grade": 5,
+   "subject": "Afet Bilinci — Düzey 1 (Seçmeli)",
+   "file": "afet-bilinci-duzey-1-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Ahlak ve Yurttaşlık Eğitimi — Düzey 1 (Seçmeli)",
+   "file": "ahlak-ve-yurttaslik-egitimi-duzey-1-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Arapça (Seçmeli)",
+   "file": "arapca-5.json"
+  },
+  {
+   "grade": 5,
    "subject": "Beden Eğitimi ve Spor",
    "file": "beden-egitimi-ve-spor-5.json"
   },
@@ -209,8 +224,48 @@
   },
   {
    "grade": 5,
+   "subject": "Fransızca (Seçmeli)",
+   "file": "fransizca-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Geleneksel Oyunlar (Seçmeli)",
+   "file": "geleneksel-oyunlar-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Geleneksel Sanatlar — Düzey 1 (Seçmeli)",
+   "file": "geleneksel-sanatlar-duzey-1-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Görgü Kuralları ve Nezaket — Düzey 1 (Seçmeli)",
+   "file": "gorgu-kurallari-ve-nezaket-duzey-1-5.json"
+  },
+  {
+   "grade": 5,
    "subject": "Görsel Sanatlar",
    "file": "gorsel-sanatlar-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Halk Oyunları (Seçmeli)",
+   "file": "halk-oyunlari-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Kur'an-ı Kerim (Seçmeli)",
+   "file": "kuran-i-kerim-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Kültür ve Medeniyetimize Yön Verenler — Düzey 1 (Seçmeli)",
+   "file": "kultur-ve-medeniyetimize-yon-verenler-duzey-1-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Masal ve Destanlarımız — Düzey 1 (Seçmeli)",
+   "file": "masal-ve-destanlarimiz-duzey-1-5.json"
   },
   {
    "grade": 5,
@@ -219,8 +274,23 @@
   },
   {
    "grade": 5,
+   "subject": "Matematik ve Bilim Uygulamaları — Düzey 1 (Seçmeli)",
+   "file": "matematik-ve-bilim-uygulamalari-duzey-1-5.json"
+  },
+  {
+   "grade": 5,
    "subject": "Müzik",
    "file": "muzik-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Okuma Becerileri (Seçmeli)",
+   "file": "okuma-becerileri-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Peygamberimizin Hayatı (Seçmeli)",
+   "file": "peygamberimizin-hayati-5.json"
   },
   {
    "grade": 5,
@@ -234,8 +304,63 @@
   },
   {
    "grade": 5,
+   "subject": "Spor ve Fizikî Etkinlikler (Seçmeli)",
+   "file": "spor-ve-fiziki-etkinlikler-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Temel Dinî Bilgiler — İslam 1 (Seçmeli)",
+   "file": "temel-dini-bilgiler-islam-1-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Temel Yaşam Becerileri — Düzey 1 (Seçmeli)",
+   "file": "temel-yasam-becerileri-duzey-1-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Türk Sosyal Hayatında Aile (Seçmeli)",
+   "file": "turk-sosyal-hayatinda-aile-5.json"
+  },
+  {
+   "grade": 5,
    "subject": "Türkçe",
    "file": "turkce-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Yazarlık ve Yazma Becerileri (Seçmeli)",
+   "file": "yazarlik-ve-yazma-becerileri-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Yaşayan Diller — Adıgece (Seçmeli)",
+   "file": "yasayan-diller-adigece-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Yaşayan Diller — Arnavutça (Seçmeli)",
+   "file": "yasayan-diller-arnavutca-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Yaşayan Diller — Boşnakça (Seçmeli)",
+   "file": "yasayan-diller-bosnakca-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Yaşayan Diller — Gürcüce (Seçmeli)",
+   "file": "yasayan-diller-gurcuce-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Yaşayan Diller — Kürtçe (Seçmeli)",
+   "file": "yasayan-diller-kurtce-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Zekâ Oyunları — Düzey 1 (Seçmeli)",
+   "file": "zeka-oyunlari-duzey-1-5.json"
   },
   {
    "grade": 5,
@@ -246,6 +371,26 @@
    "grade": 5,
    "subject": "İngilizce",
    "file": "ingilizce-5.json"
+  },
+  {
+   "grade": 5,
+   "subject": "Şehrimiz (Seçmeli)",
+   "file": "sehrimiz-5.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Afet Bilinci — Düzey 2 (Seçmeli)",
+   "file": "afet-bilinci-duzey-2-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Ahlak ve Yurttaşlık Eğitimi — Düzey 2 (Seçmeli)",
+   "file": "ahlak-ve-yurttaslik-egitimi-duzey-2-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Arapça (Seçmeli)",
+   "file": "arapca-6.json"
   },
   {
    "grade": 6,
@@ -259,6 +404,11 @@
   },
   {
    "grade": 6,
+   "subject": "Dijital Sanatlar — Düzey 1 (Seçmeli)",
+   "file": "dijital-sanatlar-duzey-1-6.json"
+  },
+  {
+   "grade": 6,
    "subject": "Din Kültürü ve Ahlak Bilgisi",
    "file": "din-kulturu-ve-ahlak-bilgisi-6.json"
   },
@@ -269,8 +419,53 @@
   },
   {
    "grade": 6,
+   "subject": "Fransızca (Seçmeli)",
+   "file": "fransizca-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Geleneksel Oyunlar (Seçmeli)",
+   "file": "geleneksel-oyunlar-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Geleneksel Sanatlar — Düzey 2 (Seçmeli)",
+   "file": "geleneksel-sanatlar-duzey-2-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Görgü Kuralları ve Nezaket — Düzey 2 (Seçmeli)",
+   "file": "gorgu-kurallari-ve-nezaket-duzey-2-6.json"
+  },
+  {
+   "grade": 6,
    "subject": "Görsel Sanatlar",
    "file": "gorsel-sanatlar-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Halk Oyunları (Seçmeli)",
+   "file": "halk-oyunlari-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Hukuk ve Adalet (Seçmeli)",
+   "file": "hukuk-ve-adalet-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Kur'an-ı Kerim (Seçmeli)",
+   "file": "kuran-i-kerim-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Kültür ve Medeniyetimize Yön Verenler — Düzey 2 (Seçmeli)",
+   "file": "kultur-ve-medeniyetimize-yon-verenler-duzey-2-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Masal ve Destanlarımız — Düzey 2 (Seçmeli)",
+   "file": "masal-ve-destanlarimiz-duzey-2-6.json"
   },
   {
    "grade": 6,
@@ -279,8 +474,33 @@
   },
   {
    "grade": 6,
+   "subject": "Matematik ve Bilim Uygulamaları — Düzey 2 (Seçmeli)",
+   "file": "matematik-ve-bilim-uygulamalari-duzey-2-6.json"
+  },
+  {
+   "grade": 6,
    "subject": "Müzik",
    "file": "muzik-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Okul Temelli Sosyal Sorumluluk — Düzey 1 (Seçmeli)",
+   "file": "okul-temelli-sosyal-sorumluluk-duzey-1-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Okuma Becerileri (Seçmeli)",
+   "file": "okuma-becerileri-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Peygamberimizin Hayatı (Seçmeli)",
+   "file": "peygamberimizin-hayati-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Proje Tasarımı ve Uygulamaları (Seçmeli)",
+   "file": "proje-tasarimi-ve-uygulamalari-6.json"
   },
   {
    "grade": 6,
@@ -294,8 +514,68 @@
   },
   {
    "grade": 6,
+   "subject": "Spor ve Fizikî Etkinlikler (Seçmeli)",
+   "file": "spor-ve-fiziki-etkinlikler-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Temel Dinî Bilgiler — İslam 2 (Seçmeli)",
+   "file": "temel-dini-bilgiler-islam-2-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Temel Yaşam Becerileri — Düzey 2 (Seçmeli)",
+   "file": "temel-yasam-becerileri-duzey-2-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Türk Sosyal Hayatında Aile (Seçmeli)",
+   "file": "turk-sosyal-hayatinda-aile-6.json"
+  },
+  {
+   "grade": 6,
    "subject": "Türkçe",
    "file": "turkce-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Yazarlık ve Yazma Becerileri (Seçmeli)",
+   "file": "yazarlik-ve-yazma-becerileri-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Yaşayan Diller — Adıgece (Seçmeli)",
+   "file": "yasayan-diller-adigece-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Yaşayan Diller — Arnavutça (Seçmeli)",
+   "file": "yasayan-diller-arnavutca-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Yaşayan Diller — Boşnakça (Seçmeli)",
+   "file": "yasayan-diller-bosnakca-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Yaşayan Diller — Gürcüce (Seçmeli)",
+   "file": "yasayan-diller-gurcuce-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Yaşayan Diller — Kürtçe (Seçmeli)",
+   "file": "yasayan-diller-kurtce-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Zekâ Oyunları — Düzey 2 (Seçmeli)",
+   "file": "zeka-oyunlari-duzey-2-6.json"
+  },
+  {
+   "grade": 6,
+   "subject": "Çevre Eğitimi ve İklim Değişikliği (Seçmeli)",
+   "file": "cevre-egitimi-ve-iklim-degisikligi-6.json"
   },
   {
    "grade": 6,
@@ -308,9 +588,29 @@
    "file": "ingilizce-6.json"
   },
   {
+   "grade": 6,
+   "subject": "Şehrimiz (Seçmeli)",
+   "file": "sehrimiz-6.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Arapça (Seçmeli)",
+   "file": "arapca-7.json"
+  },
+  {
    "grade": 7,
    "subject": "Beden Eğitimi ve Spor",
    "file": "beden-egitimi-ve-spor-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Bilişim Teknolojileri ve Yazılım (Seçmeli)",
+   "file": "bilisim-teknolojileri-ve-yazilim-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Dijital Sanatlar — Düzey 2 (Seçmeli)",
+   "file": "dijital-sanatlar-duzey-2-7.json"
   },
   {
    "grade": 7,
@@ -319,8 +619,23 @@
   },
   {
    "grade": 7,
+   "subject": "Düşünme Eğitimi (Seçmeli)",
+   "file": "dusunme-egitimi-7.json"
+  },
+  {
+   "grade": 7,
    "subject": "Fen Bilimleri",
    "file": "fen-bilimleri-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Fransızca (Seçmeli)",
+   "file": "fransizca-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Geleneksel Oyunlar (Seçmeli)",
+   "file": "geleneksel-oyunlar-7.json"
   },
   {
    "grade": 7,
@@ -329,8 +644,28 @@
   },
   {
    "grade": 7,
+   "subject": "Halk Oyunları (Seçmeli)",
+   "file": "halk-oyunlari-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Hukuk ve Adalet (Seçmeli)",
+   "file": "hukuk-ve-adalet-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Kur'an-ı Kerim (Seçmeli)",
+   "file": "kuran-i-kerim-7.json"
+  },
+  {
+   "grade": 7,
    "subject": "Matematik",
    "file": "matematik-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Medya Okuryazarlığı (Seçmeli)",
+   "file": "medya-okuryazarligi-7.json"
   },
   {
    "grade": 7,
@@ -339,8 +674,28 @@
   },
   {
    "grade": 7,
+   "subject": "Okul Temelli Sosyal Sorumluluk — Düzey 2 (Seçmeli)",
+   "file": "okul-temelli-sosyal-sorumluluk-duzey-2-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Peygamberimizin Hayatı (Seçmeli)",
+   "file": "peygamberimizin-hayati-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Proje Tasarımı ve Uygulamaları (Seçmeli)",
+   "file": "proje-tasarimi-ve-uygulamalari-7.json"
+  },
+  {
+   "grade": 7,
    "subject": "Rehberlik",
    "file": "rehberlik-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Robotik Kodlama — Düzey 1 (Seçmeli)",
+   "file": "robotik-kodlama-duzey-1-7.json"
   },
   {
    "grade": 7,
@@ -349,13 +704,63 @@
   },
   {
    "grade": 7,
+   "subject": "Spor ve Fizikî Etkinlikler (Seçmeli)",
+   "file": "spor-ve-fiziki-etkinlikler-7.json"
+  },
+  {
+   "grade": 7,
    "subject": "Teknoloji ve Tasarım",
    "file": "teknoloji-ve-tasarim-7.json"
   },
   {
    "grade": 7,
+   "subject": "Türk Sosyal Hayatında Aile (Seçmeli)",
+   "file": "turk-sosyal-hayatinda-aile-7.json"
+  },
+  {
+   "grade": 7,
    "subject": "Türkçe",
    "file": "turkce-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Yapay Zekâ Uygulamaları — Düzey 1 (Seçmeli)",
+   "file": "yapay-zeka-uygulamalari-duzey-1-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Yazarlık ve Yazma Becerileri (Seçmeli)",
+   "file": "yazarlik-ve-yazma-becerileri-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Yaşayan Diller — Adıgece (Seçmeli)",
+   "file": "yasayan-diller-adigece-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Yaşayan Diller — Arnavutça (Seçmeli)",
+   "file": "yasayan-diller-arnavutca-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Yaşayan Diller — Boşnakça (Seçmeli)",
+   "file": "yasayan-diller-bosnakca-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Yaşayan Diller — Gürcüce (Seçmeli)",
+   "file": "yasayan-diller-gurcuce-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Yaşayan Diller — Kürtçe (Seçmeli)",
+   "file": "yasayan-diller-kurtce-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Çevre Eğitimi ve İklim Değişikliği (Seçmeli)",
+   "file": "cevre-egitimi-ve-iklim-degisikligi-7.json"
   },
   {
    "grade": 7,
@@ -368,9 +773,19 @@
    "file": "ingilizce-7.json"
   },
   {
+   "grade": 7,
+   "subject": "Şehrimiz (Seçmeli)",
+   "file": "sehrimiz-7.json"
+  },
+  {
    "grade": 8,
    "subject": "Almanca",
    "file": "almanca-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Arapça (Seçmeli)",
+   "file": "arapca-8.json"
   },
   {
    "grade": 8,
@@ -379,8 +794,18 @@
   },
   {
    "grade": 8,
+   "subject": "Bilişim Teknolojileri ve Yazılım (Seçmeli)",
+   "file": "bilisim-teknolojileri-ve-yazilim-8.json"
+  },
+  {
+   "grade": 8,
    "subject": "Din Kültürü ve Ahlak Bilgisi",
    "file": "din-kulturu-ve-ahlak-bilgisi-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Düşünme Eğitimi (Seçmeli)",
+   "file": "dusunme-egitimi-8.json"
   },
   {
    "grade": 8,
@@ -389,8 +814,33 @@
   },
   {
    "grade": 8,
+   "subject": "Fransızca (Seçmeli)",
+   "file": "fransizca-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Geleneksel Oyunlar (Seçmeli)",
+   "file": "geleneksel-oyunlar-8.json"
+  },
+  {
+   "grade": 8,
    "subject": "Görsel Sanatlar",
    "file": "gorsel-sanatlar-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Halk Oyunları (Seçmeli)",
+   "file": "halk-oyunlari-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Hukuk ve Adalet (Seçmeli)",
+   "file": "hukuk-ve-adalet-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Kur'an-ı Kerim (Seçmeli)",
+   "file": "kuran-i-kerim-8.json"
   },
   {
    "grade": 8,
@@ -399,13 +849,43 @@
   },
   {
    "grade": 8,
+   "subject": "Medya Okuryazarlığı (Seçmeli)",
+   "file": "medya-okuryazarligi-8.json"
+  },
+  {
+   "grade": 8,
    "subject": "Müzik",
    "file": "muzik-8.json"
   },
   {
    "grade": 8,
+   "subject": "Okul Temelli Sosyal Sorumluluk — Düzey 3 (Seçmeli)",
+   "file": "okul-temelli-sosyal-sorumluluk-duzey-3-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Peygamberimizin Hayatı (Seçmeli)",
+   "file": "peygamberimizin-hayati-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Proje Tasarımı ve Uygulamaları (Seçmeli)",
+   "file": "proje-tasarimi-ve-uygulamalari-8.json"
+  },
+  {
+   "grade": 8,
    "subject": "Rehberlik ve Kariyer Planlama",
    "file": "rehberlik-ve-kariyer-planlama-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Robotik Kodlama — Düzey 2 (Seçmeli)",
+   "file": "robotik-kodlama-duzey-2-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Spor ve Fizikî Etkinlikler (Seçmeli)",
+   "file": "spor-ve-fiziki-etkinlikler-8.json"
   },
   {
    "grade": 8,
@@ -419,13 +899,63 @@
   },
   {
    "grade": 8,
+   "subject": "Türk Sosyal Hayatında Aile (Seçmeli)",
+   "file": "turk-sosyal-hayatinda-aile-8.json"
+  },
+  {
+   "grade": 8,
    "subject": "Türkçe",
    "file": "turkce-8.json"
   },
   {
    "grade": 8,
+   "subject": "Yapay Zekâ Uygulamaları — Düzey 2 (Seçmeli)",
+   "file": "yapay-zeka-uygulamalari-duzey-2-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Yazarlık ve Yazma Becerileri (Seçmeli)",
+   "file": "yazarlik-ve-yazma-becerileri-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Yaşayan Diller — Adıgece (Seçmeli)",
+   "file": "yasayan-diller-adigece-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Yaşayan Diller — Arnavutça (Seçmeli)",
+   "file": "yasayan-diller-arnavutca-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Yaşayan Diller — Boşnakça (Seçmeli)",
+   "file": "yasayan-diller-bosnakca-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Yaşayan Diller — Gürcüce (Seçmeli)",
+   "file": "yasayan-diller-gurcuce-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Yaşayan Diller — Kürtçe (Seçmeli)",
+   "file": "yasayan-diller-kurtce-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Çevre Eğitimi ve İklim Değişikliği (Seçmeli)",
+   "file": "cevre-egitimi-ve-iklim-degisikligi-8.json"
+  },
+  {
+   "grade": 8,
    "subject": "İngilizce",
    "file": "ingilizce-8.json"
+  },
+  {
+   "grade": 8,
+   "subject": "Şehrimiz (Seçmeli)",
+   "file": "sehrimiz-8.json"
   }
  ]
 }

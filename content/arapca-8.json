@@ -1,0 +1,194 @@
+{
+ "grade": 8,
+ "subject": "Arapça (Seçmeli)",
+ "themes": [
+  {
+   "name": "GÜZEL BİR GÜNÜM",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-11-08",
+   "outcomes": [
+    {
+     "code": "ARP.8.1.1.1",
+     "text": "Günlük etkinliklerle ilgili dinlemeye/izlemeye hazırlık yapabilme\nARP.8.1.1.2. Günlük etkinliklerle ilgili dinlediği/izlediği içerikte yer alan bilgileri bir araya getirebilme\nARP.8.1.1.3. Günlük etkinliklerle ilgili dinlediği/izlediği içeriği anlamlandırabilme"
+    },
+    {
+     "code": "ARP.8.1.2.1",
+     "text": "Günlük etkinliklerle ilgili okumaya hazırlık yapabilme\nARP.8.1.2.2. Günlük etkinliklerle ilgili okuduğu içerikte yer alan bilgileri bir araya getirebilme"
+    },
+    {
+     "code": "ARP.8.1.2.3",
+     "text": "Günlük etkinliklerle ilgili okuduğu içeriği anlamlandırabilme\nARP.8.1.3.1. Günlük etkinliklerle ilgili dinlediği/izlediği içerikteki hedef dil yapılarını kullanabilme"
+    },
+    {
+     "code": "ARP.8.1.4.1",
+     "text": "Günlük etkinliklerle ilgili dinlediği/izlediği içerikteki hedef sözcükleri kullanabilme\nARP.8.1.5.1. Günlük etkinliklerle ilgili konuşmaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.8.1.5.2",
+     "text": "Günlük etkinliklerle ilgili konuşma modelini taklit edebilme\nARP.8.1.5.3. Günlük etkinliklerle ilgili konuşmalarında taklit ederek sözlü içerik oluşturabilme"
+    },
+    {
+     "code": "ARP.8.1.5.5",
+     "text": "Günlük etkinliklerle ilgili bilgilerini kullanarak iletişim kurabilme\nARP.8.1.6.1. Günlük etkinliklerle ilgili yazmaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.8.1.6.2",
+     "text": "Günlük etkinliklerle ilgili yazı modelini kopyalayabilme\nARP.8.1.6.3. Günlük etkinliklerle ilgili yazılarında içerik oluşturabilme"
+    },
+    {
+     "code": "ARP.8.1.6.4",
+     "text": "Günlük etkinliklerle ilgili yazılarını uygulamaya geçirebilme\nARP.8.1.6.5. Günlük etkinliklerle ilgili bilgilerini yazılarında yeniden yapılandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "SAĞLIKLI HAYATIM",
+   "konu": "",
+   "start": "2026-11-09",
+   "end": "2027-01-24",
+   "outcomes": [
+    {
+     "code": "ARP.8.2.1.1",
+     "text": "Sağlık ve sporla ilgili dinlemeye/izlemeye hazırlık yapabilme\nARP.8.2.1.2. Sağlık ve sporla ilgili dinlediği/izlediği içerikte yer alan bilgileri bir araya getirebilme\nARP.8.2.1.3. Sağlık ve sporla ilgili dinlediği/izlediği içeriği anlamlandırabilme"
+    },
+    {
+     "code": "ARP.8.2.1.4",
+     "text": "Dönem boyunca dinleme/izleme-anlamlandırma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme\nARP.8.2.2.1. Sağlık ve sporla ilgili okumaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.8.2.2.2",
+     "text": "Sağlık ve sporla ilgili okuduğu içerikte yer alan bilgileri bir araya getirebilme\nARP.8.2.2.3. Sağlık ve sporla ilgili okuduğu içeriği anlamlandırabilme"
+    },
+    {
+     "code": "ARP.8.2.2.4",
+     "text": "Dönem boyunca okuma-anlamlandırma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme\nARP.8.2.3.1. Sağlık ve sporla ilgili dinlediği/izlediği içerikteki hedef dil yapılarını kullanabilme"
+    },
+    {
+     "code": "ARP.8.2.4.1",
+     "text": "Sağlık ve sporla ilgili dinlediği/izlediği içerikteki hedef sözcükleri kullanabilme\nARP.8.2.5.1. Sağlık ve sporla ilgili konuşmaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.8.2.5.2",
+     "text": "Sağlık ve sporla ilgili konuşma modelini taklit edebilme\nARP.8.2.5.3. Sağlık ve sporla ilgili konuşmalarında taklit ederek sözlü içerik oluşturabilme"
+    },
+    {
+     "code": "ARP.8.2.5.5",
+     "text": "Sağlık ve sporla ilgili bilgilerini kullanarak iletişim kurabilme\nARP.8.2.5.6. Dönem boyunca konuşma-anlatma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme"
+    },
+    {
+     "code": "ARP.8.2.6.1",
+     "text": "Sağlık ve sporla ilgili yazmaya hazırlık yapabilme\nARP.8.2.6.2. Sağlık ve sporla ilgili yazı modelini kopyalayabilme"
+    },
+    {
+     "code": "ARP.8.2.6.3",
+     "text": "Sağlık ve sporla ilgili yazılarında içerik oluşturabilme\nARP.8.2.6.4. Sağlık ve sporla ilgili yazılarını uygulamaya geçirebilme"
+    },
+    {
+     "code": "ARP.8.2.6.5",
+     "text": "Sağlık ve sporla ilgili bilgilerini yazılarında yeniden yapılandırabilme\nARP.8.2.6.6. Dönem içinde yazma-anlatma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme"
+    }
+   ]
+  },
+  {
+   "name": "İLETİŞİM GÜNLÜĞÜM",
+   "konu": "",
+   "start": "2027-02-08",
+   "end": "2027-04-11",
+   "outcomes": [
+    {
+     "code": "ARP.8.3.1.1",
+     "text": "İletişimle ilgili dinlemeye/izlemeye hazırlık yapabilme\nARP.8.3.1.2. İletişimle ilgili dinlediği/izlediği içerikte yer alan bilgileri bir araya getirebilme\nARP.8.3.1.3. İletişimle ilgili dinlediği/izlediği içeriği anlamlandırabilme"
+    },
+    {
+     "code": "ARP.8.3.2.1",
+     "text": "İletişimle ilgili okumaya hazırlık yapabilme\nARP.8.3.2.2. İletişimle ilgili okuduğu içerikte yer alan bilgileri bir araya getirebilme"
+    },
+    {
+     "code": "ARP.8.3.2.3",
+     "text": "İletişimle ilgili okuduğu içeriği anlamlandırabilme\nARP.8.3.3.1. İletişimle ilgili dinlediği/izlediği içerikteki hedef dil yapılarını kullanabilme"
+    },
+    {
+     "code": "ARP.8.3.4.1",
+     "text": "İletişimle ilgili dinlediği/izlediği içerikteki hedef sözcükleri kullanabilme\nARP.8.3.5.1. İletişimle ilgili konuşmaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.8.3.5.2",
+     "text": "İletişimle ilgili konuşma modelini taklit edebilme\nARP.8.3.5.3. İletişimle ilgili konuşmalarında taklit ederek sözlü içerik oluşturabilme"
+    },
+    {
+     "code": "ARP.8.3.5.5",
+     "text": "İletişimle ilgili bilgilerini kullanarak iletişim kurabilme\nARP.8.3.6.1. İletişimle ilgili yazmaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.8.3.6.2",
+     "text": "İletişimle ilgili yazı modelini kopyalayabilme\nARP.8.3.6.3. İletişimle ilgili yazılarında içerik oluşturabilme"
+    },
+    {
+     "code": "ARP.8.3.6.4",
+     "text": "İletişimle ilgili yazılarını uygulamaya geçirebilme\nARP.8.3.6.5. İletişimle ilgili bilgilerini yazılarında yeniden yapılandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "MEZUN OLUYORUM",
+   "konu": "",
+   "start": "2027-04-12",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "ARP.8.4.1.1",
+     "text": "Mezuniyet ve sonrasındaki süreçle ilgili dinlemeye/izlemeye hazırlık yapabilme\nARP.8.4.1.2. Mezuniyet ve sonrasındaki süreçle ilgili dinlediği/izlediği içerikte yer alan bilgileri bir araya getirebilme\nARP.8.4.1.3. Mezuniyet ve sonrasındaki süreçle ilgili dinlediği/izlediği içeriği anlamlandırabilme"
+    },
+    {
+     "code": "ARP.8.4.1.4",
+     "text": "Dönem boyunca dinleme/izleme-anlamlandırma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme\nARP.8.4.2.1. Mezuniyet ve sonrasındaki süreçle ilgili okumaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.8.4.2.2",
+     "text": "Mezuniyet ve sonrasındaki süreçle ilgili okuduğu içerikte yer alan bilgileri bir araya getirebilme\nARP.8.4.2.3. Mezuniyet ve sonrasındaki süreçle ilgili okuduğu içeriği anlamlandırabilme"
+    },
+    {
+     "code": "ARP.8.4.2.4",
+     "text": "Dönem boyunca okuma-anlamlandırma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme\nARP.8.4.3.1. Mezuniyet ve sonrasındaki süreçle ilgili dinlediği/izlediği içerikteki hedef dil yapılarını kullanabilme"
+    },
+    {
+     "code": "ARP.8.4.4.1",
+     "text": "Mezuniyet ve sonrasındaki süreçle ilgili dinlediği/izlediği içerikteki hedef sözcükleri kullanabilme\nARP.8.4.5.1. Mezuniyet ve sonrasındaki süreçle ilgili konuşmaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.8.4.5.2",
+     "text": "Mezuniyet ve sonrasındaki süreçle ilgili konuşma modelini taklit edebilme\nARP.8.4.5.3. Mezuniyet ve sonrasındaki süreçle ilgili konuşmalarında taklit ederek sözlü içerik oluşturabilme"
+    },
+    {
+     "code": "ARP.8.4.5.5",
+     "text": "Mezuniyet ve sonrasındaki süreçle ilgili bilgilerini kullanarak iletişim kurabilme\nARP.8.4.5.6. Dönem boyunca konuşma-anlatma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme"
+    },
+    {
+     "code": "ARP.8.4.6.1",
+     "text": "Mezuniyet ve sonrasındaki süreçle ilgili yazmaya hazırlık yapabilme\nARP.8.4.6.2. Mezuniyet ve sonrasındaki süreçle ilgili yazı modelini kopyalayabilme"
+    },
+    {
+     "code": "ARP.8.4.6.3",
+     "text": "Mezuniyet ve sonrasındaki süreçle ilgili yazılarında içerik oluşturabilme\nARP.8.4.6.4. Mezuniyet ve sonrasındaki süreçle ilgili yazılarını uygulamaya geçirebilme"
+    },
+    {
+     "code": "ARP.8.4.6.5",
+     "text": "Mezuniyet ve sonrasındaki ilgili bilgilerini yazılarında yeniden yapılandırabilme\nARP.8.4.6.6. Dönem içinde yazma-anlatma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme"
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

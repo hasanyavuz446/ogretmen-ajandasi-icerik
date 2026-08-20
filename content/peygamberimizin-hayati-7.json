@@ -1,0 +1,90 @@
+{
+ "grade": 7,
+ "subject": "Peygamberimizin Hayatı (Seçmeli)",
+ "themes": [
+  {
+   "name": "HİCRETTEN ÖNCE PEYGAMBERİMİZ",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "PH.7.1.1",
+     "text": "Gizli ve açık daveti anlayabilme"
+    },
+    {
+     "code": "PH.7.1.2",
+     "text": "İsra ve miraç olaylarını yorumlayabilme"
+    },
+    {
+     "code": "PH.7.1.3",
+     "text": "Hicret’in sebeplerini özetleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "PEYGAMBERİMİZİN MEKKELİ ARKADAŞLARI",
+   "konu": "",
+   "start": "2026-12-14",
+   "end": "2027-02-21",
+   "outcomes": [
+    {
+     "code": "PH.7.2.1",
+     "text": "Peygamberimizin Mekkeli sahabilerle kurduğu iletişimi müşahede edebilme"
+    },
+    {
+     "code": "PH.7.2.2",
+     "text": "Mekkeli sahabilerin Hz. Peygamber’e olan bağlılıklarını yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "REHBERİM PEYGAMBERİM",
+   "konu": "",
+   "start": "2027-02-22",
+   "end": "2027-05-09",
+   "outcomes": [
+    {
+     "code": "PH.7.3.1",
+     "text": "Peygamberimizin hayatındaki sabra dair örneklerle ilgili akıl yürütebilme"
+    },
+    {
+     "code": "PH.7.3.2",
+     "text": "Hz. Peygamber’in hayatında orucun önemini idrak edebilme"
+    },
+    {
+     "code": "PH.7.3.3",
+     "text": "Hz. Peygamber’in hayatında infak ve sadakanın önemini yorumlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "İLİM HAYATINDA PEYGAMBERİMİZ",
+   "konu": "",
+   "start": "2027-05-10",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "PH.7.4.1",
+     "text": "Peygamberimizin ilme yönelik yaklaşımını sentezleyebilme"
+    },
+    {
+     "code": "PH.7.4.2",
+     "text": "Sahabilerin ilme verdikleri önemi çözümleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

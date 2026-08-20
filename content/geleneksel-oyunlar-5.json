@@ -1,0 +1,146 @@
+{
+ "grade": 5,
+ "subject": "Geleneksel Oyunlar (Seçmeli)",
+ "themes": [
+  {
+   "name": "GELENEKSEL OYUNLARIN BİLGİ VE BECERİLERİ",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2027-03-21",
+   "outcomes": [
+    {
+     "code": "OOE.GO.1.1",
+     "text": "Seçili geleneksel oyunun genel özelliklerini açıklar."
+    },
+    {
+     "code": "OOE.GO.1.2",
+     "text": "Seçili geleneksel oyunun kurgu ve akışını ifade eder."
+    },
+    {
+     "code": "OOE.GO.1.3",
+     "text": "Seçili geleneksel oyunda kullanılan araç gereç ve malzemeleri tanır."
+    },
+    {
+     "code": "OOE.GO.1.4",
+     "text": "Seçili geleneksel oyunda kullanılan ögeleri açıklar."
+    },
+    {
+     "code": "OOE.GO.1.5",
+     "text": "Seçili geleneksel oyuna ilişkin hareket becerileri sergiler."
+    },
+    {
+     "code": "OOE.GO.1.6",
+     "text": "Seçili geleneksel oyuna özgü strateji ve taktikleri oyunlarda sergiler."
+    },
+    {
+     "code": "OOE.GO.1.7",
+     "text": "Seçili geleneksel oyunla ilgili başkalarının uyguladığı strateji ve taktikleri değerlendirir."
+    },
+    {
+     "code": "OOE.GO.1.8",
+     "text": "Seçili geleneksel oyun içindeki farklı rollerin sorumluluklarını açıklar."
+    },
+    {
+     "code": "OOE.GO.1.9",
+     "text": "Takım arkadaşına ve rakiplerine karşı olumlu davranışlar sergiler."
+    },
+    {
+     "code": "OOE.GO.1.10",
+     "text": "Seçili geleneksel oyunları iş birliği içinde oynar."
+    },
+    {
+     "code": "OOE.GO.1.11",
+     "text": "Seçili geleneksel oyunlarda arkadaşlık ilkelerine uygun hareket eder."
+    },
+    {
+     "code": "OOE.GO.1.12",
+     "text": "Seçili geleneksel oyunları adil oyun ilkelerine uygun oynar."
+    },
+    {
+     "code": "OOE.GO.1.13",
+     "text": "Okul içi ve okul dışında düzenlenen geleneksel oyun turnuvaları, organizasyon ve şenliklere katılır."
+    }
+   ]
+  },
+  {
+   "name": "GELENEKSEL OYUNLAR VE İNSAN",
+   "konu": "",
+   "start": "2027-03-22",
+   "end": "2027-05-02",
+   "outcomes": [
+    {
+     "code": "OOE.GO.2.1",
+     "text": "Ailesinin ve yakın çevresinin geçmişte oynadığı geleneksel oyunları araştırır."
+    },
+    {
+     "code": "OOE.GO.2.2",
+     "text": "Yakın çevresindeki geleneksel oyunları listeler."
+    },
+    {
+     "code": "OOE.GO.2.3",
+     "text": "Geleneksel oyunların farklı insanlarla iş birliği, paylaşma ve yardımlaşma etkileşimlerinin yaşanmasındaki rolünü açıklar."
+    },
+    {
+     "code": "OOE.GO.2.4",
+     "text": "Geleneksel oyunların, mekân ve insan ilişkisini açıklar."
+    },
+    {
+     "code": "OOE.GO.2.5",
+     "text": "Öğrendiği geleneksel oyunları okul dışındaki arkadaşları ile oynar."
+    },
+    {
+     "code": "OOE.GO.2.6",
+     "text": "Boş zamanlarını değerlendirmek için yakın çevresi ile geleneksel oyunlar oynar."
+    }
+   ]
+  },
+  {
+   "name": "AKTARILAN KÜLTÜREL MİRAS",
+   "konu": "",
+   "start": "2027-05-03",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "OOE.GO.3.1",
+     "text": "Geleneksel oyunların tarihsel gelişim sürecini ifade eder."
+    },
+    {
+     "code": "OOE.GO.3.2",
+     "text": "Okul içi ve okul dışındaki etkinliklerde geleneksel oyunlara gönüllü katılır."
+    },
+    {
+     "code": "OOE.GO.3.3",
+     "text": "Geleneksel oyunların toplumsal ve kültürel yaşamdaki önemini açıklar."
+    },
+    {
+     "code": "OOE.GO.3.4",
+     "text": "Gelenek, görenek, örf ve adetlerin geleneksel oyunlara etkisini açıklar."
+    },
+    {
+     "code": "OOE.GO.3.5",
+     "text": "Geleneksel oyunları günümüzdeki oyunlarla ilişkilendirir."
+    },
+    {
+     "code": "OOE.GO.3.6",
+     "text": "Farklı kültürlere ait geleneksel oyunları tanır."
+    },
+    {
+     "code": "OOE.GO.3.7",
+     "text": "Geleneksel oyunlar yoluyla kültürel mirası benimseme, koruma ve aktarma konusunda istekli olur."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

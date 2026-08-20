@@ -1,0 +1,206 @@
+{
+ "grade": 6,
+ "subject": "Zekâ Oyunları — Düzey 2 (Seçmeli)",
+ "themes": [
+  {
+   "name": "AKIL YÜRÜTME VE İŞLEM OYUNLARI",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-11-01",
+   "outcomes": [
+    {
+     "code": "OOE.ZO.2.1.1",
+     "text": "Akıl yürütme ve işlem oyunlarında çözüm basamaklarını oyunun özelliğine göre önceliklendirir."
+    },
+    {
+     "code": "OOE.ZO.2.1.2",
+     "text": "Orta düzey akıl yürütme ve işlem oyunlarını oynar."
+    },
+    {
+     "code": "OOE.ZO.2.1.3",
+     "text": "Akıl yürütme ve işlem oyunlarında kendine özgü stratejiler geliştirir."
+    },
+    {
+     "code": "OOE.ZO.2.1.4",
+     "text": "İleri düzey akıl yürütme ve işlem oyunlarını oynar."
+    },
+    {
+     "code": "OOE.ZO.2.1.5",
+     "text": "Dünya genelinde oynanan akıl yürütme ve işlem oyunlarını tanır."
+    },
+    {
+     "code": "OOE.ZO.2.1.6",
+     "text": "Atık geri dönüşüm malzemeleriyle akıl yürütme ve işlem oyunlarını yeniden üretir."
+    }
+   ]
+  },
+  {
+   "name": "SÖZEL OYUNLAR",
+   "konu": "",
+   "start": "2026-11-02",
+   "end": "2026-12-20",
+   "outcomes": [
+    {
+     "code": "OOE.ZO.2.2.1",
+     "text": "Orta düzey sözel oyunları oynar."
+    },
+    {
+     "code": "OOE.ZO.2.2.2",
+     "text": "Verilen yönergeler doğrultusunda sözel oyunlarda en doğru çözümleri bulur."
+    },
+    {
+     "code": "OOE.ZO.2.2.3",
+     "text": "İleri düzey sözel oyunları oynar."
+    },
+    {
+     "code": "OOE.ZO.2.2.4",
+     "text": "Dünya genelinde oynanan sözel oyunları tanır."
+    },
+    {
+     "code": "OOE.ZO.2.2.5",
+     "text": "Sözel oyunları hazırlama programlarını tanır."
+    },
+    {
+     "code": "OOE.ZO.2.2.6",
+     "text": "Yeni sözel oyunlar tasarlar."
+    }
+   ]
+  },
+  {
+   "name": "GEOMETRİK MEKANİK OYUNLAR",
+   "konu": "",
+   "start": "2026-12-21",
+   "end": "2027-02-21",
+   "outcomes": [
+    {
+     "code": "OOE.ZO.2.3.1",
+     "text": "Oyunlarda geometrik şekil ve cisimlerin özelliklerinden yararlanır."
+    },
+    {
+     "code": "OOE.ZO.2.3.2",
+     "text": "Geometrik mekanik oyunlarda uzamsal becerileri kullanır."
+    },
+    {
+     "code": "OOE.ZO.2.3.3",
+     "text": "Geometrik mekanik oyunlarda kendine özgü stratejiler geliştirir."
+    },
+    {
+     "code": "OOE.ZO.2.3.4",
+     "text": "İleri düzey geometrik mekanik oyunlar oynar."
+    },
+    {
+     "code": "OOE.ZO.2.3.5",
+     "text": "Simetri aracılığıyla örüntüler oluşturur."
+    },
+    {
+     "code": "OOE.ZO.2.3.6",
+     "text": "Geri dönüşüm malzemeleri kullanarak geometrik mekanik oyunları yeniden üretir."
+    },
+    {
+     "code": "OOE.ZO.2.3.7",
+     "text": "Yeni geometrik mekanik oyunlar tasarlar."
+    }
+   ]
+  },
+  {
+   "name": "HAFIZA OYUNLARI",
+   "konu": "",
+   "start": "2027-02-22",
+   "end": "2027-04-04",
+   "outcomes": [
+    {
+     "code": "OOE.ZO.2.4.1",
+     "text": "Hafıza oyunlarında ipuçları arasında mantıksal ilişkiler kurar."
+    },
+    {
+     "code": "OOE.ZO.2.4.2",
+     "text": "Hafıza oyunlarında kendine özgü stratejiler geliştirir."
+    },
+    {
+     "code": "OOE.ZO.2.4.3",
+     "text": "Anlamlandırma, ilişkilendirebilme ve kümeleştirme işlemleri için hafızayı etkin kullanır."
+    },
+    {
+     "code": "OOE.ZO.2.4.4",
+     "text": "İleri düzey hafıza oyunları oynar."
+    },
+    {
+     "code": "OOE.ZO.2.4.5",
+     "text": "Yeni hafıza oyunları tasarlar."
+    }
+   ]
+  },
+  {
+   "name": "STRATEJİ OYUNLARI",
+   "konu": "",
+   "start": "2027-04-05",
+   "end": "2027-05-16",
+   "outcomes": [
+    {
+     "code": "OOE.ZO.2.5.1",
+     "text": "Orta düzey strateji oyunlarını oynar."
+    },
+    {
+     "code": "OOE.ZO.2.5.2",
+     "text": "Strateji oyunlarında kendine özgü stratejiler geliştirir."
+    },
+    {
+     "code": "OOE.ZO.2.5.3",
+     "text": "İleri düzey strateji oyunlarını oynar."
+    },
+    {
+     "code": "OOE.ZO.2.5.4",
+     "text": "Ulusal ve uluslararası zekâ yarışmaları ve turnuvaların yapıldığını açıklar."
+    },
+    {
+     "code": "OOE.ZO.2.5.5",
+     "text": "Atık geri dönüşüm malzemeleriyle strateji oyunlarını yeniden üretir."
+    },
+    {
+     "code": "OOE.ZO.2.5.6",
+     "text": "Yeni strateji oyunları tasarlar."
+    }
+   ]
+  },
+  {
+   "name": "ZEKÂ SORULARI",
+   "konu": "",
+   "start": "2027-05-17",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "OOE.ZO.2.6.1",
+     "text": "Orta düzey zekâ sorularını çözer."
+    },
+    {
+     "code": "OOE.ZO.2.6.2",
+     "text": "Çeşitli zekâ soruları arasında ilişkiler kurar."
+    },
+    {
+     "code": "OOE.ZO.2.6.3",
+     "text": "Zekâ soruları için kendine özgü stratejiler geliştirir."
+    },
+    {
+     "code": "OOE.ZO.2.6.4",
+     "text": "İleri düzey zekâ sorularını çözer."
+    },
+    {
+     "code": "OOE.ZO.2.6.5",
+     "text": "Yeni zekâ soruları tasarlar."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

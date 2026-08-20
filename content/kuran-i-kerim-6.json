@@ -1,0 +1,130 @@
+{
+ "grade": 6,
+ "subject": "Kur'an-ı Kerim (Seçmeli)",
+ "themes": [
+  {
+   "name": "KUR’AN-I KERİM’İ TANIYORUM",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-11-29",
+   "outcomes": [
+    {
+     "code": "KK.6.1.1",
+     "text": "Kur’an-ı Kerim’in iç düzenini sağlayan ayet, sure, hizip ve cüzü Kur’an’dan bulabilme"
+    },
+    {
+     "code": "KK.6.1.2",
+     "text": "Kur’an-ı Kerim’in peltek harflerini seslendirebilme"
+    },
+    {
+     "code": "KK.6.1.3",
+     "text": "Bakara Suresi 84-105. ayetlerini yüzünden okuyabilme"
+    },
+    {
+     "code": "KK.6.1.4",
+     "text": "Salli ve Barik dualarının anlamlarını yorumlayabilme"
+    },
+    {
+     "code": "KK.6.1.5",
+     "text": "Salli ve Barik dualarını ezberleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "KUR’AN-I KERİM’İ OKUMAYA GİRİŞ",
+   "konu": "",
+   "start": "2026-11-30",
+   "end": "2027-02-21",
+   "outcomes": [
+    {
+     "code": "KK.6.2.1",
+     "text": "Med çeşitlerini sınıflandırabilme"
+    },
+    {
+     "code": "KK.6.2.2",
+     "text": "Bakara suresi 106-134. ayetleri yüzünden okuyabilme"
+    },
+    {
+     "code": "KK.6.2.3",
+     "text": "Hz. Yunus’un imtihanı kıssasını çözümleyebilme"
+    },
+    {
+     "code": "KK.6.2.4",
+     "text": "Kureyş suresinin anlamını yorumlayabilme"
+    },
+    {
+     "code": "KK.6.2.5",
+     "text": "Kureyş suresini ezberleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "KUR’AN-I KERİM’İ ÖĞRENİYORUM",
+   "konu": "",
+   "start": "2027-02-22",
+   "end": "2027-05-09",
+   "outcomes": [
+    {
+     "code": "KK.6.3.1",
+     "text": "Tenvin ve sakin nunun hâllerini sınıflandırabilme"
+    },
+    {
+     "code": "KK.6.3.2",
+     "text": "Bakara suresinin 135-163. ayetlerini yüzünden okuyabilme"
+    },
+    {
+     "code": "KK.6.3.3",
+     "text": "Ankebut suresinin 41. ayetiyle ilgili bilgi toplayabilme"
+    },
+    {
+     "code": "KK.6.3.4",
+     "text": "Felak suresinin anlamını yorumlayabilme"
+    },
+    {
+     "code": "KK.6.3.5",
+     "text": "Felak suresini ezberleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "KUR’AN-I KERİM’İ OKUYORUM",
+   "konu": "",
+   "start": "2027-05-10",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "KK.6.4.1",
+     "text": "Tenvin ve sakin nunun hâllerini sınıflandırabilme"
+    },
+    {
+     "code": "KK.6.4.2",
+     "text": "Yasin suresini yüzünden okuyabilme"
+    },
+    {
+     "code": "KK.6.4.3",
+     "text": "Hz. Yunus’un duasını yorumlayabilme"
+    },
+    {
+     "code": "KK.6.4.4",
+     "text": "Nas suresinin anlamını yorumlayabilme"
+    },
+    {
+     "code": "KK.6.4.5",
+     "text": "Nas suresini ezberleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

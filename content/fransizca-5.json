@@ -1,0 +1,226 @@
+{
+ "grade": 5,
+ "subject": "Fransızca (Seçmeli)",
+ "themes": [
+  {
+   "name": "L’INDIVIDU ET LA SOCIÉTÉ",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-11-15",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A11.1.É1. Écouter: Comprendre des mots familiers et des expressions très courantes.\nFR.A11.1.É2. Écouter: Comprendre des questions simples."
+    },
+    {
+     "code": "",
+     "text": "FR.A11.1.É3. Écouter: Écouter une présentation de qqn.\nFR.A11.1.É4. Écouter: Se saluer."
+    },
+    {
+     "code": "FR.A11.1.P1",
+     "text": "Parler: Donner des informations sur son identité ou de l'identité de qqn.\nFR.A11.1.P2. Parler: Présenter une personne."
+    },
+    {
+     "code": "FR.A11.1.P3",
+     "text": "Parler: Utiliser des expressions élémentaires de salutation.\nFR.A11.1.P4. Parler: Poser des questions personnelles."
+    },
+    {
+     "code": "FR.A11.1.P5",
+     "text": "Parler: Répondre à des questions personnelles.\nFR.A11.1.P6. Parler: Décrire son lieu d’habitation."
+    },
+    {
+     "code": "FR.A11.1.L1",
+     "text": "Lire: Reconnaître des noms, mots et expressions courants.\nFR.A11.1.L2. Lire: Lire les renseignements sur l'identité de lui-même."
+    },
+    {
+     "code": "FR.A11.1.L3",
+     "text": "Lire: Lire les textes de salutation."
+    },
+    {
+     "code": "",
+     "text": "FR.A11.1.É1. Écrire: Écrire un texte / un dialogue de salutation."
+    },
+    {
+     "code": "",
+     "text": "FR.A11.1.É2. Écrire: Remplir une fiche d’identité."
+    }
+   ]
+  },
+  {
+   "name": "L’ÉDUCATION",
+   "konu": "",
+   "start": "2026-11-23",
+   "end": "2026-12-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A11.2.É1. Écouter: Comprendre des mots familiers et des expressions très courantes.\nFR.A11.2.É2. Écouter: Comprendre des instructions / indications."
+    },
+    {
+     "code": "",
+     "text": "FR.A11.2.É3. Écouter: Comprendre des questions simples.\nFR.A11.2.É4. Écouter: Comprendre des expressions sur prendre congé."
+    },
+    {
+     "code": "",
+     "text": "FR.A11.2.É6. Écouter: Comprendre des expressions sur prendre congé.\nFR.A11.2.É1. Écrire: Écrire un texte / un dialogue de salutation."
+    },
+    {
+     "code": "",
+     "text": "FR.A11.2.É2. Écrire: Écrire des textes simples sur soi-même."
+    },
+    {
+     "code": "",
+     "text": "FR.A11.2.É3. Écrire: Écrire des textes simples sur des personnes."
+    }
+   ]
+  },
+  {
+   "name": "LES MÉTIERS",
+   "konu": "",
+   "start": "2026-12-28",
+   "end": "2027-03-21",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A11.3.É1. Écouter: Écouter des nouvelles sur qqn.\nFR.A11.3.É2. Écouter: Écouter des nouvelles sur qqch."
+    },
+    {
+     "code": "",
+     "text": "FR.A11.3.É3. Écouter: Écouter des instructions / des indications.\nFR.A11.3.P1. Parler: Décrire un objet / une personne."
+    },
+    {
+     "code": "FR.A11.3.P2",
+     "text": "Parler: Demander la profession de qqn.\nFR.A11.3.P3. Parler: Dire sa profession."
+    },
+    {
+     "code": "FR.A11.3.P4",
+     "text": "Parler: Se décrire.\nFR.A11.3.P5. Parler: Parler de son choix sur les métiers / sur son avenir."
+    },
+    {
+     "code": "FR.A11.3.P6",
+     "text": "Parler: Utiliser la négation.\nFR.A11.3.L1. Lire: Lire les renseignements sur la profession de qqn."
+    },
+    {
+     "code": "",
+     "text": "FR.A11.3.É1. Écrire: Décrire un métier."
+    },
+    {
+     "code": "",
+     "text": "FR.A11.3.É2. Écrire: Écrire des textes simples sur soi-même."
+    },
+    {
+     "code": "",
+     "text": "FR.A11.3.É3. Écrire: Écrire des textes simples sur des personnes."
+    },
+    {
+     "code": "",
+     "text": "FR.A11.3.É4. Écrire: Utiliser la négation."
+    }
+   ]
+  },
+  {
+   "name": "LA JEUNESSE",
+   "konu": "",
+   "start": "2027-03-22",
+   "end": "2027-03-28",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A11.4.É4. Écouter: Écrire l’heure."
+    }
+   ]
+  },
+  {
+   "name": "LE SPORT",
+   "konu": "",
+   "start": "2027-03-29",
+   "end": "2027-04-11",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A11.5.É1. Écouter: Écouter des nouvelles sur les bulletins de sport.\nFR.A11.5.É1. Écouter: Écrire un texte / un dialogue sur le sport."
+    },
+    {
+     "code": "",
+     "text": "FR.A11.5.É2. Écouter: Écrire un petit texte sur son/ses sport(s) préféré(s)."
+    }
+   ]
+  },
+  {
+   "name": "LES RÊVES ET LES PLANS",
+   "konu": "",
+   "start": "2027-04-12",
+   "end": "2027-05-09",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A11.6.É1. Écouter: Comprendre des expressions sur prendre congé.\nFR.A11.6.É2. Écouter: Comprendre une annonce de train / d’avion."
+    },
+    {
+     "code": "FR.A11.6.P1",
+     "text": "Parler: Parler de son plan de vacances.\nFR.A11.6.É1. Écrire: Situer des événements dans le temps."
+    },
+    {
+     "code": "",
+     "text": "FR.A11.6.É2. Écrire: Situer un lieu.\nFR.A11.6.É3. Écrire: Écrire un e-mail."
+    },
+    {
+     "code": "",
+     "text": "FR.A11.6.É4. Écrire: Remplir une fiche d’hôtel."
+    }
+   ]
+  },
+  {
+   "name": "LA COMMUNICATION",
+   "konu": "",
+   "start": "2027-05-10",
+   "end": "2027-05-30",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A11.7.É1. Écouter: Écouter les petites annonces de l’obligation.\nFR.A11.7.É2. Écouter: Comprendre une description physique."
+    },
+    {
+     "code": "",
+     "text": "FR.A11.7.É1. Écouter: Écrire un message amical.\nFR.A11.7.É2. Écouter: Écrire une carte d’invitation."
+    },
+    {
+     "code": "",
+     "text": "FR.A11.7.É3. Écouter: Transmettre un message à partir de notes."
+    }
+   ]
+  },
+  {
+   "name": "L’ART",
+   "konu": "",
+   "start": "2027-05-31",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A11.8.É1. Écouter: Écouter des chansons.\nFR.A11.8.É2. Écouter: Suivre un film conformément à son niveau."
+    },
+    {
+     "code": "",
+     "text": "FR.A11.8.É3. Écouter: Comprendre les horaires d’un musée."
+    },
+    {
+     "code": "",
+     "text": "FR.A11.8.É1. Écrire: Écrire un texte de description."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

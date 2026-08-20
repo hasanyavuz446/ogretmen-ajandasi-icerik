@@ -1,0 +1,126 @@
+{
+ "grade": 6,
+ "subject": "Temel Dinî Bilgiler — İslam 2 (Seçmeli)",
+ "themes": [
+  {
+   "name": "İSLAM VE AHLAK",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-11-29",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "TDB 2.1.1. Allah’a (c.c.) karşı ahlaki sorumluluklarını yerine getirmeye özen gösterir."
+    },
+    {
+     "code": "",
+     "text": "TDB 2.1.2. Peygamberimize (s.a.v.) karşı ahlaki sorumluluklarını yerine getirmede istekli olur."
+    },
+    {
+     "code": "",
+     "text": "TDB 2.1.3. Kur’an-ı Kerim’e karşı ahlaki sorumluluklarını davranışlarına yansıtır."
+    },
+    {
+     "code": "",
+     "text": "TDB 2.1.4. Topluma karşı ahlaki sorumluluklarını yerine getirmeye duyarlı olur."
+    },
+    {
+     "code": "",
+     "text": "TDB 2.1.5. Esmâ-i Hüsnâ’dan el-Azîz, er-Rahman, es-Selam isimlerini tanır."
+    }
+   ]
+  },
+  {
+   "name": "İSLAM VE TEMİZLİK",
+   "konu": "",
+   "start": "2026-11-30",
+   "end": "2027-01-24",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "TDB 2.2.1. İslam’ın temizliğe verdiği önemi ayet ve hadislerle açıklar."
+    },
+    {
+     "code": "",
+     "text": "TDB 2.2.2. Temizlik çeşitlerini sıralar."
+    },
+    {
+     "code": "",
+     "text": "TDB 2.2.3. Gusül, abdest, teyemmüm ile ilgili hükümleri açıklar."
+    },
+    {
+     "code": "",
+     "text": "TDB 2.2.4. Esmâ-i Hüsnâ’dan el-Kerim, el-Kuddûs, et-Tevvâb isimlerini tanır."
+    }
+   ]
+  },
+  {
+   "name": "İSLAM’IN DİREĞİ NAMAZ",
+   "konu": "",
+   "start": "2027-02-08",
+   "end": "2027-04-25",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "TDB 2.3.1. Namazla ilgili hükümleri açıklar."
+    },
+    {
+     "code": "",
+     "text": "TDB 2.3.2. Sehiv ve tilavet secdesiyle ilgili hükümleri söyler."
+    },
+    {
+     "code": "",
+     "text": "TDB 2.3.3. Namazda okunan dua ve tesbihleri doğru olarak telaffuz eder."
+    },
+    {
+     "code": "",
+     "text": "TDB 2.3.4. Mescitlerin özellik ve fonksiyonlarını yorumlar."
+    },
+    {
+     "code": "",
+     "text": "TDB 2.3.5. Esmâ-i Hüsnâ’dan er-Rab, el-Mucîb, el-Ğafûr, el-Câmi’ isimlerini tanır."
+    }
+   ]
+  },
+  {
+   "name": "İSLAM VE GÜNLÜK HAYAT",
+   "konu": "",
+   "start": "2027-04-26",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "TDB 2.4.1. Edep ve hayânın İslam ahlakındaki yerini örneklerle açıklar."
+    },
+    {
+     "code": "",
+     "text": "TDB 2.4.2. Dostluk ve arkadaşlığın önemiyle ilgili tarihî ve güncel olaylardan örnekler verir."
+    },
+    {
+     "code": "",
+     "text": "TDB 2.4.3. Allah’ın nimetlerine şükretmenin önemli bir ahlaki görev olduğunun farkına varır."
+    },
+    {
+     "code": "",
+     "text": "TDB 2.4.4. Kul hakkına riayet etmeye istekli olur."
+    },
+    {
+     "code": "",
+     "text": "TDB 2.4.5. Esmâ-i Hüsnâ’dan el-Afüv, eş-Şekûr, er-Raûf isimlerini tanır."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

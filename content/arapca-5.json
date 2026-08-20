@@ -1,0 +1,202 @@
+{
+ "grade": 5,
+ "subject": "Arapça (Seçmeli)",
+ "themes": [
+  {
+   "name": "AKRABALARIM",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-11-01",
+   "outcomes": [
+    {
+     "code": "ARP.5.1.1.1",
+     "text": "Selamlaşma, tanışma ve vedalaşmayla ilgili dinlemeye/izlemeye hazırlık yapabilme\nARP.5.1.1.2. Selamlaşma, tanışma ve vedalaşmayla ilgili dinlediği/izlediği içerikte yer alan bilgileri bir araya getirebilme"
+    },
+    {
+     "code": "ARP.5.1.1.3",
+     "text": "Selamlaşma, tanışma ve vedalaşmayla ilgili dinlediği/izlediği içeriği anlamlandırabilme\nARP.5.1.2.1. Selamlaşma, tanışma ve vedalaşmayla ilgili dinlediği/izlediği içerikteki hedef dil yapılarını kullanabilme"
+    },
+    {
+     "code": "ARP.5.1.3.1",
+     "text": "Selamlaşma, tanışma ve vedalaşmayla ilgili dinlediği/izlediği içerikteki hedef sözcükleri kullanabilme\nARP.5.1.4.1. Hedef harfleri ve sesleri sesletim unsurlarına uygun olarak seslendirebilme"
+    },
+    {
+     "code": "ARP.5.1.5.1",
+     "text": "Selamlaşma, tanışma ve vedalaşmayla ilgili konuşmaya hazırlık yapabilme\nARP.5.1.5.2. Selamlaşma, tanışma ve vedalaşmayla ilgili konuşma modelini taklit edebilme"
+    },
+    {
+     "code": "ARP.5.1.5.3",
+     "text": "Selamlaşma, tanışma ve vedalaşmayla ilgili konuşmalarında taklit ederek sözlü içerik oluşturabilme\nARP.5.1.5.4. Selamlaşma, tanışma ve vedalaşmayla ilgili konuşmalarını uygulamaya geçirebilme"
+    },
+    {
+     "code": "ARP.5.1.5.5",
+     "text": "Selamlaşma, tanışma ve vedalaşmayla ilgili bilgilerini kullanarak iletişim kurabilme\nARP.5.1.6.1. Hedef harflerin müstakil hâllerini ve harekeleri yazmaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.5.1.6.2",
+     "text": "Hedef harflerin müstakil hâllerinin ve harekelerin yazılışlarını modelden kopyalayabilme"
+    }
+   ]
+  },
+  {
+   "name": "SINIFIM",
+   "konu": "",
+   "start": "2026-11-02",
+   "end": "2027-01-03",
+   "outcomes": [
+    {
+     "code": "ARP.5.2.1.1",
+     "text": "Sınıf eşyaları ve eğitim araçlarıyla ilgili dinlemeye/izlemeye hazırlık yapabilme\nARP.5.2.1.2. Sınıf eşyaları ve eğitim araçlarıyla ilgili dinlediği/izlediği içerikte yer alan bilgileri bir araya getirebilme"
+    },
+    {
+     "code": "ARP.5.2.1.3",
+     "text": "Sınıf eşyaları ve eğitim araçlarıyla ilgili dinlediği/izlediği içeriği anlamlandırabilme\nARP.5.2.1.4. Dönem boyunca dinleme/izleme-anlamlandırma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme"
+    },
+    {
+     "code": "ARP.5.2.2.1",
+     "text": "Sınıf eşyaları ve eğitim araçlarıyla ilgili dinlediği/izlediği içerikteki hedef dil yapılarını kullanabilme\nARP.5.2.3.1. Sınıf eşyaları ve eğitim araçlarıyla ilgili dinlediği/izlediği içerikteki hedef sözcükleri kullanabilme"
+    },
+    {
+     "code": "ARP.5.2.4.1",
+     "text": "Hedef harfleri ve sesleri sesletim unsurlarına uygun olarak seslendirebilme\nARP.5.2.5.1. Sınıf eşyaları ve eğitim araçlarıyla ilgili konuşmaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.5.2.5.2",
+     "text": "Sınıf eşyaları ve eğitim araçlarıyla ilgili konuşma modelini taklit edebilme\nARP.5.2.5.3. Sınıf eşyaları ve eğitim araçlarıyla ilgili konuşmalarında taklit ederek sözlü içerik oluşturabilme"
+    },
+    {
+     "code": "ARP.5.2.5.4",
+     "text": "Sınıf eşyaları ve eğitim araçlarıyla ilgili konuşmalarını uygulamaya geçirebilme\nARP.5.2.5.5. Sınıf eşyaları ve eğitim araçlarıyla ilgili bilgilerini kullanarak iletişim kurabilme"
+    },
+    {
+     "code": "ARP.5.2.5.6",
+     "text": "Dönem boyunca konuşma-anlatma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme\nARP.5.2.6.1. Hedef harflerin kelime içindeki hâllerini ve harekeleri yazmaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.5.2.6.2",
+     "text": "Hedef harflerin kelime içindeki hâllerinin ve harekelerin yazılışlarını modelden kopyalayabilme\nARP.5.2.6.3. Dönem içinde yazma-anlatma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme"
+    }
+   ]
+  },
+  {
+   "name": "AİLEM",
+   "konu": "",
+   "start": "2027-01-04",
+   "end": "2027-04-04",
+   "outcomes": [
+    {
+     "code": "ARP.5.3.1.1",
+     "text": "Aile üyeleri ve mesleklerle ilgili dinlemeye/izlemeye hazırlık yapabilme\nARP.5.3.1.2. Aile üyeleri ve mesleklerle ilgili dinlediği/izlediği içerikte yer alan bilgileri bir araya getirebilme"
+    },
+    {
+     "code": "ARP.5.3.1.3",
+     "text": "Aile üyeleri ve mesleklerle ilgili dinlediği/izlediği içeriği anlamlandırabilme\nARP.5.3.2.1. Aile üyeleri ve mesleklerle ilgili okumaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.5.3.2.2",
+     "text": "Aile üyeleri ve mesleklerle ilgili okuduğu içerikte yer alan bilgileri bir araya getirebilme\nARP.5.3.2.3. Aile üyeleri ve mesleklerle ilgili okuduğu içeriği anlamlandırabilme"
+    },
+    {
+     "code": "ARP.5.3.3.1",
+     "text": "Aile üyeleri ve mesleklerle ilgili dinlediği/izlediği içerikteki hedef dil yapılarını kullanabilme\nARP.5.3.4.1. Üniteyle ilgili dinlediği/izlediği içerikteki hedef sözcükleri kullanabilme"
+    },
+    {
+     "code": "ARP.5.3.5.1",
+     "text": "Aile üyeleri ve mesleklerle ilgili konuşmaya hazırlık yapabilme\nARP.5.3.5.2. Aile üyeleri ve mesleklerle ilgili konuşma modelini taklit edebilme"
+    },
+    {
+     "code": "ARP.5.3.5.3",
+     "text": "Aile üyeleri ve mesleklerle ilgili konuşmalarında taklit ederek sözlü içerik oluşturabilme\nARP.5.3.5.4. Aile üyeleri ve mesleklerle ilgili konuşmalarını uygulamaya geçirebilme"
+    },
+    {
+     "code": "ARP.5.3.5.5",
+     "text": "Aile üyeleri ve mesleklerle ilgili bilgilerini kullanarak iletişim kurabilme\nARP.5.3.6.1. Üniteyle ilgili yazmaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.5.3.6.2",
+     "text": "Üniteyle ilgili yazı modelini kopyalayabilme\nARP.5.3.6.3. Üniteyle ilgili yazılarında içerik oluşturabilme"
+    },
+    {
+     "code": "ARP.5.3.6.4",
+     "text": "Aile üyeleri ve mesleklerle ilgili yazılarını uygulamaya geçirebilme\nARP.5.3.6.5. Aile üyeleri ve mesleklerle ilgili bilgilerini yazılarında yeniden yapılandırabilme"
+    },
+    {
+     "code": "ARP.5.3.2.3",
+     "text": "Öğrencilerin görselden yararlanma/sesli düşünme, öğretmene sorma vb. yöntemlerle okuma sürecinde metnin ana bileşenlerine dair ulaştıkları bilgilerin ve keşfettikleri detayların anlama etkisini fark etmeleri ve bu anlamlarla önceki tahminlerinin doğruluğunu kontrol etmeleri sağlanır. Öğrencilerden metindeki içeriklere"
+    }
+   ]
+  },
+  {
+   "name": "GÜZEL EVİM",
+   "konu": "",
+   "start": "2027-04-05",
+   "end": "2027-06-13",
+   "outcomes": [
+    {
+     "code": "ARP.5.4.1.1",
+     "text": "Evin bölümleri, ev eşyaları, sayılarla ilgili dinlemeye/izlemeye hazırlık yapabilme\nARP.5.4.1.2. Evin bölümleri, ev eşyaları, sayılarla ilgili dinlediği/izlediği içerikte yer alan bilgileri bir araya getirebilme\nARP.5.4.1.3. Evin bölümleri, ev eşyaları, sayılarla ilgili dinlediği/izlediği içeriği anlamlandırabilme"
+    },
+    {
+     "code": "ARP.5.4.1.4",
+     "text": "Dönem boyunca dinleme/izleme-anlamlandırma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme\nARP.5.4.2.1. Evin bölümleri, ev eşyaları, sayılarla ilgili okumaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.5.4.2.2",
+     "text": "Evin bölümleri, ev eşyaları, sayılarla ilgili okuduğu içerikte yer alan bilgileri bir araya getirebilme\nARP.5.4.2.3. Evin bölümleri, ev eşyaları, sayılarla ilgili okuduğu içeriği anlamlandırabilme"
+    },
+    {
+     "code": "ARP.5.4.2.4",
+     "text": "Dönem boyunca okuma-anlamlandırma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme\nARP.5.4.3.1. Evin bölümleri, ev eşyaları, sayılarla ilgili dinlediği/izlediği içerikteki hedef dil yapılarını kullanabilme"
+    },
+    {
+     "code": "ARP.5.4.4.1",
+     "text": "Evin bölümleri, ev eşyaları, sayılarla ilgili dinlediği/izlediği içerikteki hedef sözcükleri kullanabilme\nARP.5.4.5.1. Evin bölümleri, ev eşyaları, sayılarla ilgili konuşmaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.5.4.5.2",
+     "text": "Evin bölümleri, ev eşyaları, sayılarla ilgili konuşma modelini taklit edebilme\nARP.5.4.5.3. Evin bölümleri, ev eşyaları, sayılarla ilgili konuşmalarında taklit ederek sözlü içerik oluşturabilme"
+    },
+    {
+     "code": "ARP.5.4.5.5",
+     "text": "Evin bölümleri, ev eşyaları, sayılarla ilgili bilgilerini kullanarak iletişim kurabilme\nARP.5.4.5.6. Dönem boyunca konuşma-anlatma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme"
+    },
+    {
+     "code": "ARP.5.4.6.1",
+     "text": "Evin bölümleri, ev eşyaları, sayılarla ilgili yazmaya hazırlık yapabilme\nARP.5.4.6.2. Evin bölümleri, ev eşyaları, sayılarla ilgili yazı modelini kopyalayabilme"
+    },
+    {
+     "code": "ARP.5.4.6.3",
+     "text": "Evin bölümleri, ev eşyaları, sayılarla ilgili yazılarında içerik oluşturabilme\nARP.5.4.6.4. Evin bölümleri, ev eşyaları, sayılarla ilgili yazılarını uygulamaya geçirebilme"
+    },
+    {
+     "code": "ARP.5.4.6.5",
+     "text": "Evin bölümleri, ev eşyaları, sayılarla ilgili bilgilerini yazılarında yeniden yapılandırabilme\nARP.5.4.6.6. Dönem içinde yazma-anlatma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme"
+    }
+   ]
+  },
+  {
+   "name": "AKRABALARIM",
+   "konu": "",
+   "start": "2027-06-14",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "ARP.5.1.2.2",
+     "text": "Geniş aile bireyleri ve mesleklerle ilgili okuduğu içerikte yer alan bilgileri bir araya getirebilme"
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

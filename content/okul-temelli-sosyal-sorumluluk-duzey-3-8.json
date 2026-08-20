@@ -1,0 +1,222 @@
+{
+ "grade": 8,
+ "subject": "Okul Temelli Sosyal Sorumluluk — Düzey 3 (Seçmeli)",
+ "themes": [
+  {
+   "name": "SOSYAL GİRİŞİMCİLİK VE İNOVASYON",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-10-25",
+   "outcomes": [
+    {
+     "code": "OTSSÇ.3.1.1",
+     "text": "Sosyal girişimciliğin sürdürülebilir çözümler üretmedeki rolünü tartışır."
+    },
+    {
+     "code": "OTSSÇ.3.1.2",
+     "text": "Sosyal inovasyon kavramını açıklar."
+    },
+    {
+     "code": "OTSSÇ.3.1.3",
+     "text": "Sosyal inovasyon örneklerini inceler."
+    },
+    {
+     "code": "OTSSÇ.3.1.4",
+     "text": "Sosyal inovasyon ve sosyal girişimcilik arasındaki benzer ve farklı unsurları karşılaştırır."
+    },
+    {
+     "code": "OTSSÇ.3.1.5",
+     "text": "Sosyal inovasyon alanında yeni fikirler üretir."
+    }
+   ]
+  },
+  {
+   "name": "TOPLUMSAL FARKINDALIK OLUŞTURMA",
+   "konu": "",
+   "start": "2026-10-26",
+   "end": "2026-11-08",
+   "outcomes": [
+    {
+     "code": "OTSSÇ.3.2.1",
+     "text": "Kampanya ve etkinliklerle toplumsal farkındalık oluşturabileceği bir proje önerisi hazırlar."
+    },
+    {
+     "code": "OTSSÇ.3.2.2",
+     "text": "Tasarladığı proje önerisinde kitle iletişim araçlarını etkili kullanmanın yollarını planlar."
+    }
+   ]
+  },
+  {
+   "name": "TOPLUMSAL DEĞERLER VE AHLAK",
+   "konu": "",
+   "start": "2026-11-09",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "OTSSÇ.3.3.1",
+     "text": "Etik ilkelerin sosyal sorumluluk ve davranış ile ilişkisini açıklar."
+    },
+    {
+     "code": "OTSSÇ.3.3.2",
+     "text": "Toplumsal sorunların temelinde yatan etik ihlallerini belirler."
+    },
+    {
+     "code": "OTSSÇ.3.3.3",
+     "text": "Toplumsal değerlerin kendi hayatındaki etkisini fark eder."
+    },
+    {
+     "code": "OTSSÇ.3.3.4",
+     "text": "Toplumun değer sisteminin kültürel mirasla bağlantısını açıklar."
+    }
+   ]
+  },
+  {
+   "name": "ÇEVRE VE SÜRDÜRÜLEBİLİRLİK",
+   "konu": "",
+   "start": "2026-12-14",
+   "end": "2027-01-17",
+   "outcomes": [
+    {
+     "code": "OTSSÇ.3.4.1",
+     "text": "Arkadaşlarıyla birlikte çevre duyarlılığına yönelik proje tasarlar."
+    },
+    {
+     "code": "OTSSÇ.3.4.2",
+     "text": "Tasarladığı proje için uygulama planı hazırlar."
+    },
+    {
+     "code": "OTSSÇ.3.4.3",
+     "text": "Proje ekibiyle birlikte projeyi uygular."
+    },
+    {
+     "code": "OTSSÇ.3.4.4",
+     "text": "Yapılan projeyi sürdürülebilirlik açısından değerlendirir."
+    },
+    {
+     "code": "OTSSÇ.3.4.5",
+     "text": "Uyguladığı projenin sonuçlarına yönelik sunum yapar."
+    }
+   ]
+  },
+  {
+   "name": "TOPLUMSAL SAĞLIK",
+   "konu": "",
+   "start": "2027-01-18",
+   "end": "2027-02-21",
+   "outcomes": [
+    {
+     "code": "OTSSÇ.3.5.1",
+     "text": "Beslenme kaynaklı toplumsal sağlık sorunlarına yönelik çözüm önerileri geliştirir."
+    },
+    {
+     "code": "OTSSÇ.3.5.2",
+     "text": "Yakın çevresinde hijyen eksikliklerinin giderilmesine dair çözüm önerileri geliştirir."
+    },
+    {
+     "code": "OTSSÇ.3.5.3",
+     "text": "Bağımlılık sorunlarının azaltılması için çözüm önerileri geliştirir."
+    }
+   ]
+  },
+  {
+   "name": "SOSYAL YARDIMLAŞMA",
+   "konu": "",
+   "start": "2027-02-22",
+   "end": "2027-04-04",
+   "outcomes": [
+    {
+     "code": "OTSSÇ.3.6.1",
+     "text": "Toplumsal yardımlaşma projesi tasarlar."
+    },
+    {
+     "code": "OTSSÇ.3.6.2",
+     "text": "Tasarladığı proje için uygulama planı hazırlar."
+    },
+    {
+     "code": "OTSSÇ.3.6.3",
+     "text": "Proje ekibiyle birlikte projeyi uygular."
+    },
+    {
+     "code": "OTSSÇ.3.6.4",
+     "text": "Yapılan projenin toplumsal ihtiyaçlara katkısını değerlendirir."
+    },
+    {
+     "code": "OTSSÇ.3.6.5",
+     "text": "Uyguladığı projenin sonuçlarına yönelik sunum yapar."
+    }
+   ]
+  },
+  {
+   "name": "TOPLUM HİZMETİ VE GÖNÜLLÜLÜK",
+   "konu": "",
+   "start": "2027-04-05",
+   "end": "2027-05-02",
+   "outcomes": [
+    {
+     "code": "OTSSÇ.3.7.1",
+     "text": "Toplum hizmeti çalışmalarına gönüllü olarak katkı sağlar."
+    },
+    {
+     "code": "OTSSÇ.3.7.2",
+     "text": "Gönüllülüğün toplumsal gelişime etkisini örneklerle açıklar."
+    },
+    {
+     "code": "OTSSÇ.3.7.3",
+     "text": "Katıldığı sosyal sorumluluk çalışmalarının toplumsal etkisini değerlendirir."
+    },
+    {
+     "code": "OTSSÇ.3.7.4",
+     "text": "Etkili bir şekilde uygulanmış sosyal sorumluluk projelerini tartışır."
+    }
+   ]
+  },
+  {
+   "name": "KÜRESEL SORUNLARA BAKIŞ",
+   "konu": "",
+   "start": "2027-05-03",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "OTSSÇ.3.8.1",
+     "text": "Küresel sorunları tanımlar."
+    },
+    {
+     "code": "OTSSÇ.3.8.2",
+     "text": "Küresel sorunları sınıflandırır."
+    },
+    {
+     "code": "OTSSÇ.3.8.3",
+     "text": "Küresel sorunlar arasındaki etkileşimleri açıklar."
+    },
+    {
+     "code": "OTSSÇ.3.8.4",
+     "text": "Küresel sorunların toplumsal ve kültürel yansımalarını tartışır."
+    },
+    {
+     "code": "OTSSÇ.3.8.5",
+     "text": "Küresel sorunların gelecek nesillere etkisini araştırır."
+    },
+    {
+     "code": "OTSSÇ.3.8.6",
+     "text": "Küresel sorunlara çözüm sağlayabilecek öneriler geliştirir."
+    },
+    {
+     "code": "OTSSÇ.3.8.7",
+     "text": "Küresel sorunların çözümüne ilişkin uluslararası ölçekte yapılan projeleri araştırır."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,186 @@
+{
+ "grade": 6,
+ "subject": "Masal ve Destanlarımız — Düzey 2 (Seçmeli)",
+ "themes": [
+  {
+   "name": "MASALLARIMIZ",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-12-27",
+   "outcomes": [
+    {
+     "code": "MD.2.1.1",
+     "text": "Masal türünü açıklar."
+    },
+    {
+     "code": "MD.2.1.2",
+     "text": "Masal türünün özelliklerini ifade eder."
+    },
+    {
+     "code": "MD.2.1.3",
+     "text": "Masalın yapı unsurlarını açıklar."
+    },
+    {
+     "code": "MD.2.1.4",
+     "text": "Masalın vermek istediği mesajı belirler."
+    },
+    {
+     "code": "MD.2.1.5",
+     "text": "Masalda yer alan değerleri günümüz değerleriyle karşılaştırır."
+    },
+    {
+     "code": "MD.2.1.6",
+     "text": "Masaldaki gerçeküstü ögeleri belirler."
+    },
+    {
+     "code": "MD.2.1.7",
+     "text": "Yaşadığı bölgeye özgü masalları okur."
+    },
+    {
+     "code": "MD.2.1.8",
+     "text": "Okuduğu masalı anlatır."
+    },
+    {
+     "code": "MD.2.1.9",
+     "text": "Okuduğu masalı dramatize eder."
+    },
+    {
+     "code": "MD.2.1.10",
+     "text": "Dinlediği/izlediği veya okuduğu bir masaldaki değerleri günümüz değerleri ile karşılaştırır."
+    },
+    {
+     "code": "MD.2.1.11",
+     "text": "Dinlediği/izlediği veya okuduğu masalları karşılaştırır."
+    },
+    {
+     "code": "MD.2.1.12",
+     "text": "Türün özelliklerine uygun masal yazar."
+    },
+    {
+     "code": "MD.2.1.13",
+     "text": "Yazdığı masalı görsel olarak ifade eder."
+    },
+    {
+     "code": "MD.2.1.14",
+     "text": "Yazdığı masalı sınıfta paylaşır."
+    }
+   ]
+  },
+  {
+   "name": "DOĞAL DESTANLARIMIZ",
+   "konu": "",
+   "start": "2026-12-28",
+   "end": "2027-04-25",
+   "outcomes": [
+    {
+     "code": "MD.2.2.1",
+     "text": "Destan türünü açıklar.\nMD.2.2.2. Destan türünün özelliklerini ifade eder."
+    },
+    {
+     "code": "MD.2.2.3",
+     "text": "Doğal destanların konularına göre çeşitlilik gösterdiğini ifade eder."
+    },
+    {
+     "code": "MD.2.2.4",
+     "text": "Destan ile masal türünü karşılaştırır."
+    },
+    {
+     "code": "MD.2.2.5",
+     "text": "Destan kahramanlarının özelliklerini karşılaştırır."
+    },
+    {
+     "code": "MD.2.2.6",
+     "text": "Destanların ortaya çıkış nedenlerini tartışır."
+    },
+    {
+     "code": "MD.2.2.7",
+     "text": "Gelecekte destana konu olabilecek bir olayı ifade eder."
+    },
+    {
+     "code": "MD.2.2.8",
+     "text": "Destanda yer alan millî ve manevi değerleri ifade eder."
+    },
+    {
+     "code": "MD.2.2.9",
+     "text": "Destanlarda yer alan millî motiflerin kullanıldığı yerlere günlük hayatından örnekler verir."
+    },
+    {
+     "code": "MD.2.2.10",
+     "text": "Destanın sosyal ve kültürel etkilerini tartışır."
+    },
+    {
+     "code": "MD.2.2.11",
+     "text": "Destanda verilmek istenen mesajları belirler."
+    },
+    {
+     "code": "MD.2.2.12",
+     "text": "Destanın olay örgüsü hakkında tahminde bulunur."
+    },
+    {
+     "code": "MD.2.2.13",
+     "text": "Bir destanı analiz eder."
+    },
+    {
+     "code": "MD.2.2.14",
+     "text": "Dede Korkut Kitabı’nda yer alan bir hikâyeyi barındırdığı duygu ifadelerini kullanarak anlatır."
+    },
+    {
+     "code": "MD.2.2.15",
+     "text": "Okuduğu bir destanda etkilendiği bir kahramanı etkilenme nedenleriyle açıklar."
+    }
+   ]
+  },
+  {
+   "name": "YAPMA DESTANLARIMIZ",
+   "konu": "",
+   "start": "2027-04-26",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "MD.2.3.1",
+     "text": "Yapma destan türünün özelliklerini açıklar."
+    },
+    {
+     "code": "MD.2.3.2",
+     "text": "Yapma destanların konularını ifade eder."
+    },
+    {
+     "code": "MD.2.3.3",
+     "text": "Yapma destanın yazılış nedenlerini örneklerle açıklar."
+    },
+    {
+     "code": "MD.2.3.4",
+     "text": "Yapma destanın sosyal ve kültürel etkilerini tartışır."
+    },
+    {
+     "code": "MD.2.3.5",
+     "text": "Okuduğu bir yapma destanı inceler."
+    },
+    {
+     "code": "MD.2.3.6",
+     "text": "Bir yapay destanı muhtevasındaki duyguyu yansıtacak şekilde okur."
+    },
+    {
+     "code": "MD.2.3.7",
+     "text": "Okuduğu yapay destanda etkilendiği bir kahramanı etkilenme nedenleriyle açıklar."
+    },
+    {
+     "code": "MD.2.3.8",
+     "text": "Güncel bir olaydan esinlenerek yapma destan yazar."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,194 @@
+{
+ "grade": 7,
+ "subject": "Arapça (Seçmeli)",
+ "themes": [
+  {
+   "name": "BUGÜN NE YAPTIM?",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-11-08",
+   "outcomes": [
+    {
+     "code": "ARP.7.1.1.1",
+     "text": "Günlük hayatla ilgili dinlemeye/izlemeye hazırlık yapabilme\nARP.7.1.1.2. Günlük hayatla ilgili dinlediği/izlediği içerikte yer alan bilgileri bir araya getirebilme\nARP.7.1.1.3. Günlük hayatla ilgili dinlediği/izlediği içeriği anlamlandırabilme"
+    },
+    {
+     "code": "ARP.7.1.2.1",
+     "text": "Günlük hayatla ilgili okumaya hazırlık yapabilme\nARP.7.1.2.2. Günlük hayatla ilgili okuduğu içerikte yer alan bilgileri bir araya getirebilme\nARP.7.1.2.3. Günlük hayatla ilgili okuduğu içeriği anlamlandırabilme"
+    },
+    {
+     "code": "ARP.7.1.3.1",
+     "text": "Günlük hayatla ilgili dinlediği/izlediği içerikteki hedef dil yapılarını kullanabilme\nARP.7.1.4.1. Günlük hayatla ilgili dinlediği/izlediği içerikteki hedef sözcükleri kullanabilme"
+    },
+    {
+     "code": "ARP.7.1.5.1",
+     "text": "Günlük hayatla ilgili konuşmaya hazırlık yapabilme\nARP.7.1.5.2. Günlük hayatla ilgili konuşma modelini taklit edebilme"
+    },
+    {
+     "code": "ARP.7.1.5.3",
+     "text": "Günlük hayatla ilgili konuşmalarında taklit ederek sözlü içerik oluşturabilme\nARP.7.1.5.4. Günlük hayatla ilgili konuşmalarını uygulamaya geçirebilme"
+    },
+    {
+     "code": "ARP.7.1.5.5",
+     "text": "Günlük hayatla ilgili bilgilerini kullanarak iletişim kurabilme\nARP.7.1.6.1. Günlük hayatla ilgili yazmaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.7.1.6.2",
+     "text": "Günlük hayatla ilgili yazı modelini kopyalayabilme\nARP.7.1.6.3. Günlük hayatla ilgili yazılarında içerik oluşturabilme"
+    },
+    {
+     "code": "ARP.7.1.6.4",
+     "text": "Günlük hayatla ilgili yazılarını uygulamaya geçirebilme\nARP.7.1.6.5. Günlük hayatla ilgili bilgilerini yazılarında yeniden yapılandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "ALIŞVERİŞ ZAMANI",
+   "konu": "",
+   "start": "2026-11-09",
+   "end": "2027-01-24",
+   "outcomes": [
+    {
+     "code": "ARP.7.2.1.1",
+     "text": "Alışverişle ilgili dinlemeye/izlemeye hazırlık yapabilme\nARP.7.2.1.2. Alışverişle ilgili dinlediği/izlediği içerikte yer alan bilgileri bir araya getirebilme\nARP.7.2.1.3. Alışverişle ilgili dinlediği/izlediği içeriği anlamlandırabilme"
+    },
+    {
+     "code": "ARP.7.2.1.4",
+     "text": "Dönem boyunca dinleme/izleme-anlamlandırma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme\nARP.7.2.2.1. Alışverişle ilgili okumaya hazırlık yapabilme\nARP.7.2.2.2. Alışverişle ilgili okuduğu içerikte yer alan bilgileri bir araya getirebilme"
+    },
+    {
+     "code": "ARP.7.2.2.3",
+     "text": "Alışverişle ilgili okuduğu içeriği anlamlandırabilme\nARP.7.2.2.4. Dönem boyunca okuma-anlamlandırma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme"
+    },
+    {
+     "code": "ARP.7.2.3.1",
+     "text": "Alışverişle ilgili dinlediği/izlediği içerikteki hedef dil yapılarını kullanabilme\nARP.7.2.4.1. Alışverişle ilgili dinlediği/izlediği içerikteki hedef sözcükleri kullanabilme"
+    },
+    {
+     "code": "ARP.7.2.5.1",
+     "text": "Alışverişle ilgili konuşmaya hazırlık yapabilme\nARP.7.2.5.2. Alışverişle ilgili konuşma modelini taklit edebilme"
+    },
+    {
+     "code": "ARP.7.2.5.3",
+     "text": "Alışverişle ilgili konuşmalarında taklit ederek sözlü içerik oluşturabilme\nARP.7.2.5.4. Alışverişle ilgili konuşmalarını uygulamaya geçirebilme"
+    },
+    {
+     "code": "ARP.7.2.5.5",
+     "text": "Alışverişle ilgili bilgilerini kullanarak iletişim kurabilme\nARP.7.2.5.6. Dönem boyunca konuşma-anlatma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme"
+    },
+    {
+     "code": "ARP.7.2.6.1",
+     "text": "Alışverişle ilgili yazmaya hazırlık yapabilme\nARP.7.2.6.2. Alışverişle ilgili yazı modelini kopyalayabilme"
+    },
+    {
+     "code": "ARP.7.2.6.3",
+     "text": "Alışverişle ilgili yazılarında içerik oluşturabilme\nARP.7.2.6.4. Alışverişle ilgili yazılarını uygulamaya geçirebilme"
+    },
+    {
+     "code": "ARP.7.2.6.5",
+     "text": "Alışverişle ilgili bilgilerini yazılarında yeniden yapılandırabilme\nARP.7.2.6.6. Dönem içinde yazma-anlatma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme"
+    }
+   ]
+  },
+  {
+   "name": "NEREYE SEYAHAT EDELİM?",
+   "konu": "",
+   "start": "2027-02-08",
+   "end": "2027-04-11",
+   "outcomes": [
+    {
+     "code": "ARP.7.3.1.1",
+     "text": "Ulaşımla ilgili dinlemeye/izlemeye hazırlık yapabilme\nARP.7.3.1.2. Ulaşımla ilgili dinlediği/izlediği içerikte yer alan bilgileri bir araya getirebilme\nARP.7.3.1.3. Ulaşımla ilgili dinlediği/izlediği içeriği anlamlandırabilme"
+    },
+    {
+     "code": "ARP.7.3.2.1",
+     "text": "Ulaşımla ilgili okumaya hazırlık yapabilme\nARP.7.3.2.2. Ulaşımla ilgili okuduğu içerikte yer alan bilgileri bir araya getirebilme"
+    },
+    {
+     "code": "ARP.7.3.2.3",
+     "text": "Ulaşımla ilgili okuduğu içeriği anlamlandırabilme\nARP.7.3.3.1. Ulaşımla ilgili dinlediği/izlediği içerikteki hedef dil yapılarını kullanabilme"
+    },
+    {
+     "code": "ARP.7.3.4.1",
+     "text": "Ulaşımla ilgili dinlediği/izlediği içerikteki hedef sözcükleri kullanabilme\nARP.7.3.5.1. Ulaşımla ilgili konuşmaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.7.3.5.2",
+     "text": "Ulaşımla ilgili konuşma modelini taklit edebilme\nARP.7.3.5.3. Ulaşımla ilgili konuşmalarında taklit ederek sözlü içerik oluşturabilme"
+    },
+    {
+     "code": "ARP.7.3.5.5",
+     "text": "Ulaşımla ilgili bilgilerini kullanarak iletişim kurabilme\nARP.7.3.6.1. Üniteyle ilgili yazmaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.7.3.6.2",
+     "text": "Üniteyle ilgili yazı modelini kopyalayabilme\nARP.7.3.6.3. Ulaşımlailgili yazılarında içerik oluşturabilme"
+    },
+    {
+     "code": "ARP.7.3.6.4",
+     "text": "Ulaşımla ilgili yazılarını uygulamaya geçirebilme\nARP.7.3.6.5. Ulaşımla ilgili bilgilerini yazılarında yeniden yapılandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "ŞEHRİM VE ÜLKEM",
+   "konu": "",
+   "start": "2027-04-12",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "ARP.7.4.1.1",
+     "text": "Şehir ve ülkeyle ilgili dinlemeye/izlemeye hazırlık yapabilme\nARP.7.4.1.2. Şehir ve ülkeyle ilgili dinlediği/izlediği içerikte yer alan bilgileri bir araya getirebilme\nARP.7.4.1.3. Şehir ve ülkeyle ilgili dinlediği/izlediği içeriği anlamlandırabilme"
+    },
+    {
+     "code": "ARP.7.4.1.4",
+     "text": "Dönem boyunca dinleme/izleme-anlamlandırma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme\nARP.7.4.2.1. Şehir ve ülkeyle ilgili okumaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.7.4.2.2",
+     "text": "Şehir ve ülkeyle ilgili okuduğu içerikte yer alan bilgileri bir araya getirebilme\nARP.7.4.2.3. Şehir ve ülkeyle ilgili okuduğu içeriği anlamlandırabilme"
+    },
+    {
+     "code": "ARP.7.4.2.4",
+     "text": "Dönem boyunca okuma-anlamlandırma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme\nARP.7.4.3.1. Şehir ve ülkeyle ilgili dinlediği/izlediği içerikteki hedef dil yapılarını kullanabilme"
+    },
+    {
+     "code": "ARP.7.4.4.1",
+     "text": "Şehir ve ülkeyle ilgili dinlediği/izlediği içerikteki hedef sözcükleri kullanabilme\nARP.7.4.5.1. Şehir ve ülkeyle ilgili konuşmaya hazırlık yapabilme"
+    },
+    {
+     "code": "ARP.7.4.5.2",
+     "text": "Şehir ve ülkeyle ilgili konuşma modelini taklit edebilme\nARP.7.4.5.3. Şehir ve ülkeyle ilgili konuşmalarında taklit ederek sözlü içerik oluşturabilme"
+    },
+    {
+     "code": "ARP.7.4.5.5",
+     "text": "Şehir ve ülkeyle ilgili bilgilerini kullanarak iletişim kurabilme\nARP.7.4.5.6. Dönem boyunca konuşma-anlatma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme"
+    },
+    {
+     "code": "ARP.7.4.6.1",
+     "text": "Şehir ve ülkeyle ilgili yazmaya hazırlık yapabilme\nARP.7.4.6.2. Şehir ve ülkeyle ilgili yazı modelini kopyalayabilme"
+    },
+    {
+     "code": "ARP.7.4.6.3",
+     "text": "Şehir ve ülkeyle ilgili yazılarında içerik oluşturabilme\nARP.7.4.6.4. Şehir ve ülkeyle ilgili yazılarını uygulamaya geçirebilme"
+    },
+    {
+     "code": "ARP.7.4.6.5",
+     "text": "Şehir ve ülkeyle ilgili bilgilerini yazılarında yeniden yapılandırabilme\nARP.7.4.6.6. Dönem içinde yazma-anlatma sürecinde edindiği bilgilerini, deneyimlerini, duygularını ve düşüncelerini bireysel ve etkileşimli olarak yansıtabilme"
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

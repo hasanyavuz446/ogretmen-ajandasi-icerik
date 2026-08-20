@@ -1,0 +1,202 @@
+{
+ "grade": 5,
+ "subject": "Temel Yaşam Becerileri — Düzey 1 (Seçmeli)",
+ "themes": [
+  {
+   "name": "İLETİŞİM",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-11-15",
+   "outcomes": [
+    {
+     "code": "TYB.1.1.1",
+     "text": "İletişim sürecini açıklar.\nTYB.1.1.2. Etkili iletişimin unsurlarını açıklar."
+    },
+    {
+     "code": "TYB.1.1.3",
+     "text": "İletişimde dinlemenin önemini açıklar."
+    },
+    {
+     "code": "TYB.1.1.4",
+     "text": "İletişimde dönüt vermenin gereğini sorgular."
+    },
+    {
+     "code": "TYB.1.1.6",
+     "text": "Sözsüz iletişim becerilerini kullanır."
+    },
+    {
+     "code": "TYB.1.1.7",
+     "text": "Kişiler arasındaki iletişimi etkileyen faktörleri açıklar."
+    },
+    {
+     "code": "TYB.1.1.8",
+     "text": "İletişimde karşılıklı güvenin önemini ifade eder."
+    },
+    {
+     "code": "TYB.1.1.9",
+     "text": "Kişiler arası ilişkileri yönetmenin önemini tartışır."
+    },
+    {
+     "code": "TYB.1.1.10",
+     "text": "İletişim engelleri ve çatışmaları ile ilgili kavramları ayırt eder."
+    },
+    {
+     "code": "TYB.1.1.11",
+     "text": "İletişim engellerinin ve çatışmalarının iletişim üzerindeki etkisini değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "SORUMLU OLMA",
+   "konu": "",
+   "start": "2026-11-23",
+   "end": "2027-01-03",
+   "outcomes": [
+    {
+     "code": "TYB.1.2.1",
+     "text": "Sosyal hayatındaki sorumluluklarını ifade eder.\nTYB.1.2.2. Çalışmalarda sorumluluk almanın önemini açıklar."
+    },
+    {
+     "code": "TYB.1.2.3",
+     "text": "Sorumluluğunu aldığı işi vaktinde bitirmenin önemini örneklerle açıklar."
+    },
+    {
+     "code": "TYB.1.2.4",
+     "text": "Sorumluluklarını yerine getirmediğinde doğabilecek problemleri ifade eder."
+    },
+    {
+     "code": "TYB.1.2.5",
+     "text": "Çevresine ve çevresindeki canlılara karşı sorumluluklarını açıklar."
+    },
+    {
+     "code": "TYB.1.2.6",
+     "text": "Sorumluluğunu yerine getirmenin kendisine hissettirdiklerini açıklar."
+    },
+    {
+     "code": "TYB.1.2.7",
+     "text": "Sorumlu davranmayı; adil olma, saygı ve başarı ile ilişkilendirir."
+    }
+   ]
+  },
+  {
+   "name": "ÖĞRENMEYİ ÖĞRENME",
+   "konu": "",
+   "start": "2027-01-04",
+   "end": "2027-03-28",
+   "outcomes": [
+    {
+     "code": "TYB.1.3.1",
+     "text": "Öğrenme stratejilerini ayırt eder.\nTYB.1.3.2. Kendine uygun öğrenme stratejisini seçer."
+    },
+    {
+     "code": "TYB.1.3.3",
+     "text": "Kendine uygun öğrenme stratejilerini test eder."
+    },
+    {
+     "code": "TYB.1.3.4",
+     "text": "Çalışma ve öğrenme taktiklerini etkin olarak kullanır."
+    },
+    {
+     "code": "TYB.1.3.5",
+     "text": "Öğrendiği yeni bilgi ile önceki bilgilerini ilişkilendirir."
+    },
+    {
+     "code": "TYB.1.3.6",
+     "text": "İhtiyaç duyduğu bilgiye ulaşmanın yollarını sunar."
+    },
+    {
+     "code": "TYB.1.3.7",
+     "text": "Ulaştığı bilgileri günlük hayatta kullanır."
+    },
+    {
+     "code": "TYB.1.3.8",
+     "text": "Bilginin doğruluğunu teyit etmede bilgi iletişim teknolojilerinin önemini tartışır."
+    },
+    {
+     "code": "TYB.1.3.9",
+     "text": "Bilgi iletişim teknolojilerini kullanarak problemlere farklı çözümler üretir."
+    },
+    {
+     "code": "TYB.1.3.10",
+     "text": "Kendi öğrenme şeklini keşfeder."
+    }
+   ]
+  },
+  {
+   "name": "PROBLEM ÇÖZME VE KARAR VERME",
+   "konu": "",
+   "start": "2027-03-29",
+   "end": "2027-05-23",
+   "outcomes": [
+    {
+     "code": "TYB.1.4.1",
+     "text": "Günlük yaşam içinde karşılaşılan problemleri tanımlar.\nTYB.1.4.2. Günlük yaşamda karşılaşılan problemlere ilişkin bilgi toplar."
+    },
+    {
+     "code": "TYB.1.4.3",
+     "text": "Günlük yaşamda karşılaşılan problemlere yönelik alternatif çözüm yolları belirler."
+    },
+    {
+     "code": "TYB.1.4.4",
+     "text": "Problemlere bulduğu çözümlerin avantaj ve dezavantajlarını değerlendirir."
+    },
+    {
+     "code": "TYB.1.4.5",
+     "text": "Problemlere bulduğu çözümlere karar verme sürecinde dikkat edilmesi gereken unsurları belirler."
+    },
+    {
+     "code": "TYB.1.4.6",
+     "text": "Problemlere bulduğu çözümlere yönelik karar verme sürecindeki riskleri, sonuçları bakımından değerlendirir."
+    },
+    {
+     "code": "TYB.1.4.7",
+     "text": "Çözüm yolları arasından uygun çözümü seçer."
+    },
+    {
+     "code": "TYB.1.4.8",
+     "text": "Problem çözümüne yönelik karar verme sürecinde ön yargı ve yanılgıları ayırt eder."
+    },
+    {
+     "code": "TYB.1.4.9",
+     "text": "Problem çözümüne yönelik alınan kararların olası sonuçlarını fark eder."
+    }
+   ]
+  },
+  {
+   "name": "ELEŞTİREL DÜŞÜNME",
+   "konu": "",
+   "start": "2027-05-24",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "TYB.1.5.1",
+     "text": "Farklı düşünme biçimlerini örneklerle açıklar.\nTYB.1.5.2. Düşünmeyi etkileyen bilişsel ön yargıları fark eder."
+    },
+    {
+     "code": "TYB.1.5.3",
+     "text": "Eleştirel düşünmeyi tanımlar."
+    },
+    {
+     "code": "TYB.1.5.4",
+     "text": "Eleştirel düşünmenin önemini tartışır."
+    },
+    {
+     "code": "TYB.1.5.5",
+     "text": "Eleştirel düşünmenin temel ilke ve yöntemlerini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

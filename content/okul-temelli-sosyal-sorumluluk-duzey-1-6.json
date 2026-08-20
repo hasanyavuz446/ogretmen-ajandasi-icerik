@@ -1,0 +1,178 @@
+{
+ "grade": 6,
+ "subject": "Okul Temelli Sosyal Sorumluluk — Düzey 1 (Seçmeli)",
+ "themes": [
+  {
+   "name": "SOSYAL SORUMLULUK",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-11-08",
+   "outcomes": [
+    {
+     "code": "OTSSÇ.1.1.1",
+     "text": "Sosyal sorumluluk ile ilgili kavramları açıklar."
+    },
+    {
+     "code": "OTSSÇ.1.1.2",
+     "text": "Bireylerin ve kurumların sosyal sorumluluk alanlarını tanımlar."
+    },
+    {
+     "code": "OTSSÇ.1.1.3",
+     "text": "Sosyal sorumluluğun birey ve toplum için önemini ve faydalarını sıralar."
+    },
+    {
+     "code": "OTSSÇ.1.1.4",
+     "text": "Sosyal girişimcilik kavramını açıklar."
+    }
+   ]
+  },
+  {
+   "name": "TOPLUMSAL FARKINDALIK OLUŞTURMA",
+   "konu": "",
+   "start": "2026-11-09",
+   "end": "2026-12-27",
+   "outcomes": [
+    {
+     "code": "OTSSÇ.1.2.1",
+     "text": "Çevreye karşı bireysel ve sosyal sorumlulukları örnekler üzerinden açıklar."
+    },
+    {
+     "code": "OTSSÇ.1.2.2",
+     "text": "Sosyal eşitlik ve adalet kavramlarını tanımlar."
+    },
+    {
+     "code": "OTSSÇ.1.2.3",
+     "text": "Yakın çevresinde yapılmış sosyal sorumluluk çalışmalarını araştırır."
+    }
+   ]
+  },
+  {
+   "name": "TOPLUMSAL DEĞERLER VE AHLAK",
+   "konu": "",
+   "start": "2026-12-28",
+   "end": "2027-03-07",
+   "outcomes": [
+    {
+     "code": "OTSSÇ.1.3.1",
+     "text": "Sosyal sorumluluğun temel değerlerini ve ahlak ilkelerini tanımlar."
+    },
+    {
+     "code": "OTSSÇ.1.3.2",
+     "text": "Sosyal sorumluluk sahibi bireyin özelliklerini örnekler üzerinden açıklar."
+    },
+    {
+     "code": "OTSSÇ.1.3.3",
+     "text": "Toplumsal değerlerin toplumsal bütünleşmedeki rolünü açıklar."
+    },
+    {
+     "code": "OTSSÇ.1.3.4",
+     "text": "Toplumsal değerlerin eğitim ortamındaki önemini değerlendirir."
+    },
+    {
+     "code": "OTSSÇ.1.3.5",
+     "text": "Toplumsal sorunları açıklar."
+    },
+    {
+     "code": "OTSSÇ.1.3.6",
+     "text": "Toplumsal sorunlara neden olan faktörleri açıklar."
+    },
+    {
+     "code": "OTSSÇ.1.3.7",
+     "text": "Dijital şiddet çeşitlerini tanır."
+    }
+   ]
+  },
+  {
+   "name": "ÇEVRE VE SÜRDÜRÜLEBİLİRLİK",
+   "konu": "",
+   "start": "2027-03-15",
+   "end": "2027-05-02",
+   "outcomes": [
+    {
+     "code": "OTSSÇ.1.4.1",
+     "text": "Yaşadığı yerdeki çevre sorunlarını belirler."
+    },
+    {
+     "code": "OTSSÇ.1.4.2",
+     "text": "Çevresel kirlilik çeşitlerini açıklar."
+    },
+    {
+     "code": "OTSSÇ.1.4.3",
+     "text": "Çevrenin sürdürülebilir kullanımında geri dönüşüm uygulamalarının katkısına örnekler verir."
+    },
+    {
+     "code": "OTSSÇ.1.4.4",
+     "text": "Doğal kaynakları verimli şekilde kullanmanın önemini açıklar."
+    },
+    {
+     "code": "OTSSÇ.1.4.5",
+     "text": "Bitkilerin ve hayvanların korunmasının önemini açıklar."
+    },
+    {
+     "code": "OTSSÇ.1.4.6",
+     "text": "Bitki ve hayvanların korunması ile ilgili yapılması gerekenleri açıklar."
+    },
+    {
+     "code": "OTSSÇ.1.4.7",
+     "text": "Okulunda çevre farkındalık proje önerisi hazırlar."
+    }
+   ]
+  },
+  {
+   "name": "TOPLUMSAL SAĞLIK",
+   "konu": "",
+   "start": "2027-05-03",
+   "end": "2027-06-06",
+   "outcomes": [
+    {
+     "code": "OTSSÇ.1.5.1",
+     "text": "Sağlık kaynaklı toplumsal sorunları ayırt eder."
+    },
+    {
+     "code": "OTSSÇ.1.5.2",
+     "text": "Toplumsal sağlıkta hijyen eksikliğinin etkisini açıklar."
+    },
+    {
+     "code": "OTSSÇ.1.5.3",
+     "text": "Bağımlılıkla mücadele eden sivil toplum kuruluşlarını açıklar."
+    },
+    {
+     "code": "OTSSÇ.1.5.4",
+     "text": "Sağlıklı yaş alma ve toplumsal refah arasındaki ilişkiyi açıklar."
+    },
+    {
+     "code": "OTSSÇ.1.5.5",
+     "text": "Okul hijyeni ile sağlıklı çevrenin ilişkisini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "SOSYAL YARDIMLAŞMA",
+   "konu": "",
+   "start": "2027-06-07",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "OTSSÇ.1.6.2",
+     "text": "Kamu kurumlarının ve sivil toplum kuruluşlarının sosyal destek çalışmalarından örnekler verir."
+    },
+    {
+     "code": "OTSSÇ.1.6.3",
+     "text": "Gönüllülük faaliyetlerinin toplumsal faydalarını açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

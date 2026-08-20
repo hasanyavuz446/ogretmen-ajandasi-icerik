@@ -1,0 +1,166 @@
+{
+ "grade": 5,
+ "subject": "Görgü Kuralları ve Nezaket — Düzey 1 (Seçmeli)",
+ "themes": [
+  {
+   "name": "GÖRGÜ VE NEZAKET",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-11-08",
+   "outcomes": [
+    {
+     "code": "GKN.1.1.1",
+     "text": "Temel kavramları ifade eder."
+    },
+    {
+     "code": "GKN.1.1.2",
+     "text": "İnsan ilişkilerini ve iletişimdeki temel kavramları örneklerle açıklar."
+    },
+    {
+     "code": "GKN.1.1.3",
+     "text": "Görgü ve nezaketin önemini açıklar."
+    },
+    {
+     "code": "GKN.1.1.4",
+     "text": "Geleneğimizde yer alan görgü ve nezaket örneklerini değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "AİLEDE GÖRGÜ KURALLARI VE NEZAKET",
+   "konu": "",
+   "start": "2026-11-09",
+   "end": "2027-01-17",
+   "outcomes": [
+    {
+     "code": "GKN.1.2.1",
+     "text": "Kişisel bakım ile temizlik ve düzenin bir görgü kuralı olduğunu açıklar."
+    },
+    {
+     "code": "GKN.1.2.2",
+     "text": "Aile içi iletişimde saygının önemini fark eder."
+    },
+    {
+     "code": "GKN.1.2.3",
+     "text": "Aile büyükleriyle iletişimin önemini değerlendirir."
+    },
+    {
+     "code": "GKN.1.2.4",
+     "text": "Sofra adabında uyulması gereken kuralları açıklar."
+    },
+    {
+     "code": "GKN.1.2.5",
+     "text": "Yemek ve kazançla ilgili konularda gösterişten uzak durmanın önemini tartışır."
+    },
+    {
+     "code": "GKN.1.2.6",
+     "text": "Misafirlikte ya da misafir ağırlarken hürmet göstermenin önemini tartışır."
+    }
+   ]
+  },
+  {
+   "name": "OKUL ORTAMINDA GÖRGÜ KURALLARI VE NEZAKET",
+   "konu": "",
+   "start": "2027-01-18",
+   "end": "2027-03-21",
+   "outcomes": [
+    {
+     "code": "GKN.1.3.1",
+     "text": "Arkadaşlarıyla iletişim kurarken nazik olmaya özen gösterir."
+    },
+    {
+     "code": "GKN.1.3.2",
+     "text": "Okulda çevresine karşı olumlu davranış sergiler."
+    },
+    {
+     "code": "GKN.1.3.3",
+     "text": "Okuldaki ortak alanları temiz ve düzenli kullanmaya özen gösterir."
+    },
+    {
+     "code": "GKN.1.3.4",
+     "text": "Okuldaki ortak kaynakları verimli kullanmaya özen gösterir."
+    },
+    {
+     "code": "GKN.1.3.5",
+     "text": "Arkadaşlarına nazik şekilde yardım eder."
+    },
+    {
+     "code": "GKN.1.3.6",
+     "text": "Millî ve manevi değerlere saygı gösterir."
+    }
+   ]
+  },
+  {
+   "name": "TOPLUM İÇİNDE GÖRGÜ KURALLARI VE NEZAKET",
+   "konu": "",
+   "start": "2027-03-22",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "GKN.1.4.1",
+     "text": "İletişimde muhatabına uygun kelimeler seçmeye özen gösterir."
+    },
+    {
+     "code": "GKN.1.4.2",
+     "text": "Kalabalık ortamlarda ses tonuna dikkat eder."
+    },
+    {
+     "code": "GKN.1.4.3",
+     "text": "Günlük hayatta nezaket ifadelerini kullanmaya özen gösterir."
+    },
+    {
+     "code": "GKN.1.4.4",
+     "text": "Başkalarının haklarına saygı duyması gerektiğini fark eder."
+    },
+    {
+     "code": "GKN.1.4.5",
+     "text": "Komşularına nezaket göstermenin önemini değerlendirir."
+    },
+    {
+     "code": "GKN.1.4.6",
+     "text": "Çeşitli kültürel ortamlarda ortamın gerektirdiği uygun davranış örüntülerini ifade eder."
+    },
+    {
+     "code": "GKN.1.4.7",
+     "text": "Tarihî, dinî ve kültürel mekânlardaki eser ve eşyaları korumaya özen gösterir."
+    },
+    {
+     "code": "GKN.1.4.8",
+     "text": "Tarihî, dinî ve kültürel mekânlarda ölçülü davranışlar sergiler."
+    },
+    {
+     "code": "GKN.1.4.9",
+     "text": "Kültürel, sosyal, sportif etkinliklerde rakibe ya da rakip taraftara saygılı davranır."
+    },
+    {
+     "code": "GKN.1.4.10",
+     "text": "Kültürel, sosyal, sportif etkinliklerde nezaket içeren ifadeler kullanır."
+    },
+    {
+     "code": "GKN.1.4.11",
+     "text": "Kültürel, sosyal ve sportif etkinliklerde aşırılık içeren davranışları ifade eder."
+    },
+    {
+     "code": "GKN.1.4.12",
+     "text": "Trafikteki ve toplu taşıma araçlarındaki uygun davranışları açıklar."
+    },
+    {
+     "code": "GKN.1.4.13",
+     "text": "Her bireyin kişisel alanı olduğunu fark eder."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

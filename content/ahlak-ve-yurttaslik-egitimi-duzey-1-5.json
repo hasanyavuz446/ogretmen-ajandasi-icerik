@@ -1,0 +1,178 @@
+{
+ "grade": 5,
+ "subject": "Ahlak ve Yurttaşlık Eğitimi — Düzey 1 (Seçmeli)",
+ "themes": [
+  {
+   "name": "BİREY VE AHLAK",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2027-01-10",
+   "outcomes": [
+    {
+     "code": "AYE.1.1.1",
+     "text": "Ahlakla ilgili temel kavramları tanımlar."
+    },
+    {
+     "code": "AYE.1.1.2",
+     "text": "Ahlakın kaynaklarını açıklar."
+    },
+    {
+     "code": "AYE.1.1.3",
+     "text": "Ahlakın bireysel yönünü açıklar."
+    },
+    {
+     "code": "AYE.1.1.4",
+     "text": "Ahlakın kişinin yaşamındaki rolünü tartışır."
+    },
+    {
+     "code": "AYE.1.1.5",
+     "text": "Bireyin ahlaki gelişiminin yaşam boyu devam eden bir süreç olduğunu fark eder."
+    },
+    {
+     "code": "AYE.1.1.6",
+     "text": "Temel değerler ile ahlak arasındaki ilişkiyi fark eder."
+    },
+    {
+     "code": "AYE.1.1.7",
+     "text": "Ahlaki sorumluluğun önemini değerlendirir."
+    },
+    {
+     "code": "AYE.1.1.8",
+     "text": "Aldığı kararlarda ahlaki ilkelerin önemini değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "TOPLUM VE AHLAK",
+   "konu": "",
+   "start": "2027-01-11",
+   "end": "2027-02-21",
+   "outcomes": [
+    {
+     "code": "AYE.1.2.1",
+     "text": "Ahlakın toplumsal yönünü fark eder."
+    },
+    {
+     "code": "AYE.1.2.2",
+     "text": "Ahlak gelişiminde kültürün etkilerini yorumlar."
+    },
+    {
+     "code": "AYE.1.2.3",
+     "text": "Yaşadığı toplumun ahlak kurallarını açıklar."
+    },
+    {
+     "code": "AYE.1.2.4",
+     "text": "Ahlak gelişiminde dinin etkilerini ifade eder."
+    }
+   ]
+  },
+  {
+   "name": "ORTAK YAŞAM",
+   "konu": "",
+   "start": "2027-02-22",
+   "end": "2027-04-04",
+   "outcomes": [
+    {
+     "code": "AYE.1.3.1",
+     "text": "Ortak yaşamın gerektirdiği kuralları açıklar."
+    },
+    {
+     "code": "AYE.1.3.2",
+     "text": "Ortak yaşamda üzerine düşen sorumlulukları yerine getirir."
+    },
+    {
+     "code": "AYE.1.3.3",
+     "text": "Ortak yaşam becerilerini açıklar."
+    },
+    {
+     "code": "AYE.1.3.4",
+     "text": "Ortak yaşam problemlerine örnekler verir."
+    },
+    {
+     "code": "AYE.1.3.5",
+     "text": "Okul ve çevredeki sosyal kulüp faaliyetlerine katılmaya istekli olur."
+    }
+   ]
+  },
+  {
+   "name": "EVRENSEL AHLAK",
+   "konu": "",
+   "start": "2027-04-05",
+   "end": "2027-05-02",
+   "outcomes": [
+    {
+     "code": "AYE.1.4.1",
+     "text": "Ahlakın evrensel yönünü açıklar."
+    },
+    {
+     "code": "AYE.1.4.2",
+     "text": "Dünyanın her yerinde geçerli olan sorumluluklara örnekler verir."
+    },
+    {
+     "code": "AYE.1.4.3",
+     "text": "Bilim, sanat ve spor alanlarında geçerli olan ahlaki kuralları fark eder."
+    },
+    {
+     "code": "AYE.1.4.4",
+     "text": "Kaynakların tüketiminde ahlaki davranışlar sergiler."
+    }
+   ]
+  },
+  {
+   "name": "YURTTAŞLIK",
+   "konu": "",
+   "start": "2027-05-03",
+   "end": "2027-05-30",
+   "outcomes": [
+    {
+     "code": "AYE.1.5.1",
+     "text": "Yurttaşlık ile ilgili temel kavramları açıklar."
+    },
+    {
+     "code": "AYE.1.5.2",
+     "text": "Yurttaşlık çeşitlerini fark eder."
+    },
+    {
+     "code": "AYE.1.5.3",
+     "text": "Yurttaş olarak sahip olunan hak ve sorumlulukların önemini fark eder."
+    },
+    {
+     "code": "AYE.1.5.4",
+     "text": "Devlet ve yurttaş arasındaki ilişkiyi açıklar."
+    }
+   ]
+  },
+  {
+   "name": "YURTTAŞ OLARAK BEN",
+   "konu": "",
+   "start": "2027-05-31",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "AYE.1.6.1",
+     "text": "Yurttaş olarak üzerine düşen hak, görev ve sorumluluklara örnekler verir."
+    },
+    {
+     "code": "AYE.1.6.2",
+     "text": "İçerisinde yer aldığı grup ve kurumlara bireysel katkısını tartışır."
+    },
+    {
+     "code": "AYE.1.6.3",
+     "text": "Yakın çevresindeki toplumsal gereksinimlerin karşılanmasına yönelik bir proje tasarlar."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

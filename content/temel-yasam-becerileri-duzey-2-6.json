@@ -1,0 +1,202 @@
+{
+ "grade": 6,
+ "subject": "Temel Yaşam Becerileri — Düzey 2 (Seçmeli)",
+ "themes": [
+  {
+   "name": "SAĞLIKLI YAŞAM",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-11-01",
+   "outcomes": [
+    {
+     "code": "TYB.2.1.1",
+     "text": "Dengeli ve sağlıklı beslenme ilkelerini ifade eder.\nTYB.2.1.2. Düzenli egzersiz yapmanın önemini açıklar."
+    },
+    {
+     "code": "TYB.2.1.3",
+     "text": "Günlük yaşamda temizlik kurallarının önemini ifade eder."
+    },
+    {
+     "code": "TYB.2.1.4",
+     "text": "Düzenli sağlık kontrollerinin önemini açıklar."
+    },
+    {
+     "code": "TYB.2.1.5",
+     "text": "Duygusal sağlık kavramını açıklar."
+    },
+    {
+     "code": "TYB.2.1.6",
+     "text": "Duygusal sağlık için yapılması gerekenleri listeler."
+    },
+    {
+     "code": "TYB.2.1.7",
+     "text": "İş ve yaşam dengesinin kişinin duygusal sağlığı açısından önemini açıklar."
+    },
+    {
+     "code": "TYB.2.1.8",
+     "text": "Sanatsal, sosyal ve sportif faaliyetlere katılımın sağlığa etkisini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "STRESLE BAŞ ETME",
+   "konu": "",
+   "start": "2026-11-02",
+   "end": "2026-12-27",
+   "outcomes": [
+    {
+     "code": "TYB.2.2.1",
+     "text": "Stresi tanımlar."
+    },
+    {
+     "code": "TYB.2.2.2",
+     "text": "Stresin nedenlerini ve kaynaklarını açıklar."
+    },
+    {
+     "code": "TYB.2.2.3",
+     "text": "Stresin fizyolojik ve davranışsal etkilerini açıklar."
+    },
+    {
+     "code": "TYB.2.2.4",
+     "text": "Stresle başa çıkma yöntemlerini uygular."
+    },
+    {
+     "code": "TYB.2.2.5",
+     "text": "Duyguların davranışları üzerindeki etkisini açıklar."
+    },
+    {
+     "code": "TYB.2.2.6",
+     "text": "Değişen duygu durumlarına uygun davranışlar sergiler."
+    },
+    {
+     "code": "TYB.2.2.7",
+     "text": "Olumsuz duygularını kontrol etmek için çözümler üretir."
+    }
+   ]
+  },
+  {
+   "name": "EMPATİ",
+   "konu": "",
+   "start": "2026-12-28",
+   "end": "2027-02-21",
+   "outcomes": [
+    {
+     "code": "TYB.2.3.1",
+     "text": "Yaşamını şekillendiren kişisel değerlere yönelik duygu ve düşüncelerini açıklar."
+    },
+    {
+     "code": "TYB.2.3.2",
+     "text": "Kendi önceliklerini ifade eder."
+    },
+    {
+     "code": "TYB.2.3.3",
+     "text": "Başkalarının duygularını kendi ifadeleriyle açıklar."
+    },
+    {
+     "code": "TYB.2.3.4",
+     "text": "Farklı bakış açılarına saygı gösterir."
+    },
+    {
+     "code": "TYB.2.3.5",
+     "text": "Empatik iletişim kurmayı engelleyen durumları analiz eder."
+    },
+    {
+     "code": "TYB.2.3.6",
+     "text": "Empatik iletişimi geliştirmek için yeni önerilerde bulunur."
+    }
+   ]
+  },
+  {
+   "name": "TAKIM ÇALIŞMASI",
+   "konu": "",
+   "start": "2027-02-22",
+   "end": "2027-04-11",
+   "outcomes": [
+    {
+     "code": "TYB.2.4.1",
+     "text": "Takım çalışmasını tanımlar.\nTYB.2.4.2. Takım çalışmasının önemini açıklar."
+    },
+    {
+     "code": "TYB.2.4.3",
+     "text": "Takımda sorumluluklarını yerine getirmenin önemini tartışır."
+    },
+    {
+     "code": "TYB.2.4.4",
+     "text": "Takımdaki çatışmaların nedenlerini sorgular."
+    },
+    {
+     "code": "TYB.2.4.5",
+     "text": "Takımdaki çatışmanın giderilmesine yönelik çözüm üretir."
+    },
+    {
+     "code": "TYB.2.4.6",
+     "text": "Takımda alınan ortak kararlara saygı duymanın önemini örnekler üzerinden açıklar."
+    },
+    {
+     "code": "TYB.2.4.7",
+     "text": "Takım çalışmalarında liderin önemini fark eder."
+    }
+   ]
+  },
+  {
+   "name": "BİLİNÇLİ TÜKETİM",
+   "konu": "",
+   "start": "2027-04-12",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "TYB.2.5.1",
+     "text": "İhtiyaç ve istek kavramlarını ayırt eder.\nTYB.2.5.2. Tasarruf tedbirlerini sıralar."
+    },
+    {
+     "code": "TYB.2.5.3",
+     "text": "Acil durumlara yönelik ekonomik tedbirler almanın önemini açıklar."
+    },
+    {
+     "code": "TYB.2.5.4",
+     "text": "Bilinçli tüketici kavramını açıklar."
+    },
+    {
+     "code": "TYB.2.5.5",
+     "text": "Satın alınan ürüne ilişkin belgelerin önemini tüketici hakları kapsamında değerlendirir."
+    },
+    {
+     "code": "TYB.2.5.6",
+     "text": "Ayıplı mal ve hizmet alımlarına yönelik hak arama yollarını açıklar."
+    },
+    {
+     "code": "TYB.2.5.7",
+     "text": "Hakkını aramak için dilekçe yazar."
+    },
+    {
+     "code": "TYB.2.5.8",
+     "text": "Zaman yönetiminin önemini açıklar."
+    },
+    {
+     "code": "TYB.2.5.9",
+     "text": "Etkili zaman yönetimi tekniklerini açıklar."
+    },
+    {
+     "code": "TYB.2.5.10",
+     "text": "Zaman yönetimi açısından zamanını günlük plan yaparak değerlendirir."
+    },
+    {
+     "code": "TYB.2.5.11",
+     "text": "Başarılı kişilerin zaman yönetimi ile kendi zaman yönetimini karşılaştırır."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

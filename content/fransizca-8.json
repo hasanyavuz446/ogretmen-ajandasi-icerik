@@ -1,0 +1,170 @@
+{
+ "grade": 8,
+ "subject": "Fransızca (Seçmeli)",
+ "themes": [
+  {
+   "name": "L’INDIVIDU ET LA SOCIÉTÉ",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2027-02-28",
+   "outcomes": [
+    {
+     "code": "FR.A22.1.P1",
+     "text": "Parler: Donner/demander des informations personnelles."
+    },
+    {
+     "code": "FR.A22.1.P2",
+     "text": "Parler: Parler de sa famille."
+    },
+    {
+     "code": "FR.A22.1.P3",
+     "text": "Parler: Annoncer un événement familial."
+    },
+    {
+     "code": "FR.A22.1.P4",
+     "text": "Parler: Réagir / féliciter."
+    },
+    {
+     "code": "FR.A22.1.P5",
+     "text": "Parler: Décrire ses goûts."
+    },
+    {
+     "code": "FR.A22.1.P6",
+     "text": "Parler: Expliquer pourquoi une chose plaît ou déplaît."
+    },
+    {
+     "code": "FR.A22.1.P7",
+     "text": "Parler: Discuter du programme de la soirée ou du week-end."
+    },
+    {
+     "code": "FR.A22.1.L1",
+     "text": "Lire: Comprendre une lettre personnelle."
+    },
+    {
+     "code": "",
+     "text": "FR.A22.1.É1. Écrire: Annoncer un événement familial."
+    },
+    {
+     "code": "",
+     "text": "FR.A22.1.É3. Écrire: Accepter une proposition."
+    },
+    {
+     "code": "",
+     "text": "FR.A22.1.É4. Écrire: Exprimer des remerciements ou des excuses."
+    }
+   ]
+  },
+  {
+   "name": "LA PERSONNALITÉ ET LE CARACTÈRE",
+   "konu": "",
+   "start": "2027-03-01",
+   "end": "2027-04-04",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A22.2.É1. Écouter: Comprendre un questionnaire d’enquête sur les caractères."
+    },
+    {
+     "code": "FR.A22.2.P1",
+     "text": "Parler: Écrire une courte biographie."
+    },
+    {
+     "code": "FR.A22.2.P2",
+     "text": "Parler: Décrire une personne."
+    },
+    {
+     "code": "FR.A22.2.P3",
+     "text": "Parler: Caractériser une personne."
+    }
+   ]
+  },
+  {
+   "name": "LA SANTÉ",
+   "konu": "",
+   "start": "2027-04-05",
+   "end": "2027-04-18",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A22.3.É1. Écouter: Saisir le point essentiel d’une annonce, d’un message."
+    },
+    {
+     "code": "",
+     "text": "FR.A22.3.É1. Écrire: Écrire une interdiction ou une défense."
+    }
+   ]
+  },
+  {
+   "name": "LA NATURE",
+   "konu": "",
+   "start": "2027-04-19",
+   "end": "2027-04-25",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A22.4.É2. Écouter: Décrire un problème de l’environnement."
+    }
+   ]
+  },
+  {
+   "name": "L’HISTOIRE",
+   "konu": "",
+   "start": "2027-04-26",
+   "end": "2027-05-16",
+   "outcomes": [
+    {
+     "code": "FR.A22.5.P1",
+     "text": "Parler: Raconter des événements au passé."
+    },
+    {
+     "code": "FR.A22.5.P2",
+     "text": "Parler: Situer des événements dans le temps."
+    },
+    {
+     "code": "FR.A22.5.P3",
+     "text": "Parler: Résumer/Raconter un événement passé."
+    }
+   ]
+  },
+  {
+   "name": "LA SCIENCE ET LA TECHNOLOGIE",
+   "konu": "",
+   "start": "2027-05-17",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A22.6.É1. Écouter: Comprendre des messages laissés au répondeur."
+    },
+    {
+     "code": "",
+     "text": "FR.A22.6.É2. Écouter: Comprendre/suivre les inventions technologiques."
+    },
+    {
+     "code": "",
+     "text": "FR.A22.6.É1. Écouter: Suivre un mode d'emploi."
+    },
+    {
+     "code": "",
+     "text": "FR.A22.6.É2. Écouter: Comprendre un règlement rédigé simplement."
+    },
+    {
+     "code": "",
+     "text": "FR.A22.6.É1. Écrire: Faire des hypothèses."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

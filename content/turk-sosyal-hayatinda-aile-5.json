@@ -1,0 +1,154 @@
+{
+ "grade": 5,
+ "subject": "Türk Sosyal Hayatında Aile (Seçmeli)",
+ "themes": [
+  {
+   "name": "AİLENİN ÖNEMİ",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "TSHA.1.1",
+     "text": "Ailenin önemini ifade eder."
+    },
+    {
+     "code": "TSHA.1.2",
+     "text": "Ailenin bireyin gelişimine katkılarını açıklar."
+    },
+    {
+     "code": "TSHA.1.3",
+     "text": "Toplumsal statü ve rol kavramları ile aile arasında ilişki kurar."
+    },
+    {
+     "code": "TSHA.1.4",
+     "text": "Ailenin toplumsal işlevlerine örnekler verir."
+    },
+    {
+     "code": "TSHA.1.5",
+     "text": "Aile kültürünün sosyal yapıya etkisini kavrar."
+    },
+    {
+     "code": "TSHA.1.6",
+     "text": "Değerlerin kazandırılmasında aile kurumunun önemini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "AİLE OLMAK",
+   "konu": "",
+   "start": "2026-12-14",
+   "end": "2027-02-28",
+   "outcomes": [
+    {
+     "code": "TSHA.2.1",
+     "text": "Aile üyelerinin birbirlerine karşı sorumluluk ve görevlerini fark eder."
+    },
+    {
+     "code": "TSHA.2.2",
+     "text": "Aile bağlarını güçlendiren davranışları fark eder."
+    },
+    {
+     "code": "TSHA.2.3",
+     "text": "Kendi aile tarihini bilmenin önemini yorumlar."
+    },
+    {
+     "code": "TSHA.2.4",
+     "text": "Aile içi anlaşmazlıkların çözümüne yönelik fikirler üretir."
+    },
+    {
+     "code": "TSHA.2.5",
+     "text": "Aileyi bir araya getiren olay ve durumlara yönelik eserleri tanıtır."
+    }
+   ]
+  },
+  {
+   "name": "TÜRK AİLE YAPISININ TARİHSEL SÜRECİ",
+   "konu": "",
+   "start": "2027-03-01",
+   "end": "2027-04-25",
+   "outcomes": [
+    {
+     "code": "TSHA.3.1",
+     "text": "Orta Asya Türk devletlerinde aile yapısının özelliklerini açıklar."
+    },
+    {
+     "code": "TSHA.3.2",
+     "text": "İslamiyet’in kabulünün Türk aile yapısına etkisini yorumlar."
+    },
+    {
+     "code": "TSHA.3.3",
+     "text": "Selçuklu Dönemi’nde aile yapısının özelliklerini açıklar."
+    },
+    {
+     "code": "TSHA.3.4",
+     "text": "Osmanlı Devleti’nde aile yapısına yön veren unsurları açıklar."
+    },
+    {
+     "code": "TSHA.3.5",
+     "text": "Cumhuriyetin ilanından sonraki hukuki düzenlemelerin aile yapısı üzerindeki etkilerini açıklar."
+    },
+    {
+     "code": "TSHA.3.6",
+     "text": "Türkiye’de günümüzdeki aile yapısının özelliklerini açıklar."
+    },
+    {
+     "code": "TSHA.3.7",
+     "text": "Tarihimizde aileye verilen değeri örneklerle ifade eder."
+    }
+   ]
+  },
+  {
+   "name": "TOPLUMSAL DEĞİŞİM VE AİLE",
+   "konu": "",
+   "start": "2027-04-26",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "TSHA.4.1",
+     "text": "Toplumsal değişmenin aile kurumuna etkilerini fark eder."
+    },
+    {
+     "code": "TSHA.4.2",
+     "text": "Aile yapısı ve ailenin işlevlerindeki değişimi yorumlar."
+    },
+    {
+     "code": "TSHA.4.3",
+     "text": "Dijital platformların aile ilişkilerine etkilerini açıklar."
+    },
+    {
+     "code": "TSHA.4.4",
+     "text": "Türk aile yapısının değişimini etkileyen unsurları fark eder."
+    },
+    {
+     "code": "TSHA.4.5",
+     "text": "Modern toplumdaki değişim ve gelişmelerin Türk aile yapısına etkilerini yorumlar."
+    },
+    {
+     "code": "TSHA.4.6",
+     "text": "Toplumda hem geniş hem de çekirdek aile yapısının görülebileceğini fark eder."
+    },
+    {
+     "code": "TSHA.4.7",
+     "text": "Akrabalık ilişkilerinin bireylerin sosyalleşmesine katkısını fark eder."
+    },
+    {
+     "code": "TSHA.4.8",
+     "text": "Yaşadığı yerdeki aile ve akrabalık ilişkilerini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

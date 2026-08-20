@@ -1,0 +1,86 @@
+{
+ "grade": 8,
+ "subject": "Peygamberimizin Hayatı (Seçmeli)",
+ "themes": [
+  {
+   "name": "HİCRET’TEN SONRA PEYGAMBERİMİZ",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "PH.8.1.1",
+     "text": "İslam toplumunun oluşum sürecine etki eden gelişmeleri anlayabilme"
+    },
+    {
+     "code": "PH.8.1.2",
+     "text": "Peygamberimizin müşrik, münafık, Yahudi ve Hristiyanlarla kurduğu ilişkileri özetleyebilme"
+    },
+    {
+     "code": "PH.8.1.3",
+     "text": "Veda Hutbesi’nde verilen mesajları idrak edebilme"
+    }
+   ]
+  },
+  {
+   "name": "PEYGAMBERİMİZİN MEDİNELİ ARKADAŞLARI",
+   "konu": "",
+   "start": "2026-12-14",
+   "end": "2027-01-10",
+   "outcomes": [
+    {
+     "code": "PH.8.2.1",
+     "text": "Peygamberimizin Medineli sahabilerle kurduğu iletişimi müşahede edebilme"
+    }
+   ]
+  },
+  {
+   "name": "REHBERİM PEYGAMBERİM",
+   "konu": "",
+   "start": "2027-01-11",
+   "end": "2027-04-25",
+   "outcomes": [
+    {
+     "code": "PH.8.3.1",
+     "text": "Peygamberimizin hayatından hareketle azim ve kararlılığa dair akıl yürütebilme"
+    },
+    {
+     "code": "PH.8.3.2",
+     "text": "Peygamberimizin dua ibadetiyle ilgili tutum ve davranışlarını yansıtabilme"
+    },
+    {
+     "code": "PH.8.3.3",
+     "text": "Peygamberimizin hayatında tevekkülün önemine ilişkin örnekleri yapılandırabilme"
+    }
+   ]
+  },
+  {
+   "name": "ÇALIŞMA HAYATINDA PEYGAMBERİMİZ",
+   "konu": "",
+   "start": "2027-04-26",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "PH.8.4.1",
+     "text": "Peygamberimizin çalışma hayatı hakkında bilgi toplayabilme"
+    },
+    {
+     "code": "PH.8.4.2",
+     "text": "Peygamberimizin çalışma ahlakına dair tavsiye ve uygulamalarını anlayabilme"
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

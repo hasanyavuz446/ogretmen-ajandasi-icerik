@@ -1,0 +1,218 @@
+{
+ "grade": 8,
+ "subject": "Proje Tasarımı ve Uygulamaları (Seçmeli)",
+ "themes": [
+  {
+   "name": "BİLİM, ARAŞTIRMA VE PROJE",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-10-25",
+   "outcomes": [
+    {
+     "code": "PTU.1.1",
+     "text": "Bilgi türlerini açıklar.\nPTU.1.2. Bilgi ve bilimsel bilgiyi ayırt eder."
+    },
+    {
+     "code": "PTU.1.3",
+     "text": "Bilimsel bilgiye sahip araştırmaların özelliklerini sıralar.\nPTU.1.4. Araştırmanın önemini açıklar."
+    },
+    {
+     "code": "PTU.1.5",
+     "text": "Projenin tanımını yapar."
+    },
+    {
+     "code": "PTU.1.6",
+     "text": "Projenin özelliklerini açıklar."
+    },
+    {
+     "code": "PTU.1.7",
+     "text": "Proje hazırlamanın gerekçelerini açıklar."
+    },
+    {
+     "code": "PTU.1.8",
+     "text": "Bilim, araştırma ve proje arasındaki ilişkiyi ayırt eder."
+    }
+   ]
+  },
+  {
+   "name": "PROJE YAŞAM DÖNGÜSÜ",
+   "konu": "",
+   "start": "2026-10-26",
+   "end": "2026-11-15",
+   "outcomes": [
+    {
+     "code": "PTU.2.1",
+     "text": "Proje yaşam döngüsünü açıklar.\nPTU.2.2. Proje çalışmaları ile proje destek programlarına başvuru sürecinde yapılması gerekenleri açıklar."
+    },
+    {
+     "code": "PTU.2.3",
+     "text": "Proje sürecinde girişimci bireyin özelliklerinin önemini açıklar."
+    },
+    {
+     "code": "PTU.2.4",
+     "text": "Girişimcilik üzerine yapılmış projelerin önemini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "PROBLEM DURUMUNUN/PROJE FİKRİNİN BELİRLENMESİ",
+   "konu": "",
+   "start": "2026-11-23",
+   "end": "2026-12-27",
+   "outcomes": [
+    {
+     "code": "PTU.3.1",
+     "text": "Gerçek hayat temelli problem durumlarını/proje fikirlerini belirler.\nPTU.3.2. Belirlediği problem durumlarını/proje fikirlerini tartışır."
+    },
+    {
+     "code": "PTU.3.3",
+     "text": "Problem durumları/proje fikirleri arasından uygun olanı seçer.\nPTU.3.4. Problem durumunun/proje fikrinin çözümüne yönelik fikirler üretir."
+    },
+    {
+     "code": "PTU.3.5",
+     "text": "Problem durumuna/proje fikrine uygun hipotez kurar."
+    },
+    {
+     "code": "PTU.3.6",
+     "text": "Problem durumunun/proje fikrinin değerliliğini kanıtlarıyla sunar."
+    },
+    {
+     "code": "PTU.3.7",
+     "text": "Problem durumu/proje fikri kapsamında bağımlı ve bağımsız değişkenleri açıklar."
+    }
+   ]
+  },
+  {
+   "name": "PROJENİN PLANLANMASI",
+   "konu": "",
+   "start": "2026-12-28",
+   "end": "2027-04-11",
+   "outcomes": [
+    {
+     "code": "PTU.4.1",
+     "text": "Bir proje konusu belirler.\nPTU.4.2. Projenin hedef kitlesine karar verir."
+    },
+    {
+     "code": "PTU.4.3",
+     "text": "Proje ekibinde yer alması gereken kişilerin özelliklerini tanımlar.\nPTU.4.4. Ekip üyeleri arasında iş bölümünün önemini ifade eder."
+    },
+    {
+     "code": "PTU.4.5",
+     "text": "Projenin görev planlama çizelgesini hazırlar.\nPTU.4.6. Projenin süresini planlar."
+    },
+    {
+     "code": "PTU.4.7",
+     "text": "Proje için uygun kaynaklara ulaşır.\nPTU.4.8. Proje planlama teknikleriyle oluşturulan proje planını inceler."
+    },
+    {
+     "code": "PTU.4.9",
+     "text": "Veri toplamak için kullanılabilecek yöntem ve teknikleri açıklar.\nPTU.4.10. Araştırma projesinin raporlaştırılmasında yararlandığı kaynakların kayıtlarını tutar."
+    },
+    {
+     "code": "PTU.4.11",
+     "text": "Proje paydaş analizini yapar."
+    },
+    {
+     "code": "PTU.4.12",
+     "text": "Proje risk analizi tablosu hazırlar."
+    },
+    {
+     "code": "PTU.4.13",
+     "text": "Proje planlama teknikleriyle proje planını oluşturur."
+    },
+    {
+     "code": "PTU.4.14",
+     "text": "Araştırma projesinin raporlaştırılmasında yararlandığı kaynakların kayıtlarını tutar."
+    },
+    {
+     "code": "PTU.4.15",
+     "text": "Bilimsel araştırma etiği ile ilgili temel kavramları açıklar."
+    },
+    {
+     "code": "PTU.4.16",
+     "text": "Araştırma projelerinde etik ilkelerin ihlali sonucunda karşılaşılacak durumları açıklar."
+    },
+    {
+     "code": "PTU.4.17",
+     "text": "Projeyi kurallarına uygun şekilde kapatma yollarını tanımlar."
+    }
+   ]
+  },
+  {
+   "name": "PROJENİN UYGULANMASI",
+   "konu": "",
+   "start": "2027-04-12",
+   "end": "2027-05-09",
+   "outcomes": [
+    {
+     "code": "PTU.5.1",
+     "text": "Veri toplama araçları ile veri toplar.\nPTU.5.2. Verilerin analizinde kullanılan istatistiksel yöntemleri açıklar."
+    },
+    {
+     "code": "PTU.5.3",
+     "text": "Verilerin görselleştirme araçlarıyla düzenlenebileceğini açıklar."
+    },
+    {
+     "code": "PTU.5.4",
+     "text": "Proje bulgularını yorumlar."
+    },
+    {
+     "code": "PTU.5.5",
+     "text": "Projenin amacına ulaşıp ulaşmadığını açıklar."
+    }
+   ]
+  },
+  {
+   "name": "PROJENİN RAPORLAŞTIRILMASI, SUNUMU VE DEĞERLENDİRİLMESİ",
+   "konu": "",
+   "start": "2027-05-10",
+   "end": "2027-06-06",
+   "outcomes": [
+    {
+     "code": "PTU.6.1",
+     "text": "Proje raporunda yazılması gereken başlıkları belirler.\nPTU.6.2. Projede elde ettiği verileri rapor başlıklarına uygun şekilde yazar."
+    },
+    {
+     "code": "PTU.6.3",
+     "text": "Projeyi sunuma hazır hâle getirir."
+    },
+    {
+     "code": "PTU.6.4",
+     "text": "Projeyi etkili sunum teknikleriyle sunar."
+    },
+    {
+     "code": "PTU.6.5",
+     "text": "Proje sürecine yönelik değerlendirme yapar."
+    }
+   ]
+  },
+  {
+   "name": "PROJENİN YAYGINLAŞTIRILMASI/SERGİLENMESİ",
+   "konu": "",
+   "start": "2027-06-07",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "PTU.7.1",
+     "text": "Fikrî haklar tescil durumlarına yönelik başvuru formunu doldurur."
+    },
+    {
+     "code": "PTU.7.2",
+     "text": "Sunuma hazır hâle getirdiği projeyi sergiler."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

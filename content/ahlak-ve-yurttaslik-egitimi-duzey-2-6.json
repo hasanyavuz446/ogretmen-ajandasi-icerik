@@ -1,0 +1,178 @@
+{
+ "grade": 6,
+ "subject": "Ahlak ve Yurttaşlık Eğitimi — Düzey 2 (Seçmeli)",
+ "themes": [
+  {
+   "name": "BİREY VE AHLAK",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "AYE.2.1.1",
+     "text": "Güzel ahlakı temsil eden kişilere örnekler verir."
+    },
+    {
+     "code": "AYE.2.1.2",
+     "text": "Kendi yaşamındaki ahlaki davranışlarını açıklar."
+    },
+    {
+     "code": "AYE.2.1.3",
+     "text": "Ahlaki ölçütlerle ilgili kavramları açıklar."
+    },
+    {
+     "code": "AYE.2.1.4",
+     "text": "Kendi davranışlarını ahlaki ölçütlere göre değerlendirir."
+    },
+    {
+     "code": "AYE.2.1.5",
+     "text": "Yakın çevresindeki olay ve olguları ahlaki ölçütler doğrultusunda değerlendirir."
+    },
+    {
+     "code": "AYE.2.1.6",
+     "text": "Güncel olayları ahlaki ölçütler doğrultusunda değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "TOPLUM VE AHLAK",
+   "konu": "",
+   "start": "2026-12-14",
+   "end": "2027-02-14",
+   "outcomes": [
+    {
+     "code": "AYE.2.2.1",
+     "text": "Ahlakın iyiliğe yönelik boyutunu açıklar."
+    },
+    {
+     "code": "AYE.2.2.2",
+     "text": "Günlük yaşamında karşılaştığı bir olayı ortak fayda temelinde tartışır."
+    },
+    {
+     "code": "AYE.2.2.3",
+     "text": "Toplumsal sorunların çözümüne yönelik ahlaki sorumluluk içeren öneriler sunar."
+    },
+    {
+     "code": "AYE.2.2.4",
+     "text": "Ön yargı ve kalıp yargılarda toplumun rolünü analiz eder."
+    },
+    {
+     "code": "AYE.2.2.5",
+     "text": "Farklı toplumlardaki insan davranışlarının ahlaki boyutlarını karşılaştırır."
+    }
+   ]
+  },
+  {
+   "name": "ORTAK YAŞAM",
+   "konu": "",
+   "start": "2027-02-15",
+   "end": "2027-03-21",
+   "outcomes": [
+    {
+     "code": "AYE.2.3.1",
+     "text": "Ortak yaşamın ortaya çıkardığı gereksinimlere örnekler verir."
+    },
+    {
+     "code": "AYE.2.3.2",
+     "text": "Devletin, ortak yaşam gereksinimlerini karşılamaya yönelik faaliyetlerini tartışır."
+    },
+    {
+     "code": "AYE.2.3.3",
+     "text": "Yurttaşların topluma hizmet çalışmalarındaki yeri ve önemini yorumlar."
+    },
+    {
+     "code": "AYE.2.3.4",
+     "text": "Günlük yaşamındaki ortak yaşam problemlerine çözüm önerileri sunar."
+    }
+   ]
+  },
+  {
+   "name": "EVRENSEL AHLAK",
+   "konu": "",
+   "start": "2027-03-22",
+   "end": "2027-04-25",
+   "outcomes": [
+    {
+     "code": "AYE.2.4.1",
+     "text": "Evrensel ahlak ilkelerini açıklar."
+    },
+    {
+     "code": "AYE.2.4.2",
+     "text": "İnsan hakları ve ahlak ilişkisini yorumlar."
+    },
+    {
+     "code": "AYE.2.4.3",
+     "text": "Ahlakın sürdürülebilir yaşam açısından önemini tartışır."
+    },
+    {
+     "code": "AYE.2.4.4",
+     "text": "Gelecek nesillere yönelik sorumluluklarını değerlendirir."
+    },
+    {
+     "code": "AYE.2.4.5",
+     "text": "Dijital ortamlardaki iletişimde ahlaki davranışları listeler."
+    }
+   ]
+  },
+  {
+   "name": "YURTTAŞLIK",
+   "konu": "",
+   "start": "2027-04-26",
+   "end": "2027-05-23",
+   "outcomes": [
+    {
+     "code": "AYE.2.5.1",
+     "text": "Demokrasi ve yurttaşlık arasındaki bağı fark eder."
+    },
+    {
+     "code": "AYE.2.5.2",
+     "text": "Devlet ile yurttaş arasındaki ilişkiyi düzenleyen kuralları araştırır."
+    },
+    {
+     "code": "AYE.2.5.3",
+     "text": "Yurttaşlık sorumluluklarını yerine getirmeye istekli olur."
+    },
+    {
+     "code": "AYE.2.5.4",
+     "text": "Etkin bir yurttaş olarak toplumsal refaha katkı sağlar."
+    }
+   ]
+  },
+  {
+   "name": "YURTTAŞ OLARAK BEN",
+   "konu": "",
+   "start": "2027-05-24",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "AYE.2.6.1",
+     "text": "Okul yaşamına etkin katılım sağlar."
+    },
+    {
+     "code": "AYE.2.6.2",
+     "text": "Yakın çevresindeki ortak sorunların çözümünde kendi rolünü açıklar."
+    },
+    {
+     "code": "AYE.2.6.3",
+     "text": "Sivil toplum kuruluşlarının faaliyetlerini karşılaştırır."
+    },
+    {
+     "code": "AYE.2.6.4",
+     "text": "Yurttaşlıkla ilgili konular hakkında özgün bir metin yazar."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "grade": 8,
+ "subject": "Düşünme Eğitimi (Seçmeli)",
+ "themes": [
+  {
+   "name": "DÜŞÜNME EVRENİ, HAYAT VE DÜŞÜNME",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-10-04",
+   "outcomes": [
+    {
+     "code": "8.1.1",
+     "text": "Düşünmenin hayatı anlamlı ve değerli kılan bir etkinlik olduğunu fark eder."
+    },
+    {
+     "code": "8.1.2",
+     "text": "Düşünmenin erdemli insan olmadaki rolünü kavrar."
+    },
+    {
+     "code": "8.1.3",
+     "text": "Düşünmenin çabaya bağlı bir etkinlik olduğunu kavrar."
+    }
+   ]
+  },
+  {
+   "name": "DÜŞÜNMEYE ÇAĞRI, GELİŞİMİN ANAHTARI: DÜŞÜNME",
+   "konu": "",
+   "start": "2026-10-05",
+   "end": "2026-10-25",
+   "outcomes": [
+    {
+     "code": "8.2.1",
+     "text": "Düşünmenin gelişim açısından önemini kavrar."
+    },
+    {
+     "code": "8.2.2",
+     "text": "Bilginin değişebileceğini ve gelişebileceğini fark eder."
+    },
+    {
+     "code": "8.2.3",
+     "text": "Düşünmenin önündeki engelleri kavrar."
+    }
+   ]
+  },
+  {
+   "name": "DÜŞÜNME: HAYATIN İNŞASI",
+   "konu": "",
+   "start": "2026-10-26",
+   "end": "2027-02-14",
+   "outcomes": [
+    {
+     "code": "8.3.1.1",
+     "text": "Düşünmenin bireyi özgürleştirdiğini fark eder."
+    },
+    {
+     "code": "8.3.1.2",
+     "text": "Düşünce ve eylemlerinde sorumluluk bilinci içinde davranır."
+    },
+    {
+     "code": "8.3.1.3",
+     "text": "Düşüncelerinde hak ve sorumluluk dengesine uygun davranır."
+    },
+    {
+     "code": "8.3.1.4",
+     "text": "Deneyimlerinin olumlu benlik duygusunu geliştirmedeki rolünü kavrar."
+    },
+    {
+     "code": "8.3.2.1",
+     "text": "Sorgulayıcı ve eleştirel tutum sergiler."
+    },
+    {
+     "code": "8.3.2.2",
+     "text": "İddialar ve gerçekler arasındaki ilişkiyi sorgular."
+    },
+    {
+     "code": "8.3.2.3",
+     "text": "Bilginin güvenirliğini sorgular."
+    },
+    {
+     "code": "8.3.2.4",
+     "text": "Fikirleri desteklemek ve çürütmek için uygun kanıtlar kullanır."
+    },
+    {
+     "code": "8.3.3.1",
+     "text": "Özgün düşünceler üretmenin önemini fark eder."
+    },
+    {
+     "code": "8.3.3.2",
+     "text": "Düşüncelerinde esneklik gösterir."
+    },
+    {
+     "code": "8.3.3.3",
+     "text": "Alternatif fikirler geliştirir."
+    },
+    {
+     "code": "8.3.3.4",
+     "text": "Seçenekler arasında uygun olanı değerlendirir."
+    },
+    {
+     "code": "8.3.3.5",
+     "text": "Fikirlerine eklemeler yaparak zenginleştirir."
+    }
+   ]
+  },
+  {
+   "name": "DÜŞÜNMENİN BOYUTLARI, DÜŞÜNMENİN YOLCULUĞU",
+   "konu": "",
+   "start": "2027-02-15",
+   "end": "2027-04-11",
+   "outcomes": [
+    {
+     "code": "8.4.1",
+     "text": "Sorunların çözümünde izleyeceği adımları planlar."
+    },
+    {
+     "code": "8.4.2",
+     "text": "Sorunların çözümünde amacına uygun araç kullanır."
+    },
+    {
+     "code": "8.4.3",
+     "text": "Düşüncelerini mantıksal bütünlük içinde ifade eder."
+    },
+    {
+     "code": "8.4.4",
+     "text": "Düşüncelerinde tutarlı olmaya özen gösterir."
+    },
+    {
+     "code": "8.4.5",
+     "text": "Düşüncelerindeki çelişkileri sorgular."
+    },
+    {
+     "code": "8.4.6",
+     "text": "Karşılaşılan güç bir durumdan yeni imkânların doğabileceğinin farkına varır."
+    },
+    {
+     "code": "8.4.7",
+     "text": "Olay ve olguları kendi bağlamında değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "DÜŞÜNMENİN RENKLERİ",
+   "konu": "",
+   "start": "2027-04-12",
+   "end": "2027-05-30",
+   "outcomes": [
+    {
+     "code": "8.5.1.1",
+     "text": "Düşüncelerini nezaket içinde açık ve etkili şekilde ifade eder."
+    },
+    {
+     "code": "8.5.1.2",
+     "text": "Düşüncelerini örnek ve metafor kullanarak açıklar."
+    },
+    {
+     "code": "8.5.1.3",
+     "text": "Bir düşünceyi farklı biçimlerde ifade eder."
+    },
+    {
+     "code": "8.5.2.1",
+     "text": "Kendisinin de eleştirilebileceğini fark eder."
+    },
+    {
+     "code": "8.5.2.2",
+     "text": "Önyargılarının farkına varır."
+    },
+    {
+     "code": "8.5.2.3",
+     "text": "Hatalarından ders çıkarır."
+    },
+    {
+     "code": "8.5.2.4",
+     "text": "Eleştirilerinde ölçülü davranır."
+    }
+   ]
+  },
+  {
+   "name": "DÜŞÜNMENİN DİNAMİZMİ",
+   "konu": "",
+   "start": "2027-05-31",
+   "end": "2027-06-13",
+   "outcomes": [
+    {
+     "code": "8.6.1",
+     "text": "Hayal etmenin geleceği kurmadaki rolünü kavrar."
+    },
+    {
+     "code": "8.6.2",
+     "text": "Geleceğine dair planlar yapar."
+    }
+   ]
+  },
+  {
+   "name": "DÜŞÜNME: İNSANIN AYNASI DÜŞÜNCEDEN GELENEĞE…",
+   "konu": "",
+   "start": "2027-06-14",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "8.7.1",
+     "text": "Geleneğin oluşmasında düşünürlerin önemini kavrar."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "grade": 5,
+ "subject": "Afet Bilinci — Düzey 1 (Seçmeli)",
+ "themes": [
+  {
+   "name": "DOĞA VE İNSAN ETKİLEŞİMİ",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "AB.1.1.1",
+     "text": "Risk, tehlike ve afet kavramlarını açıklar."
+    },
+    {
+     "code": "AB.1.1.2",
+     "text": "Afete neden olabilecek doğa ve insan kaynaklı olayları sınıflandırır."
+    },
+    {
+     "code": "AB.1.1.3",
+     "text": "Doğa kaynaklı olayların afet riskine dönüşmesinde insanın rolü hakkında çıkarımlarda bulunur."
+    },
+    {
+     "code": "AB.1.1.4",
+     "text": "Afetlere karşı bilinçli olmanın afet ve acil durum yönetimindeki önemini açıklar."
+    },
+    {
+     "code": "AB.1.1.5",
+     "text": "İlk yardımın öncelikli amaçlarını açıklar."
+    },
+    {
+     "code": "AB.1.1.6",
+     "text": "Afet ve acil durum risk yönetiminde aktör olan ulusal ve uluslararası kuruluşların çalışmalarını değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "DOĞA KAYNAKLI AFET TÜRLERİ",
+   "konu": "",
+   "start": "2026-12-14",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "AB.1.2.1",
+     "text": "Yerleşim yerinin kuruluş ve gelişim sürecinde afet riskinin göz önünde bulundurulmasının"
+    },
+    {
+     "code": "AB.1.2.2",
+     "text": "Deprem olayının afete dönüşmesinin nedenlerini analiz eder."
+    },
+    {
+     "code": "AB.1.2.3",
+     "text": "Deprem öncesinde, esnasında ve sonrasında alınması gereken önlemleri açıklar."
+    },
+    {
+     "code": "AB.1.2.4",
+     "text": "Deprem afetine maruz kalındığında enkaz altında yapılması gerekenleri açıklar."
+    },
+    {
+     "code": "AB.1.2.5",
+     "text": "Sel ve taşkın olaylarının afete dönüşme nedenlerini açıklar."
+    },
+    {
+     "code": "AB.1.2.6",
+     "text": "Sel ve taşkın tehlikesine karşı alınacak önlemleri açıklar."
+    },
+    {
+     "code": "AB.1.2.7",
+     "text": "Türkiye’de sel ve taşkın riski yüksek olan yerler hakkında çıkarımlarda bulunur."
+    },
+    {
+     "code": "AB.1.2.8",
+     "text": "Sel ve taşkın esnasında yapılması gerekenleri açıklar."
+    },
+    {
+     "code": "AB.1.2.9",
+     "text": "Sel ve taşkın sonrasında yapılması gerekenleri örnekler üzerinden açıklar."
+    },
+    {
+     "code": "AB.1.2.10",
+     "text": "Kütle hareketlerinin afete dönüşme nedenlerini açıklar."
+    },
+    {
+     "code": "AB.1.2.11",
+     "text": "Heyelan tehlikesine karşı alınacak önlemleri açıklar."
+    },
+    {
+     "code": "AB.1.2.12",
+     "text": "Türkiye’de heyelan riski yüksek olan yerler hakkında çıkarımda bulunur."
+    },
+    {
+     "code": "AB.1.2.13",
+     "text": "Heyelan esnasında yapılması gerekenleri açıklar."
+    },
+    {
+     "code": "AB.1.2.14",
+     "text": "Heyelan sonrasında yapılması gerekenleri örnekler üzerinden tartışır."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,194 @@
+{
+ "grade": 7,
+ "subject": "Bilişim Teknolojileri ve Yazılım (Seçmeli)",
+ "themes": [
+  {
+   "name": "BİLİŞİM TEKNOLOJİLERİ",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-10-04",
+   "outcomes": [
+    {
+     "code": "SBT.7.1.1.1",
+     "text": "Bilişim teknolojilerinin zaman içindeki değişimlerini tartışır."
+    },
+    {
+     "code": "SBT.7.1.1.2",
+     "text": "Bilişim teknolojilerini kullanarak yapılabilecek yenilikleri fark eder."
+    },
+    {
+     "code": "SBT.7.1.1.3",
+     "text": "Bilgisayar bilimleri tarafından geliştirilen disiplinler arası kariyerleri açıklar."
+    }
+   ]
+  },
+  {
+   "name": "ETİK VE GÜVENLİK",
+   "konu": "",
+   "start": "2026-10-05",
+   "end": "2026-11-15",
+   "outcomes": [
+    {
+     "code": "SBT.7.2.1.1",
+     "text": "Bilgi ve teknoloji kullanımında etik olan ve olmayan davranışları tartışır."
+    },
+    {
+     "code": "SBT.7.2.1.2",
+     "text": "Fikri mülkiyet haklarının önemini değerlendirir."
+    },
+    {
+     "code": "SBT.7.2.2.1",
+     "text": "Gizlilik ve güvenlik problemlerinin neden olduğu bireysel ve toplumsal etkileri tartışır."
+    },
+    {
+     "code": "SBT.7.2.2.2",
+     "text": "Bilgi güvenliği ve gizliliğine karşı tehditleri açıklar."
+    },
+    {
+     "code": "SBT.7.2.2.3",
+     "text": "Çeşitli ortamların güvenlik düzeyini değerlendirir."
+    },
+    {
+     "code": "SBT.7.2.2.4",
+     "text": "Güvenlik için tehdit oluşturabilecek yapılara karşı alınabilecek önlemleri açıklar."
+    }
+   ]
+  },
+  {
+   "name": "PROBLEM ÇÖZME VE PROGRAMLAMA",
+   "konu": "",
+   "start": "2026-11-23",
+   "end": "2027-03-28",
+   "outcomes": [
+    {
+     "code": "SBT.7.3.1.1",
+     "text": "Bir problemi alt problemlere ayırır."
+    },
+    {
+     "code": "SBT.7.3.1.2",
+     "text": "Bir problemi çözmek üzere farklı algoritmalar tasarlar."
+    },
+    {
+     "code": "SBT.7.3.1.3",
+     "text": "Tasarlanan algoritmanın akış şemasını oluşturur."
+    },
+    {
+     "code": "SBT.7.3.1.4",
+     "text": "Tasarlanan algoritmayı test eder ve hataları ayıklar."
+    },
+    {
+     "code": "SBT.7.3.1.5",
+     "text": "Algoritma tasarımı ile programlama dili arasındaki ilişkiyi ortaya koyar."
+    },
+    {
+     "code": "SBT.7.3.2.1",
+     "text": "Programlama aracının arayüzünü ve özelliklerini tanır."
+    },
+    {
+     "code": "SBT.7.3.2.2",
+     "text": "Belirli bir problemi çözmek üzere geliştirdiği algoritmayı hatasız bir programa dönüştürür."
+    },
+    {
+     "code": "SBT.7.3.2.3",
+     "text": "Verilen bir probleme uygun söz dizimi oluşturur."
+    },
+    {
+     "code": "SBT.7.3.2.4",
+     "text": "Verilen bir söz dizimini test eder ve hataları ayıklar."
+    },
+    {
+     "code": "SBT.7.3.2.5",
+     "text": "Problemin çözümüne yönelik değişkenleri kullanır."
+    },
+    {
+     "code": "SBT.7.3.2.6",
+     "text": "Problemin çözümüne yönelik koşullu ifadeleri kullanır."
+    },
+    {
+     "code": "SBT.7.3.2.7",
+     "text": "Problemin çözümüne yönelik döngüleri kullanır."
+    },
+    {
+     "code": "SBT.7.3.2.8",
+     "text": "Problemin çözümüne yönelik fonksiyonları kullanır."
+    },
+    {
+     "code": "SBT.7.3.2.9",
+     "text": "Belirli bir problemin çözümüne yönelik özgün ürün geliştirir."
+    },
+    {
+     "code": "",
+     "text": "(ünite devamı)"
+    }
+   ]
+  },
+  {
+   "name": "ÜRÜN OLUŞTURMA",
+   "konu": "",
+   "start": "2027-03-29",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "SBT.7.4.1.1",
+     "text": "Belirli bir amaç için grafik ve animasyonları kullanarak sunu oluşturur."
+    },
+    {
+     "code": "SBT.7.4.1.2",
+     "text": "Belirli bir amaç için zihin haritası tasarlar."
+    },
+    {
+     "code": "SBT.7.4.1.3",
+     "text": "Sayısal verilerden oluşan grafik ve bilgi grafiği geliştirir."
+    },
+    {
+     "code": "SBT.7.4.1.4",
+     "text": "Poster oluşturma programı kullanarak bir poster tasarlar."
+    },
+    {
+     "code": "SBT.7.4.1.5",
+     "text": "Sayfa tasarım programları kullanarak bir ürün oluşturur."
+    },
+    {
+     "code": "SBT.7.4.1.6",
+     "text": "Engelli bireyler için yazılı ve görsel materyaller oluşturur."
+    },
+    {
+     "code": "SBT.7.4.1.7",
+     "text": "İş birliğine dayalı proje üretir."
+    },
+    {
+     "code": "SBT.7.4.2.1",
+     "text": "Animasyon ile ilgili temel kavramları açıklar."
+    },
+    {
+     "code": "SBT.7.4.2.2",
+     "text": "Öykü yaprakları (storyboard) yardımıyla animasyonun senaryosunu oluşturur."
+    },
+    {
+     "code": "SBT.7.4.2.3",
+     "text": "Kullanılan animasyon programının arayüzünü ve özelliklerini tanır."
+    },
+    {
+     "code": "SBT.7.4.2.4",
+     "text": "Belirli bir amaç için animasyon oluşturur."
+    },
+    {
+     "code": "",
+     "text": "(ünite devamı)"
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

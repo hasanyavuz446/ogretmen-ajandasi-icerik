@@ -1,0 +1,182 @@
+{
+ "grade": 8,
+ "subject": "Yazarlık ve Yazma Becerileri (Seçmeli)",
+ "themes": [
+  {
+   "name": "Hazırlık",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-12-20",
+   "outcomes": [
+    {
+     "code": "YYB.1.1",
+     "text": "Yazılı anlatım öncesinde bir konu belirler."
+    },
+    {
+     "code": "YYB.1.2",
+     "text": "Yazma konusu ile ilgili anahtar kelimeleri, temel kavramları belirler."
+    },
+    {
+     "code": "YYB.1.3",
+     "text": "Yazma konusunu sınırlandırır."
+    },
+    {
+     "code": "YYB.1.4",
+     "text": "Yazma amacını belirler."
+    },
+    {
+     "code": "YYB.1.5",
+     "text": "Yazısının hedef kitlesini ve türünü belirler."
+    },
+    {
+     "code": "YYB.1.6",
+     "text": "Yazma konusu ile ilgili araştırma yapar."
+    },
+    {
+     "code": "YYB.1.7",
+     "text": "Yazısı ile ilgili farklı kaynaklardan yararlanır."
+    },
+    {
+     "code": "YYB.1.8",
+     "text": "Yazısı ile ilgili topladığı bilgileri düzenler."
+    }
+   ]
+  },
+  {
+   "name": "Planlama",
+   "konu": "",
+   "start": "2026-12-21",
+   "end": "2027-01-17",
+   "outcomes": [
+    {
+     "code": "YYB.2.1",
+     "text": "Yazısına uygun bir yazma planı oluşturur."
+    },
+    {
+     "code": "YYB.2.2",
+     "text": "Yazısının ana ve alt başlıklarını belirler."
+    },
+    {
+     "code": "YYB.2.3",
+     "text": "Yazısının anlatım planını oluşturur."
+    },
+    {
+     "code": "YYB.2.4",
+     "text": "Yazısının bölümleri arasında bütünlüğü sağlar."
+    }
+   ]
+  },
+  {
+   "name": "Geliştirme",
+   "konu": "",
+   "start": "2027-01-18",
+   "end": "2027-04-04",
+   "outcomes": [
+    {
+     "code": "YYB.3.1",
+     "text": "Yazısının tür özelliklerine uygun bir anlatım biçimi ile giriş yapar."
+    },
+    {
+     "code": "YYB.3.2",
+     "text": "Yazısının ana düşüncesini yardımcı düşüncelerle destekler."
+    },
+    {
+     "code": "YYB.3.3",
+     "text": "Yazısında düşünceyi geliştirme yollarından yararlanır."
+    },
+    {
+     "code": "YYB.3.4",
+     "text": "Yazısının bölümleri arasında uygun geçişler yapar."
+    },
+    {
+     "code": "YYB.3.5",
+     "text": "Yazısında anlaşılmayan bölümleri düzenler."
+    },
+    {
+     "code": "YYB.3.6",
+     "text": "Yazısını konuyla ilgisiz ayrıntılara girmeden ve tekrara düşmeden yazar."
+    },
+    {
+     "code": "YYB.3.7",
+     "text": "Yazısında ilgi uyandıran bilgi, düşünce ve olaylara yer verir."
+    },
+    {
+     "code": "YYB.3.8",
+     "text": "Yazısını etkileyici bir şekilde bitirir."
+    }
+   ]
+  },
+  {
+   "name": "Düzeltme",
+   "konu": "",
+   "start": "2027-04-05",
+   "end": "2027-05-16",
+   "outcomes": [
+    {
+     "code": "YYB.4.1",
+     "text": "Yazısında düşünce ve olayları birbiriyle tutarlı sıralar."
+    },
+    {
+     "code": "YYB.4.2",
+     "text": "Yazısında anlatım bozukluğu olan cümleleri düzeltir."
+    },
+    {
+     "code": "YYB.4.3",
+     "text": "Yazısında neden-sonuç, amaç-sonuç ilişkilerini doğru kurar."
+    },
+    {
+     "code": "YYB.4.4",
+     "text": "Yazısında bağlama uygun sözcükler kullanır."
+    },
+    {
+     "code": "YYB.4.5",
+     "text": "Yazısında noktalama işaretlerini doğru kullanır."
+    },
+    {
+     "code": "YYB.4.6",
+     "text": "Yazısında yazım kurallarına uyar."
+    }
+   ]
+  },
+  {
+   "name": "Sunum (Yayımlama, Paylaşma)",
+   "konu": "",
+   "start": "2027-05-17",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "YYB.5.1",
+     "text": "Yazısını türün özelliklerine uygun düzenler."
+    },
+    {
+     "code": "YYB.5.2",
+     "text": "Yazısında düzgün ve okunaklı bir yazı kullanır."
+    },
+    {
+     "code": "YYB.5.3",
+     "text": "Yazısında sayfa düzenine dikkat eder."
+    },
+    {
+     "code": "YYB.5.4",
+     "text": "Yazısında kullandığı başlık ve görselleri ilgi çekici şekilde düzenler."
+    },
+    {
+     "code": "YYB.5.5",
+     "text": "Yazdıklarını paylaşır."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

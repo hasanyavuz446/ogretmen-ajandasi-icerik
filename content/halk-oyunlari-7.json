@@ -1,0 +1,170 @@
+{
+ "grade": 7,
+ "subject": "Halk Oyunları (Seçmeli)",
+ "themes": [
+  {
+   "name": "TEMEL KAVRAMLAR",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-10-25",
+   "outcomes": [
+    {
+     "code": "HO.1.1",
+     "text": "Halk oyunlarında kullanılan kavramları açıklar."
+    },
+    {
+     "code": "HO.1.2",
+     "text": "Seçilen oyunla ilgili temel figürleri tanır."
+    },
+    {
+     "code": "HO.1.3",
+     "text": "Seçilen oyunun ortaya çıkış hikâyesini araştırır."
+    }
+   ]
+  },
+  {
+   "name": "HALK OYUNLARININ TÜRLERE GÖRE DAĞILIMI",
+   "konu": "",
+   "start": "2026-10-26",
+   "end": "2026-11-08",
+   "outcomes": [
+    {
+     "code": "HO.2.1",
+     "text": "Seçilen halk oyunlarını türlerine göre sınıflandırır."
+    }
+   ]
+  },
+  {
+   "name": "HALK OYUNLARINDA MÜZİK VE RİTİM",
+   "konu": "",
+   "start": "2026-11-09",
+   "end": "2027-01-24",
+   "outcomes": [
+    {
+     "code": "HO.3.1",
+     "text": "Seçilen halk oyununda kullanılan çalgıları tanır."
+    },
+    {
+     "code": "HO.3.2",
+     "text": "Seçilen halk oyunu müziklerinin belirgin özelliklerini tanır."
+    },
+    {
+     "code": "HO.3.3",
+     "text": "Seçilen halk oyununun ölçü ve tartım kalıbını açıklar."
+    },
+    {
+     "code": "HO.3.4",
+     "text": "El çırpma, ayak vurma veya çeşitli ritim araçları ile ritmik yapıyı uygular."
+    },
+    {
+     "code": "HO.3.5",
+     "text": "Ritme uygun sözel sayım yapar."
+    }
+   ]
+  },
+  {
+   "name": "HALK OYUNLARI HAREKET BECERİLERİ",
+   "konu": "",
+   "start": "2027-02-08",
+   "end": "2027-04-04",
+   "outcomes": [
+    {
+     "code": "HO.4.1",
+     "text": "Isınma ve soğuma hareketlerini amacına uygun yapar."
+    },
+    {
+     "code": "HO.4.2",
+     "text": "Seçilen halk oyununun ayak hareketlerini estetik biçimde ve ahenk ile uygular."
+    },
+    {
+     "code": "HO.4.3",
+     "text": "Seçilen halk oyununun el ve kol hareketlerini estetik biçimde ve ahenk ile uygular."
+    },
+    {
+     "code": "HO.4.4",
+     "text": "Seçilen halk oyununa özgü mimik, jest ve tavrı estetik biçimde ve ahenk ile yapar."
+    },
+    {
+     "code": "HO.4.5",
+     "text": "Seçilen halk oyununa özgü hareket örüntülerini sırasıyla yapar."
+    },
+    {
+     "code": "HO.4.6",
+     "text": "Seçilen halk oyununun hareket becerilerini bireysel, eşli veya grup ile sergiler."
+    }
+   ]
+  },
+  {
+   "name": "BÖLGE VE YÖRELERE GÖRE HALK OYUNLARI KIYAFETLERİ",
+   "konu": "",
+   "start": "2027-04-05",
+   "end": "2027-04-18",
+   "outcomes": [
+    {
+     "code": "HO.5.1",
+     "text": "Bölge ve yörelere göre halk oyunları giysilerini ve aksesuarlarını tanır."
+    },
+    {
+     "code": "HO.5.2",
+     "text": "Seçilen halk oyununun giysi ve aksesuarlarını yöresine uygun şekilde kullanır."
+    }
+   ]
+  },
+  {
+   "name": "SAHNE VE SAHNELEME UYGULAMALARI",
+   "konu": "",
+   "start": "2027-04-19",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "HO.6.1",
+     "text": "Koreografinin (koreoloji) tanımını yapar."
+    },
+    {
+     "code": "HO.6.2",
+     "text": "Halk oyunlarında koreografinin önemini fark eder."
+    },
+    {
+     "code": "HO.6.3",
+     "text": "Sahne çeşit ve tekniklerini açıklar."
+    },
+    {
+     "code": "HO.6.4",
+     "text": "Seçilen halk oyununun sahneleme çalışmalarını yapar."
+    },
+    {
+     "code": "HO.6.5",
+     "text": "Seçilen halk oyununu ritim eşliğinde oynar."
+    },
+    {
+     "code": "HO.6.6",
+     "text": "Seçilen halk oyununu ezgi eşliğinde oynar."
+    },
+    {
+     "code": "HO.6.7",
+     "text": "Seçilen halk oyununda ezgi eşliğinde bireysel, eşli veya grup ile birlikte sesli komutları verir."
+    },
+    {
+     "code": "HO.6.8",
+     "text": "Seçilen halk oyununu uygun çizgi ve oyun formalarında oynar."
+    },
+    {
+     "code": "HO.6.9",
+     "text": "Millî bayram ve kutlama törenlerinde halk oyunlarına özgü edindiği becerileri sergiler."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

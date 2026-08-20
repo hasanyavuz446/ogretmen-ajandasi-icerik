@@ -1,0 +1,178 @@
+{
+ "grade": 6,
+ "subject": "Şehrimiz (Seçmeli)",
+ "themes": [
+  {
+   "name": "ŞEHİRLERİN HİKÂYESİ",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-11-08",
+   "outcomes": [
+    {
+     "code": "Ş.1.1",
+     "text": "Birlikte yaşamanın gerekliliğini fark eder."
+    },
+    {
+     "code": "Ş.1.2",
+     "text": "Şehri meydana getiren unsurlardan yola çıkarak şehrin ne olduğunu bilir."
+    },
+    {
+     "code": "Ş.1.3",
+     "text": "Medeniyetlere yön vermiş şehirleri araştırır."
+    },
+    {
+     "code": "Ş.1.4",
+     "text": "Şehrin insana, insanın şehre olan etkisini tartışır."
+    }
+   ]
+  },
+  {
+   "name": "ŞEHİRDE YAŞAM",
+   "konu": "",
+   "start": "2026-11-09",
+   "end": "2027-01-03",
+   "outcomes": [
+    {
+     "code": "Ş.2.1",
+     "text": "Şehirdeki sosyal yaşamı fark eder."
+    },
+    {
+     "code": "Ş.2.2",
+     "text": "Medeni yaşantının kurallara uymakla mümkün olabileceğini kavrar."
+    },
+    {
+     "code": "Ş.2.3",
+     "text": "Şehrin fırsat ve riskler içerdiğini fark eder."
+    },
+    {
+     "code": "Ş.2.4",
+     "text": "Engelsiz yaşam alanlarının önemini kavrar."
+    },
+    {
+     "code": "Ş.2.5",
+     "text": "Şehrin sadece insanlardan oluşmadığını, diğer canlılara karşı şefkatli ve duyarlı olmanın gerekliliğini kavrar."
+    }
+   ]
+  },
+  {
+   "name": "ŞEHRİMİ TANIYORUM",
+   "konu": "",
+   "start": "2027-01-04",
+   "end": "2027-03-07",
+   "outcomes": [
+    {
+     "code": "Ş.3.1",
+     "text": "Yaşadığı ilin coğrafi konumunu ve coğrafi özelliklerini araştırır."
+    },
+    {
+     "code": "Ş.3.2",
+     "text": "Yaşadığı şehirdeki insan doğa etkileşimini açıklar."
+    },
+    {
+     "code": "Ş.3.3",
+     "text": "Yaşadığı şehrin demografik yapısını açıklar."
+    },
+    {
+     "code": "Ş.3.4",
+     "text": "Yaşadığı şehirde karşılaşılabilecek doğal afetleri araştırır."
+    },
+    {
+     "code": "Ş.3.5",
+     "text": "Yaşadığı ilin dünden bugüne idari yapısını tanır."
+    },
+    {
+     "code": "Ş.3.6",
+     "text": "Yaşadığı şehrin kuruluş ve gelişim sürecini araştırır."
+    },
+    {
+     "code": "Ş.3.7",
+     "text": "Yaşadığı şehre komşu ve kardeş şehirlerin benzer ve farklı yönlerini araştırır."
+    }
+   ]
+  },
+  {
+   "name": "ŞEHRİM ÇALIŞIYOR",
+   "konu": "",
+   "start": "2027-03-15",
+   "end": "2027-04-11",
+   "outcomes": [
+    {
+     "code": "Ş.4.1",
+     "text": "Şehrin gelişiminde etkili olan ekonomik unsurların önemini kavrar."
+    },
+    {
+     "code": "Ş.4.2",
+     "text": "Şehre özgü üretim alanlarını ve zanaatları tanır."
+    },
+    {
+     "code": "Ş.4.3",
+     "text": "Yaşadığı şehrin turizme katkılarını fark eder."
+    },
+    {
+     "code": "Ş.4.4",
+     "text": "Yaşadığı şehrin ulaşım ve iletişim imkânlarını araştırır."
+    }
+   ]
+  },
+  {
+   "name": "ŞEHRİMDE BEN",
+   "konu": "",
+   "start": "2027-04-12",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "Ş.5.1",
+     "text": "Yaşadığı şehrin kültür ve sanat imkânlarını bilir."
+    },
+    {
+     "code": "Ş.5.2",
+     "text": "Yaşadığı şehrin tarihî ve kültürel mekânlarını inceler."
+    },
+    {
+     "code": "Ş.5.3",
+     "text": "Şehrin yetiştirdiği tarihî şahsiyetleri, sanat, edebiyat, müzik, spor ve bilim insanlarını tanır."
+    },
+    {
+     "code": "Ş.5.4",
+     "text": "Yaşadığı şehrin somut olmayan kültür varlıklarını keşfeder."
+    },
+    {
+     "code": "Ş.5.5",
+     "text": "Yaşadığı şehre özgü dil özelliklerini fark eder."
+    },
+    {
+     "code": "Ş.5.6",
+     "text": "Yaşadığı şehre özgü yerel yayıncılığın zaman içerisindeki gelişimini ve bugünkü durumunu araştırır."
+    },
+    {
+     "code": "Ş.5.7",
+     "text": "Yaşadığı şehre özgü müzik kültürünü tanır."
+    },
+    {
+     "code": "Ş.5.8",
+     "text": "Yaşadığı şehrin önemli günlerini bilir."
+    },
+    {
+     "code": "Ş.5.9",
+     "text": "Yaşadığı şehrin çocuk ve gençlere sağladığı hizmetleri araştırır."
+    },
+    {
+     "code": "Ş.5.10",
+     "text": "Yaşadığı şehirdeki geleneksel ve güncel spor imkânlarını ve faaliyetlerini araştırır."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

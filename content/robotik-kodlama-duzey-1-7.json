@@ -1,0 +1,202 @@
+{
+ "grade": 7,
+ "subject": "Robotik Kodlama — Düzey 1 (Seçmeli)",
+ "themes": [
+  {
+   "name": "ROBOTİK KAVRAMINA GİRİŞ",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-10-11",
+   "outcomes": [
+    {
+     "code": "RK.1.1.1.1",
+     "text": "Robotik kavramını açıklar."
+    },
+    {
+     "code": "RK.1.1.2.1",
+     "text": "Robotik uygulamalarının günlük hayata katkılarını örnekler üzerinden açıklar."
+    },
+    {
+     "code": "RK.1.1.2.2",
+     "text": "Robotik uygulamalarının günlük hayata olabilecek olumsuz etkilerini örnekler üzerinden açıklar."
+    },
+    {
+     "code": "RK.1.1.2.3",
+     "text": "Robotik uygulamaların günlük hayattaki riskli yönlerini araştırır."
+    }
+   ]
+  },
+  {
+   "name": "KODLAMAYA GİRİŞ",
+   "konu": "",
+   "start": "2026-10-12",
+   "end": "2027-01-03",
+   "outcomes": [
+    {
+     "code": "RK.1.2.1.1",
+     "text": "Algoritma kavramını tanımlar.\nRK.1.2.1.2. Algoritmanın işlem adımlarından oluştuğunu fark eder."
+    },
+    {
+     "code": "RK.1.2.1.3",
+     "text": "Algoritmanın işlem adımlarının sırasının önemini fark eder."
+    },
+    {
+     "code": "RK.1.2.2.1",
+     "text": "Karar yapılarının tanımını yapar."
+    },
+    {
+     "code": "RK.1.2.2.2",
+     "text": "Karar yapılarının kullanım alanlarını açıklar."
+    },
+    {
+     "code": "RK.1.2.3.1",
+     "text": "Döngü kavramının tanımını yapar."
+    },
+    {
+     "code": "RK.1.2.3.2",
+     "text": "Döngü kavramının kullanım alanlarını açıklar."
+    },
+    {
+     "code": "RK.1.2.4.1",
+     "text": "Veri türlerini açıklar."
+    },
+    {
+     "code": "RK.1.2.5.1",
+     "text": "Değişken kavramının tanımını yapar."
+    },
+    {
+     "code": "RK.1.2.6.1",
+     "text": "Akış diyagramı kavramını açıklar."
+    },
+    {
+     "code": "RK.1.2.6.2",
+     "text": "Akış diyagramında kullanılan sembollerin anlamlarını açıklar."
+    },
+    {
+     "code": "RK.1.2.6.3",
+     "text": "Bir problemin çözümüne yönelik akış diyagramı oluşturur."
+    }
+   ]
+  },
+  {
+   "name": "ROBOTİK KODLAMA ORTAMLARI",
+   "konu": "",
+   "start": "2027-01-04",
+   "end": "2027-02-21",
+   "outcomes": [
+    {
+     "code": "RK.1.3.1.1",
+     "text": "Çevrim içi blok tabanlı ortamlara erişim sağlar."
+    },
+    {
+     "code": "RK.1.3.1.2",
+     "text": "Çevrim dışı blok tabanlı geliştirme ortamının kurulumunu yapar."
+    },
+    {
+     "code": "RK.1.3.1.3",
+     "text": "Blok tabanlı geliştirme ortamının arayüzünü tanır."
+    },
+    {
+     "code": "RK.1.3.1.4",
+     "text": "Blok tabanlı geliştirme ortamına ait algılayıcıları ayırt eder."
+    },
+    {
+     "code": "RK.1.3.2.1",
+     "text": "Robotik kodlama benzetim ortamlarını açıklar."
+    }
+   ]
+  },
+  {
+   "name": "ROBOTİK KODLAMA UYGULAMALARINA AİT BİLEŞENLER",
+   "konu": "",
+   "start": "2027-02-22",
+   "end": "2027-03-28",
+   "outcomes": [
+    {
+     "code": "RK.1.4.1.1",
+     "text": "Robotik kodlamada kullanılan elektronik devre elemanlarını tanır."
+    },
+    {
+     "code": "RK.1.4.1.2",
+     "text": "Elektronik devre kartlarının sistem (girdi, işlem, çıktı) bileşenlerini açıklar."
+    },
+    {
+     "code": "RK.1.4.1.3",
+     "text": "Robotik kodlama uygulamalarında kullanılan algılayıcı türlerini açıklar."
+    },
+    {
+     "code": "RK.1.4.1.4",
+     "text": "Elektronik devre kartlarına farklı tür algılayıcıları bağlar."
+    }
+   ]
+  },
+  {
+   "name": "FARKLI ORTAMLARDA ROBOTİK DEVRE TASARIMI",
+   "konu": "",
+   "start": "2027-03-29",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "RK.1.5.1.1",
+     "text": "Çevrim içi benzetim araçlarını kullanarak robotik devre tasarımı yapar.\nRK.1.5.1.2. Fiziksel (gerçek) ortamda robotik devre tasarımı yapar."
+    },
+    {
+     "code": "RK.1.5.1.3",
+     "text": "Blok tabanlı ortamda bir amaca yönelik program hazırlar."
+    },
+    {
+     "code": "RK.1.5.1.4",
+     "text": "Çevrim içi ortamda hazırlanan programı benzetim araçlarını kullanarak test eder."
+    },
+    {
+     "code": "RK.1.5.1.5",
+     "text": "Hazırlanan programı fiziksel (gerçek) ortamda test eder."
+    },
+    {
+     "code": "RK.1.5.2.1",
+     "text": "Led uygulama projesi tasarlar."
+    },
+    {
+     "code": "RK.1.5.2.2",
+     "text": "Projeye uygun bileşenleri belirler."
+    },
+    {
+     "code": "RK.1.5.2.3",
+     "text": "Proje tasarımına uygun yazılım bileşenlerini blok tabanlı ortam üzerine yerleştirir."
+    },
+    {
+     "code": "RK.1.5.2.4",
+     "text": "Benzetim ortamında devreyi hazırlar."
+    },
+    {
+     "code": "RK.1.5.2.5",
+     "text": "Benzetim ortamındaki devreyi test eder."
+    },
+    {
+     "code": "RK.1.5.2.6",
+     "text": "Yazılımsal ve donanımsal hataları ayıklar."
+    },
+    {
+     "code": "RK.1.5.2.7",
+     "text": "Fiziksel (gerçek) ortamda devreyi oluşturur."
+    },
+    {
+     "code": "RK.1.5.2.8",
+     "text": "Fiziksel (gerçek) ortamda devreyi test eder."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

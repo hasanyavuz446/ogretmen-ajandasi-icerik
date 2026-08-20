@@ -1,0 +1,170 @@
+{
+ "grade": 7,
+ "subject": "Okul Temelli Sosyal Sorumluluk — Düzey 2 (Seçmeli)",
+ "themes": [
+  {
+   "name": "TOPLUMSAL FARKINDALIK OLUŞTURMA",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-10-25",
+   "outcomes": [
+    {
+     "code": "OTSSÇ.2.1.1",
+     "text": "Sosyal sorunların çözümünde kullanılan yöntemleri belirler."
+    },
+    {
+     "code": "OTSSÇ.2.1.2",
+     "text": "Kitle iletişim araçlarının sosyal sorunlarla mücadeledeki etkisini açıklar."
+    },
+    {
+     "code": "OTSSÇ.2.1.3",
+     "text": "Yerel ve ulusal ölçekteki sosyal sorunların çözümü ile ilgili yapılan çalışmaları araştırır."
+    }
+   ]
+  },
+  {
+   "name": "TOPLUMSAL DEĞERLER VE AHLAK",
+   "konu": "",
+   "start": "2026-10-26",
+   "end": "2027-01-10",
+   "outcomes": [
+    {
+     "code": "OTSSÇ.2.2.1",
+     "text": "Sosyal sorumluluk projelerinde ahlakın önemini açıklar."
+    },
+    {
+     "code": "OTSSÇ.2.2.2",
+     "text": "Sosyal sorumlulukları yerine getirmenin topluma katkısını bilir."
+    },
+    {
+     "code": "OTSSÇ.2.2.3",
+     "text": "Toplumsal değerlerle sosyal sorumluluk arasında ilişki kurar."
+    },
+    {
+     "code": "OTSSÇ.2.2.4",
+     "text": "Yakın çevresindeki toplumsal sorunların nedenleri hakkında çıkarımlarda bulunur."
+    },
+    {
+     "code": "OTSSÇ.2.2.5",
+     "text": "Dijital şiddet türlerini örnekler üzerinden tartışır."
+    }
+   ]
+  },
+  {
+   "name": "ÇEVRE VE SÜRDÜRÜLEBİLİRLİK",
+   "konu": "",
+   "start": "2027-01-11",
+   "end": "2027-03-07",
+   "outcomes": [
+    {
+     "code": "OTSSÇ.2.3.1",
+     "text": "Yakın çevresindeki çevre kirliliğine dair örnekleri listeler."
+    },
+    {
+     "code": "OTSSÇ.2.3.2",
+     "text": "Çevre kirliliğinin önlenmesi için özgün öneriler geliştirir."
+    },
+    {
+     "code": "OTSSÇ.2.3.3",
+     "text": "Geri dönüşümün çevre ve enerji açısından önemini açıklar."
+    },
+    {
+     "code": "OTSSÇ.2.3.4",
+     "text": "Çevrenin korunması ve sürdürülebilirliğine ilişkin çözüm önerileri geliştirir."
+    }
+   ]
+  },
+  {
+   "name": "TOPLUMSAL SAĞLIK",
+   "konu": "",
+   "start": "2027-03-15",
+   "end": "2027-04-18",
+   "outcomes": [
+    {
+     "code": "OTSSÇ.2.4.1",
+     "text": "Beslenme kaynaklı toplumsal sağlık sorunlarına çözüm önerileri geliştirir."
+    },
+    {
+     "code": "OTSSÇ.2.4.2",
+     "text": "Toplumsal sağlık açısından hijyen eksikliklerinin giderilmesi için çözüm önerileri geliştirir."
+    },
+    {
+     "code": "OTSSÇ.2.4.3",
+     "text": "Bağımlılık çeşitlerinin toplumsal hayattaki zararlarını tartışır."
+    },
+    {
+     "code": "OTSSÇ.2.4.4",
+     "text": "Yakın çevresinde sağlıklı yaş alma ile ilgili farkındalık oluşturur."
+    },
+    {
+     "code": "OTSSÇ.2.4.5",
+     "text": "Okul veya yakın çevresine yönelik toplumsal sağlık projesi geliştirir."
+    }
+   ]
+  },
+  {
+   "name": "SOSYAL YARDIMLAŞMA",
+   "konu": "",
+   "start": "2027-04-19",
+   "end": "2027-05-16",
+   "outcomes": [
+    {
+     "code": "OTSSÇ.2.5.1",
+     "text": "Toplumsal yardımlaşma ve dayanışma amaçlı, yerel ve ulusal ölçekte yapılan yardımları sunar."
+    },
+    {
+     "code": "OTSSÇ.2.5.2",
+     "text": "Toplumsal yardımlaşmada empati ve diğerkâmlığın önemini açıklar."
+    },
+    {
+     "code": "OTSSÇ.2.5.3",
+     "text": "Sosyal yardımlaşma amaçlı çalışan kurum ve kuruluşların çalışmalarını araştırır."
+    },
+    {
+     "code": "OTSSÇ.2.5.4",
+     "text": "Sosyal sorumlulukta gönüllülüğün toplumsal katkısına örnekler verir."
+    }
+   ]
+  },
+  {
+   "name": "TOPLUM HİZMETİ VE GÖNÜLLÜLÜK",
+   "konu": "",
+   "start": "2027-05-17",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "OTSSÇ.2.6.1",
+     "text": "Toplum hizmetinde gönüllüğün bireysel gelişimine etkisini tartışır."
+    },
+    {
+     "code": "OTSSÇ.2.6.2",
+     "text": "Toplum hizmetinde gönüllülüğün toplumsal gelişime etkisini açıklar."
+    },
+    {
+     "code": "OTSSÇ.2.6.3",
+     "text": "Sosyal sorumluluk çalışmalarının toplumsal değişime etkisini açıklar."
+    },
+    {
+     "code": "OTSSÇ.2.6.4",
+     "text": "Teknolojinin sosyal sorumluluk projelerine katkısını tartışır."
+    },
+    {
+     "code": "OTSSÇ.2.6.5",
+     "text": "Sosyal sorumluluk projelerini yerel ve ulusal ölçekte araştırarak sunar."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "grade": 7,
+ "subject": "Kur'an-ı Kerim (Seçmeli)",
+ "themes": [
+  {
+   "name": "KUR’AN-I KERİM’İ TANIYORUM",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "KK.7.1.1",
+     "text": "Kur’an-ı Kerim’i okuma ile ilgili kavramları çözümleyebilme"
+    },
+    {
+     "code": "KK.7.1.2",
+     "text": "Durakları Kur’an-ı Kerim’den bulabilme"
+    },
+    {
+     "code": "KK.7.1.3",
+     "text": "Boğaz harflerini seslendirebilme"
+    },
+    {
+     "code": "KK.7.1.4",
+     "text": "Bakara suresinin 164-186. ayetlerini yüzünden okuyabilme"
+    },
+    {
+     "code": "KK.7.1.5",
+     "text": "Kunut dualarının anlamlarını yorumlayabilme"
+    },
+    {
+     "code": "KK.7.1.6",
+     "text": "Kunut dualarını ezberleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "KUR’AN-I KERİM’İ OKUMAYA GİRİŞ",
+   "konu": "",
+   "start": "2026-12-14",
+   "end": "2027-03-28",
+   "outcomes": [
+    {
+     "code": "KK.7.2.1",
+     "text": "İdgam misleyni sınıflandırabilme"
+    },
+    {
+     "code": "KK.7.2.2",
+     "text": "Sakin mimi sınıflandırabilme"
+    },
+    {
+     "code": "KK.7.2.3",
+     "text": "Bakara suresi 187-210. ayetleri yüzünden okuyabilme"
+    },
+    {
+     "code": "KK.7.2.4",
+     "text": "Yeniden dirilme kıssasını çözümleyebilme"
+    },
+    {
+     "code": "KK.7.2.5",
+     "text": "Fil suresinin anlamını yorumlayabilme"
+    },
+    {
+     "code": "KK.7.2.6",
+     "text": "Fil suresini ezberleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "KUR’AN-I KERİM’İ ÖĞRENİYORUM",
+   "konu": "",
+   "start": "2027-03-29",
+   "end": "2027-05-23",
+   "outcomes": [
+    {
+     "code": "KK.7.3.1",
+     "text": "İdgam mütecaniseyn ve idgam mütekaribeyni sınıflandırabilme"
+    },
+    {
+     "code": "KK.7.3.2",
+     "text": "Bakara suresi 211-230. ayetleri yüzünden okuyabilme"
+    },
+    {
+     "code": "KK.7.3.3",
+     "text": "Nahl suresinin 68-69. ayetleriyle ilgili bilgi toplayabilme"
+    },
+    {
+     "code": "KK.7.3.4",
+     "text": "Nasr suresinin anlamını yorumlayabilme"
+    },
+    {
+     "code": "KK.7.3.5",
+     "text": "Nasr suresini ezberleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "KUR’AN-I KERİM’İ OKUYORUM",
+   "konu": "",
+   "start": "2027-05-24",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "KK.7.4.2",
+     "text": "Duha-Hümeze dahil sureleri yüzünden okuyabilme"
+    },
+    {
+     "code": "KK.7.4.3",
+     "text": "Hz. Musa’nın duasını yorumlayabilme"
+    },
+    {
+     "code": "KK.7.4.4",
+     "text": "Tebbet suresinin anlamını yorumlayabilme"
+    },
+    {
+     "code": "KK.7.4.5",
+     "text": "Tebbet suresini ezberleyebilme"
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

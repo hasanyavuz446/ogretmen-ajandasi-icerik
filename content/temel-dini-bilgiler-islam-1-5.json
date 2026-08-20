@@ -1,0 +1,138 @@
+{
+ "grade": 5,
+ "subject": "Temel Dinî Bilgiler — İslam 1 (Seçmeli)",
+ "themes": [
+  {
+   "name": "İMAN VE İNSAN",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-11-29",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "TDB 1.1.1. İman ve İslam kavramlarını açıklar."
+    },
+    {
+     "code": "",
+     "text": "TDB 1.1.2. Kelime-i Tevhid ve Kelime-i Şehadet ile anlamlarını söyler."
+    },
+    {
+     "code": "",
+     "text": "TDB 1.1.3. İmanın insana kazandırdığı özellikleri fark eder."
+    },
+    {
+     "code": "",
+     "text": "TDB 1.1.4. İman bakımından insanların sınıflandırılmasına örnekler verir."
+    },
+    {
+     "code": "",
+     "text": "TDB 1.1.5. Esmâ-i Hüsnâ’dan Allah (c.c.), el-Vâhid, el-Ehad, el-Mü’min isimlerini tanır."
+    }
+   ]
+  },
+  {
+   "name": "İBADET VE İNSAN",
+   "konu": "",
+   "start": "2026-11-30",
+   "end": "2027-02-21",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "TDB 1.2.1. İbadet kavramını ve ibadetin yapılma gayesini açıklar."
+    },
+    {
+     "code": "",
+     "text": "TDB 1.2.2. İbadetin kabul şartlarını sayar."
+    },
+    {
+     "code": "",
+     "text": "TDB 1.2.3. İbadetlerle salih amelleri ilişkilendirir."
+    },
+    {
+     "code": "",
+     "text": "TDB 1.2.4. İbadetin insana kazandırdığı ahlaki olgunluğu değerlendirir."
+    },
+    {
+     "code": "",
+     "text": "TDB 1.2.5. Esmâ-i Hüsnâ’dan es-Samed, er-Rakîb, el-Vedûd isimlerini tanır."
+    }
+   ]
+  },
+  {
+   "name": "MÜMİNLERİN ÖZELLİKLERİ",
+   "konu": "",
+   "start": "2027-02-22",
+   "end": "2027-05-09",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "TDB 1.3.1. Ayet ve hadislerden hareketle doğrulukla ilgili çıkarımlarda bulunur."
+    },
+    {
+     "code": "",
+     "text": "TDB 1.3.2. Namazı özenli kılmanın müminlerin en önemli özelliklerinden biri olduğunu fark eder."
+    },
+    {
+     "code": "",
+     "text": "TDB 1.3.3. Müminlerin iyiliği emretmek, kötülüğü engellemekle ilgili sorumluluklarını değerlendirir."
+    },
+    {
+     "code": "",
+     "text": "TDB 1.3.4. Yoksulun hakkını gözetmenin önemli bir dinî görev olduğunu savunur."
+    },
+    {
+     "code": "",
+     "text": "TDB 1.3.5. İsraf ve cimriliğin önemli birer ahlaki zafiyet olduğunu fark eder."
+    },
+    {
+     "code": "",
+     "text": "TDB 1.3.6. Esmâ-i Hüsnâ’dan el-Bâsit, el-Muhsin, el-Mani’ isimlerini tanır."
+    }
+   ]
+  },
+  {
+   "name": "NEZAKET",
+   "konu": "",
+   "start": "2027-05-10",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "TDB 1.4.1. Nezaketin kişinin Müslümanlığının önemli tezahürü olduğunu fark eder."
+    },
+    {
+     "code": "",
+     "text": "TDB 1.4.2. Kur’an-ı Kerim’den nezaket örneklerini sıralar."
+    },
+    {
+     "code": "",
+     "text": "TDB 1.4.3. Peygamberimizin (s.a.v.) sünnetinden nezaketle ilgili örnekler verir."
+    },
+    {
+     "code": "",
+     "text": "TDB 1.4.4. Geleneğimizde yer alan nezaket örneklerini tanır."
+    },
+    {
+     "code": "",
+     "text": "TDB 1.4.5. Nezaket ölçülerine riayet etmeye istekli olur."
+    },
+    {
+     "code": "",
+     "text": "TDB 1.4.6. Esmâ-i Hüsnâ’dan el-Halîm, el-Latîf, er-Refîk isimlerini tanır."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

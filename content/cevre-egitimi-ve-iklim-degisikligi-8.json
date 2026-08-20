@@ -1,0 +1,198 @@
+{
+ "grade": 8,
+ "subject": "Çevre Eğitimi ve İklim Değişikliği (Seçmeli)",
+ "themes": [
+  {
+   "name": "İNSAN VE DOĞA",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-11-15",
+   "outcomes": [
+    {
+     "code": "ÇEİD.1.1",
+     "text": "Yaşadığı çevrenin bir parçası olduğunu gözlemlerine dayanarak fark eder."
+    },
+    {
+     "code": "ÇEİD.1.2",
+     "text": "İnsan ve doğa arasındaki etkileşimin olumlu ve olumsuz yönlerini tartışır."
+    },
+    {
+     "code": "ÇEİD.1.3",
+     "text": "Yaşadığı çevrede canlı ve cansız varlıklar arasındaki sürekli etkileşime örnekler verir."
+    },
+    {
+     "code": "ÇEİD.1.4",
+     "text": "Doğanın hassas bir dengeye sahip olduğu ile ilgili çıkarım yapar."
+    },
+    {
+     "code": "ÇEİD.1.5",
+     "text": "Doğal dengenin korunmasına yönelik toplumsal farkındalık oluşturacak bir proje tasarlar."
+    },
+    {
+     "code": "ÇEİD.1.6",
+     "text": "Doğal dengeyi olumsuz etkileyecek davranışları güncel örnekler üzerinden tartışır."
+    }
+   ]
+  },
+  {
+   "name": "DÖNGÜSEL DOĞA",
+   "konu": "",
+   "start": "2026-11-23",
+   "end": "2026-12-20",
+   "outcomes": [
+    {
+     "code": "ÇEİD.2.1",
+     "text": "Yakın çevresindeki doğal kaynaklara gözlem sonuçlarından faydalanarak örnek verir."
+    },
+    {
+     "code": "ÇEİD.2.2",
+     "text": "Yeryüzündeki doğal kaynakları yaptığı araştırma sonuçlarına dayanarak gruplandırır."
+    },
+    {
+     "code": "ÇEİD.2.3",
+     "text": "Doğal kaynakların madde döngüsü ve enerji akışı ile süreklilik kazandığını fark eder."
+    },
+    {
+     "code": "ÇEİD.2.4",
+     "text": "Madde döngüsündeki ve enerji akışındaki aksamanın doğal yaşama etkisi ile ilgili çıkarımlar yapar."
+    }
+   ]
+  },
+  {
+   "name": "ÇEVRE SORUNLARI",
+   "konu": "",
+   "start": "2026-12-21",
+   "end": "2027-02-14",
+   "outcomes": [
+    {
+     "code": "ÇEİD.3.1",
+     "text": "Günlük hayattaki üretim ve tüketim arasındaki dengenin önemini fark eder."
+    },
+    {
+     "code": "ÇEİD.3.2",
+     "text": "Atık, çöp ve kirlilik kavramlarını ayırt eder."
+    },
+    {
+     "code": "ÇEİD.3.3",
+     "text": "Atık ve çöpün hava, su, toprak kirliliğine ve radyoaktif kirliliğe neden olduğunu fark eder."
+    },
+    {
+     "code": "ÇEİD.3.4",
+     "text": "Ekolojik ayak izi kavramını örneklerle açıklar."
+    },
+    {
+     "code": "ÇEİD.3.5",
+     "text": "Yerel ve küresel çevre sorunlarını örneklerle açıklar."
+    },
+    {
+     "code": "ÇEİD.3.6",
+     "text": "Çevre kirliliğine bağlı olarak ortaya çıkan sorunları ve bu sorunların insan hayatı üzerindeki etkilerini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "KÜRESEL İKLİM DEĞİŞİKLİĞİ",
+   "konu": "",
+   "start": "2027-02-15",
+   "end": "2027-03-28",
+   "outcomes": [
+    {
+     "code": "ÇEİD.4.1",
+     "text": "Sera gazlarının artışına neden olan olayları sorgular."
+    },
+    {
+     "code": "ÇEİD.4.2",
+     "text": "Küresel ısınmanın sera etkisinin bir sonucu olarak ortaya çıktığını fark eder."
+    },
+    {
+     "code": "ÇEİD.4.3",
+     "text": "Küresel iklim değişikliği ile küresel ısınma arasındaki ilişkiyi açıklar."
+    },
+    {
+     "code": "ÇEİD.4.4",
+     "text": "Küresel iklim değişikliğinin etkilerini örnek olaylar üzerinden yorumlar."
+    },
+    {
+     "code": "ÇEİD.4.5",
+     "text": "Küresel iklim değişikliğinin doğrudan ya da dolaylı olarak neden olduğu afetleri etkileriyle birlikte açıklar."
+    }
+   ]
+  },
+  {
+   "name": "İKLİM DEĞİŞİKLİĞİ VE TÜRKİYE",
+   "konu": "",
+   "start": "2027-03-29",
+   "end": "2027-04-25",
+   "outcomes": [
+    {
+     "code": "ÇEİD.5.1",
+     "text": "İklim değişikliğinin Türkiye’deki mevcut ve olası etkilerini fark eder."
+    },
+    {
+     "code": "ÇEİD.5.2",
+     "text": "Türkiye’de iklim değişikliği ile mücadeleye yönelik ulusal ve uluslararası çalışmaların önemini tartışır."
+    },
+    {
+     "code": "ÇEİD.5.3",
+     "text": "İklim değişikliğinin Türkiye’deki etkilerini azaltmaya yönelik önlemlere örnekler verir."
+    },
+    {
+     "code": "ÇEİD.5.5",
+     "text": "İklim değişikliğinin Türkiye’deki etkilerini azaltmaya yönelik toplumsal farkındalık oluşturacak proje/projeler tasarlar."
+    }
+   ]
+  },
+  {
+   "name": "SÜRDÜRÜLEBİLİR KALKINMA VE ÇEVRE DOSTU TEKNOLOJİLER",
+   "konu": "",
+   "start": "2027-04-26",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "ÇEİD.6.1",
+     "text": "Günlük hayatında istek ve ihtiyaçlarını karşılarken gelecek nesillerin de gereksinimlerini dikkate alarak hareket etmesi gerektiğini fark eder."
+    },
+    {
+     "code": "ÇEİD.6.2",
+     "text": "Su kaynaklarının sürdürülebilir kullanımının önemini fark eder."
+    },
+    {
+     "code": "ÇEİD.6.3",
+     "text": "Kaynakların sürdürülebilir kullanımının kalkınmaya etkisini araştırma verilerine dayalı olarak tartışır."
+    },
+    {
+     "code": "ÇEİD.6.4",
+     "text": "Sürdürülebilir kalkınma açısından geri dönüşümün ve geri kazanımın önemini açıklar."
+    },
+    {
+     "code": "ÇEİD.6.5",
+     "text": "Atık malzemelerden yararlanarak bir ileri dönüşüm ürünü tasarlar."
+    },
+    {
+     "code": "ÇEİD.6.6",
+     "text": "Türkiye ve dünyadaki sürdürülebilir kalkınmayı destekleyen örnekler sunar."
+    },
+    {
+     "code": "ÇEİD.6.7",
+     "text": "Gerçek hayat sorununa yönelik sürdürülebilir kalkınma bilincine dayalı çözüm içeren bir proje tasarlar."
+    },
+    {
+     "code": "ÇEİD.6.8",
+     "text": "Çevre, iklim ve sürdürülebilir kalkınma ile ilgili farklı kariyer alanlarına örnekler verir."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

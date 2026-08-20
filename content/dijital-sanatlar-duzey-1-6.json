@@ -1,0 +1,194 @@
+{
+ "grade": 6,
+ "subject": "Dijital Sanatlar — Düzey 1 (Seçmeli)",
+ "themes": [
+  {
+   "name": "DİJİTAL SANATLARA GİRİŞ",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-11-08",
+   "outcomes": [
+    {
+     "code": "DS.1.1.1",
+     "text": "Dijital sanatı tanımlar."
+    },
+    {
+     "code": "DS.1.1.2",
+     "text": "Dijital sanatın farklı dalları olduğunu fark eder."
+    },
+    {
+     "code": "DS.1.1.3",
+     "text": "Dijital sanatların tarihsel gelişim sürecini açıklar."
+    },
+    {
+     "code": "DS.1.1.4",
+     "text": "Dijital sanat üretim araçlarını fark eder."
+    }
+   ]
+  },
+  {
+   "name": "DİJİTAL SANAT TASARIMINDA ETİK",
+   "konu": "",
+   "start": "2026-11-09",
+   "end": "2026-12-06",
+   "outcomes": [
+    {
+     "code": "DS.1.2.1",
+     "text": "Dijital sanat tasarımında uyulması gereken etik kuralları açıklar."
+    },
+    {
+     "code": "DS.1.2.2",
+     "text": "Dijital sanat tasarımında özgünlüğün önemini fark eder."
+    },
+    {
+     "code": "DS.1.2.3",
+     "text": "Dijital sanat tasarımı çalışmalarında etik kurallara uyar."
+    }
+   ]
+  },
+  {
+   "name": "DİJİTAL TASARIM ELEMANLARI VE İLKELERİ",
+   "konu": "",
+   "start": "2026-12-07",
+   "end": "2027-01-03",
+   "outcomes": [
+    {
+     "code": "DS.1.3.1",
+     "text": "Dijital sanat çalışmalarında sanat elemanlarını ve tasarım ilkelerini kullanır."
+    },
+    {
+     "code": "DS.1.3.2",
+     "text": "Dijital tasarımda kullanılan tipografik unsurları açıklar."
+    },
+    {
+     "code": "DS.1.3.3",
+     "text": "Dijital tasarımda kullanılan renkleri fark eder."
+    },
+    {
+     "code": "DS.1.3.4",
+     "text": "Renk kombinasyonları oluşturur."
+    }
+   ]
+  },
+  {
+   "name": "DİJİTAL ÇİZİM OLUŞTURMA",
+   "konu": "",
+   "start": "2027-01-04",
+   "end": "2027-03-07",
+   "outcomes": [
+    {
+     "code": "DS.1.4.1",
+     "text": "Vektörel çizimi açıklar."
+    },
+    {
+     "code": "DS.1.4.2",
+     "text": "Vektörel çizim araçlarını tanır."
+    },
+    {
+     "code": "DS.1.4.3",
+     "text": "Basit vektörel çizimler yapar."
+    },
+    {
+     "code": "DS.1.4.4",
+     "text": "Katmanlarla çalışma yöntemini açıklar."
+    },
+    {
+     "code": "DS.1.4.5",
+     "text": "Dijital tasarımda katmanları kullanır."
+    },
+    {
+     "code": "DS.1.4.6",
+     "text": "Vektörel tabanlı grafik tasarım uygulamalarıyla Türk bayrağı çizer."
+    },
+    {
+     "code": "DS.1.4.7",
+     "text": "Çizdiği Türk bayrağını aslına uygun olarak renklendirir."
+    }
+   ]
+  },
+  {
+   "name": "DİJİTAL GÖRÜNTÜ İŞLEME",
+   "konu": "",
+   "start": "2027-03-15",
+   "end": "2027-05-16",
+   "outcomes": [
+    {
+     "code": "DS.1.5.1",
+     "text": "Temel görüntü kavramlarını açıklar."
+    },
+    {
+     "code": "DS.1.5.2",
+     "text": "Dijital görüntü dosyası türlerini bilir."
+    },
+    {
+     "code": "DS.1.5.3",
+     "text": "Dijital görüntü işleme araçlarını tanır."
+    },
+    {
+     "code": "DS.1.5.4",
+     "text": "Görüntünün renklerini düzenler."
+    },
+    {
+     "code": "DS.1.5.5",
+     "text": "Görüntüye filtre uygular."
+    },
+    {
+     "code": "DS.1.5.6",
+     "text": "Görüntüye efekt uygular."
+    },
+    {
+     "code": "DS.1.5.7",
+     "text": "Görüntü üzerinde biçimsel düzenlemeler yapar."
+    },
+    {
+     "code": "DS.1.5.8",
+     "text": "Belirli bir konuda görsel tasarım yapar."
+    },
+    {
+     "code": "DS.1.5.9",
+     "text": "Sınıf arkadaşlarının hazırladığı görsel tasarımları değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "DİJİTAL TASARIM OLUŞTURMA",
+   "konu": "",
+   "start": "2027-05-17",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "DS.1.6.1",
+     "text": "Geleneksel Türk sanat eserlerindeki farklı motifleri inceler."
+    },
+    {
+     "code": "DS.1.6.2",
+     "text": "İncelediği motiflerden dijital ortamda özgün motifler tasarlar."
+    },
+    {
+     "code": "DS.1.6.3",
+     "text": "Tasarladığı motiflerden özgün tasarımlar oluşturur."
+    },
+    {
+     "code": "DS.1.6.4",
+     "text": "Tasarımını dijital ortamda paylaşır."
+    },
+    {
+     "code": "DS.1.6.5",
+     "text": "Sınıf arkadaşlarının hazırladığı dijital tasarımları değerlendirir."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

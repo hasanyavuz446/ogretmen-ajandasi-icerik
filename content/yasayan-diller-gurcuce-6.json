@@ -1,0 +1,126 @@
+{
+ "grade": 6,
+ "subject": "Yaşayan Diller — Gürcüce (Seçmeli)",
+ "themes": [
+  {
+   "name": "DİLİMİZİ TANIYALIM",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-10-11",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Gürcücede kullanılan harf ve sesler (Mhedruli/Gürcü alfabesi); ad-soyad, tanışma, yaş, cinsiyet, doğum yeri ve tarihi, fiziksel görünüm."
+    }
+   ]
+  },
+  {
+   "name": "BEN VE AİLEM",
+   "konu": "",
+   "start": "2026-10-12",
+   "end": "2026-11-08",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Boy, kilo, saç ve göz rengi, uzunluk-kısalık; memleket, arkadaşlar, ilgiler, anne-baba, aile bireyleri, akrabalar, aile hayatı, meslekler."
+    }
+   ]
+  },
+  {
+   "name": "OKULUM VE YAŞADIĞIM ÇEVRE",
+   "konu": "",
+   "start": "2026-11-09",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Okulun adı, adresi ve çevresi, okul eşyaları, okul kuralları ve etkinlikleri, okuldaki kişi ve mekânlar, dersler, sınavlar, okul kulüpleri ve sosyal faaliyetler; yaşadığım yer ve ev, evin bölümleri, mahalle (köy, sokak, ev adresi), evdeki eşyalar."
+    }
+   ]
+  },
+  {
+   "name": "BEDEN VE SAĞLIK",
+   "konu": "",
+   "start": "2026-12-14",
+   "end": "2027-01-10",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Vücudun organları, günlük bakım ve beden temizliği (diş fırçalama, el, tırnak ve saç); sağlık, hastalık, sağlık birimleri (aile sağlık merkezi, hastane, 112 acil) ve çalışanları, sağlıklı yaşam, bedensel ihtiyaçlar, kaza ve tedavi, ilk yardım."
+    }
+   ]
+  },
+  {
+   "name": "YİYECEK VE İÇECEKLERİMİZ",
+   "konu": "",
+   "start": "2027-01-11",
+   "end": "2027-02-21",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Yiyecek ve içecekler (sebze, meyve, yemekler), özellikleri, tatları, öğünler, yeme ve içme tercihleri, mekânları ve çalışanları, yemek tarifleri ve sunumu."
+    }
+   ]
+  },
+  {
+   "name": "TAKVİMLER VE MEVSİMLER",
+   "konu": "",
+   "start": "2027-02-22",
+   "end": "2027-03-28",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Saatler, günler, günün bölümleri, hafta, aylar, mevsimler ve özellikleri, hava durumu, mevsimlere göre giyim ve yaşam."
+    }
+   ]
+  },
+  {
+   "name": "SEYAHAT VE ULAŞIM",
+   "konu": "",
+   "start": "2027-03-29",
+   "end": "2027-04-25",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Seyahat araçları (bireysel ve toplu taşıma), yer-yön bilgisi, yol durumu, trafik kuralları, tatil ve tatil tercihleri ve hazırlıkları, tarihi ve turistik mekânlar (tarihi eserler, turistik yerler ve doğal güzellikler)."
+    }
+   ]
+  },
+  {
+   "name": "OYUNLAR VE MASALLAR",
+   "konu": "",
+   "start": "2027-04-26",
+   "end": "2027-05-23",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Tekerlemeler, çocuk oyunları (evde ve okulda oynanan oyunlar) ve oyun kuralları, şarkılar, masallar, hikâyeler (hikâye ve masal kahramanları, mekânları ve olayları), aile büyüklerinden anı ve hatıralar."
+    }
+   ]
+  },
+  {
+   "name": "SERBEST ZAMAN ETKİNLİKLERİ",
+   "konu": "",
+   "start": "2027-05-24",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "İlgiler, hobiler, kültür ve sanat etkinlikleri (tiyatro, sinema, konser, sergi, müze), ziyaretler (arkadaş, akraba ve komşu), spor faaliyetleri, izlenen programlar ve oynanan oyunlar, okunan kitaplar."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen temaların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "grade": 7,
+ "subject": "Yapay Zekâ Uygulamaları — Düzey 1 (Seçmeli)",
+ "themes": [
+  {
+   "name": "YAPAY ZEKÂYA GİRİŞ",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-10-18",
+   "outcomes": [
+    {
+     "code": "YZU.1.1.1.1",
+     "text": "Yapay zekânın tanımını yapar."
+    },
+    {
+     "code": "YZU.1.1.1.2",
+     "text": "Yapay zekâ ve zekânın benzerliklerini fark eder."
+    },
+    {
+     "code": "YZU.1.1.1.3",
+     "text": "Yapay zekâ ve zekânın ayrımını yapar."
+    },
+    {
+     "code": "YZU.1.1.1.4",
+     "text": "Yapay zekânın sınırlılıklarını fark eder."
+    },
+    {
+     "code": "YZU.1.1.2.1",
+     "text": "Yapay zekânın tarihsel gelişimini açıklar."
+    }
+   ]
+  },
+  {
+   "name": "YAPAY ZEKÂNIN KULLANIM ALANLARI VE ALT BOYUTLARI",
+   "konu": "",
+   "start": "2026-10-19",
+   "end": "2026-12-06",
+   "outcomes": [
+    {
+     "code": "YZU.1.2.1.1",
+     "text": "Yapay zekânın kullanım alanlarını ifade eder."
+    },
+    {
+     "code": "YZU.1.2.1.2",
+     "text": "Yapay zekâ uygulamalarının nasıl çalıştığını örnekler üzerinden açıklar."
+    },
+    {
+     "code": "YZU.1.2.1.3",
+     "text": "Farklı yapay zekâ uygulamalarının sonuçlarını örnekler üzerinden açıklar."
+    },
+    {
+     "code": "YZU.1.2.1.4",
+     "text": "Üretken yapay zekâ uygulamalarını etkili bir biçimde kullanma yöntemlerini fark eder."
+    },
+    {
+     "code": "YZU.1.2.2.1",
+     "text": "Yapay zekânın alt boyutlarını açıklar."
+    },
+    {
+     "code": "YZU.1.2.2.2",
+     "text": "Yapay zekânın alt boyutları ile kullanım alanlarını ilişkilendirir."
+    }
+   ]
+  },
+  {
+   "name": "YAPAY ZEKÂ VE ETİK",
+   "konu": "",
+   "start": "2026-12-07",
+   "end": "2027-01-24",
+   "outcomes": [
+    {
+     "code": "YZU.1.3.1.1",
+     "text": "Yapay zekâ uygulamalarında büyük veri kavramının önemini fark eder."
+    },
+    {
+     "code": "YZU.1.3.1.2",
+     "text": "Yapay zekâ uygulamalarında veri madenciliği kavramının önemini fark eder."
+    },
+    {
+     "code": "YZU.1.3.2.1",
+     "text": "Yapay zekâ ve etik kavramları arasında bağlantı kurar."
+    },
+    {
+     "code": "YZU.1.3.2.2",
+     "text": "Yapay zekâ uygulamalarındaki büyük veri kaynaklı etik ihlallerini örnekler üzerinden ayırt eder."
+    },
+    {
+     "code": "YZU.1.3.2.3",
+     "text": "Yapay zekâ uygulamalarındaki veri madenciliği kaynaklı etik ihlallerini örnekler üzerinden açıklar."
+    },
+    {
+     "code": "YZU.1.3.3.1",
+     "text": "Yapay zekâ uygulamalarında kişisel verilerin ihlaline örnekler verir."
+    },
+    {
+     "code": "YZU.1.3.3.2",
+     "text": "Yapay zekâ uygulamalarında karşılaşılan ihlallere karşı bilişim güvenliği ilkelerini uygular."
+    }
+   ]
+  },
+  {
+   "name": "YAPAY ZEKÂNIN ÖNEMİ",
+   "konu": "",
+   "start": "2027-02-08",
+   "end": "2027-02-21",
+   "outcomes": [
+    {
+     "code": "YZU.1.4.1.1",
+     "text": "Yapay zekânın önemini kavrar."
+    },
+    {
+     "code": "YZU.1.4.2.1",
+     "text": "Yapay zekânın geleceği ile ilgili çıkarımlar yapar."
+    }
+   ]
+  },
+  {
+   "name": "BLOK TABANLI GELİŞTİRME ORTAMLARI",
+   "konu": "",
+   "start": "2027-02-22",
+   "end": "2027-04-11",
+   "outcomes": [
+    {
+     "code": "YZU.1.5.1.1",
+     "text": "Çevrim içi blok tabanlı ortamlara erişim sağlar."
+    },
+    {
+     "code": "YZU.1.5.1.2",
+     "text": "Çevrim dışı blok tabanlı geliştirme ortamının kurulumunu yapar."
+    },
+    {
+     "code": "YZU.1.5.1.3",
+     "text": "Blok tabanlı geliştirme ortamının arayüzünü tanır."
+    },
+    {
+     "code": "YZU.1.5.1.4",
+     "text": "Blok tabanlı geliştirme ortamına ait algılayıcıları ayırt eder."
+    },
+    {
+     "code": "YZU.1.5.1.5",
+     "text": "Blok tabanlı geliştirme ortamının kütüphanelerini tanır."
+    },
+    {
+     "code": "YZU.1.5.1.6",
+     "text": "Blok tabanlı geliştirme ortamını gerçek zamanlı olarak test etme yöntemlerini fark eder."
+    }
+   ]
+  },
+  {
+   "name": "BLOK TABANLI ÖRNEK PROJE GELİŞTİRME",
+   "konu": "",
+   "start": "2027-04-12",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "YZU.1.6.1.1",
+     "text": "Yapay zekâ uygulamalarında görüntü işlemenin temel mantığını kavrar.\nYZU.1.6.1.2. Blok tabanlı ortamda görüntü işleme projesi tasarlar."
+    },
+    {
+     "code": "YZU.1.6.1.3",
+     "text": "Blok tabanlı ortamda görüntü işleme projesi oluşturur.\nYZU.1.6.1.4. Blok tabanlı ortamda görüntü işleme projesini gerçek zamanlı olarak test eder."
+    },
+    {
+     "code": "YZU.1.6.1.5",
+     "text": "Blok tabanlı ortamda uygulamanın olası hatalarını ayıklar."
+    },
+    {
+     "code": "YZU.1.6.1.6",
+     "text": "Blok tabanlı ortamda görüntü işleme projesini kaydeder."
+    },
+    {
+     "code": "YZU.1.6.2.1",
+     "text": "Yapay zekâ uygulamalarında ses işlemenin temel mantığını kavrar."
+    },
+    {
+     "code": "YZU.1.6.2.2",
+     "text": "Blok tabanlı ortamda ses işleme projesi tasarlar."
+    },
+    {
+     "code": "YZU.1.6.2.3",
+     "text": "Blok tabanlı ortamda ses işleme projesi oluşturur."
+    },
+    {
+     "code": "YZU.1.6.2.4",
+     "text": "Blok tabanlı ortamda ses işleme projesini gerçek zamanlı olarak test eder."
+    },
+    {
+     "code": "YZU.1.6.2.5",
+     "text": "Blok tabanlı ortamda uygulamanın olası hatalarını ayıklar."
+    },
+    {
+     "code": "YZU.1.6.2.6",
+     "text": "Blok tabanlı ortamda ses işleme projesini kaydeder."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

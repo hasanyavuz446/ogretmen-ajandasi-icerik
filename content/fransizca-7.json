@@ -1,0 +1,138 @@
+{
+ "grade": 7,
+ "subject": "Fransızca (Seçmeli)",
+ "themes": [
+  {
+   "name": "L’INDIVIDU ET LA SOCIÉTÉ",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-09-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A21.1.É3. Écouter: Faire une description brève."
+    }
+   ]
+  },
+  {
+   "name": "LA PERSONNALITÉ ET LE CARACTÈRE",
+   "konu": "",
+   "start": "2026-09-28",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A21.2.É1. Écouter: Comprendre la présentation physique de qqn."
+    },
+    {
+     "code": "",
+     "text": "FR.A21.2.É1. Écouter: Expliquer pourquoi une chose plaît ou déplaît."
+    },
+    {
+     "code": "",
+     "text": "FR.A21.2.É2. Écouter: Expliquer son accord ou son désaccord."
+    },
+    {
+     "code": "",
+     "text": "FR.A21.2.É3. Écouter: Expliquer son sentiment positif / négatif."
+    },
+    {
+     "code": "",
+     "text": "FR.A21.2.É4. Écouter: Décrire le physique de qqn."
+    }
+   ]
+  },
+  {
+   "name": "LA SANTÉ",
+   "konu": "",
+   "start": "2026-12-14",
+   "end": "2027-01-24",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A21.3.É1. Écouter: Saisir le point essentiel d’une annonce, d’un message."
+    },
+    {
+     "code": "",
+     "text": "FR.A21.3.É1. Écouter: Écrire une ordonnance simple."
+    },
+    {
+     "code": "",
+     "text": "FR.A21.3.É2. Écouter: Exprimer simplement une maladie."
+    }
+   ]
+  },
+  {
+   "name": "LA NATURE",
+   "konu": "",
+   "start": "2027-02-08",
+   "end": "2027-03-28",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A21.4.É1. Écouter: Saisir le point essentiel d’une annonce, d’un message."
+    },
+    {
+     "code": "",
+     "text": "FR.A21.4.É1. Écrire: Décrire un problème de l’environnement."
+    },
+    {
+     "code": "",
+     "text": "FR.A21.4.É2. Écrire: Exprimer l’importance de la protection de la nature."
+    }
+   ]
+  },
+  {
+   "name": "L’HISTOIRE",
+   "konu": "",
+   "start": "2027-03-29",
+   "end": "2027-06-06",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A21.5.É1. Écouter: Situer des événements dans le temps."
+    },
+    {
+     "code": "",
+     "text": "FR.A21.5.É2. Écouter: Comprendre le vocabulaire relatif à l’histoire."
+    },
+    {
+     "code": "",
+     "text": "FR.A21.5.É1. Écouter: Raconter des événements au passé."
+    },
+    {
+     "code": "",
+     "text": "FR.A21.5.É2. Écouter: Situer des événements dans le temps."
+    },
+    {
+     "code": "",
+     "text": "FR.A21.5.É3. Écouter: Faire une description brève d'un événement passé."
+    }
+   ]
+  },
+  {
+   "name": "LA SCIENCE ET LA TECHNOLOGIE",
+   "konu": "",
+   "start": "2027-06-07",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A21.6.É2. Écouter: Écrire simplement des informations sur un service."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}

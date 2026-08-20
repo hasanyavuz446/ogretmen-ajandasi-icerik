@@ -1,0 +1,222 @@
+{
+ "grade": 6,
+ "subject": "Fransızca (Seçmeli)",
+ "themes": [
+  {
+   "name": "L’INDIVIDU ET LA SOCIÉTÉ",
+   "konu": "",
+   "start": "2026-09-14",
+   "end": "2026-09-20",
+   "outcomes": [
+    {
+     "code": "FR.A12.1.L1",
+     "text": "Lire: Reconnaître des noms, mots et expressions courants.\nFR.A12.1.L2. Lire: Lire les renseignements sur l'identité de lui-même."
+    }
+   ]
+  },
+  {
+   "name": "L’ÉDUCATION",
+   "konu": "",
+   "start": "2026-09-21",
+   "end": "2026-10-25",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A12.2.É1. Écouter: Comprendre des mots familiers et des expressions très courantes.\nFR.A12.2.É2. Écouter: Comprendre des instructions / indications.\nFR.A12.2.É3. Écouter: Comprendre des questions simples."
+    },
+    {
+     "code": "",
+     "text": "FR.A12.2.É4. Écouter: Comprendre des expressions sur prendre congé.\nFR.A12.2.É5. Écouter: Comprendre des excuses.\nFR.A12.2.É6. Écouter: Écouter une information sur qqn."
+    },
+    {
+     "code": "FR.A12.2.P2",
+     "text": "Parler: Comprendre des messages simples.\nFR.A12.2.P3. Parler: Lire des renseignements sur l'identité de lui-même.\nFR.A12.2.P4. Parler: Lire les textes de salutation."
+    },
+    {
+     "code": "FR.A12.2.P5",
+     "text": "Parler: Connaître les matériels scolaires.\nFR.A12.2.P6. Parler: Comprendre des expressions sur prendre congé."
+    },
+    {
+     "code": "",
+     "text": "FR.A12.2.É1. Écrire: Écrire un texte / un dialogue de salutation.\nFR.A12.2.É2. Écrire: Écrire des textes simples sur des personnes."
+    }
+   ]
+  },
+  {
+   "name": "LES MÉTIERS",
+   "konu": "",
+   "start": "2026-10-26",
+   "end": "2026-11-29",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A12.3.É1. Écouter: Écouter des nouvelles sur qqn.\nFR.A12.3.É2. Écouter: Écouter des nouvelles sur qqch.\nFR.A12.3.É3. Écouter: Écouter des instructions / des indications."
+    },
+    {
+     "code": "FR.A12.3.P1",
+     "text": "Parler: Décrire un objet / une personne.\nFR.A12.3.P2. Parler: Demander la profession.\nFR.A12.3.P3. Parler: Se décrire."
+    },
+    {
+     "code": "FR.A12.3.P4",
+     "text": "Parler: Parler de son choix sur le métier.\nFR.A12.3.L1. Lire: Lire les renseignements sur la profession de qqn.\nFR.A12.3.É1. Écrire: Décrire un métier."
+    },
+    {
+     "code": "",
+     "text": "FR.A12.3.É2. Écrire: Écrire des textes simples sur soi-même.\nFR.A12.3.É3. Écrire: Écrire des textes simples sur des personnes."
+    }
+   ]
+  },
+  {
+   "name": "LA JEUNESSE",
+   "konu": "",
+   "start": "2026-11-30",
+   "end": "2027-01-17",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A12.4.É1. Écouter: Comprendre des questions simples.\nFR.A12.4.É2. Écouter: Comprendre les nombres.\nFR.A12.4.É3. Écouter: Comprendre une annonce de train / d’avion."
+    },
+    {
+     "code": "FR.A12.4.P1",
+     "text": "Parler: Exprimer I ‘appartenance.\nFR.A12.4.P2. Parler: Caractériser qqn ou qqch.\nFR.A12.4.P3. Parler: Dire / demander l’heure."
+    },
+    {
+     "code": "FR.A12.4.P4",
+     "text": "Parler: Faire une conversation au téléphone.\nFR.A12.4.P5. Parler: Accepter et refuser une proposition.\nFR.A12.4.P6. Parler: Demander des objets à autrui."
+    },
+    {
+     "code": "FR.A12.4.P7",
+     "text": "Parler: Exprimer la quantité.\nFR.A12.4.P8. Parler: Utiliser la négation.\nFR.A12.4.L1. Lire: Lire / comprendre un texte sur la description d’un lieu."
+    },
+    {
+     "code": "FR.A12.4.L2",
+     "text": "Lire: Lire un texte bref à voix haute.\nFR.A12.4.L3. Lire: Comprendre une fiche horaire de train / d’avion."
+    },
+    {
+     "code": "",
+     "text": "FR.A12.4.É1. Écrire: Décrire un lieu.\nFR.A12.4.É2. Écrire: Écrire une carte postale simple et brève."
+    },
+    {
+     "code": "",
+     "text": "FR.A12.4.É3. Écrire: Remplir un formulaire.\nFR.A12.4.É4. Écrire: Utiliser la négation."
+    }
+   ]
+  },
+  {
+   "name": "LE SPORT",
+   "konu": "",
+   "start": "2027-01-18",
+   "end": "2027-03-21",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A12.5.É1. Écouter: Écouter les bulletins de sport.\nFR.A12.5.É2. Écouter: Écouter des instructions / des indications.\nFR.A12.5.É3. Écouter: Suivre un match."
+    },
+    {
+     "code": "FR.A12.5.P1",
+     "text": "Parler: Parler d’une activité sportive.\nFR.A12.5.P2. Parler: Dire le score d’un match.\nFR.A12.5.P3. Parler: Exprimer ses excuses."
+    },
+    {
+     "code": "FR.A12.5.P4",
+     "text": "Parler: Accepter et refuser une proposition.\nFR.A12.5.P5. Parler: Utiliser des expressions élémentaires de sport.\nFR.A12.5.P6. Parler: Parler de la météo."
+    },
+    {
+     "code": "FR.A12.5.P7",
+     "text": "Parler: Prononcer les noms de couleurs.\nFR.A12.5.L1. Lire: Reconnaître des noms, mots et expressions courants."
+    },
+    {
+     "code": "FR.A12.5.L2",
+     "text": "Lire: Lire les articles de sport sur Internet / le journal.\nFR.A12.5.L3. Lire: Lire un bulletin de météo."
+    },
+    {
+     "code": "",
+     "text": "FR.A12.5.É1. Écrire: Écrire un texte / un dialogue sur le sport.\nFR.A12.5.É2. Écrire: Écrire ses goûts sur le sport."
+    }
+   ]
+  },
+  {
+   "name": "LES RÊVES ET LES PLANS",
+   "konu": "",
+   "start": "2027-03-22",
+   "end": "2027-04-18",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A12.6.É1. Écouter: Comprendre des expressions sur prendre congé.\nFR.A12.6.É2. Écouter: Comprendre une annonce de train / d’avion.\nFR.A12.6.P1. Parler: Parler de son plan de vacances."
+    },
+    {
+     "code": "FR.A12.6.P2",
+     "text": "Parler: Parler de ses rêves.\nFR.A12.6.P3. Parler: Faire une conversation au téléphone.\nFR.A12.6.P1. Parler: Lire / comprendre un texte sur la description d’un lieu."
+    },
+    {
+     "code": "",
+     "text": "FR.A12.6.É3. Écrire: Écrire un e-mail.\nFR.A12.6.É4. Écrire: Remplir une fiche d’hôtel."
+    }
+   ]
+  },
+  {
+   "name": "LA COMMUNICATION",
+   "konu": "",
+   "start": "2027-04-19",
+   "end": "2027-05-30",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A12.7.É1. Écouter: Écouter les petites annonces de l’obligation.\nFR.A12.7.É2. Écouter: Comprendre une description physique.\nFR.A12.7.É3. Écouter: Comprendre la demande de l’aide de qqn."
+    },
+    {
+     "code": "",
+     "text": "FR.A12.7.É4. Écouter: Comprendre les dialogues.\nFR.A12.7.P1. Parler: Exprimer le but.\nFR.A12.7.P2. Parler: Raconter des souvenirs."
+    },
+    {
+     "code": "FR.A12.7.P3",
+     "text": "Parler: Exprimer l’obligation.\nFR.A12.7.P4. Parler: Exprimer une probabilité.\nFR.A12.7.P5. Parler: Commander un repas."
+    },
+    {
+     "code": "FR.A12.7.P6",
+     "text": "Parler: Demander de l’aide à qqn.\nFR.A12.7.L1. Lire: Lire des messages de communication."
+    },
+    {
+     "code": "FR.A12.7.L2",
+     "text": "Lire: Lire des brochures / prospectus / affiches.\nFR.A12.7.É1. Écrire: Écrire un message."
+    },
+    {
+     "code": "",
+     "text": "FR.A12.7.É2. Écrire: Écrire une carte d’invitation.\nFR.A12.7.É3. Écrire: Transmettre un message."
+    }
+   ]
+  },
+  {
+   "name": "L’ART",
+   "konu": "",
+   "start": "2027-05-31",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "FR.A12.8.É1. Écouter: Écouter des chansons.\nFR.A12.8.É2. Écouter: Suivre un film.\nFR.A12.8.É3. Écouter: Écouter une interview faite avec qqn de célèbre."
+    },
+    {
+     "code": "FR.A12.8.P1",
+     "text": "Parler: Décrire un objet / une œuvre d’art / une personne connue.\nFR.A12.8.P1. Parler: Lire les renseignements sur un objet se trouvant dans un musée.\nFR.A12.8.P2. Parler: Lire / comprendre un texte."
+    },
+    {
+     "code": "FR.A12.8.P3",
+     "text": "Parler: Comprendre les horaires d’un musée.\nFR.A12.8.É1. Écrire: Écrire un texte de description.\nFR.A12.8.É2. Écrire: Faire un résumé."
+    }
+   ]
+  },
+  {
+   "name": "Yıl Sonu Genel Değerlendirme",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": [
+    {
+     "code": "",
+     "text": "Dönem boyunca işlenen kazanımların gözden geçirilmesi ve genel değerlendirme."
+    }
+   ]
+  }
+ ]
+}
