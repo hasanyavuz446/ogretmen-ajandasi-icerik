@@ -1,5 +1,445 @@
 {
-  "grade": 2,
-  "subject": "Rehberlik",
-  "themes": []
+ "grade": 2,
+ "subject": "Rehberlik",
+ "themes": [
+  {
+   "name": "Akademik — Okula ve Çevresine Uyum",
+   "konu": "BENİM İÇİN OKUL",
+   "start": "2026-09-14",
+   "end": "2026-09-20",
+   "outcomes": [
+    {
+     "code": "REH.2.1",
+     "text": "Okulun kendisi için önemini açıklar"
+    }
+   ]
+  },
+  {
+   "name": "Akademik — Okula ve Okulun Çevresine Uyum",
+   "konu": "KURALLAR HAYAT BULSUN",
+   "start": "2026-09-21",
+   "end": "2026-09-27",
+   "outcomes": [
+    {
+     "code": "REH.2.2",
+     "text": "Okul ve sınıf kurallarına uyulmadığında ortaya çıkabilecek sonuçları tartışır"
+    }
+   ]
+  },
+  {
+   "name": "Akademik — Akademik Anlayış ve Sorumluluk",
+   "konu": "BENİM ÇANTAM",
+   "start": "2026-09-28",
+   "end": "2026-10-04",
+   "outcomes": [
+    {
+     "code": "REH.2.3",
+     "text": "Okul hazırlığına ilişkin sorumluluklarını üstlenir"
+    }
+   ]
+  },
+  {
+   "name": "Akademik — Akademik Anlayış ve Sorumluluk",
+   "konu": "KARINCA İLE KOALA",
+   "start": "2026-10-05",
+   "end": "2026-10-11",
+   "outcomes": [
+    {
+     "code": "REH.2.4",
+     "text": "Okul hazırlığına ilişkin sorumluluklarını üstlenir"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Karar Verme",
+   "konu": "TERCİH ETTİM AMA NEDEN?",
+   "start": "2026-10-12",
+   "end": "2026-10-18",
+   "outcomes": [
+    {
+     "code": "REH.2.5",
+     "text": "Günlük yaşamda yaptığı tercihleri etkileyen faktörleri fark eder"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Kişiler Arası Beceriler",
+   "konu": "TATLI DİLİN GÖZLEMCİSİ",
+   "start": "2026-10-19",
+   "end": "2026-10-25",
+   "outcomes": [
+    {
+     "code": "REH.2.6",
+     "text": "Sosyal ilişkilerinde nezaket ifadeleri kullanır"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Duyguları Anlama ve Yönetme",
+   "konu": "DUYGULARIM BENİM HERŞEYİM",
+   "start": "2026-10-26",
+   "end": "2026-11-01",
+   "outcomes": [
+    {
+     "code": "REH.2.7",
+     "text": "Duyguların insan yaşamı için önemini fark eder"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Kişiler Arası Beceriler",
+   "konu": "CEVABIM VAR",
+   "start": "2026-11-02",
+   "end": "2026-11-08",
+   "outcomes": [
+    {
+     "code": "REH.2.8",
+     "text": "Sınıfta söz isteyerek düşüncelerini ifade etmeye istekli olur"
+    }
+   ]
+  },
+  {
+   "name": "Akademik — Akademik Anlayış ve Sorumluluk",
+   "konu": "İSTERSEM ÖĞRENİRİM",
+   "start": "2026-11-09",
+   "end": "2026-11-15",
+   "outcomes": [
+    {
+     "code": "REH.2.9",
+     "text": "Öğrenme etkinliklerine katılmaya istekli olur"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Kişiler Arası Beceriler",
+   "konu": "ÇİÇEK ÖZELLİKLERİM",
+   "start": "2026-11-23",
+   "end": "2026-11-29",
+   "outcomes": [
+    {
+     "code": "REH.2.10",
+     "text": "Arkadaşlarının olumlu özelliklerini takdir eder"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Kişiler Arası Beceriler",
+   "konu": "DİNLEMEK EĞLENCELİ",
+   "start": "2026-11-30",
+   "end": "2026-12-06",
+   "outcomes": [
+    {
+     "code": "REH.2.11",
+     "text": "Grup çalışmalarında katılımcıları dinler"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Kişiler Arası Beceriler",
+   "konu": "FARKLIYIZ AMA AYNIYIZ",
+   "start": "2026-12-07",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "REH.2.12",
+     "text": "Bireylerin birbirinden fiziksel ve kişilik özellikleri açısından farklılığının doğal olduğunu bilir"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Kişiler Arası Beceriler",
+   "konu": "FARKLIYIM, FARKLISIN, FARKLI",
+   "start": "2026-12-14",
+   "end": "2026-12-20",
+   "outcomes": [
+    {
+     "code": "REH.2.13",
+     "text": "Bireylerin birbirinden fiziksel ve kişilik özellikleri açısından farklılığının doğal olduğunu bilir"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Kişisel Güvenliğini Sağlama",
+   "konu": "BENİM GÜVENLİĞİM BENİM ALANIM",
+   "start": "2026-12-21",
+   "end": "2026-12-27",
+   "outcomes": [
+    {
+     "code": "REH.2.14",
+     "text": "Kişisel güvenliği için kişisel alanların gerekliliğini fark eder"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Kişisel Güvenliğini Sağlama",
+   "konu": "SINIR KUTUM",
+   "start": "2026-12-28",
+   "end": "2027-01-03",
+   "outcomes": [
+    {
+     "code": "REH.2.15",
+     "text": "Kişisel güvenliği için “kişisel alan”ların gerekliliğini fark eder"
+    }
+   ]
+  },
+  {
+   "name": "Kariyer — Kariyer Farkındalığı",
+   "konu": "NELERİ YAPMAYI SEVİYORUM?",
+   "start": "2027-01-04",
+   "end": "2027-01-10",
+   "outcomes": [
+    {
+     "code": "REH.2.16",
+     "text": "Okul içinde ve dışında yapmaktan hoşlandığı etkinlikleri fark eder"
+    }
+   ]
+  },
+  {
+   "name": "Kariyer — Kariyer Farkındalığı",
+   "konu": "SENİN HOBİN HANGİSİ?",
+   "start": "2027-01-11",
+   "end": "2027-01-17",
+   "outcomes": [
+    {
+     "code": "REH.2.17",
+     "text": "Okul içinde ve dışında yapmaktan hoşlandığı etkinlikleri fark eder"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Kişiler Arası Beceriler",
+   "konu": "ÖNCE ÖZÜR DİLERİM, SONRA TELAFİ EDERİM",
+   "start": "2027-01-18",
+   "end": "2027-01-24",
+   "outcomes": [
+    {
+     "code": "REH.2.18",
+     "text": "Hata yaptığında telafi etme yollarını kullanır"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Kişisel Güvenliğini Sağlama",
+   "konu": "İYİLİK HALİM ELİMDE",
+   "start": "2027-02-08",
+   "end": "2027-02-14",
+   "outcomes": [
+    {
+     "code": "REH.2.19",
+     "text": "İyilik hâli için beslenme, temizlik, uyku, dinlenme ve fiziksel egzersizin önemini örneklerle açıklar"
+    }
+   ]
+  },
+  {
+   "name": "Kariyer — Kariyer Farkındalığı",
+   "konu": "MESLEKLERİ EŞLEŞTİRİYORUM",
+   "start": "2027-02-15",
+   "end": "2027-02-21",
+   "outcomes": [
+    {
+     "code": "REH.2.20",
+     "text": "Tanıdığı mesleklerin özelliklerini açıklar"
+    }
+   ]
+  },
+  {
+   "name": "Kariyer — Kariyer Farkındalığı",
+   "konu": "BAŞKA HANGİ MESLEKLER VAR?",
+   "start": "2027-02-22",
+   "end": "2027-02-28",
+   "outcomes": [
+    {
+     "code": "REH.2.21",
+     "text": "Tanıdığı mesleklerin özelliklerini açıklar"
+    }
+   ]
+  },
+  {
+   "name": "Kariyer — Kariyer Farkındalığı",
+   "konu": "KİMLER VAR KİMLER-1",
+   "start": "2027-03-01",
+   "end": "2027-03-07",
+   "outcomes": [
+    {
+     "code": "REH.2.22",
+     "text": "Her mesleğin toplumsal yaşama katkısı olduğunu fark eder"
+    }
+   ]
+  },
+  {
+   "name": "Kariyer — Kariyer Farkındalığı",
+   "konu": "KİMLER VAR KİMLER-2",
+   "start": "2027-03-15",
+   "end": "2027-03-21",
+   "outcomes": [
+    {
+     "code": "REH.2.23",
+     "text": "Her mesleğin toplumsal yaşama katkısı olduğunu fark eder"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Benlik Farkındalığı",
+   "konu": "BİR BAŞARI DA BENDEN",
+   "start": "2027-03-22",
+   "end": "2027-03-28",
+   "outcomes": [
+    {
+     "code": "REH.2.24",
+     "text": "Başarılı olduğu durumlara ilişkin örnekler verir"
+    }
+   ]
+  },
+  {
+   "name": "Kariyer — Kariyer Farkındalığı",
+   "konu": "YAPABİLİYORUM ŞENLİĞİ",
+   "start": "2027-03-29",
+   "end": "2027-04-04",
+   "outcomes": [
+    {
+     "code": "REH.2.25",
+     "text": "Okul içinde ve dışında katıldığı etkinliklerde yapabildiklerini fark eder"
+    }
+   ]
+  },
+  {
+   "name": "Kariyer — Kariyer Farkındalığı",
+   "konu": "BU ETKİNLİK TAM BENLİK",
+   "start": "2027-04-05",
+   "end": "2027-04-11",
+   "outcomes": [
+    {
+     "code": "REH.2.26",
+     "text": "Okul içinde ve dışında katıldığı etkinliklerde yapabildiklerini fark eder"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Duyguları Anlama ve Yönetme",
+   "konu": "DUYGU LİSTEM",
+   "start": "2027-04-12",
+   "end": "2027-04-18",
+   "outcomes": [
+    {
+     "code": "REH.2.27",
+     "text": "Duyguların çeşitliliğini fark eder"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Benlik Farkındalığı",
+   "konu": "NEREDEYİM? KİMİM?",
+   "start": "2027-04-19",
+   "end": "2027-04-25",
+   "outcomes": [
+    {
+     "code": "REH.2.28",
+     "text": "Toplumsal rol ve sorumlulukların önemini fark eder"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Benlik Farkındalığı",
+   "konu": "SİNCAP HİKÂYESİ",
+   "start": "2027-04-26",
+   "end": "2027-05-02",
+   "outcomes": [
+    {
+     "code": "REH.2.29",
+     "text": "Güçlü ve geliştirilmesi gereken özelliklerini fark eder"
+    }
+   ]
+  },
+  {
+   "name": "Akademik — Akademik Anlayış ve Sorumluluk",
+   "konu": "ÇALIŞAN BAŞARIR",
+   "start": "2027-05-03",
+   "end": "2027-05-09",
+   "outcomes": [
+    {
+     "code": "REH.2.30",
+     "text": "Başarmak için çalışmanın gerekliliğini fark eder"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Benlik Farkındalığı",
+   "konu": "HAYALLER KONUŞSUN",
+   "start": "2027-05-10",
+   "end": "2027-05-16",
+   "outcomes": [
+    {
+     "code": "REH.2.31",
+     "text": "Geleceğe ilişkin hayallerini ifade eder"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Kişisel Güvenliğini Sağlama",
+   "konu": "TEKNOLOJİNİN KATKILARI",
+   "start": "2027-05-17",
+   "end": "2027-05-23",
+   "outcomes": [
+    {
+     "code": "REH.2.32",
+     "text": "Bilişim teknolojilerini kullanmanın yaşamına katkılarını açıklar"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Duyguları Anlama ve Yönetme",
+   "konu": "DUYGU AVCISI",
+   "start": "2027-05-24",
+   "end": "2027-05-30",
+   "outcomes": [
+    {
+     "code": "REH.2.33",
+     "text": "Başkalarının yaşadığı duyguları fark eder"
+    }
+   ]
+  },
+  {
+   "name": "Akademik — Akademik Anlayış ve Sorumluluk.",
+   "konu": "DUYGU VE DÜŞÜNCELERİMLE ÖĞRENİYORUM",
+   "start": "2027-05-31",
+   "end": "2027-06-06",
+   "outcomes": [
+    {
+     "code": "REH.2.34",
+     "text": "Öğrenme etkinliklerine yönelik duygu ve düşüncelerini ifade eder"
+    }
+   ]
+  },
+  {
+   "name": "Akademik — Akademik Anlayış ve Sorumluluk.",
+   "konu": "ÖĞRENME ORTAMLARIM VE BEN",
+   "start": "2027-06-07",
+   "end": "2027-06-13",
+   "outcomes": [
+    {
+     "code": "REH.2.35",
+     "text": "Öğrenme ortamlarına ilişkin duygu ve düşüncelerini ifade eder"
+    }
+   ]
+  },
+  {
+   "name": "Ortak — Ortak",
+   "konu": "NELERİ HATIRLIYORUM?",
+   "start": "2027-06-14",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "REH.2.36",
+     "text": "Sınıf rehberlik programı etkinliklerine/yaşantılarına ilişkin duygu ve düşüncelerini yansıtır"
+    }
+   ]
+  },
+  {
+   "name": "YIL SONU DEĞERLENDİRME",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": []
+  }
+ ]
 }

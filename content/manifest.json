@@ -1,5 +1,5 @@
 {
- "version": "2026-2027.48",
+ "version": "2026-2027.49",
  "year": "2025-2026",
  "plans": [
   {
@@ -121,6 +121,11 @@
    "grade": 3,
    "subject": "Müzik",
    "file": "muzik-3.json"
+  },
+  {
+   "grade": 3,
+   "subject": "Rehberlik",
+   "file": "rehberlik-3.json"
   },
   {
    "grade": 3,
