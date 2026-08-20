@@ -1,5 +1,5 @@
 {
- "version": "2026-2027.50",
+ "version": "2026-2027.51",
  "year": "2025-2026",
  "plans": [
   {
@@ -159,6 +159,11 @@
   },
   {
    "grade": 4,
+   "subject": "Rehberlik",
+   "file": "rehberlik-4.json"
+  },
+  {
+   "grade": 4,
    "subject": "Sosyal Bilgiler",
    "file": "sosyal-bilgiler-4.json"
   },
@@ -219,6 +224,11 @@
   },
   {
    "grade": 5,
+   "subject": "Rehberlik",
+   "file": "rehberlik-5.json"
+  },
+  {
+   "grade": 5,
    "subject": "Sosyal Bilgiler",
    "file": "sosyal-bilgiler-5.json"
   },
@@ -274,6 +284,11 @@
   },
   {
    "grade": 6,
+   "subject": "Rehberlik",
+   "file": "rehberlik-6.json"
+  },
+  {
+   "grade": 6,
    "subject": "Sosyal Bilgiler",
    "file": "sosyal-bilgiler-6.json"
   },
@@ -321,6 +336,11 @@
    "grade": 7,
    "subject": "Müzik",
    "file": "muzik-7.json"
+  },
+  {
+   "grade": 7,
+   "subject": "Rehberlik",
+   "file": "rehberlik-7.json"
   },
   {
    "grade": 7,

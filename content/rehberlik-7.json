@@ -1,0 +1,445 @@
+{
+ "grade": 7,
+ "subject": "Rehberlik",
+ "themes": [
+  {
+   "name": "Sosyal Duygusal — Duygularını Anlama ve Yönetme",
+   "konu": "YENİ DURUM DEĞİŞEN DUYGUM",
+   "start": "2026-09-14",
+   "end": "2026-09-20",
+   "outcomes": [
+    {
+     "code": "REH.7.1",
+     "text": "Yeni durumlar ve değişimlerle ilgili duygularını ifade eder"
+    }
+   ]
+  },
+  {
+   "name": "Akademik — Eğitsel Planlama ve Başarı",
+   "konu": "ETKİLİ ZAMAN YETKİLİ BEN",
+   "start": "2026-09-21",
+   "end": "2026-09-27",
+   "outcomes": [
+    {
+     "code": "REH.7.2",
+     "text": "Zamanını etkili kullanmanın akademik gelişimine etkisini açıklar"
+    }
+   ]
+  },
+  {
+   "name": "Akademik — Eğitsel Planlama ve Başarı",
+   "konu": "ZAMAN VE BAŞARI YOLCULUĞU",
+   "start": "2026-09-28",
+   "end": "2026-10-04",
+   "outcomes": [
+    {
+     "code": "REH.7.3",
+     "text": "Zamanı etkili kullanmanın akademik gelişimine katkısını açıklar"
+    }
+   ]
+  },
+  {
+   "name": "Akademik — Akademik Anlayış ve Sorumluluk",
+   "konu": "TARAFINI SEÇ",
+   "start": "2026-10-05",
+   "end": "2026-10-11",
+   "outcomes": [
+    {
+     "code": "REH.7.4",
+     "text": "Eğitsel çabanın akademik hedeflere ulaşmadaki etkisini değerlendirir"
+    }
+   ]
+  },
+  {
+   "name": "Akademik — Eğitsel Planlama ve Başarı",
+   "konu": "ZAMANINDA TAMAMLA",
+   "start": "2026-10-12",
+   "end": "2026-10-18",
+   "outcomes": [
+    {
+     "code": "REH.7.5",
+     "text": "Akademik çalışmalarını zamanında bitirmede kararlı olur"
+    }
+   ]
+  },
+  {
+   "name": "Kariyer — Kariyer Farkındalığı",
+   "konu": "İLGİMİ DE YETENEĞİMİ DE TANIYORUM",
+   "start": "2026-10-19",
+   "end": "2026-10-25",
+   "outcomes": [
+    {
+     "code": "REH.7.6",
+     "text": "Yapabildiği ve hoşlandığı etkinliklere dayalı olarak ilgi ve yeteneklerine örnekler verir"
+    }
+   ]
+  },
+  {
+   "name": "Kariyer — Kariyer Farkındalığı",
+   "konu": "İLGİ HOBİ TABUSU",
+   "start": "2026-10-26",
+   "end": "2026-11-01",
+   "outcomes": [
+    {
+     "code": "REH.7.7",
+     "text": "İlgi ve hobilerini ayırt eder"
+    }
+   ]
+  },
+  {
+   "name": "Kariyer — Kariyer Farkındalığı",
+   "konu": "SENİN YILDIZIN",
+   "start": "2026-11-02",
+   "end": "2026-11-08",
+   "outcomes": [
+    {
+     "code": "REH.7.8",
+     "text": "İlgi ve hobilerini ayırt eder"
+    }
+   ]
+  },
+  {
+   "name": "Akademik — Akademik Anlayış ve Sorumluluk",
+   "konu": "DURUMLAR DEĞİŞİK",
+   "start": "2026-11-09",
+   "end": "2026-11-15",
+   "outcomes": [
+    {
+     "code": "REH.7.9",
+     "text": "Akademik çalışmaları ile ilgili değişen durumlara uygun davranışlar sergiler"
+    }
+   ]
+  },
+  {
+   "name": "Kariyer — Kariyer Farkındalığı",
+   "konu": "NEREDE BU MESLEKLER?",
+   "start": "2026-11-23",
+   "end": "2026-11-29",
+   "outcomes": [
+    {
+     "code": "REH.7.10",
+     "text": "Mesleklerle ilgili bilgi kaynaklarına ulaşır"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Kişiler Arası İlişkiler",
+   "konu": "SENİN HAKKIN BENİM HAKKIM",
+   "start": "2026-11-30",
+   "end": "2026-12-06",
+   "outcomes": [
+    {
+     "code": "REH.7.11",
+     "text": "Her bireyin hak ve sorumlulukları olduğunu bilir"
+    }
+   ]
+  },
+  {
+   "name": "Akademik — Eğitsel Planlama ve Başarı",
+   "konu": "ÖĞRENME ANAHTARI!",
+   "start": "2026-12-07",
+   "end": "2026-12-13",
+   "outcomes": [
+    {
+     "code": "REH.7.12",
+     "text": "Kendisi için verimli öğrenme ve ders çalışma koşullarını oluşturur"
+    }
+   ]
+  },
+  {
+   "name": "Akademik — Akademik anlayış ve sorumluluk",
+   "konu": "ÖĞRENME İSTASYONLARI",
+   "start": "2026-12-14",
+   "end": "2026-12-20",
+   "outcomes": [
+    {
+     "code": "REH.7.13",
+     "text": "Öğrenme etkinliklerine yönelik duygu ve düşüncelerini ifade eder"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Kişiler Arası Beceriler",
+   "konu": "BÜYÜK GÜÇ: TAKDİR",
+   "start": "2026-12-21",
+   "end": "2026-12-27",
+   "outcomes": [
+    {
+     "code": "REH.7.14",
+     "text": "Arkadaşlarının olumlu özelliklerini takdir eder"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Kişiler Arası Beceriler",
+   "konu": "YAPICI ÇÖZÜM MERKEZİ",
+   "start": "2026-12-28",
+   "end": "2027-01-03",
+   "outcomes": [
+    {
+     "code": "REH.7.15",
+     "text": "Arkadaşlık ilişkilerinde yaşadığı sorunları yapıcı yollarla çözer"
+    }
+   ]
+  },
+  {
+   "name": "Akademik — Eğitsel Planlama",
+   "konu": "AKTİF DİNLEYİCİYİM",
+   "start": "2027-01-04",
+   "end": "2027-01-10",
+   "outcomes": [
+    {
+     "code": "REH.7.16",
+     "text": "Derste dinleme, not alma ve soru sorma gibi etkinlikleri kullanır"
+    }
+   ]
+  },
+  {
+   "name": "Akademik — Eğitsel Planlama ve Başarı",
+   "konu": "BENİM GÜÇLÜ BELLEĞİM",
+   "start": "2027-01-11",
+   "end": "2027-01-17",
+   "outcomes": [
+    {
+     "code": "REH.7.17",
+     "text": "Belleğini güçlendirecek stratejileri açıklar"
+    }
+   ]
+  },
+  {
+   "name": "Akademik — Eğitsel Planlama ve Başarı",
+   "konu": "SLOGANIMLA HAZIRIM",
+   "start": "2027-01-18",
+   "end": "2027-01-24",
+   "outcomes": [
+    {
+     "code": "REH.7.18",
+     "text": "Sınavlara hazırlanmayı etkileyen faktörleri açıklar"
+    }
+   ]
+  },
+  {
+   "name": "Akademik — Eğitsel Planlama ve Başarı",
+   "konu": "PASTADAKİ PAYIM",
+   "start": "2027-02-08",
+   "end": "2027-02-14",
+   "outcomes": [
+    {
+     "code": "REH.7.19",
+     "text": "Sınavlara hazırlanma davranışını gözden geçirir"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Kişiler Arası Beceriler",
+   "konu": "İPUCUNU ALIYORUM, TEPKİMİ VERİYORUM",
+   "start": "2027-02-15",
+   "end": "2027-02-21",
+   "outcomes": [
+    {
+     "code": "REH.7.20",
+     "text": "Sosyal ipuçlarını yorumlayarak uygun tepkiler verir"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Benlik Farkındalığı",
+   "konu": "GELİŞEN BEN’İN ÖYKÜSÜ",
+   "start": "2027-02-22",
+   "end": "2027-02-28",
+   "outcomes": [
+    {
+     "code": "REH.7.21",
+     "text": "Bilişsel yeterlilikleri ve kişilik özelliklerini geliştirebileceğine inanır"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Kişisel Güvenliğini Sağlama",
+   "konu": "BİNBİR ÇEŞİT ZORBALIK",
+   "start": "2027-03-01",
+   "end": "2027-03-07",
+   "outcomes": [
+    {
+     "code": "REH.7.22",
+     "text": "Zorbalık ve türlerini bilir"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Kişisel Güvenliğini Sağlama",
+   "konu": "GÜCÜNÜ GÖR, ZORBALIĞI YEN!",
+   "start": "2027-03-15",
+   "end": "2027-03-21",
+   "outcomes": [
+    {
+     "code": "REH.7.23",
+     "text": "Zorbalıkla baş etme yollarını kullanır"
+    }
+   ]
+  },
+  {
+   "name": "Kariyer — Kariyer Hazırlığı",
+   "konu": "YETENEKLER SAHADA",
+   "start": "2027-03-22",
+   "end": "2027-03-28",
+   "outcomes": [
+    {
+     "code": "REH.7.24",
+     "text": "Yetenekleriyle derslerin etkinliklerini ilişkilendirir"
+    }
+   ]
+  },
+  {
+   "name": "Kariyer — Kariyer Hazırlığı",
+   "konu": "YETENEKLERİMLE MESLEKLERİN PEŞİNDEYİM",
+   "start": "2027-03-29",
+   "end": "2027-04-04",
+   "outcomes": [
+    {
+     "code": "REH.7.25",
+     "text": "Yetenekleriyle mesleklerin özelliklerini ilişkilendirir"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Kişisel Güvenliğini Sağlama",
+   "konu": "KONTROL BENDE, ÇEVRİMİÇİ GÜVENDE",
+   "start": "2027-04-05",
+   "end": "2027-04-11",
+   "outcomes": [
+    {
+     "code": "REH.7.26",
+     "text": "Bilişim teknolojileri kullanımında kendini yönetir"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Benlik Farkındalığı",
+   "konu": "KARAKTER GÜÇLERİ TERAZİSİ",
+   "start": "2027-04-12",
+   "end": "2027-04-18",
+   "outcomes": [
+    {
+     "code": "REH.7.27",
+     "text": "Karakter güçleriyle iyi oluşu arasında bağ kurar"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Benlik Farkındalığı",
+   "konu": "GÜCÜME GÜÇ KATIYORUM",
+   "start": "2027-04-19",
+   "end": "2027-04-25",
+   "outcomes": [
+    {
+     "code": "REH.7.28",
+     "text": "Sahip olduğu karakter güçlerini geliştirmek için çaba gösterir"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Kişiler Arası Beceriler",
+   "konu": "BASKIYI YÖNETME ZİNCİRİ",
+   "start": "2027-04-26",
+   "end": "2027-05-02",
+   "outcomes": [
+    {
+     "code": "REH.7.29",
+     "text": "Baskı altında serinkanlı davranışlar sergiler"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Benlik Farkındalığı",
+   "konu": "ÜÇ MUCİZEVÎ GÜÇ",
+   "start": "2027-05-03",
+   "end": "2027-05-09",
+   "outcomes": [
+    {
+     "code": "REH.7.30",
+     "text": "Bir ürün ortaya koymanın zaman, çaba ve sabır gerektirdiğini fark eder"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Benlik Farkındalığı",
+   "konu": "NE YAPTIĞIMIN FARKINDAYIM",
+   "start": "2027-05-10",
+   "end": "2027-05-16",
+   "outcomes": [
+    {
+     "code": "REH.7.31",
+     "text": "Başarı ve başarısızlık durumlarını açıklama biçimlerini değerlendirir"
+    }
+   ]
+  },
+  {
+   "name": "Akademik — Okula ve Okulun Çevresine Uyum",
+   "konu": "OKULUM HAYAT DOLU",
+   "start": "2027-05-17",
+   "end": "2027-05-23",
+   "outcomes": [
+    {
+     "code": "REH.7.32",
+     "text": "Okulun kendisi için önemini açıklar"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Karar Verme",
+   "konu": "KARAR VERME SÜRECİMİ NELER ETKİLEMİŞ?",
+   "start": "2027-05-24",
+   "end": "2027-05-30",
+   "outcomes": [
+    {
+     "code": "REH.7.33",
+     "text": "Bu zamana kadar verdiği kararları karar verme sürecini etkileyen faktörler açısından değerlendirir"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Karar Verme",
+   "konu": "KARAR VERME MERDİVENİ",
+   "start": "2027-05-31",
+   "end": "2027-06-06",
+   "outcomes": [
+    {
+     "code": "REH.7.34",
+     "text": "Karar verme basamaklarını açıklar"
+    }
+   ]
+  },
+  {
+   "name": "Sosyal Duygusal — Karar Verme",
+   "konu": "KARAR VERMEK, ZOR OLMASA GEREK",
+   "start": "2027-06-07",
+   "end": "2027-06-13",
+   "outcomes": [
+    {
+     "code": "REH.7.35",
+     "text": "Karar verme basamaklarını kullanır"
+    }
+   ]
+  },
+  {
+   "name": "Ortak — Ortak",
+   "konu": "NELERİ HATIRLIYORUM?",
+   "start": "2027-06-14",
+   "end": "2027-06-20",
+   "outcomes": [
+    {
+     "code": "REH.7.36",
+     "text": "Sınıf rehberlik programı etkinliklerine/yaşantılarına ilişkin duygu ve düşüncelerini yansıtır"
+    }
+   ]
+  },
+  {
+   "name": "YIL SONU DEĞERLENDİRME",
+   "konu": "",
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "outcomes": []
+  }
+ ]
+}
