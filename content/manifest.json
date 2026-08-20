@@ -1,5 +1,5 @@
 {
- "version": "2026-2027.49",
+ "version": "2026-2027.50",
  "year": "2025-2026",
  "plans": [
   {
@@ -31,11 +31,6 @@
    "grade": 1,
    "subject": "Rehberlik",
    "file": "rehberlik-1.json"
-  },
-  {
-   "grade": 1,
-   "subject": "Serbest Etkinlik",
-   "file": "serbest-etkinlik-1.json"
   },
   {
    "grade": 1,
@@ -81,11 +76,6 @@
    "grade": 2,
    "subject": "Rehberlik",
    "file": "rehberlik-2.json"
-  },
-  {
-   "grade": 2,
-   "subject": "Serbest Etkinlik",
-   "file": "serbest-etkinlik-2.json"
   },
   {
    "grade": 2,
